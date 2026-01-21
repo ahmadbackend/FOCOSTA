@@ -7,8 +7,8 @@ from playwright.async_api import async_playwright
 
 # Configuration
 PROXY_URL = "http://customer-AHMAD_NSPT0-cc-ES:fCpqqylS70igFo+j@es-pr.oxylabs.io:10000"
-MAX_CONCURRENT = 3  # Number of concurrent browsers
-BATCH_SIZE = 10
+MAX_CONCURRENT = 20  # Number of concurrent browsers
+BATCH_SIZE = 20
 OUTPUT_DIR = "house_details"
 FAILED_LOG = "failed_houses.log"
 ALL_PROPERTIES_PATH = "all_properties.json"
