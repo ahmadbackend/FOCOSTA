@@ -77,7 +77,14 @@ async def scrape_property(url: str, prop_id: str, idx: int, total: int):
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             async with async_playwright() as p:
-                browser = await p.chromium.launch(headless=False)
+                browser = await p.chromium.launch(headless=False,
+                                                  args=[
+                                                      "--no-sandbox",
+                                                      "--disable-setuid-sandbox",
+                                                      "--disable-gpu",
+                                                      "--disable-dev-shm-usage"
+                                                  ]
+                                                  )
                 context = await browser.new_context(
                     no_viewport=True,
                     proxy={
