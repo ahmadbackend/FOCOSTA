@@ -1,9 +1,0 @@
-[SUCCESS] Page 1: 30 properties
-[SUCCESS] Page 3: 30 properties
-[SUCCESS] Page 9: 30 properties
-[SUCCESS] Page 10: 30 properties
-[ERROR] Page 11: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
-[SUCCESS] Page 12: 30 properties
-[SUCCESS] Page 32: 30 properties
-[SUCCESS] Page 35: 30 properties
-[SUCCESS] Page 36: 30 properties
