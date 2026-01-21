@@ -1,0 +1,225 @@
+{
+  "page": 148,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/148",
+  "scrape_date": "2026-01-21T04:21:11.228481",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-trastero-ascensor/188269927/d",
+      "id": 188269927,
+      "price": 440000,
+      "location": "San Lorenzo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/zaragoza-capital/20532310/186475913",
+      "id": 186475913,
+      "price": 148000,
+      "location": "Calle del Padre Chaminade, Las Fuentes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vic/nord/187815022/d",
+      "id": 187815022,
+      "price": 320000,
+      "location": "Josep Maria Sert, Nord ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almenara/almenara/187001233/d",
+      "id": 187001233,
+      "price": 54500,
+      "location": "LOPE DE VEGA, Almenara",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/cami-reial/186561018/d",
+      "id": 186561018,
+      "price": 89000,
+      "location": "Cl Bhering, Camí Reial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/villegas/186825480/d",
+      "id": 186825480,
+      "price": 55000,
+      "location": "Jose Bermejo, Villegas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gondomar/parking-terraza-trastero/164559372/d",
+      "id": 164559372,
+      "price": 60100,
+      "location": "Lugar Serman, Gondomar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor/187729875/d",
+      "id": 187729875,
+      "price": 310000,
+      "location": "Los Castillejos - La Trinidad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calaf/parking/182251300/d",
+      "id": 182251300,
+      "price": 30000,
+      "location": "Calaf",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiva/olimar-carambolo-atalaya-de-levante/187136912/d",
+      "id": 187136912,
+      "price": 23000,
+      "location": "C/ Cuatro, Olimar - Carambolo - Atalaya de Levante  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alpera/alpera/187171171/d",
+      "id": 187171171,
+      "price": 17300,
+      "location": "Alpera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aguilas/terraza/188277865/d",
+      "id": 188277865,
+      "price": 86799,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/nuevo-baztan/parking-jardin-piscina-no-amueblado/186179687/d",
+      "id": 186179687,
+      "price": 215000,
+      "location": "Eurovillas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ontinyent/centro/188138814/d",
+      "id": 188138814,
+      "price": 19800,
+      "location": "Centro  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/quart-de-poblet/ascensor/183240261/d",
+      "id": 183240261,
+      "price": null,
+      "location": "Quart de Poblet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ampuero/jardin-terraza/183240159/d",
+      "id": 183240159,
+      "price": null,
+      "location": "Ampuero",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/madrid-capital/20531907/186455837",
+      "id": 186455837,
+      "price": 570000,
+      "location": "Simancas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tortosa/ferreries/186230711/d",
+      "id": 186230711,
+      "price": 65000,
+      "location": "Ferreries",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/creu-de-barbera/187662963/d",
+      "id": 187662963,
+      "price": 50000,
+      "location": "Creu de Barberà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mos/calefaccion-jardin-terraza-trastero-no-amueblado/187590634/d",
+      "id": 187590634,
+      "price": 355000,
+      "location": "Mos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/a-coruna-capital/parking/183240303/d",
+      "id": 183240303,
+      "price": null,
+      "location": "Vioño",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-jardin-piscina-no-amueblado/182696442/d",
+      "id": 182696442,
+      "price": 718000,
+      "location": "Rafael Villa, La Florida -  El  Plantío",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-jardin-no-amueblado/187836672/d",
+      "id": 187836672,
+      "price": 1600000,
+      "location": "Conde Orgaz - Piovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tarrega/tarrega/176641348/d",
+      "id": 176641348,
+      "price": 32000,
+      "location": "Tàrrega",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/el-rompido/20606570/187841698",
+      "id": 187841698,
+      "price": 399000,
+      "location": "El Rompido",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/malaga-capital/20603984/187784637",
+      "id": 187784637,
+      "price": 516448,
+      "location": "Distrito Zeta - Recinto Ferial Cortijo de Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calpe-calp/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/186072053/d",
+      "id": 186072053,
+      "price": null,
+      "location": "Marisol Park - Ortembach - Los Almendros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arroyo-de-la-luz/trastero-patio/185082030/d",
+      "id": 185082030,
+      "price": 55000,
+      "location": "Arroyo de la Luz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/can-rull/185957961/d",
+      "id": 185957961,
+      "price": 295000,
+      "location": "Can Rull ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pedreguer/pedreguer/185853757/d",
+      "id": 185853757,
+      "price": 99000,
+      "location": "Pedreguer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/talayuela/parking-jardin-trastero-no-amueblado/188217227/d",
+      "id": 188217227,
+      "price": 85000,
+      "location": "Talayuela",
+      "type": "realEstate"
+    }
+  ]
+}

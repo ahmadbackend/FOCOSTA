@@ -1,0 +1,37 @@
+{
+  "property_id": "20633521",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cadiz-capital/20633521",
+  "scrape_date": "2026-01-21T02:40:11Z",
+  "title": "SACRAMENTO 4",
+  "description": "\"Sacramento 4 le invita a vivir la esencia gaditana desde el corazón del centro histórico. A pocos metros de la animada Plaza Candelaria, esta promoción exclusiva ofrece un enclave privilegiado y lleno de vida. Consta de 9 viviendas de 1 y 2 dormitorios, diseñadas para aprovechar la luz natural y proporcionar el máximo confort en cada estancia. Dos de las viviendas destacan por su terraza privativa en azotea, un refugio íntimo donde disfrutar del sol de Cádiz. \"\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\"Las viviendas se entregan bajo el concepto “llave en mano”, completamente terminadas y listas para vivir: cocina completamente amueblada y equipada, armarios empotrados vestidos, sistema de aire acondicionado instalado y baño totalmente equipado.  La fecha prevista de entrega es el segundo trimestre de 2026, un plazo cercano que convierte esta promoción en una oportunidad única.\n\n* Impuestos, honorarios y gastos de compraventa no incluidos en el precio. Solicite información sin compromiso.\"",
+  "contact_info": {
+    "phone_number": "956910139",
+    "advertiser_name": "HERMANOS RAMON Y EMILIO RODRIGUEZ DE TRUJILLO SL",
+    "client_id": 9202752230769
+  },
+  "location": {
+    "city": " Cádiz Capital",
+    "province": "Cádiz",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.53105926513672,
+    "longitude": -6.2960734367370605
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 55,
+    "max_surface": 102,
+    "min_price": 180000,
+    "max_price": 345000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/893f31d2-f7cb-4e95-974e-ba21ec30d25e?rule=original",
+    "https://static.fotocasa.es/images/ads/6298afe2-06c1-4fcf-ab5d-d38f0c434638?rule=original",
+    "https://static.fotocasa.es/images/ads/94b44ecb-4009-4b49-825d-c7aebd214a12?rule=original",
+    "https://static.fotocasa.es/images/ads/97a681f1-7fdd-454e-af49-72f0e487775d?rule=original"
+  ],
+  "videos": []
+}

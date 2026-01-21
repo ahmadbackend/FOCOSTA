@@ -1,0 +1,41 @@
+{
+  "property_id": "20640775",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/badajoz-capital/20640775",
+  "scrape_date": "2026-01-21T04:01:33Z",
+  "title": "Edison",
+  "description": "Ven a vivir a Edison, frente a la Avenida de Elvas, zona de expansión de la ciudad de Badajoz, con amplias avenidas y promociones residenciales de alta calidad rodeadas de zonas verdes. Muy cerca del Centro Comercial El Faro, la Universidad de Extremadura y el Hospital Universitario de Badajoz. Excelentes comunicaciones por transporte público, a tan solo 10 min. en coche del centro.\n\nEn total, 50 viviendas muy luminosas de 1, 2 y 3 dormitorios, todas con terrazas amplias y muy luminosas, distribuidas en un edificio de seis plantas. Casas bien distribuidas, amplias, prácticas y funcionales, con espacios estudiados y acabados muy cuidados. Todo ello en un residencial de diseño contemporáneo con piscina y solárium, área de juegos infantiles y una sala polivalente en planta baja.\n\nViviendas en planta baja con patios, y áticos con terrazas espectaculares con más de 80 metros cuadrados. Resto de viviendas también con terrazas amplias y muy luminosas que aspiran a convertirse en un agradable salón de verano, en un fresco comedor o en el espacio perfecto para el relax.\n\nCocinas amuebladas y equipadas con horno, microondas, campana extractora y placa de inducción.\n\nSistema de aerotermia para la generación de agua caliente sanitaria y calefacción.\n\nAlta calificación energética (pendiente de calificación, en fase de proyecto).",
+  "contact_info": {
+    "phone_number": "924920461",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "Badajoz Capital",
+    "province": "Badajoz",
+    "region": "Extremadura",
+    "country": "España",
+    "latitude": 38.880653381347656,
+    "longitude": -7.006112098693848
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 51,
+    "max_surface": 99,
+    "min_price": 142000,
+    "max_price": 262000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/a25d2ed7-9764-41bf-9198-46ad5efc8fb3?rule=original",
+    "https://static.fotocasa.es/images/ads/57dabdf2-1c4c-4d7b-9887-df0e517aff09?rule=original",
+    "https://static.fotocasa.es/images/ads/f02aafa0-ff1c-4c4b-a5ea-2519cfa0575f?rule=original",
+    "https://static.fotocasa.es/images/ads/421158ee-cce7-4eef-a43f-9281b92d23c0?rule=original",
+    "https://static.fotocasa.es/images/ads/0834edd0-1dfa-41a0-b211-ca787436a249?rule=original",
+    "https://static.fotocasa.es/images/ads/2919f765-f01e-4902-8f83-b40c439022d3?rule=original",
+    "https://static.fotocasa.es/images/ads/f5092f89-c247-482d-8e5f-118d3d3621bf?rule=original",
+    "https://static.fotocasa.es/images/ads/a6d1eb08-8036-4139-8f83-c88000e0eddc?rule=original"
+  ],
+  "videos": []
+}

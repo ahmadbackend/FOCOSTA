@@ -1,0 +1,51 @@
+{
+  "property_id": "20515029",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/barakaldo/20515029",
+  "scrape_date": "2026-01-21T04:40:33Z",
+  "title": "Residencial TORRE INBISA",
+  "description": "Residencial Torre INBISA consta de 106 exclusivas viviendas de 1, 2, 3 y 4 dormitorios, todas con terraza, garaje y trastero, distribuidas en un edificio a dos alturas de estilo limpio y vanguardista. Su situación privilegiada, altas calidades constructivas y cuidado diseño permiten poner a tu alcance una multitud de opciones entre las que, seguro, encontrarás aquella que se adapta a tus deseos y necesidades.\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nAdemás, Residencial Torre INBISA dispondrá de amplias zonas comunes entre las que destaca su piscina con solárium, su gimnasio privado, un local social de uso exclusivo y Calificación Energética A.\n\nAprovecha la oportunidad de adquirir exclusividad, diseño y calidad en el nuevo Barakaldo. Visita nuestra oficina de ventas en Avda. Altos Hornos de Vizcaya, 10 – Bajo (Barakaldo).",
+  "contact_info": {
+    "phone_number": "944680265",
+    "advertiser_name": "INBISA",
+    "client_id": 9202766882932
+  },
+  "location": {
+    "city": "Barakaldo ",
+    "province": "Bizkaia",
+    "region": "País Vasco",
+    "country": "España",
+    "latitude": 43.295841217041016,
+    "longitude": -2.978848457336426
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 89,
+    "max_surface": 120,
+    "min_price": 311850,
+    "max_price": 542850
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/96b16d18-1b20-4e05-a2fa-136df62bc916?rule=original",
+    "https://static.fotocasa.es/images/ads/c8f1323a-0e07-4e9b-bb32-e30c3d5ad401?rule=original",
+    "https://static.fotocasa.es/images/ads/b0b8ff80-ac0f-4d75-818a-b35dd3881c88?rule=original",
+    "https://static.fotocasa.es/images/ads/923d943e-894a-4587-be80-f8263681346c?rule=original",
+    "https://static.fotocasa.es/images/ads/bb589098-8a05-43bc-bf2d-ed803050af84?rule=original",
+    "https://static.fotocasa.es/images/ads/c784e9a1-054f-4a60-84f2-43ee3c7f36a0?rule=original",
+    "https://static.fotocasa.es/images/ads/0189d2b2-ee95-4bfb-be72-e39370bcf1c0?rule=original",
+    "https://static.fotocasa.es/images/ads/64f9e2dd-c33b-40e4-b915-b02f91b10361?rule=original",
+    "https://static.fotocasa.es/images/ads/6a73539e-b324-4356-9c7c-bfc9771d0552?rule=original",
+    "https://static.fotocasa.es/images/ads/e5c6403d-36ea-4424-8c31-3f1242fc658b?rule=original",
+    "https://static.fotocasa.es/images/ads/37bce858-5792-4a14-aab0-0c398d847348?rule=original",
+    "https://static.fotocasa.es/images/ads/788d24a5-09fc-4d98-99d5-20a1eb1f5586?rule=original",
+    "https://static.fotocasa.es/images/ads/cb3735a5-5095-4f1f-984f-be8714ecfe28?rule=original",
+    "https://static.fotocasa.es/images/ads/a6def582-0ff9-4de5-a9e9-3a5854611257?rule=original",
+    "https://static.fotocasa.es/images/ads/a2757e59-8d79-4bce-8f47-5e74b29b520e?rule=original",
+    "https://static.fotocasa.es/images/ads/c161f0fd-037d-4a1e-8c77-26d81924e86e?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/277bae5c-5cae-43c8-8233-bacd9e55fe03"
+  ]
+}

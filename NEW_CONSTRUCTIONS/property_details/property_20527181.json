@@ -1,0 +1,48 @@
+{
+  "property_id": "20527181",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/casares/20527181",
+  "scrape_date": "2026-01-21T03:43:05Z",
+  "title": "CASARES BAY",
+  "description": "CASARES BAY\nESENCIA MEDITERRÁNEA\n\nCasares Bay es un exclusivo residencial de 9 viviendas en el privilegiado entorno de Doña Julia Golf, en Casares, Málaga. Diseñado para ofrecer un estilo de vida único, combina confort, naturaleza y lujo en un enclave inigualable.\n\nResidencial, de viviendas de 2 y 3 dormitorios, las tipologías son apartamentos en planta, bajos, áticos y ático dúplex.\n\nCon impresionantes vistas al Mediterráneo, viviendas de diseño contemporáneo y amplias terrazas, el complejo incluye piscinas, jardines y áreas deportivas, todo pensado para disfrutar de la tranquilidad y el clima de la Costa del Sol.\nA pocos minutos de playas, rutas naturales y servicios de lujo, Casares Bay es la opción ideal para quienes busca exclusividad y bienestar en uno de los destinos más prestigiosos de Europa.\n\nUbicada en el corazón de la Costa del Sol, entre la elegancia de Estepona y el encanto auténtico de Casares, esta exclusiva zona ofrece un estilo de vida inigualable. A pocos pasos de Doña Julia Golf, se encuentra rodeada de campos verdes, impresionantes vistas al Mediterráneo y una serenidad que invita al descanso.\n\nAquí, disfrutarás de lo mejor de ambos mundos: la tranquilidad de un entorno natural combinado con la cercanía a playas espectaculares, puertos deportivos como La Duquesa y una vibrante oferta gastronómica y cultural. Es el lugar ideal para los amantes del golf, la naturaleza y aquellos que buscan un rincón sofisticado para llamar hogar.",
+  "contact_info": {
+    "phone_number": "951348865",
+    "advertiser_name": "GILMAR CONSULTING INMOBILIARIO",
+    "client_id": 9202774744009
+  },
+  "location": {
+    "city": "Casares",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.397987365722656,
+    "longitude": -5.237185478210449
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 4,
+    "min_surface": 109,
+    "max_surface": 136,
+    "min_price": 467000,
+    "max_price": 525000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d856a946-581d-485b-b768-d69c1a2fd10f?rule=original",
+    "https://static.fotocasa.es/images/ads/b8556179-8920-4b4b-8259-95377c3e2359?rule=original",
+    "https://static.fotocasa.es/images/ads/5e511ce7-aa72-4968-83b6-22993e2a0acf?rule=original",
+    "https://static.fotocasa.es/images/ads/89863d7e-8251-4e5c-b2c0-368de0ae51ba?rule=original",
+    "https://static.fotocasa.es/images/ads/52e8e2b0-dd35-4ae7-bdd4-d1861885affb?rule=original",
+    "https://static.fotocasa.es/images/ads/615de973-6e4d-40f3-bb28-f5d3b483e43e?rule=original",
+    "https://static.fotocasa.es/images/ads/d05e0d96-0110-4ff7-8d2e-90f18d1be569?rule=original",
+    "https://static.fotocasa.es/images/ads/328c716c-218f-47c0-bc9a-42f7f5aee026?rule=original",
+    "https://static.fotocasa.es/images/ads/5cc9e53e-9c47-4ad1-b62b-8cb0b595a0e4?rule=original",
+    "https://static.fotocasa.es/images/ads/bc8ea4ce-60db-4fcc-83ec-443e76ab7641?rule=original",
+    "https://static.fotocasa.es/images/ads/6cf38955-ba8a-41df-bf9f-3d7d0bd150fc?rule=original",
+    "https://static.fotocasa.es/images/ads/c2fe28ae-0099-4e7f-936f-8d7aa1ffbc5f?rule=original",
+    "https://static.fotocasa.es/images/ads/3e247b01-8e18-4857-8773-1ce5fed367fa?rule=original",
+    "https://static.fotocasa.es/images/ads/c7d41df8-f7ba-44b4-aab9-25701cf65986?rule=original",
+    "https://static.fotocasa.es/images/ads/c97fd10d-dd01-4fb8-941a-aad0106d59a6?rule=original"
+  ],
+  "videos": []
+}

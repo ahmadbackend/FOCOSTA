@@ -1,0 +1,49 @@
+{
+  "property_id": "20644077",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/paterna/20644077",
+  "scrape_date": "2026-01-21T03:57:01Z",
+  "title": "RIURA",
+  "description": "En Riura se desarrolla un mix de producto compuesto por 104 viviendas plurifamiliares con un programa  de viviendas de 1, 2 y 3D con tipologías singulares de vivendas en planta primera con amplias terrazas y áticos. Riura contará con espacio ajardinado, piscina, zona de juegos infantiles, local comunitario con zona de coworking, zona de conserjería, aparcamiento para bicis y gimnasio equipado.\t\t\n\t\nValterna se emplaza a menos de 10 km del centro de Valencia. Se trata de una zona que ofrece todo tipo de servicios, colegios como el Liceo Francés o la Escuela Infantil Montessori, jardines públicos, Polideportivo, supermercados... Hay que destacar la proximidad a dos importantes focos empresariales (Pol. Ind. Fuente del Jarro y Parque Empresarial Táctica).Todo ello convierte la ubicación en una zona preferentemente familiar.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Paterna",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.51924514770508,
+    "longitude": -0.43644478917121887
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 57,
+    "max_surface": 103,
+    "min_price": 175000,
+    "max_price": 290000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/026e5d09-efa0-44bd-ab3d-23121b5b5bf1?rule=original",
+    "https://static.fotocasa.es/images/ads/90b670e7-296d-420c-a650-623924586246?rule=original",
+    "https://static.fotocasa.es/images/ads/7fa7cd4e-5455-4bfd-b25c-9fbc4ece3bee?rule=original",
+    "https://static.fotocasa.es/images/ads/b70afdca-cb2a-4fa1-9bec-27cd87281b2d?rule=original",
+    "https://static.fotocasa.es/images/ads/82109600-9eb6-4a9b-9fce-66b15ef55f3a?rule=original",
+    "https://static.fotocasa.es/images/ads/579f3764-1e1f-40fb-92ce-a7bd4cdef4ec?rule=original",
+    "https://static.fotocasa.es/images/ads/73c68d72-0dff-432e-b98f-43bef499b1aa?rule=original",
+    "https://static.fotocasa.es/images/ads/c8ec9cca-75f5-4452-a521-f27f96df88ce?rule=original",
+    "https://static.fotocasa.es/images/ads/349c95c4-8e6b-435e-86d2-4465d70c0089?rule=original",
+    "https://static.fotocasa.es/images/ads/c585aa3f-3441-476e-a1e5-786d7fe380e0?rule=original",
+    "https://static.fotocasa.es/images/ads/636db191-0dbc-4c53-8e24-fdc3ca5bd1a7?rule=original",
+    "https://static.fotocasa.es/images/ads/9938be74-7866-448a-ad94-9181567b5a89?rule=original",
+    "https://static.fotocasa.es/images/ads/e26d44b9-8d53-4724-8422-02dbfccb2435?rule=original",
+    "https://static.fotocasa.es/images/ads/2919ff78-e6c1-438f-9d45-156ccbd1dae9?rule=original",
+    "https://static.fotocasa.es/images/ads/4861f3d9-c2ec-4f6b-b148-3279a7c072bd?rule=original",
+    "https://static.fotocasa.es/images/ads/90584add-70d3-4731-9b3c-ce1cdd0628fc?rule=original"
+  ],
+  "videos": []
+}

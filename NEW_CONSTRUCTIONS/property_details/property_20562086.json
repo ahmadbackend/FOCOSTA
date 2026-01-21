@@ -1,0 +1,41 @@
+{
+  "property_id": "20562086",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/fuenlabrada/20562086",
+  "scrape_date": "2026-01-21T02:31:42Z",
+  "title": "THEON RESIDENCIAL",
+  "description": "Residencial Theon consta de 26 viviendas libres de 1, 2 y 3 dormitorios con trastero y plaza de garaje (opcional). \n\nDesde Theon Residencial estamos comprometidos en ofrecerte mucho mas que una vivienda, queremos ofrecerte el hogar con el que siempre soñaste. \t\t\t\n\nNuestro propósito es transformar tus ideas en espacios únicos donde la calidad, diseño y funcionalidad se unen para adaptarse a tu estilo de vida.\t\t\t\t\n\t\t\t\t\n¡Descubre la oportunidad de tu vida en el corazón de Fuenlabrada!\n\nTe presentamos encantadoras viviendas en la codiciada zona de Fuenlabrada Central, donde la comodidad y el estilo se unen para ofrecerte un hogar excepcional.\n\t\t\t\t\nUbicado en una zona vibrante y en constante crecimiento, este edificio te sitúa a pocos pasos de una amplia variedad de servicios, comercios, y opciones de ocio. La excelente conexión de transporte público hace que desplazarte a otras áreas de la ciudad sea rápido y sencillo. Sin duda, vivir en Fuenlabrada Central significa disfrutar de la conveniencia de tener todo lo que necesitas al alcance de la mano, mientras te rodeas de un ambiente dinámico y acogedor.\n\nLas viviendas contarán con unas excelentes calidades y con una Calificación Energética A, lo que supone una disminución de emisiones de CO2 y una reducción significativa de la demanda energética del edificio. (calefacción y agua caliente sanitaria). Esta calificación se consigue mediante la adopción de las siguientes medidas:\n\nReducción de las perdidas energéticas: Mediante la mejora del aislamiento térmico, la utilización de carpinterías de PVC con sistemas de cierre hermético de doble junta y vidrios con doble acristalamiento.\n\nUn sistema de suelo radiante es invisible, no ocupa espacio permite la libre colocación del amueblamiento, consigue una mayor sensación de confort que el sistema clásico de radiadores al repartir el calor de una forma más homogénea.\n\nNo dejes pasar esta increíble oportunidad de adquirir una vivienda que combina modernidad, confort y una ubicación inmejorable. Este es el momento perfecto para hacer una inversión inteligente en tu futuro. ¡Contáctanos hoy mismo para concertar una visita y enamorarte de tu nuevo hogar en Fuenlabrada Central!\n\nTu sueño de tener un espacio propio está más cerca de lo que imaginas.",
+  "contact_info": {
+    "phone_number": "910752658",
+    "advertiser_name": "EXCLUSIVAS SANTO MAURO SL",
+    "client_id": 9202754310812
+  },
+  "location": {
+    "city": "Fuenlabrada",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.280879974365234,
+    "longitude": -3.7962310314178467
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 1,
+    "min_surface": 74,
+    "max_surface": 86,
+    "min_price": 230485,
+    "max_price": 260790
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/858bdb50-f08f-4861-b432-100314ecbc9f?rule=original",
+    "https://static.fotocasa.es/images/ads/bdb31f07-83df-4c02-b541-89b0ca40a443?rule=original",
+    "https://static.fotocasa.es/images/ads/29b09cd5-78eb-4886-8895-2647499478ec?rule=original",
+    "https://static.fotocasa.es/images/ads/ecca887c-e8b5-4449-993e-f41dd30cdf1d?rule=original",
+    "https://static.fotocasa.es/images/ads/545d2655-0ae1-4a24-a0fa-33e864288007?rule=original",
+    "https://static.fotocasa.es/images/ads/cd810a8d-3581-4a9e-8a12-499a634469a9?rule=original",
+    "https://static.fotocasa.es/images/ads/1e6cae79-9d80-4ecc-8565-c227760491d8?rule=original",
+    "https://static.fotocasa.es/images/ads/3b18ce8f-6213-4a3b-810e-fbaba1f0ecfa?rule=original"
+  ],
+  "videos": []
+}

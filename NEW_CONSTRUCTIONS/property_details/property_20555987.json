@@ -1,0 +1,41 @@
+{
+  "property_id": "20555987",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/oviedo/20555987",
+  "scrape_date": "2026-01-21T03:04:10Z",
+  "title": "Residencial Nyx",
+  "description": "En el noreste de Oviedo, en el nuevo barrio de Prados de la Vega se encuentra Nyx. Un complejo de 6 alturas y 64 viviendas, todas ellas con terrazas. Las viviendas han sido diseñadas para generar espacios amables, aprovechando al máximo la luz del entorno.\n\nCon opciones de viviendas de 2 y 3 dormitorios, garajes, trasteros y una gran variedad de tamaños y orientaciones, Nyx se ajusta perfectamente a las demandas únicas de cada hogar. Los espacios comunes, planificados para el disfrute de los residentes, son el corazón de la comunidad.\n\nEs el momento de comenzar tu nueva vida: gracias a las áreas verdes, la sala comunitaria, la piscina y el gimnasio, aquí y ahora encontrarás todo lo que siempre soñaste tener.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": "Oviedo ",
+    "province": "Asturias",
+    "region": "Asturias",
+    "country": "España",
+    "latitude": 43.37997817993164,
+    "longitude": -5.832447528839111
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 103,
+    "max_surface": 131,
+    "min_price": 226000,
+    "max_price": 291800
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/ee675105-2827-475c-812d-9e1faf39af38?rule=original",
+    "https://static.fotocasa.es/images/ads/f284f308-49a1-4ab1-878a-b3b8cc1bb894?rule=original",
+    "https://static.fotocasa.es/images/ads/1f19e399-4c23-4d72-b6b8-ef9f61b33c27?rule=original",
+    "https://static.fotocasa.es/images/ads/54468542-8d85-4099-b124-3ba3ade1db23?rule=original",
+    "https://static.fotocasa.es/images/ads/48e2d6b2-c34b-4b28-872d-71eb44ef691a?rule=original",
+    "https://static.fotocasa.es/images/ads/a508682a-d9cb-4160-97c4-d437ffae0202?rule=original",
+    "https://static.fotocasa.es/images/ads/ea04e3f7-ac97-4d3d-82e7-f49d3464e8fc?rule=original",
+    "https://static.fotocasa.es/images/ads/0bfe9cfb-2e6c-4a18-84f3-e92e6a2e606c?rule=original"
+  ],
+  "videos": []
+}

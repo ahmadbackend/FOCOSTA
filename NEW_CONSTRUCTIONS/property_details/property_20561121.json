@@ -1,0 +1,45 @@
+{
+  "property_id": "20561121",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20561121",
+  "scrape_date": "2026-01-21T04:21:04Z",
+  "title": "ZANTE",
+  "description": "Zante una ubicación que encarna elegancia y tranquilidad en la deslumbrante Costa Catalana, en el municipio de Sant Antoni de Calonge. \n\nSituado en el corazón de la costa Brava, este enclave es mucho más que un destino; es un estilo de vida que le espera, diseñado para aquellos que no se conforman con menos.\n\nImagina despertar cada mañana con la suave caricia de la brisa marina y el sol mediterráneo. Aquí, la belleza natural se fusiona con una oferta inigualable de servicios y comodidades, creando un ambiente exclusivo para quienes busca lo extraordinario y desea elevar su día a día.\n\nSant Antoni de Calonge se distingue por sus playas de arena dorada y aguas cristalinas, donde se vive la esencia del Mediterráneo. Su paseo marítimo, invita a relajantes paseos al atardecer, mientras que sus restaurantes de alta cocina deleitan los paladares más exigentes con productos frescos del mar y vinos locales que son pura sofisticación.\n\nLos aficionados a la náutica encontrarán puertos deportivos de primer nivel en las poblaciones cercanas de Platja d’Aro y Palamós, que brindan acceso directo a las joyas ocultas de la Costa Brava, desde calas secretas hasta vibrantes pueblos costeros llenos de encanto.\n\nPara los amantes del golf, prestigiosos campos de golf de nivel internacional se encuentran a pocos minutos, ofreciendo vistas espectaculares y desafíos para jugadores de todos los niveles. \n\nPero más allá de sus atractivos, Sant Antoni de Calonge ofrece una atmósfera de calma y exclusividad inquebrantable. Es un lugar donde la privacidad se valora por encima de todo y donde se puede disfrutar de la auténtica vida mediterránea sin renunciar a las comodidades más modernas. Su estratégica ubicación permite un fácil acceso a ciudades históricas como Girona o a las boutiques con encanto y llenas de vida de Platja d'Aro, todo ello sin perturbar la serenidad de su entorno privilegiado.\n\n¿Estás listo para encontrar tu próxima residencia de ensueño en este paraíso del mediterráneo?\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Calonge i Sant Antoni",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.84899139404297,
+    "longitude": 3.0983331203460693
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 68,
+    "max_surface": 93,
+    "min_price": 279000,
+    "max_price": 368000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1a812ead-1a95-4d81-8855-996eeadd03f5?rule=original",
+    "https://static.fotocasa.es/images/ads/d949a57b-a982-40c5-be5b-c7db56442431?rule=original",
+    "https://static.fotocasa.es/images/ads/1cea6335-0076-41f8-b9d2-a170a58ba009?rule=original",
+    "https://static.fotocasa.es/images/ads/cf6cc696-3fb3-432d-aa33-7dc8cf41952f?rule=original",
+    "https://static.fotocasa.es/images/ads/e4ca86a4-1839-408b-8ef6-9f1525dd1e3b?rule=original",
+    "https://static.fotocasa.es/images/ads/c19c4460-c759-4f0c-bec8-3f8cafaec983?rule=original",
+    "https://static.fotocasa.es/images/ads/36b04721-22f6-410c-b716-cd1492046fae?rule=original",
+    "https://static.fotocasa.es/images/ads/d377791d-c8de-4d86-ab3f-8a5f47bc45c8?rule=original",
+    "https://static.fotocasa.es/images/ads/ed93f5a9-4ba6-4204-9207-62707dd7e72d?rule=original",
+    "https://static.fotocasa.es/images/ads/bcd28148-3bb5-4041-a9e7-86fcafdd6a38?rule=original",
+    "https://static.fotocasa.es/images/ads/d2475886-b0a0-4b8a-b6f8-b81dc270a09b?rule=original",
+    "https://static.fotocasa.es/images/ads/3806e687-ee60-47a6-885a-4a7503abde69?rule=original"
+  ],
+  "videos": []
+}

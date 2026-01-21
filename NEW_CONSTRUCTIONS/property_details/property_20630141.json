@@ -1,0 +1,44 @@
+{
+  "property_id": "20630141",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/l-ametlla-del-valles/20630141",
+  "scrape_date": "2026-01-21T04:43:38Z",
+  "title": "VISTES ALS CINGLES",
+  "description": "Casa unifamiliar de disseny amb vistes als Cingles\nUs presentem aquesta magnífica promoció d’obra nova situada al barri de Can Reixac, a L’Ametlla del Vallès, en un solar de 864 m² amb una orientació privilegiada i vistes obertes. \n\nL’habitatge es distribueix en dues plantes:\n\nPLANTA BAIXA\nEspai diàfan de cuina–menjador–sala d’estar amb sortida directa al jardí\nHabitació doble\nBany complet\nSala de màquines i safareig\nCarport amb accés directe des del carrer\nGran terrassa amb zona d’aigua i possibilitat de piscina al lateral dret \n\nPLANTA PRIMERA\nSuite principal de 27 m² amb vestidor\nHabitació de 13,40 m2 amb vistes jardí \nEstudi / tercera habitació opcional de 13 m²\nVistes obertes als Cingles\n\nPel tipus de construcció la qualificació energètica és la màxima eficiència energètica.\n\nUna oportunitat única per estrenar casa a una de les zones més sol·licitades de L’Ametlla del Vallès.",
+  "contact_info": {
+    "phone_number": "+34647532186",
+    "advertiser_name": "IGAR INVERSIONES Y PATRIMONIO, S.L.",
+    "client_id": 9202775902295
+  },
+  "location": {
+    "city": "L'Ametlla del Vallès",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.653133392333984,
+    "longitude": 2.2603039741516113
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 147,
+    "max_surface": 147,
+    "min_price": 635000,
+    "max_price": 635000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1e3be1c4-2b51-4e0d-8188-03d77d80e67f?rule=original",
+    "https://static.fotocasa.es/images/ads/169a4884-72b1-4cca-86d7-1b47116aa48c?rule=original",
+    "https://static.fotocasa.es/images/ads/f0eb9844-c3b5-4522-a376-93f6fbd6c890?rule=original",
+    "https://static.fotocasa.es/images/ads/cb0d9ae9-1db8-46e3-b4a9-f387f580e201?rule=original",
+    "https://static.fotocasa.es/images/ads/4075543a-c9ef-492e-8d3b-337285ab40e7?rule=original",
+    "https://static.fotocasa.es/images/ads/04c60188-895f-487b-a5b8-2a39842348e3?rule=original",
+    "https://static.fotocasa.es/images/ads/50eea6e2-9c0a-4000-bd99-2f49fb1fe163?rule=original",
+    "https://static.fotocasa.es/images/ads/92836fb9-8380-4134-a92c-afa9f42ad33d?rule=original",
+    "https://static.fotocasa.es/images/ads/5e6b0190-eb0c-41d1-913f-7758b5e45f79?rule=original",
+    "https://static.fotocasa.es/images/ads/07eec6ba-0327-4585-9041-b542ad0db32d?rule=original",
+    "https://static.fotocasa.es/images/ads/6bcb71d1-36f6-4ddb-a1ff-989a44a2ceee?rule=original"
+  ],
+  "videos": []
+}

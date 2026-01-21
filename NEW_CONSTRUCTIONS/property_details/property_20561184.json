@@ -1,0 +1,50 @@
+{
+  "property_id": "20561184",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/calvia/20561184",
+  "scrape_date": "2026-01-21T04:17:42Z",
+  "title": "NESEA II",
+  "description": "NESEA II dispone 20 viviendas de 1 ,2 y 3 dormitorios entre las que se incluyen bajos con jardín y plantas altas con cubierta privatizada. Las zonas comunitarias cuentan con piscina, zonas ajardinadas, parque de ejercicio, el conjunto recreado en un ambiente natural compuesto de césped, plantas y árboles. Tu nueva casa incorpora Aerotermia: una tecnología ecológica que extrae la energía del aire proveer agua caliente.  Además, las fachadas serán revestidas con el Sistema de Aislamiento Exterior SATE para tu mayor confort.\t\t\n\t\t\t\t\t\nNESCA II ofrece una combinación ideal de comodidad, calidad y modernidad.  Cada hogar cuenta con una cocina amueblada con placa de inducción, microondas y horno de la marca Bosch. El cuarto principal tiene un baño completo con ducha y mampara. El baño secundario le brinda la comodidad de una bañera. Cada casa tiene una plaza de parquing y un trastero, y en la entrada del residencial hay un espacio reservado para bicicletas. \n\nDisfrutará de hermosas playas, restaurantes, bares y numerosas actividades deportivas al aire libre al estar cerca del paseo marítimo de Palmanova y Magaluf.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Calvià",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.51155090332031,
+    "longitude": 2.5328245162963867
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 71,
+    "max_surface": 273,
+    "min_price": 510000,
+    "max_price": 815000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/c596be03-c2a9-4af7-b3cf-2d2b9701730a?rule=original",
+    "https://static.fotocasa.es/images/ads/aadbd0fa-2d66-4662-b8f3-a985fdbe9dcd?rule=original",
+    "https://static.fotocasa.es/images/ads/0adb95f4-2add-432d-b468-d33b81d272b7?rule=original",
+    "https://static.fotocasa.es/images/ads/0fdb8982-5546-4852-9261-b5049843e61b?rule=original",
+    "https://static.fotocasa.es/images/ads/d67332f2-b03b-4c80-9384-59d464eb2a23?rule=original",
+    "https://static.fotocasa.es/images/ads/eaae4bb8-2981-41d8-96b7-ca2cb73c862d?rule=original",
+    "https://static.fotocasa.es/images/ads/246541de-d961-4a28-a3ba-42a20b711936?rule=original",
+    "https://static.fotocasa.es/images/ads/95d4c6c4-7640-4e18-8dbe-d2fc772ba3f1?rule=original",
+    "https://static.fotocasa.es/images/ads/3d2e427f-9084-46b2-a948-6b53fddae4d0?rule=original",
+    "https://static.fotocasa.es/images/ads/d8381b38-fe75-47b9-91f7-bdf0c710ca96?rule=original",
+    "https://static.fotocasa.es/images/ads/0b9981a1-2f1a-4250-85ed-d5698b0143c3?rule=original",
+    "https://static.fotocasa.es/images/ads/3527cd6a-1299-406b-b900-95b83964e6db?rule=original",
+    "https://static.fotocasa.es/images/ads/3b137d06-af80-4874-9bc7-365adad1e650?rule=original",
+    "https://static.fotocasa.es/images/ads/027fd69b-318e-4b59-8744-d04d90a141b7?rule=original",
+    "https://static.fotocasa.es/images/ads/19a3fda2-7626-4114-9654-fd743e780ed0?rule=original",
+    "https://static.fotocasa.es/images/ads/0471488d-fc88-44d1-ac1f-158e91f610cb?rule=original",
+    "https://static.fotocasa.es/images/ads/27bd09a9-a53c-4dcc-a96e-0ad0bfaa519e?rule=original"
+  ],
+  "videos": []
+}

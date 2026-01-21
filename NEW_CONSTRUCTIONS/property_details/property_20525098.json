@@ -1,0 +1,43 @@
+{
+  "property_id": "20525098",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20525098",
+  "scrape_date": "2026-01-21T03:26:56Z",
+  "title": "Residencial Veleta Palmas Altas",
+  "description": "¡Inicio de construcción!\n\nConjunto residencial de 46 viviendas en altura, integrado en el nuevo y exclusivo barrio de ISLA NATURA, en Palmas Altas, junto al CC Lagoh y los Bermejales. \n\nISLA NATURA te ofrece una amplia gama de servicios, dotaciones públicas, fáciles y rápidas conexiones en un moderno barrio que satisfará todas tus necesidades. Esta es una oportunidad única para experimentar una forma de vida completamente nueva en la ciudad de Sevilla. Además, ISLA NATURA representa el nuevo modelo de urbanismo sostenible y compromiso con el medio ambiente.\n\nEl residencial consta de viviendas de 1 a 4 dormitorios con amplios salones, grandes terrazas y primeras calidades. Además, la promoción cuenta con sótano para 66 garajes y 46 trasteros, garantizando un espacio seguro para tu vehículo y espacio para el almacenamiento adicional que necesites.\n\nSorpréndete con la nueva configuración en manzana abierta al Este, garantizando una perfecta iluminación a las viviendas, y cuyo nuevo concepto en Isla Natura permite disfrutar de amplias zonas comunes tanto en planta baja como en primera, donde se ubica la piscina comunitaria con accesos sencillos y espacios amplios. Además, se han previsto bicicleteros para aquellos que deseen utilizar este sostenible medio de transporte.\n\nLas viviendas incluyen cocinas y podrás personalizar tu casa con nuestro exclusivo sistema de elección de calidades “ELIGE TU LOOK”.\n\nRESIDENCIAL VELETA se encuentra actualmente en la fase de comercialización. No pierdas la oportunidad de elegir dónde quieres vivir y hacerlo a tu manera. Tu vida, tu elección.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": " Sevilla Capital",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.33360290527344,
+    "longitude": -5.982378005981445
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 77,
+    "max_surface": 157,
+    "min_price": 196000,
+    "max_price": 349500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/bb1c70df-757f-4e73-8111-65fb57d571f5?rule=original",
+    "https://static.fotocasa.es/images/ads/92aabb67-55b4-4392-88b2-cd7e51899b30?rule=original",
+    "https://static.fotocasa.es/images/ads/3716a5f5-fa15-48e1-858a-15c83d4c1ebc?rule=original",
+    "https://static.fotocasa.es/images/ads/249d2c69-b539-42f5-ac67-bb7df74ab4f2?rule=original",
+    "https://static.fotocasa.es/images/ads/c79c07f0-0dee-4707-8fb4-d168d1d2196d?rule=original",
+    "https://static.fotocasa.es/images/ads/78a0c385-a27f-4e88-ab2f-8f8e0205ccfe?rule=original",
+    "https://static.fotocasa.es/images/ads/78eb581e-5cfb-4371-afa4-0ec485e32b7b?rule=original",
+    "https://static.fotocasa.es/images/ads/69b1f41a-f9e4-4713-9413-e2aaed3cda97?rule=original",
+    "https://static.fotocasa.es/images/ads/6af3210a-2b48-4de0-a56e-e273e5647c20?rule=original",
+    "https://static.fotocasa.es/images/ads/dc5aa7f3-949a-4f9f-82e6-73a44a404c42?rule=original"
+  ],
+  "videos": []
+}

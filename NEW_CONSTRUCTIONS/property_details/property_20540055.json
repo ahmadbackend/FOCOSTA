@@ -1,0 +1,47 @@
+{
+  "property_id": "20540055",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/vigo/20540055",
+  "scrape_date": "2026-01-21T03:36:13Z",
+  "title": "MONTERO RÍOS 36, VIGO",
+  "description": "* EXCLUSIVA PROMOCIÓN RESIDENCIAL EN MONTERO RÍOS 36, VIGO *\n\nUbicada en pleno corazón de la ciudad de Vigo y con vistas privilegiadas al mar, esta exclusiva promoción representa la fusión perfecta entre tradición y modernidad. \n\nEl proyecto contempla la rehabilitación de un edificio emblemático, que forma parte del legado arquitectónico de la ciudad, con la creación de seis exclusivas viviendas que ofrecen unas inmejorables vistas a la Ría de Vigo y que cuentan con plaza de garaje y bodega (existiendo la posibilidad de adquirir una segunda plaza de garaje opcional).\n\nLa intervención busca preservar la esencia histórica del inmueble cuya fachada principal, de piedra de granito, se conservará y restaurará con el máximo respeto por su valor arquitectónico, combinando elementos tradicionales con un diseño contemporáneo que dialoga con su entorno, garantizando una integración armoniosa. \n\nCada vivienda ha sido concebida priorizando la amplitud y la funcionalidad, con espacios que van desde los 166 m² hasta los 204 m² de superficie construida, combinados con balcones y terrazas. Las distribuciones incluyen amplios vestíbulos, cocinas con comedor integrado, salones luminosos, dormitorios en suite con vestidor y baños completos, además de aseos de cortesía. \n\nLas viviendas destacan por unas calidades cuidadosamente seleccionadas, que combinan diseño, confort y eficiencia. Cada detalle ha sido pensado para ofrecer un hogar funcional y cálido, con acabados elegantes y atemporales. Incluyendo cocinas amuebladas y equipadas con electrodomésticos de alta gama, así como sistemas de climatización de alto rendimiento. \n\nSe han incorporado soluciones constructivas avanzadas, con especial atención al aislamiento térmico y acústico, así como a la impermeabilización, lo que garantiza un óptimo comportamiento ante las exigencias climáticas. La sostenibilidad se refleja en una concepción energética eficiente y respetuosa con el entorno. \n\nEl inmueble cuenta con acabados interiores con materiales nobles como la madera natural y carpinterías de altas prestaciones, que refuerzan el carácter contemporáneo del conjunto sin perder de vista la solidez constructiva. \n\nTodo ello enmarcado en un diseño contemporáneo que respeta la esencia del edificio original, empleando soluciones constructivas innovadoras que refuerzan el carácter exclusivo de la promoción. \n\nMontero Ríos 36, es mucho más que una promoción de viviendas: “es un icono histórico frente al mar, una oportunidad única para vivir en una de las zonas más privilegiadas de la ciudad de Vigo por su valor patrimonial y su estilo de vida urbano junto al mar, un entorno único con todas las comodidades del presente y el encanto del pasado”.",
+  "contact_info": {
+    "phone_number": "986930512",
+    "advertiser_name": "Inmogestión Di Milano S.L",
+    "client_id": 9202755706613
+  },
+  "location": {
+    "city": "Vigo ",
+    "province": "Pontevedra",
+    "region": "Galicia",
+    "country": "España",
+    "latitude": 42.24044418334961,
+    "longitude": -8.721195220947266
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 166,
+    "max_surface": 204,
+    "min_price": 1055000,
+    "max_price": 1325000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/a3afb1cc-c248-4e0a-ade3-f3a2eb821ee6?rule=original",
+    "https://static.fotocasa.es/images/ads/c200fc0c-7711-4960-8216-a331abc92f7b?rule=original",
+    "https://static.fotocasa.es/images/ads/9bee906a-de06-465f-8d84-dab9ce64601d?rule=original",
+    "https://static.fotocasa.es/images/ads/9e33a7ff-fbb9-4201-bc1f-117ce8e7ff77?rule=original",
+    "https://static.fotocasa.es/images/ads/b0f504c3-272e-4355-8168-2cf3dd383d50?rule=original",
+    "https://static.fotocasa.es/images/ads/a43635ee-1c85-401b-9583-d0eaa97e5557?rule=original",
+    "https://static.fotocasa.es/images/ads/457e0f07-d759-4dac-9b06-6457c84884e5?rule=original",
+    "https://static.fotocasa.es/images/ads/5b14c666-5ad7-4d3b-b769-a3b568fa8bd3?rule=original",
+    "https://static.fotocasa.es/images/ads/0ed90dda-2ec8-4980-b80a-946afda9be53?rule=original",
+    "https://static.fotocasa.es/images/ads/8e92b265-d095-4d6d-bc3f-1569b26be254?rule=original",
+    "https://static.fotocasa.es/images/ads/ac44915d-474a-43b8-8e93-967eeeb93710?rule=original",
+    "https://static.fotocasa.es/images/ads/08090d47-1c06-489c-9add-0d7d5cdcb02f?rule=original",
+    "https://static.fotocasa.es/images/ads/5f427db3-b6fe-4b3a-a724-cb733f4025fa?rule=original",
+    "https://static.fotocasa.es/images/ads/80aa703b-ddbb-4e85-bdd0-db654ceb2ee2?rule=original"
+  ],
+  "videos": []
+}

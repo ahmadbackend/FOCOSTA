@@ -1,0 +1,225 @@
+{
+  "page": 77,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/77",
+  "scrape_date": "2026-01-21T04:19:37.216507",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-calefaccion-terraza-ascensor/187102921/d",
+      "id": 187102921,
+      "price": 475000,
+      "location": "Encarnación - Regina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/mungia/20516321/188172085",
+      "id": 188172085,
+      "price": 325000,
+      "location": "  Calle Lauaxeta Olerkari, Mungia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/mungia/20516321/188172084",
+      "id": 188172084,
+      "price": 383000,
+      "location": "  Calle Lauaxeta Olerkari, Mungia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/mungia/20516321/187552399",
+      "id": 187552399,
+      "price": 370000,
+      "location": "  Calle Lauaxeta Olerkari, Mungia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/mungia/20516321/186182167",
+      "id": 186182167,
+      "price": 367000,
+      "location": "  Calle Lauaxeta Olerkari, Mungia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/mungia/20516321/185918163",
+      "id": 185918163,
+      "price": 389000,
+      "location": "  Calle Lauaxeta Olerkari, Mungia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20553693/186765025",
+      "id": 186765025,
+      "price": 278000,
+      "location": " Calle Eskurtze, 12, Iralabarri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20553693/186765021",
+      "id": 186765021,
+      "price": 259000,
+      "location": " Calle Eskurtze, 12, Iralabarri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20553693/186765031",
+      "id": 186765031,
+      "price": 340000,
+      "location": " Calle Eskurtze, 12, Iralabarri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20553693/186765010",
+      "id": 186765010,
+      "price": 520000,
+      "location": " Calle Eskurtze, 12, Iralabarri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20553693/186765012",
+      "id": 186765012,
+      "price": 547500,
+      "location": " Calle Eskurtze, 12, Iralabarri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/madrid-capital/20516298/186555005",
+      "id": 186555005,
+      "price": 931000,
+      "location": "  Calle Doctor Juan José López Ibor, 41, Peñagrande",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/madrid-capital/20516298/185918119",
+      "id": 185918119,
+      "price": 803000,
+      "location": "  Calle Doctor Juan José López Ibor, 41, Peñagrande",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/guadalajara-capital/20516291/187934941",
+      "id": 187934941,
+      "price": 338500,
+      "location": "  Calle El Carrizal, 6, Las Cañas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/guadalajara-capital/20516291/187159103",
+      "id": 187159103,
+      "price": 287000,
+      "location": "  Calle El Carrizal, 6, Las Cañas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/guadalajara-capital/20516291/187159104",
+      "id": 187159104,
+      "price": 280000,
+      "location": "  Calle El Carrizal, 6, Las Cañas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/guadalajara-capital/20516291/187934933",
+      "id": 187934933,
+      "price": 292000,
+      "location": "  Calle El Carrizal, 6, Las Cañas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/guadalajara-capital/20516291/187934943",
+      "id": 187934943,
+      "price": 210000,
+      "location": "  Calle El Carrizal, 6, Las Cañas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20516288/187615521",
+      "id": 187615521,
+      "price": 491000,
+      "location": "  Avenida Flamenco, Bellavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20516288/185918017",
+      "id": 185918017,
+      "price": 365000,
+      "location": "  Avenida Flamenco, Bellavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20516288/187615516",
+      "id": 187615516,
+      "price": 385000,
+      "location": "  Avenida Flamenco, Bellavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20516288/187615518",
+      "id": 187615518,
+      "price": 375000,
+      "location": "  Avenida Flamenco, Bellavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20516288/185918015",
+      "id": 185918015,
+      "price": 425000,
+      "location": "  Avenida Flamenco, Bellavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20516285/187845307",
+      "id": 187845307,
+      "price": 416250,
+      "location": "  Santa Ana de Bolueta Kalea, Bolueta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20516285/187845302",
+      "id": 187845302,
+      "price": 402000,
+      "location": "  Santa Ana de Bolueta Kalea, Bolueta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20516285/187845310",
+      "id": 187845310,
+      "price": 421750,
+      "location": "  Santa Ana de Bolueta Kalea, Bolueta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20516285/187845313",
+      "id": 187845313,
+      "price": 386250,
+      "location": "  Santa Ana de Bolueta Kalea, Bolueta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20516285/185917959",
+      "id": 185917959,
+      "price": 265250,
+      "location": "  Santa Ana de Bolueta Kalea, Bolueta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/esplugues-de-llobregat/20516281/187974464",
+      "id": 187974464,
+      "price": 395000,
+      "location": " Calle Sant Jordi, 34, La Plana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/arrasate-mondragon/20516275/185917884",
+      "id": 185917884,
+      "price": 296000,
+      "location": "  Avenida Araba, Arrasate / Mondragón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/arrasate-mondragon/20516275/187743807",
+      "id": 187743807,
+      "price": 291500,
+      "location": "  Avenida Araba, Arrasate / Mondragón",
+      "type": "realEstate"
+    }
+  ]
+}

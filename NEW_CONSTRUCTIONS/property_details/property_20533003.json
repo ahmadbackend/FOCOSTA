@@ -1,0 +1,44 @@
+{
+  "property_id": "20533003",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/premia-de-dalt/20533003",
+  "scrape_date": "2026-01-21T03:05:58Z",
+  "title": "Residencial Can Verboom 2",
+  "description": "Nueva promoción de viviendas Premià de Dalt, uno de los sitios con mayor calidad de vida del Maresme. Rodeado de naturaleza y cerca de playas de primer nivel, Can Verboom se encuentra a pocos pasos del centro de Premià y dispone de fácil acceso a Barcelona y las localidades cercanas.\n\nCaracterísticas:\n- 2 y 3 dormitorios\n- 1 y 2 baños\n- Plantas bajas con terraza\n- Áticos dúplex con terraza\n- Aerotermia\n- Piscina comunitaria\n- Trastero incluido en precio\n- 2 Garajes incluidos en precio\n\n\nFecha de entrega: Julio 2026",
+  "contact_info": {
+    "phone_number": "930442286",
+    "advertiser_name": "LA LLAVE DE ORO",
+    "client_id": 9202768808135
+  },
+  "location": {
+    "city": "Premià de Dalt",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.502197265625,
+    "longitude": 2.3452296257019043
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 79,
+    "max_surface": 115,
+    "min_price": 498000,
+    "max_price": 603000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4ac6d6e8-115c-426a-b464-8d5dac8cf73c?rule=original",
+    "https://static.fotocasa.es/images/ads/d7feb0e1-377c-46a0-b519-4bb7b7edc3a3?rule=original",
+    "https://static.fotocasa.es/images/ads/4fb6703b-ef2c-4b91-8434-545c3e86773b?rule=original",
+    "https://static.fotocasa.es/images/ads/1af00787-0950-4e83-8d36-737503d94881?rule=original",
+    "https://static.fotocasa.es/images/ads/df732252-f288-467a-af22-63a63ac7251a?rule=original",
+    "https://static.fotocasa.es/images/ads/3bfceeb7-a1ce-4623-92ab-4dbe3ac7d263?rule=original",
+    "https://static.fotocasa.es/images/ads/302a1738-7539-4810-b1d9-bb93d5886378?rule=original",
+    "https://static.fotocasa.es/images/ads/9f48f30e-06bc-42bd-afd6-77212984c37b?rule=original",
+    "https://static.fotocasa.es/images/ads/15a3fc76-10dd-461a-9d06-39c23172530e?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/c55dfe0c-930c-4bc8-bcd6-a2ad7d3e57be"
+  ]
+}

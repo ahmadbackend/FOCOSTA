@@ -1,0 +1,37 @@
+{
+  "property_id": "20626704",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/viladecans/20626704",
+  "scrape_date": "2026-01-21T04:10:46Z",
+  "title": "MANSART",
+  "description": "Descubre Mansart!\n\nUna promoción exclusiva de 69 viviendas de obra nueva de 2 y 3 dormitorios en Viladecans, diseñada para quienes buscan confort, modernidad y una excelente calidad de vida.\n\nEl residencial dispone de zona comunitaria con piscina, plazas de aparcamiento y locales comerciales, todo en un barrio nuevo con gran proyección de futuro.\t\t\t\t\n\t\t\t\t\t\nSu ubicación es privilegiada:\n- A 15 minutos de las playas de Viladecans\n- A 20 minutos de Gavà y Castelldefels\n- Con excelentes conexiones con el centro de Barcelona y a pocos kilómetros del aeropuerto\n\nUn lugar ideal para vivir, crecer en familia y disfrutar de la tranquilidad de la naturaleza sin renunciar a la cercanía del mar y la ciudad.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Viladecans",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.32484436035156,
+    "longitude": 2.0280704498291016
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 49,
+    "max_surface": 79,
+    "min_price": 299000,
+    "max_price": 463000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/3a870b47-49a0-4825-b7cc-b484b694db59?rule=original",
+    "https://static.fotocasa.es/images/ads/1565998a-f47c-4838-a919-66616e319c92?rule=original",
+    "https://static.fotocasa.es/images/ads/cb02bcfc-c6c3-4442-9099-e561295b36da?rule=original",
+    "https://static.fotocasa.es/images/ads/289d32c3-6cd8-4bf7-8eea-a8b55d763037?rule=original"
+  ],
+  "videos": []
+}

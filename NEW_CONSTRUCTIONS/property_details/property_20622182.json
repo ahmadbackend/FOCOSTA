@@ -1,0 +1,38 @@
+{
+  "property_id": "20622182",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sariegos/20622182",
+  "scrape_date": "2026-01-21T04:06:15Z",
+  "title": "LandCo Carbajal",
+  "description": "LandCo Carbajal te ofrece un entorno natural privilegiado a solo 10 minutos del centro de León, con acceso directo a las principales vías de la ciudad. Ubicado en un municipio que dispone de todos los servicios, es el lugar perfecto para disfrutar de tranquilidad sin renunciar a la comodidad y la conexión con la ciudad.\n\nLandCo Carbajal, promoción inmobiliaria de obra nueva en Carbajal de la Legua, León. Difícilmente puede imaginarse un lugar mejor para vivir: 30 excepcionales viviendas unifamiliares adosadas y pareadas de 4 dormitorios.\n\nEn landCo Carbajal, la combinación de elegantes volúmenes con amplios espacios abiertos da como resultado viviendas donde apetece vivir, con una conexión fluida entre el interior y el exterior, creando estancias luminosas y acogedoras.\n\nLos chalés se distribuyen en dos niveles, planta baja y planta alta. Sus cuatro dormitorios, uno en planta baja y tres en planta alta, optimizan la funcionalidad y se adapta a las necesidades de la vida familiar. La organización interior prioriza la amplitud y la luminosidad, reduciendo al mínimo los elementos de circulación para maximizar las superficies útiles. Una distribución inmejorable con espacios estudiados y acabados muy cuidados.\n\nAsí es landCo Carbajal. Unifamiliares adosados y pareados muy luminosos, con parcela privada y posibilidad de piscina (opcional). De diseño moderno y contemporáneo, las viviendas se relacionan directamente con la luz y el jardín, definiendo espacios creados para el descanso y el disfrute, y en donde la discreción y la comodidad son las pautas que seguir.\n\nY todo ello en un entorno de alta calidad, con todos los servicios, en plena naturaleza, a 10 minutos del centro de León, y con acceso directo a las principales vías de la ciudad para garantizarte la mejor accesibilidad y hacértelo todo más fácil.",
+  "contact_info": {
+    "phone_number": "931321608",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "Sariegos",
+    "province": "León",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 42.65139389038086,
+    "longitude": -5.600628852844238
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 119,
+    "max_surface": 120,
+    "min_price": 236000,
+    "max_price": 266000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d9c71c5d-9238-445d-8bec-af813bdb71b7?rule=original",
+    "https://static.fotocasa.es/images/ads/391a80a5-dd2a-4eb1-b2a3-8e1eecf8352e?rule=original",
+    "https://static.fotocasa.es/images/ads/2769841e-8d94-432e-91ee-3c6b74e4004f?rule=original",
+    "https://static.fotocasa.es/images/ads/f3f532a1-880d-43e2-91e4-6b13365216bb?rule=original",
+    "https://static.fotocasa.es/images/ads/4d9758f8-8f3b-4c70-9281-9e7939200731?rule=original"
+  ],
+  "videos": []
+}

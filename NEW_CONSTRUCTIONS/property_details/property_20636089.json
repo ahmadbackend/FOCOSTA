@@ -1,0 +1,40 @@
+{
+  "property_id": "20636089",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/palma-de-mallorca/20636089",
+  "scrape_date": "2026-01-21T02:56:32Z",
+  "title": "Son Espanyolet",
+  "description": "Nueva promoción de 4 casas exclusivas en Palma (3 unidades disponibles).\n\nEn la cotizada zona de Son Espanyolet se encuentra este nuevo y emocionante proyecto. Se construirán 4 modernas y elegantes casas adosadas en esta zona de Palma, con edificios bajos con patios y jardines. La ubicación es excelente, con Santa Catalina, el centro de Palma y el Paseo Marítimo a solo unos minutos a pie. Es una zona ideal para familias, ya que hay varios colegios cerca. Aquí encontrará el encanto español y la proximidad a la ciudad.\n\nTres de las casas adosadas son idénticas, con una superficie habitable total de 195 m², mientras que la cuarta casa esquinera tendrá una superficie habitable de 185 m². Todas contarán con características como espacios abiertos y abundante luz natural. La terraza está diseñada para conectar el interior con el exterior, ampliando así la superficie habitable. Esta nueva forma de diseñar las casas permite el uso del exterior durante todo el año, aprovechando el buen clima. Simplemente una extensión natural de la sala de estar. Todas las casas tienen 3 plantas y constan de 3 dormitorios, 3 baños y una cocina abierta conectada al salón. Todas las viviendas cuentan con piscina privada y plaza de aparcamiento.\n\nEl placer de vivir en una casa de lujo con piscina privada y amplias terrazas es un sueño hecho realidad. ¡Estas casas de diseño impecable merecen ser vistas y experimentadas con sus propios ojos! Los arquitectos responsables del proyecto son los reconocidos arquitectos de AVW. Cuentan con una amplia experiencia en proyectos similares en la zona y trabajan con materiales de la más alta calidad.\n\nCALIFICACIÓN ENERGÉTICA OBTENIDA A\n\nPRECIO DE VENTA: DESDE 1.500.000 euros\n\nLE AYUDAMOS CON LA FINANCIACIÓN DE SU HIPOTECA",
+  "contact_info": {
+    "phone_number": "+34654443087",
+    "advertiser_name": "Virginia Capó Ortigosa",
+    "client_id": 9202774424566
+  },
+  "location": {
+    "city": " Palma de Mallorca",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.57666015625,
+    "longitude": 2.6294264793395996
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 185,
+    "max_surface": 195,
+    "min_price": 1500000,
+    "max_price": 1500000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/9e77f3d7-1d63-465c-be01-1e745cc1c349?rule=original",
+    "https://static.fotocasa.es/images/ads/f500a88a-847d-48dd-be67-3b732ef5140a?rule=original",
+    "https://static.fotocasa.es/images/ads/a4f74553-6d6c-45e9-ac9f-8f36694a3704?rule=original",
+    "https://static.fotocasa.es/images/ads/5b60ac60-10b7-4dc6-9785-68a20ebc43d0?rule=original",
+    "https://static.fotocasa.es/images/ads/d4225ab4-cf84-4f33-a209-77c2a9755e9b?rule=original",
+    "https://static.fotocasa.es/images/ads/981e83b2-18c7-477a-8eda-9407ba3aae90?rule=original",
+    "https://static.fotocasa.es/images/ads/aa27b3df-bfb2-455f-b97a-2e0874946190?rule=original"
+  ],
+  "videos": []
+}

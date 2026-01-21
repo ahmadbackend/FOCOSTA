@@ -1,0 +1,48 @@
+{
+  "property_id": "20601244",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/vandellos-i-l-hospitalet-de-l-infant/20601244",
+  "scrape_date": "2026-01-21T02:53:54Z",
+  "title": "MIA ESTIU  - HOSPITALET DE L'INFANT",
+  "description": "Un enclave exclusivo donde el azul del mar se funde con el verde intenso de la pineda. Mia Estiu es un refugio natural en plena Costa Dorada, diseñado para quienes buscan vivir rodeados de naturaleza sin renunciar a la cercanía de todo. Un proyecto que combina entorno, diseño y bienestar, con viviendas únicas inmersas en un entorno privilegiado y concebidas para disfrutar de la vida mediterránea. \n\nUn residencial exclusivo formado por dos bloques de 22 exclusivas viviendas cada uno, todas con terraza y algunas de ellas con solárium. \n\nEl complejo incluye magníficas zonas verdes combinadas con piscina comunitaria, además de gran espacio y zona social.\n\nLas viviendas, de 1 a 4 dormitorios todas con trastero incluido en el precio. Cuentan con estancias luminosas y amplias terrazas que se abren al paisaje y permiten una conexión constante con la naturaleza. \n\nA solo unos minutos del centro del pueblo, y perfectamente conectado con el AVE de Tarragona y el aeropuerto de Reus, Mia Estiu te sitúa cerca de todo, pero lejos del ruido. Un hogar pensado para respirar, desconectar y vivir en armonía.\nAparcemientos disponibles ( No incluidos en el precio)",
+  "contact_info": {
+    "phone_number": "+34676296132",
+    "advertiser_name": "BETTER HOUSE REAL STATE SOCIEDAD LIMITADA.",
+    "client_id": 9202758463915
+  },
+  "location": {
+    "city": "Vandellòs i l'Hospitalet de l'Infant",
+    "province": "Tarragona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 40.98365020751953,
+    "longitude": 0.9063646197319031
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 46,
+    "max_surface": 116,
+    "min_price": 319500,
+    "max_price": 804000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/63cd95de-67f0-46f4-89a7-4b02881b641e?rule=original",
+    "https://static.fotocasa.es/images/ads/0065c7f2-103a-40ac-b1c3-68c5702589af?rule=original",
+    "https://static.fotocasa.es/images/ads/ff3f10a4-4c0b-49ef-a254-e54a90ecf7d2?rule=original",
+    "https://static.fotocasa.es/images/ads/4e2f1041-7a87-42f0-bb18-ed96462f9952?rule=original",
+    "https://static.fotocasa.es/images/ads/419a6fe0-ad42-42c3-9326-886058f4e224?rule=original",
+    "https://static.fotocasa.es/images/ads/50f975ef-e461-4400-a349-bd6e9cec4911?rule=original",
+    "https://static.fotocasa.es/images/ads/f1d29c3d-3e75-40ef-b31e-1ed2d9a9d637?rule=original",
+    "https://static.fotocasa.es/images/ads/95824daa-af69-4f1c-bbde-57e6f6122694?rule=original",
+    "https://static.fotocasa.es/images/ads/d4355884-c10c-4e70-8947-276479524d8f?rule=original",
+    "https://static.fotocasa.es/images/ads/d263acac-6f58-4fe6-936f-3fa236e365e6?rule=original",
+    "https://static.fotocasa.es/images/ads/1cea0419-c740-48d2-a14e-cce0b8ff6d83?rule=original",
+    "https://static.fotocasa.es/images/ads/7f72fa4f-0a05-4afe-93f5-d97805ce67fb?rule=original",
+    "https://static.fotocasa.es/images/ads/57b4f8a6-ec0e-4cb1-9d5c-f63d2ab05bb7?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/53f3691f-de26-4151-a4bf-c6be45fab053"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "property_id": "20631987",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cordoba-capital/20631987",
+  "scrape_date": "2026-01-21T02:35:09Z",
+  "title": "Samira Homes",
+  "description": "Samira Homes es un conjunto residencial con unas zonas comunes de más de 5.000 m² conformado por cuatro bloques de dos alturas más ático.\nEste residencial cuenta con piscina para adultos e infantil con área de solárium para poder disfrutar del baño y del sol, zona de tumbonas, parque infantil, sala gourmet, gimnasio y zonas ajardinadas.\n\nSamira Homes se situ?a en una nueva zona de expansio?n residencial, conocida como Nuevo Patriarca, que preve? su total consolidacio?n con la construccio?n de centros educativos, comerciales, deportivos y sociales dentro de sector Ciudad Jardi?n de Poniente. La promocio?n dispone de una excepcional ubicacio?n, junto al parque urbano El Patriarca, una zona muy apreciada por los cordobeses, junto a uno de los pulmones verdes de Co?rdoba, orientado a la Sierra y en pleno Camino del Patriarca.\n\nSamira Homes cuenta con todos los servicios necesarios para disfrutar del ma?ximo confort en el di?a a di?a y dispone de acceso a una amplia red de comunicaciones. El entorno que la rodea presenta un paisaje de amplias zonas verdes y arboledas ido?neo para practicar deporte, pasear o simplemente relajarse. Al ser un a?rea con edificaciones de baja densidad y vistas despejadas, propicia un ritmo de vida familiar y tranquilo, con un paisaje arbolado que mira a la Sierra, pero que no renuncia a disponer de todo lo necesario para disfrutar de una calidad de vida inmejorable.\n\nLas viviendas tienen incluidas el precio, garaje, trastero y bicicletero.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": " Córdoba Capital",
+    "province": "Córdoba",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.90237808227539,
+    "longitude": -4.810853004455566
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 94,
+    "max_surface": 132,
+    "min_price": 238000,
+    "max_price": 415000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/bd33c58a-b7d5-4dd8-8d0c-47c62580c4f7?rule=original",
+    "https://static.fotocasa.es/images/ads/a07a2294-69ab-4a42-8487-8c5385bde667?rule=original",
+    "https://static.fotocasa.es/images/ads/68c84f65-64fa-4446-8e82-3e64f8a73cca?rule=original",
+    "https://static.fotocasa.es/images/ads/65459d69-8c9d-4e1f-93de-a04c465d6665?rule=original",
+    "https://static.fotocasa.es/images/ads/8afd7f8c-b294-4494-bfe2-2f9ef79b0d74?rule=original",
+    "https://static.fotocasa.es/images/ads/3c18bc3f-a76b-4b08-9603-bcdc44a3533a?rule=original",
+    "https://static.fotocasa.es/images/ads/5ab31fe4-0b1c-42bb-8d1f-7929e78457fb?rule=original",
+    "https://static.fotocasa.es/images/ads/1a48f8c5-da59-4720-b7a4-3d9be4dfe036?rule=original",
+    "https://static.fotocasa.es/images/ads/e5f1ce50-c0eb-4365-9e71-1ca471fbb676?rule=original",
+    "https://static.fotocasa.es/images/ads/ddb8e35a-30fd-4a6f-8cf3-306269037e47?rule=original",
+    "https://static.fotocasa.es/images/ads/5e5c7676-32da-4dad-a8c7-e1a7fd48de32?rule=original",
+    "https://static.fotocasa.es/images/ads/1b24657a-02b1-45e1-95cf-9e339aae46e5?rule=original",
+    "https://static.fotocasa.es/images/ads/f336bb6b-96ef-44cd-a097-f519e4f6a0a5?rule=original",
+    "https://static.fotocasa.es/images/ads/347a9b67-20b1-48ca-8a04-18e6954d978a?rule=original",
+    "https://static.fotocasa.es/images/ads/37aca5fc-372c-4bae-8f8a-dffd8d66e4eb?rule=original"
+  ],
+  "videos": []
+}

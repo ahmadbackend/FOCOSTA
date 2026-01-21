@@ -1,0 +1,38 @@
+{
+  "property_id": "20629969",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/vigo/20629969",
+  "scrape_date": "2026-01-21T03:09:57Z",
+  "title": "PUERTO RICO Nº8",
+  "description": "Descubre tu nuevo hogar en este piso de obra nueva.! \n\nPromociona grupo Inmobiliario Laxas. Edificio en construcción con tan solo 4 plantas, cada una con una sola vivienda, este inmueble ofrece la privacidad y la tranquilidad que buscas. Con 100 metros cuadrados, cuenta con tres amplios dormitorios y dos modernos baño, ideales para disfrutar de la comodidad en cada rincón. El salón-comedor integrado es perfecto para compartir momentos en familia o con amigos, mientras que el lavadero  añade funcionalidad a tu día a día. Desde  el balcón podrás relajarte , y si buscas un espacio al aire libre más amplio, el ático cuenta con una terraza de aproximadamente 80 metros cuadrados\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nLa calefacción por aerotermia garantiza un ambiente cálido y acogedor, mientras que la plaza de garaje  y trastero incluidos hacen que la vida sea mas aún mas cómoda. La ubicación es inmejorable, cerca de Plaza España y de la nueva ciudad de la Justicia, con colegios, supermercados y centros médicos a pocos pasos. Además, podrás disfrutar de un jardín comunitario diseñado para relajarse y socializar con los vecinos. Con precios desde los 495.000€, estos pisos son una oportunidad única que no querrás dejar pasar. ¡Ven a conocerlo y déjate enamorar!",
+  "contact_info": {
+    "phone_number": "986933562",
+    "advertiser_name": "INVERSIONES CALIFORNIA SUR, S.L.",
+    "client_id": 9202752676285
+  },
+  "location": {
+    "city": "Vigo ",
+    "province": "Pontevedra",
+    "region": "Galicia",
+    "country": "España",
+    "latitude": 42.22876739501953,
+    "longitude": -8.71751880645752
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 100,
+    "max_surface": 100,
+    "min_price": 495000,
+    "max_price": 795000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/001f4bfd-fb99-4a2a-9ecc-add4d161438c?rule=original",
+    "https://static.fotocasa.es/images/ads/6f60605f-b778-46d2-8ca3-5bf9b3258783?rule=original",
+    "https://static.fotocasa.es/images/ads/a73c5cfe-fb7c-470c-b039-0b675af8f3dd?rule=original",
+    "https://static.fotocasa.es/images/ads/b6359623-5e12-4ce8-8540-f2a39d75901e?rule=original",
+    "https://static.fotocasa.es/images/ads/b7815944-5972-4583-b6c3-f9be76f77e1b?rule=original"
+  ],
+  "videos": []
+}

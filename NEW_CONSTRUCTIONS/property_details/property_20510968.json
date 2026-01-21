@@ -1,0 +1,51 @@
+{
+  "property_id": "20510968",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/burgos-capital/20510968",
+  "scrape_date": "2026-01-21T04:41:45Z",
+  "title": "TORRE ZENIT",
+  "description": "El residencial de moda en Burgos﻿.\n\nTorre ZENIT se eleva sobre el paisaje urbano, desde cualquiera de sus terrazas la estampa de la ciudad será perfecta. Promoción de viviendas de 2, 3 y 4 dormitorios, todas con amplias terrazas. Suelos radiantes e instalación de aerotermia como apoyo a la producción de ACS. Plaza de garaje y trastero incluidos.\n\nDiseño creativo, esbelto y único para el edificio residencial más alto de la ciudad. El más alto diseño de interior, con las más altas calidades y el más alto confort. Privacidad y comodidad que te dejará en modo crucero.                           \n\nTu hogar en la mejor ubicación del Bulevar, tres dormitorios desde 269.500€.",
+  "contact_info": {
+    "phone_number": "947940364",
+    "advertiser_name": "INMOBILIARIA AVDA.DEL CID 66 S.L",
+    "client_id": 9202750707442
+  },
+  "location": {
+    "city": "Burgos Capital",
+    "province": "Burgos",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 42.33307647705078,
+    "longitude": -3.717085838317871
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 86,
+    "max_surface": 105,
+    "min_price": 269500,
+    "max_price": 436500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/62b22220-0ad5-4e56-9041-bb809d176016?rule=original",
+    "https://static.fotocasa.es/images/ads/8815d799-944a-433d-baf1-a61e7709c595?rule=original",
+    "https://static.fotocasa.es/images/ads/23c17707-c2e8-41c3-acaf-5e56df4d4a24?rule=original",
+    "https://static.fotocasa.es/images/ads/d76e67c2-9913-4eac-86cd-b58134a35d31?rule=original",
+    "https://static.fotocasa.es/images/ads/929a7bfe-e884-45ff-9b7b-990dcfa099e7?rule=original",
+    "https://static.fotocasa.es/images/ads/41041425-8c0d-416b-b5ab-4034af2530c1?rule=original",
+    "https://static.fotocasa.es/images/ads/3c1957e9-4e35-42bf-93d2-251b914e92aa?rule=original",
+    "https://static.fotocasa.es/images/ads/da4c3506-6424-4910-9343-02b01fc41327?rule=original",
+    "https://static.fotocasa.es/images/ads/5434eb84-3218-45d7-ad1c-5bf76d724fcf?rule=original",
+    "https://static.fotocasa.es/images/ads/62d2fb2c-e252-4279-8ca2-e400b72e9f7f?rule=original",
+    "https://static.fotocasa.es/images/ads/ddd2b44d-d3b1-4bd2-a1f5-df7444a6d2f7?rule=original",
+    "https://static.fotocasa.es/images/ads/7eabf8db-bc06-476b-aaa6-35251642caaa?rule=original",
+    "https://static.fotocasa.es/images/ads/c1aec79d-813c-4b88-9bb6-070d5a7e17d6?rule=original",
+    "https://static.fotocasa.es/images/ads/7c172998-8999-479c-9607-30d2a9e4daf8?rule=original",
+    "https://static.fotocasa.es/images/ads/fa26af90-c9a9-4bce-ae28-3d45b9137149?rule=original",
+    "https://static.fotocasa.es/images/ads/60dad81d-bfa9-4fb5-b261-0b6f46779e74?rule=original",
+    "https://static.fotocasa.es/images/ads/1b59f008-222a-4911-bd25-5c360cc08db7?rule=original",
+    "https://static.fotocasa.es/images/ads/c647505f-8943-4209-9294-21e7658ddf12?rule=original"
+  ],
+  "videos": []
+}

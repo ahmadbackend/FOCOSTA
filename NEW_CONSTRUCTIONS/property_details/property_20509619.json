@@ -1,0 +1,50 @@
+{
+  "property_id": "20509619",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/villanueva-del-rio-segura/20509619",
+  "scrape_date": "2026-01-21T02:52:17Z",
+  "title": "Piso en venta en calle Jazmin 1",
+  "description": "¡Bienvenido a Spa Valley II, el lugar donde el lujo y la comodidad se fusionan para ofrecerte el hogar de tus sueños! \nAquí podrás disfrutar de increíbles paisajes, del clima mediterráneo y de una deliciosa gastronomía. Podrás encontrar un montón de actividades divertidas como senderismo, rafting, equitacion, kayak, pesca, golf, tennis.\nEl complejo Spa Valley está situado en el Valle de Ricote donde podrás disfrutar de lo mejor de la naturaleza y de la ciudad al mismo tiempo. Distancia a Murcia ciudad 20 min, aeropuerto de Murcia 40 min, aeropuerto de Alicante 1 hora. Y lo más emocionante es la proximidad al Balneario Spa Resort con aguas termales. ¡Eso está a solo 6 minutos a pie!\nEn Spa Valley tienes opciones de uno o dos dormitorios, amplias terrazas y áticos dúplex con enorme solárium con barbacoa en la planta superior. Todos los apartamentos están completamente equipados con muebles y electrodomésticos nuevos. El precio incluye también el garaje y el trastero.\n¡La zona común es realmente hermosa! Hay la piscina descubierta con solárium, donde puedes tomar el sol y darte un chapuzón en los días más calurosos, et la piscina infantil con su propia zona de juegos y solarium. Además, el parque infantil proporcionará horas de diversión para los más pequeños.\nTambién existe la posibilidad de darse un capricho en la piscina cubierta y en la zona de spa con jacuzzis y saunas después de un largo día.\nEl gimnasio está completamente equipado y preparado para ayudarle a alcanzar sus objetivos de fitness. \n¡No pierdas la oportunidad vivir en un lugar con estas sorprendentes instalaciones en un solo lugar!",
+  "contact_info": {
+    "phone_number": "967560963",
+    "advertiser_name": "GEPTAHOR, S.L.",
+    "client_id": 9202762052853
+  },
+  "location": {
+    "city": "Villanueva del Río Segura",
+    "province": "Murcia",
+    "region": "Región de Murcia",
+    "country": "España",
+    "latitude": 38.125938415527344,
+    "longitude": -1.3106012344360352
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 42,
+    "max_surface": 81,
+    "min_price": 84900,
+    "max_price": 154900
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/918d6c2e-b5c0-46bc-9a29-d9709a6ada2b?rule=original",
+    "https://static.fotocasa.es/images/ads/90dd7e37-b240-4e47-91f6-4a6df45ea72a?rule=original",
+    "https://static.fotocasa.es/images/ads/cbe4532a-e806-4175-8032-54c0f6efe1b4?rule=original",
+    "https://static.fotocasa.es/images/ads/e8a0652e-3adb-447b-984b-43ccce30f871?rule=original",
+    "https://static.fotocasa.es/images/ads/3fe44352-1763-44a1-86fe-56440447b042?rule=original",
+    "https://static.fotocasa.es/images/ads/995b5ea4-3ba3-422b-a2d6-bc04ce6e81b4?rule=original",
+    "https://static.fotocasa.es/images/ads/53a4d1c2-9f82-4377-b9f5-9582f5cb2432?rule=original",
+    "https://static.fotocasa.es/images/ads/5f14cf7f-dc64-4c26-bdb8-d59a06829f0c?rule=original",
+    "https://static.fotocasa.es/images/ads/94ee8c9d-b93f-4ff5-aee5-ac363c90dac9?rule=original",
+    "https://static.fotocasa.es/images/ads/eb5f5272-3ea1-45ae-b0e7-14a7f326adcf?rule=original",
+    "https://static.fotocasa.es/images/ads/dbfd898d-8666-4ce6-b950-4e3bff736ec0?rule=original",
+    "https://static.fotocasa.es/images/ads/57a1c6e1-db8e-422c-82d4-1eeb564719eb?rule=original",
+    "https://static.fotocasa.es/images/ads/fb5b7b04-35fc-4f64-b116-886b50214173?rule=original",
+    "https://static.fotocasa.es/images/ads/daca15eb-5bf8-4360-a0be-9b114754ad73?rule=original",
+    "https://static.fotocasa.es/images/ads/b873cd65-725c-495f-a359-fa3cae9250a7?rule=original",
+    "https://static.fotocasa.es/images/ads/aff43682-970d-4a3a-b11c-f34f2a7bec15?rule=original",
+    "https://static.fotocasa.es/images/ads/65dd6706-26e9-4101-9697-e88a7be6d556?rule=original"
+  ],
+  "videos": []
+}

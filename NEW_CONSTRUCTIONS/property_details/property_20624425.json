@@ -1,0 +1,46 @@
+{
+  "property_id": "20624425",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/almendralejo/20624425",
+  "scrape_date": "2026-01-21T02:51:07Z",
+  "title": "EDIFICIO DORYZA",
+  "description": "Vivienda de Obra Nueva con la mejor relación-calidad precio del Almendralejo. Vivienda de 2 dormitorios y 3 dormitorios con garaje vinculado. Cuenta con unos excelentes acabados en gres porcelánico, alicatados de 1º calidad, carpintería interior lacada en blanca, carpintería exterior de PVC abatible y oscilobatiente, Instalación de aerotermia para ACS, preinstalación de A/C y Preinstalación de calefacción. Además cuenta con una piscina comunitaria.\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nFecha prevista de finalización de las obras: enero 2026. Fecha de entrega de llaves: marzo 2026. Visita piso piloto",
+  "contact_info": {
+    "phone_number": "924920463",
+    "advertiser_name": "FAMDORAL INVERSIONES, S.L.",
+    "client_id": 9202772005760
+  },
+  "location": {
+    "city": "Almendralejo",
+    "province": "Badajoz",
+    "region": "Extremadura",
+    "country": "España",
+    "latitude": 38.68064880371094,
+    "longitude": -6.398396968841553
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 82,
+    "max_surface": 98,
+    "min_price": 85107,
+    "max_price": 95172
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8d237cbe-aea7-4275-8371-8c9494a91837?rule=original",
+    "https://static.fotocasa.es/images/ads/d912c71a-e20d-44ad-ac45-b1f565ddce3a?rule=original",
+    "https://static.fotocasa.es/images/ads/cebc9aea-f64e-414a-b910-a52a26d718fc?rule=original",
+    "https://static.fotocasa.es/images/ads/982aca71-e116-4323-be30-df6fc392884e?rule=original",
+    "https://static.fotocasa.es/images/ads/b01bea11-0b84-4a4b-abeb-15ccbbd2d7f8?rule=original",
+    "https://static.fotocasa.es/images/ads/8ac77c55-4cee-43e4-89f2-34621c718b12?rule=original",
+    "https://static.fotocasa.es/images/ads/928c6184-a2d8-4149-8656-00698d81b545?rule=original",
+    "https://static.fotocasa.es/images/ads/ef208c63-f856-4cbd-b261-ab3167b09a88?rule=original",
+    "https://static.fotocasa.es/images/ads/9fa31e1d-9f7f-40a7-bd93-383f4be6dfd4?rule=original",
+    "https://static.fotocasa.es/images/ads/5814d70f-5706-4e5c-babc-3b0072d02531?rule=original",
+    "https://static.fotocasa.es/images/ads/77684c5b-d833-4f50-8d13-64d27c6915c5?rule=original",
+    "https://static.fotocasa.es/images/ads/514e7558-a497-4558-bb72-88bb3e20daec?rule=original",
+    "https://static.fotocasa.es/images/ads/07399ddf-a811-449b-9600-b025aaafb1c2?rule=original"
+  ],
+  "videos": []
+}

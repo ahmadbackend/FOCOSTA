@@ -1,0 +1,225 @@
+{
+  "page": 124,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/124",
+  "scrape_date": "2026-01-21T04:20:49.701040",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/terraza-ascensor/188087635/d",
+      "id": 188087635,
+      "price": 580000,
+      "location": "Plaza PZ TETUAN, 36, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/estepona/aire-acondicionado-parking-terraza-piscina-amueblado-piscina/187396365/d",
+      "id": 187396365,
+      "price": 239000,
+      "location": "Estepona Golf",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/trastero-ascensor-piscina/188311124/d",
+      "id": 188311124,
+      "price": 552000,
+      "location": "C/ Rafael Bergamín, San Juan Bautista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/rontegui-pormetxeta/185170488/d",
+      "id": 185170488,
+      "price": 235000,
+      "location": "Rontegui - Pormetxeta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/javea-xabia/jardin/188299466/d",
+      "id": 188299466,
+      "price": 640000,
+      "location": "Partides comunes - Adsubia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-eularia-des-riu/aire-acondicionado-jardin-terraza-amueblado/188298152/d",
+      "id": 188298152,
+      "price": 498000,
+      "location": "Santa Eulària ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-patio-no-amueblado/187781481/d",
+      "id": 187781481,
+      "price": 155700,
+      "location": "Juan XXIII - Rochelambert",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/palma-de-mallorca/20532309/188296707",
+      "id": 188296707,
+      "price": 406000,
+      "location": "Son Gotleu",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-pere-de-ribes/trastero-no-amueblado/188261134/d",
+      "id": 188261134,
+      "price": 220000,
+      "location": "Les Roquetes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/archena/parking-trastero-ascensor-no-amueblado/188288716/d",
+      "id": 188288716,
+      "price": 135744,
+      "location": "Calle Maestro Pepe, Archena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/olot/calefaccion-ascensor-no-amueblado/188291015/d",
+      "id": 188291015,
+      "price": 130000,
+      "location": "TRIES, Olot",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-linea-de-la-concepcion/san-jose-san-bernardo/188152807/d",
+      "id": 188152807,
+      "price": 130000,
+      "location": "San José - San Bernardo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tiana/parking-jardin-no-amueblado/188276473/d",
+      "id": 188276473,
+      "price": 1100000,
+      "location": "Tiana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guillena/guillena-pueblo/187905991/d",
+      "id": 187905991,
+      "price": 63348,
+      "location": "Guillena pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/alameda/188253094/d",
+      "id": 188253094,
+      "price": 120000,
+      "location": "Alameda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiclana-de-la-frontera/no-amueblado/187908839/d",
+      "id": 187908839,
+      "price": 155000,
+      "location": "La Banda - Campo de Fútbol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/olivella/parking-jardin-terraza/187470001/d",
+      "id": 187470001,
+      "price": 150000,
+      "location": "Olivella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/leon-capital/calefaccion-trastero-no-amueblado/188197965/d",
+      "id": 188197965,
+      "price": 170000,
+      "location": "Lucas Tuy, Centro Ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/javea-xabia/piscina-no-amueblado/187964097/d",
+      "id": 187964097,
+      "price": 299000,
+      "location": "Montañar - El Arenal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/empuriabrava/aire-acondicionado/187934722/d",
+      "id": 187934722,
+      "price": 58000,
+      "location": "Muga - Gran Reserva - Badia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mairena-del-aljarafe/ciudad-aljarafe/188172157/d",
+      "id": 188172157,
+      "price": 115000,
+      "location": "Ciudad Aljarafe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tordera/jardin/186897977/d",
+      "id": 186897977,
+      "price": 380000,
+      "location": "Tordera pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellet-i-la-gornal/jardin-trastero-piscina/188181266/d",
+      "id": 188181266,
+      "price": 239000,
+      "location": "Castellet i la Gornal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aspe/calefaccion-jardin-piscina/186741364/d",
+      "id": 186741364,
+      "price": 143000,
+      "location": "Pedanías Este",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiclana-de-la-frontera/no-amueblado/184994739/d",
+      "id": 184994739,
+      "price": 215000,
+      "location": "La Banda - Campo de Fútbol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pozo-de-guadalajara/aire-acondicionado-parking-terraza-piscina/188148155/d",
+      "id": 188148155,
+      "price": 179900,
+      "location": "Pozo de Guadalajara",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sagunto-sagunt/parking-terraza-piscina/187847367/d",
+      "id": 187847367,
+      "price": 140000,
+      "location": "Doctor Palos - Alto Palancia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/horta/188108819/d",
+      "id": 188108819,
+      "price": 195000,
+      "location": "Horta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burriana-borriana/la-bosca/181737227/d",
+      "id": 181737227,
+      "price": 36000,
+      "location": "La Bosca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/palma-de-mallorca/20532309/186475877",
+      "id": 186475877,
+      "price": 336000,
+      "location": "Son Gotleu",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/palma-de-mallorca/20532309/186475884",
+      "id": 186475884,
+      "price": 320500,
+      "location": "Son Gotleu",
+      "type": "realEstate"
+    }
+  ]
+}

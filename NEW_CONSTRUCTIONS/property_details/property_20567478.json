@@ -1,0 +1,45 @@
+{
+  "property_id": "20567478",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20567478",
+  "scrape_date": "2026-01-21T02:33:18Z",
+  "title": "Alovera Collection Homes",
+  "description": "Promoción de obra nueva en Alovera, Guadalajara.\n\nAlovera Collection Homes, viviendas de 2 y 3 dormitorios para satisfacer las demandas de todos nuestros residentes. Cada vivienda ha sido meticulosamente diseñada para optimizar distribuciones, luz y orientación, resultando en hogares eficientes, modernos y funcionales. Destacamos especialmente las amplias terrazas disponibles en cada vivienda, ideales para disfrutar al aire libre durante momentos de ocio.\nDisfruta sin salir de casa de espacios diseñados para el descanso y el ocio:\n Piscina de adultos y piscina infantil\nSolárium y zona chill out\nGastroteca para reuniones y eventos\nGimnasio totalmente equipado\nSauna para tu bienestar\n Conjunto residencial de obra nueva moderno y eficiente en Alovera\nEste conjunto residencial encarna un estilo de vida moderno y eficiente, basado en una oferta de viviendas sostenibles con servicios comunes que enriquecen la experiencia de los residentes. Las elegantes fachadas conforman este proyecto atemporal reflejan nuestro compromiso con la eficiencia y la sostenibilidad, sin descuidar los elementos de las zonas compartidas.\nTodo lo que necesitas, sin salir de tu entorno, tu piso con zonas comunes en Alovera\nEstratégicamente situado entre Alovera y Azuqueca de Henares, en una zona residencial consolidada, estarás rodeado de amplias avenidas, jardines y acceso inmediato a comercios, centros de salud, instalaciones deportivas y zonas de ocio.\nVida activa y bienestar en nuestras viviendas a estrenar en Alovera con amplias terrazas y zonas comunes\nSi lo tuyo es moverte, este es tu lugar. Disfruta de 10 km de carril bici y un extenso circuito de running, pensados para mantener un estilo de vida saludable, al aire libre y en contacto con la naturaleza. Todas las viviendas incluyen garaje y trastero en el precio.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": "Alovera",
+    "province": "Guadalajara",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.58214569091797,
+    "longitude": -3.248699903488159
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 106,
+    "max_surface": 140,
+    "min_price": 250000,
+    "max_price": 350000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/983d49cb-1c5f-4763-9db3-006d0b7ba7a6?rule=original",
+    "https://static.fotocasa.es/images/ads/d46e5895-8b5b-4272-a085-43de07dd5247?rule=original",
+    "https://static.fotocasa.es/images/ads/50d304a0-dca8-4e35-8742-33230bbdc652?rule=original",
+    "https://static.fotocasa.es/images/ads/6d9c1ece-4663-43ed-b211-c77c119fadc0?rule=original",
+    "https://static.fotocasa.es/images/ads/83c93cbb-2f59-4d1f-aa2c-cdbced091a86?rule=original",
+    "https://static.fotocasa.es/images/ads/93c82ff5-9840-4ef0-a9c3-ddc04088e0ef?rule=original",
+    "https://static.fotocasa.es/images/ads/5f4c93b0-04e8-4b2a-a89c-65e82b17998e?rule=original",
+    "https://static.fotocasa.es/images/ads/eb0fdee6-8dcc-43b0-847c-577a39b0f85a?rule=original",
+    "https://static.fotocasa.es/images/ads/1c6fffc6-a54a-4d9b-8049-32240a07b127?rule=original",
+    "https://static.fotocasa.es/images/ads/353f6692-4572-41aa-9484-aa251d490e8b?rule=original",
+    "https://static.fotocasa.es/images/ads/3ca20e63-e6ed-4fcf-8f38-ac10fe10b1bb?rule=original",
+    "https://static.fotocasa.es/images/ads/08fef907-1eb1-42d7-8cd3-0bc58b301746?rule=original"
+  ],
+  "videos": []
+}

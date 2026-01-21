@@ -1,0 +1,43 @@
+{
+  "property_id": "20510574",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/san-cristobal-de-la-laguna/20510574",
+  "scrape_date": "2026-01-21T02:49:55Z",
+  "title": "AMANECER",
+  "description": "El edificio se encuentra en la Calle Amanecer, en San Lázaro. \n\nSe trata de una zona tranquila en la ciudad de La Laguna, pero con todos los servicios a su alcance (colegios, polideportivos, supermercados y comercios de todo tipo). Dada su localización, existe una excelente comunicación en transporte público y por carretera hasta la autopista o el centro de la ciudad. \n\nEl Edificio Amanecer cuenta con viviendas de 2 dormitorios con acabados de primera categoría. Las viviendas, prácticas, funcionales y luminosas destacan por su cuidada distribución y sus estancias, con acabados modernos y materiales de primeras marcas. \nLos detalles cuidados aseguran una envolvente de calidad, que mejora la eficiencia energética.\t\t\t\t\t\t\t\t\n\t\t\t\t\t\nTodas las viviendas tienen un gran espacio diáfano bien iluminado, formado por la cocina y salón. \nLa cocina se entrega completamente amueblada y equipada con horno, vitrocerámica y campana extractora. \nLa vivienda tiene pavimento de gres porcelánico compacto serie Leeds gris y alicatado en los baños con el mismo acabado. \nLa loza sanitaria y grifería es en su totalidad de la marca ROCA. Las puertas interiores de la vivienda son de madera lacada en color blanco mate, y la carpintería exterior de aluminio es de doble acristalamiento y que garantiza por completo el aislamiento térmico y acústico de la vivienda. Todas las viviendas están diseñadas con las mejores calidades y equipadas con videoportero, para mayor seguridad y comodidad.\nPlaza de garaje incluida en el precio.\n*Impuestos no incluidos.",
+  "contact_info": {
+    "phone_number": "922930938",
+    "advertiser_name": "ANTONINO JORGE BILBAO S.L.",
+    "client_id": 9202774405697
+  },
+  "location": {
+    "city": "San Cristóbal de la Laguna",
+    "province": "Santa Cruz de Tenerife",
+    "region": "Canarias",
+    "country": "España",
+    "latitude": 28.491147994995117,
+    "longitude": -16.33362579345703
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 60,
+    "max_surface": 68,
+    "min_price": 236548,
+    "max_price": 265240
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2da213a5-5119-4c4e-a153-ce015b914cfb?rule=original",
+    "https://static.fotocasa.es/images/ads/ebac9215-6501-4528-9f49-6059c02f3a56?rule=original",
+    "https://static.fotocasa.es/images/ads/c555d241-85ca-4093-8d0d-3848cffa3352?rule=original",
+    "https://static.fotocasa.es/images/ads/a1a31d01-f237-4890-b4bd-e5eb8fda21fb?rule=original",
+    "https://static.fotocasa.es/images/ads/aef18585-03cb-440b-bbd6-ea5e704d0e46?rule=original",
+    "https://static.fotocasa.es/images/ads/4586def2-f6f4-4094-be83-26a8ff131f5f?rule=original",
+    "https://static.fotocasa.es/images/ads/8aad006b-c9a7-4302-a0a2-b389e7815c57?rule=original",
+    "https://static.fotocasa.es/images/ads/ababb241-b745-4bfe-a3a3-5f83cc024684?rule=original",
+    "https://static.fotocasa.es/images/ads/1a8cf35e-836b-45d3-b8c5-a21592afa577?rule=original",
+    "https://static.fotocasa.es/images/ads/13469b39-af8d-4482-8aa2-bfd11ca5b35d?rule=original"
+  ],
+  "videos": []
+}

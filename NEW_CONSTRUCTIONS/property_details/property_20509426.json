@@ -1,0 +1,42 @@
+{
+  "property_id": "20509426",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20509426",
+  "scrape_date": "2026-01-21T03:20:24Z",
+  "title": "EDIFICI PRISMA",
+  "description": "PROMOCION EN EL CENTRO DE RUBI DE 59 VIVIENDAS CON PLAZAS DE PARKING Y TRASTEROS EN EL MISMO EDIFICIO. LA PROMOCIÓN DESTACA POR SUS AMPLIAS TERRAZAS Y PATIOS EN PLANTA BAJA                                        \n                                        \nABRIMOS PERIODO DE RESERVA DE VIVIENDAS",
+  "contact_info": {
+    "phone_number": "931321652",
+    "advertiser_name": "EDIFICI PRISMA",
+    "client_id": 9202774121582
+  },
+  "location": {
+    "city": "Rubí",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.49089813232422,
+    "longitude": 2.034389019012451
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 83,
+    "max_surface": 101,
+    "min_price": 320500,
+    "max_price": 350000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/306c6abc-6e4e-47c7-98e8-e36e057f1a8b?rule=original",
+    "https://static.fotocasa.es/images/ads/1bfae88c-9c48-430b-9718-81d136d93652?rule=original",
+    "https://static.fotocasa.es/images/ads/4b3b9b06-2d23-4d7a-abf5-1593da5afc25?rule=original",
+    "https://static.fotocasa.es/images/ads/423ed231-f3b1-4b3a-a912-e5e5a82e600b?rule=original",
+    "https://static.fotocasa.es/images/ads/c8ae7acb-bcc0-445a-af12-49191c3f8ca6?rule=original",
+    "https://static.fotocasa.es/images/ads/fb2c5e0c-b6f9-49b2-88b2-60ee166b9705?rule=original",
+    "https://static.fotocasa.es/images/ads/ed5072f0-528b-4234-be3a-33627fa28ed0?rule=original",
+    "https://static.fotocasa.es/images/ads/f6da00e5-48e8-4544-9c67-fa3cd7f32b2c?rule=original",
+    "https://static.fotocasa.es/images/ads/2fb4af25-7eec-4ae1-9c27-965695414537?rule=original"
+  ],
+  "videos": []
+}

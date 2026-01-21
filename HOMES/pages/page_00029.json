@@ -1,0 +1,225 @@
+{
+  "page": 29,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/29",
+  "scrape_date": "2026-01-21T04:18:48.696710",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/fort-pienc/188253547/d",
+      "id": 188253547,
+      "price": 695000,
+      "location": "Pasaje MATILDE DE GAIOLÀ, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-la-nueva/calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-piscina-piscina-no-amueblado/186431538/d",
+      "id": 186431538,
+      "price": 233000,
+      "location": "Avenida Dos de Mayo, 22, Sevilla la Nueva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castro-urdiales/calefaccion-parking-terraza-trastero-ascensor-amueblado-piscina/188503845/d",
+      "id": 188503845,
+      "price": 645000,
+      "location": "Menéndez Pelayo, 16, Brazomar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-amueblado/188562406/d",
+      "id": 188562406,
+      "price": 110000,
+      "location": "Calle Republica Dominicana, El Grao",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/aire-acondicionado-parking-jardin-terraza/186238373/d",
+      "id": 186238373,
+      "price": 654000,
+      "location": "Carrer JOHN LENNON DE, 57, Castellarnau",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benalmadena/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-piscina/188479231/d",
+      "id": 188479231,
+      "price": 206900,
+      "location": "Calle Calle Torrealmádena, 5, Cortijo Torrequebrada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/berriozar/calefaccion-no-amueblado/188550221/d",
+      "id": 188550221,
+      "price": 150000,
+      "location": "Berriozar - ARTEKALE, 6, Berriozar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/velez-malaga/aire-acondicionado-calefaccion-terraza-trastero-ascensor-amueblado-piscina/188459335/d",
+      "id": 188459335,
+      "price": 277900,
+      "location": "Camino de Algarrobo, Capuchinos - Los Olivos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-calefaccion-parking-ascensor/188468523/d",
+      "id": 188468523,
+      "price": 365000,
+      "location": "Riu Freser, Eixample Sud – Migdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ferrol/calefaccion-terraza-trastero-ascensor/187347374/d",
+      "id": 187347374,
+      "price": 195000,
+      "location": "Plaza de España, 21, Plaza de España",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jaca/calefaccion/177889558/d",
+      "id": 177889558,
+      "price": 175000,
+      "location": "Calle MAYOR, 10, Casco Antiguo - Ciudadela  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pamplona-iruna/calefaccion-ascensor-no-amueblado/185379561/d",
+      "id": 185379561,
+      "price": 280000,
+      "location": "Pamplona-Iruña - NUESTRA SEÑORA DE LAS NIEVES, 3, San Juan",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torredembarra/aire-acondicionado-calefaccion-parking-jardin-terraza-zona-comunitaria-piscina-no-amueblado/188529596/d",
+      "id": 188529596,
+      "price": 275000,
+      "location": "Avinguda de les Drassanes, 12, Clarà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valladolid-capital/calefaccion-ascensor-no-amueblado/188483457/d",
+      "id": 188483457,
+      "price": 111900,
+      "location": "Calle Cisne, 9, Pajarillos Bajos ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/trastero-ascensor-patio/187971822/d",
+      "id": 187971822,
+      "price": 192000,
+      "location": "Calle JAZMIN, 26, Carolinas Bajas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-no-amueblado/188557683/d",
+      "id": 188557683,
+      "price": 120000,
+      "location": "Carrer del Comte d'Urgell, 247, L'Antiga Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/parking-terraza-trastero-ascensor/187783500/d",
+      "id": 187783500,
+      "price": 353000,
+      "location": "Calle de los Condes de la Concepción, 31, El Palmar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-trastero-zona-comunitaria-ascensor-amueblado-piscina/188546478/d",
+      "id": 188546478,
+      "price": 290000,
+      "location": "Avenida de la Peseta, PAU de Carabanchel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mont-roig-del-camp/terraza-zona-comunitaria-amueblado-piscina/188231161/d",
+      "id": 188231161,
+      "price": 340000,
+      "location": "Carrer del Blat, 21, Platja de Mont-roig",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almeria-capital/aire-acondicionado-calefaccion-parking-jardin-terraza-zona-comunitaria-patio-piscina-amueblado-television-internet-piscina/188533649/d",
+      "id": 188533649,
+      "price": 420000,
+      "location": "Camino de la Guajira, 28, Retamar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valdemorillo/aire-acondicionado-calefaccion-parking-zona-comunitaria-ascensor-amueblado/188492282/d",
+      "id": 188492282,
+      "price": 279000,
+      "location": "Plaza de la Iglesia, 1, Valdemorillo pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canovelles/aire-acondicionado-calefaccion-terraza/188366658/d",
+      "id": 188366658,
+      "price": 150000,
+      "location": "Carrer Molí de la Sal, 29, Canovelles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/aire-acondicionado-calefaccion-parking-ascensor-amueblado-piscina/188094985/d",
+      "id": 188094985,
+      "price": 189000,
+      "location": "Avenida Pintor Portela, San Ginés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/olot/aire-acondicionado-calefaccion-parking-ascensor-no-amueblado/188206882/d",
+      "id": 188206882,
+      "price": 280000,
+      "location": "Carrer Bisbe Vilanova, 24, Olot",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mont-roig-del-camp/terraza-trastero-zona-comunitaria-amueblado-piscina/187187371/d",
+      "id": 187187371,
+      "price": 283000,
+      "location": "Carrer del Blat, 21, Platja de Mont-roig",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oviedo/terraza-ascensor-amueblado/188031236/d",
+      "id": 188031236,
+      "price": 625000,
+      "location": "Calle Mendizábal, 4, Casco Histórico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188540293/d",
+      "id": 188540293,
+      "price": 277000,
+      "location": "De José Arcones Gil, Pueblo Nuevo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-no-amueblado/188556648/d",
+      "id": 188556648,
+      "price": 315000,
+      "location": "Carrer d'en Grassot, El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salt/calefaccion-terraza-ascensor/188515782/d",
+      "id": 188515782,
+      "price": 215000,
+      "location": " ONZE SETEMBRE, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torremolinos/terraza-ascensor/188519655/d",
+      "id": 188519655,
+      "price": 310000,
+      "location": "JOAN MIRO, 15, Calvario",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mieres-(asturias)/calefaccion-trastero/188480831/d",
+      "id": 188480831,
+      "price": 70000,
+      "location": "Calle Calle de San José de Calasanz, 16, La Villa - Bazuelo",
+      "type": "realEstate"
+    }
+  ]
+}

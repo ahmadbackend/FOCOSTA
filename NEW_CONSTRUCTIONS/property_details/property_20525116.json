@@ -1,0 +1,50 @@
+{
+  "property_id": "20525116",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/adeje/20525116",
+  "scrape_date": "2026-01-21T03:03:41Z",
+  "title": "Abora",
+  "description": "¡Inicio de construcción!\n\nMetrovacesa te da la bienvenida a Residencial ABORA. 138 viviendas de 1, 2, y 3  dormitorios. Este nuevo residencial, se encuentra en la zona turística de Costa Adeje, en la urbanización Playa Paraiso. En una zona consolidada, donde conviven hoteles y residencias de todo tipo; apartamentos, villas y se completa con zonas comerciales, y una magnifica oferta de restauración para todos los paladares. A escasos 200 metros del mar. \n\nPor la configuración del residencial, casi todas las viviendas tendran vistas, tanto al este como al oeste asegurandose las mismas en las plantas altas. Residencial ABORA, destaca por sus amplias terrazas y sus zonas comunes; servicio de consejería, piscina, ascensores, gimnasio y zona ajardinada. La promoción se completa con el bajo rasante destinado a garajes y trasteros.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": "Adeje",
+    "province": "Santa Cruz de Tenerife",
+    "region": "Canarias",
+    "country": "España",
+    "latitude": 28.121063232421875,
+    "longitude": -16.772663116455078
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 107,
+    "max_surface": 226,
+    "min_price": 438690,
+    "max_price": 958500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/87ea8951-8050-4409-b258-cbb3ef32f687?rule=original",
+    "https://static.fotocasa.es/images/ads/6dbf7c97-0902-4398-8a87-9b6733d8742a?rule=original",
+    "https://static.fotocasa.es/images/ads/5a518e48-8295-4adc-b8f0-3ff39f1bc703?rule=original",
+    "https://static.fotocasa.es/images/ads/fa29d269-428f-49c6-a0da-b45fbe33f4be?rule=original",
+    "https://static.fotocasa.es/images/ads/cf5e21bb-3131-4437-8023-9b028fc51bce?rule=original",
+    "https://static.fotocasa.es/images/ads/6f5e30cb-a898-4a5c-8492-ef71c8017ab5?rule=original",
+    "https://static.fotocasa.es/images/ads/b0d5d9f6-204a-4281-9810-caaa407935f5?rule=original",
+    "https://static.fotocasa.es/images/ads/36433489-e034-4160-b18f-20014ffce80d?rule=original",
+    "https://static.fotocasa.es/images/ads/a76081ee-3a34-4f68-907c-18975beefb53?rule=original",
+    "https://static.fotocasa.es/images/ads/ca5b60b5-c9d9-4f0e-a8cb-27d218abef38?rule=original",
+    "https://static.fotocasa.es/images/ads/01befc56-ce62-4612-aaf0-b08210609eb4?rule=original",
+    "https://static.fotocasa.es/images/ads/00c1b296-e777-4392-9918-3a45c8a6951b?rule=original",
+    "https://static.fotocasa.es/images/ads/fb18ad71-98ad-4bce-8254-6ad3654c3900?rule=original",
+    "https://static.fotocasa.es/images/ads/834f8706-dc7a-4e16-8828-b381bcd8f01a?rule=original",
+    "https://static.fotocasa.es/images/ads/41ce7ae0-e264-4d3e-ba0e-d0c6251eff34?rule=original"
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/A7wsZkEjAsQ"
+  ]
+}

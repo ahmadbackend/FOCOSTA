@@ -1,0 +1,51 @@
+{
+  "property_id": "20518899",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/bormujos/20518899",
+  "scrape_date": "2026-01-21T02:39:44Z",
+  "title": "ALMA DE BORMUJOS 1 y 2",
+  "description": "Alma de Bormujos 1 y 2 es un Residencial compuesto por viviendas de 1 a 4 dormitorios, las viviendas en altura tendrán terrazas orientadas a las zonas comunes o hacia la calle, áticos con solárium y bajos con terraza y acceso a las zonas comunes. Una urbanización cerrada que también contará con plazas de garaje y trasteros. Un residencial con una estética integrada en el medio, pensado para ti y los tuyos, con espacios para vivir en plena comodidad y tranquilidad.\n \nLa urbanización cuenta con una amplia piscina de adultos ya ejecutada en la primera fase, rodeada de zonas verdes con solárium, pista de pádel acristalada y con sistema de iluminación nocturno y zona de juegos infantiles en soportal.\n \n \nDISPONEMOS DE LICENCIA DE OBRAS en Alma de Bormujos 1.\nSOLICITADA LICENCIA DE OBRAS en Alma de Bormujos 2",
+  "contact_info": {
+    "phone_number": "954201627",
+    "advertiser_name": "LEVEL",
+    "client_id": 9202774567866
+  },
+  "location": {
+    "city": "Bormujos",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.371131896972656,
+    "longitude": -6.081045627593994
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 66,
+    "max_surface": 119,
+    "min_price": 204800,
+    "max_price": 330500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/0132e7cc-04d1-4710-aeae-40608cae8270?rule=original",
+    "https://static.fotocasa.es/images/ads/9a9038ed-7c9b-45ef-bf99-6f6bd38c5853?rule=original",
+    "https://static.fotocasa.es/images/ads/fe00b749-55fd-457b-859d-ccd19c0284bd?rule=original",
+    "https://static.fotocasa.es/images/ads/a6aefd31-66f6-4f33-9fc1-c8bf97a35702?rule=original",
+    "https://static.fotocasa.es/images/ads/8332ea49-6096-47a9-8fa8-b95dc6bb58a8?rule=original",
+    "https://static.fotocasa.es/images/ads/908109ba-117d-4f5f-bbeb-c97e2d6ff3c0?rule=original",
+    "https://static.fotocasa.es/images/ads/48e9bfd4-a998-4db0-b9c9-a2b72d700048?rule=original",
+    "https://static.fotocasa.es/images/ads/4199bc72-c3a7-4f43-a838-a13b9692bced?rule=original",
+    "https://static.fotocasa.es/images/ads/8c81ea18-748c-45fb-98c3-8c06ac3ab373?rule=original",
+    "https://static.fotocasa.es/images/ads/e14a7e16-c989-4ef7-9851-bbc15fb96c37?rule=original",
+    "https://static.fotocasa.es/images/ads/724fb8d7-6124-491d-9045-11ef91957889?rule=original",
+    "https://static.fotocasa.es/images/ads/e704c466-784f-4567-aa47-7158252fd89b?rule=original",
+    "https://static.fotocasa.es/images/ads/2ead34b9-695e-46b8-b550-16f8166fbfa9?rule=original",
+    "https://static.fotocasa.es/images/ads/33e823f6-f230-4ec6-8935-08e3a0dc4c86?rule=original",
+    "https://static.fotocasa.es/images/ads/c8abeec5-e9f9-4643-b855-63c2e551bf3a?rule=original",
+    "https://static.fotocasa.es/images/ads/adc2fbe2-115a-465c-989a-09a37f76dcf4?rule=original",
+    "https://static.fotocasa.es/images/ads/19d354a2-86d9-4361-b2bc-4e35fda54a28?rule=original",
+    "https://static.fotocasa.es/images/ads/7d8b9c66-ce6a-46a0-9e94-8c9afa9ea9ce?rule=original"
+  ],
+  "videos": []
+}

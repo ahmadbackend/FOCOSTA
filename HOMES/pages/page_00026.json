@@ -1,0 +1,225 @@
+{
+  "page": 26,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/26",
+  "scrape_date": "2026-01-21T04:18:48.979042",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/terraza-ascensor/188087635/d",
+      "id": 188087635,
+      "price": 580000,
+      "location": "Plaza PZ TETUAN, 36, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tarancon/tarancon/164376369/d",
+      "id": 164376369,
+      "price": 100900,
+      "location": "Tarancón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/coria-del-rio/coria-del-rio/185721304/d",
+      "id": 185721304,
+      "price": 105000,
+      "location": "Coria del Río",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrijos/terraza/162978373/d",
+      "id": 162978373,
+      "price": 79200,
+      "location": "Torrijos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-piscina-no-amueblado/187863524/d",
+      "id": 187863524,
+      "price": 360000,
+      "location": "Quintana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/artes/20633013/188329398",
+      "id": 188329398,
+      "price": null,
+      "location": "Artés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/santa-cristina-san-rafael/186688919/d",
+      "id": 186688919,
+      "price": 135000,
+      "location": "Santa Cristina - San Rafael",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/portada-alta-pol-crta-de-cartama/187023989/d",
+      "id": 187023989,
+      "price": 120000,
+      "location": "Portada Alta - Pol. Crta. De Cártama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/la-plata/176641821/d",
+      "id": 176641821,
+      "price": 32900,
+      "location": "La Plata",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/calefaccion-parking-jardin-terraza-trastero-zona-comunitaria-patio-piscina-amueblado-television/188462398/d",
+      "id": 188462398,
+      "price": 2000000,
+      "location": "Rúa Robaleira, Alcabre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor/186013401/d",
+      "id": 186013401,
+      "price": 2250000,
+      "location": "Calle de Alcántara, Valdeacederas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/terraza-trastero-ascensor/186933360/d",
+      "id": 186933360,
+      "price": 430000,
+      "location": " ESPAÑA, Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelodones/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-piscina-amueblado-television/188196734/d",
+      "id": 188196734,
+      "price": 849000,
+      "location": "Calle Nueva, Los Ángeles - Jarandilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sitges/calefaccion-jardin-terraza-piscina/184307810/d",
+      "id": 184307810,
+      "price": 11900000,
+      "location": "Passeig Marítim, Can Girona - Terramar - Vinyet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-parking-terraza-ascensor/187274593/d",
+      "id": 187274593,
+      "price": 1350000,
+      "location": "Sant Gervasi i la Bonanova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pucol/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/181552051/d",
+      "id": 181552051,
+      "price": 1800000,
+      "location": "C. C.Turia, Alfinach - Los Monasterios",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-jardin-terraza-trastero-piscina/181449242/d",
+      "id": 181449242,
+      "price": 3000000,
+      "location": "Fuentelarreina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/montgat/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina/183623856/d",
+      "id": 183623856,
+      "price": 1602315,
+      "location": "Montgat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/montgat/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina/185192776/d",
+      "id": 185192776,
+      "price": 1013750,
+      "location": "Montgat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/nigran/parking-jardin-terraza-trastero-internet-no-amueblado/188053538/d",
+      "id": 188053538,
+      "price": 849990,
+      "location": "San Pedro da Ramallosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alella/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina/187663750/d",
+      "id": 187663750,
+      "price": 2670000,
+      "location": "Alella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-trastero/187520695/d",
+      "id": 187520695,
+      "price": 1140000,
+      "location": "C. de la Constancia, Prosperidad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ontigola/aire-acondicionado-calefaccion-parking-patio-piscina-no-amueblado/188535188/d",
+      "id": 188535188,
+      "price": 274000,
+      "location": "Ontígola",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/banyoles/calefaccion-parking-jardin-terraza-trastero-patio-no-amueblado/177675324/d",
+      "id": 177675324,
+      "price": 698000,
+      "location": "Banyoles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-internet-no-amueblado/187595010/d",
+      "id": 187595010,
+      "price": 1635000,
+      "location": "Carrer la Garrotxa, S'Agaró",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/nuevo-baztan/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/182911832/d",
+      "id": 182911832,
+      "price": 2180000,
+      "location": "Eurovillas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-ametlla-del-valles/l-ametlla-del-valles/188480448/d",
+      "id": 188480448,
+      "price": 635000,
+      "location": "L'Ametlla del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-parking-terraza-no-amueblado/187643927/d",
+      "id": 187643927,
+      "price": 399000,
+      "location": "PONT MAJOR, Pont Major - Pedret - Campdorà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/martorell/parking-terraza-no-amueblado/187574233/d",
+      "id": 187574233,
+      "price": 395000,
+      "location": "Martorell",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/begur/calefaccion-trastero-piscina/188155563/d",
+      "id": 188155563,
+      "price": 1850000,
+      "location": "Sa Riera - Sa Fontansa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ontigola/zona-comunitaria-patio-piscina-no-amueblado/188590514/d",
+      "id": 188590514,
+      "price": 195000,
+      "location": "Ontígola",
+      "type": "realEstate"
+    }
+  ]
+}

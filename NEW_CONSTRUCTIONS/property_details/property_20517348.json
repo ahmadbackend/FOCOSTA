@@ -1,0 +1,38 @@
+{
+  "property_id": "20517348",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/palma-de-mallorca/20517348",
+  "scrape_date": "2026-01-21T03:45:38Z",
+  "title": "SON PIZÁ - MIRAMAR",
+  "description": "SON PIZA,  fase 2, 17 VIVIENDAS, 35 APARCAMIENTOS, 24 TRASTEROS, Viviendas de 3 y 4 habitaciones con aparcamiento y trastero, piscina privada el 3ºC y aticos\nFecha entrega 2º Semestre 2024 aproximadamente.",
+  "contact_info": {
+    "phone_number": "971082934",
+    "advertiser_name": "Atrium Balear",
+    "client_id": 9202774534114
+  },
+  "location": {
+    "city": " Palma de Mallorca",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.580810546875,
+    "longitude": 2.6328351497650146
+  },
+  "details": {
+    "min_rooms": 0,
+    "max_rooms": 0,
+    "min_bathrooms": 0,
+    "max_bathrooms": 0,
+    "min_surface": 0,
+    "max_surface": 0,
+    "min_price": 950000,
+    "max_price": 950000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/819bd3df-5c86-464b-b52d-ab5627d55b2d?rule=original",
+    "https://static.fotocasa.es/images/ads/94a46db6-051b-4f99-b385-4e32a1c7dda8?rule=original",
+    "https://static.fotocasa.es/images/ads/b27df4fc-5466-489c-babb-b03c6fb7b1d5?rule=original",
+    "https://static.fotocasa.es/images/ads/639efcf9-142d-493b-84fa-e76bebd44230?rule=original",
+    "https://static.fotocasa.es/images/ads/1bdeb6b3-07d0-4722-a4f0-f347bebc6e2b?rule=original"
+  ],
+  "videos": []
+}

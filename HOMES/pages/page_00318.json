@@ -1,0 +1,225 @@
+{
+  "page": 318,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/318",
+  "scrape_date": "2026-01-21T04:24:27.835645",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor-amueblado/186680164/d",
+      "id": 186680164,
+      "price": 345000,
+      "location": "Calle Pinos, La Victoria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/188488584/d",
+      "id": 188488584,
+      "price": 1490000,
+      "location": "C/ de Muntaner, L'Antiga Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/madrid-capital/20607577/188489847",
+      "id": 188489847,
+      "price": 396000,
+      "location": "Calle Albaricoque, Buena Vista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ojen/parking-jardin-terraza-ascensor-piscina/188426655/d",
+      "id": 188426655,
+      "price": 299000,
+      "location": "Calle MIGUEL DE CERVANTES, 11, Ojén",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-trastero-zona-comunitaria-ascensor-amueblado/188485979/d",
+      "id": 188485979,
+      "price": 1225000,
+      "location": "Calle de Ferraz, Argüelles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/estepona/aire-acondicionado-calefaccion-parking-terraza-trastero-zona-comunitaria-piscina-amueblado-television-piscina/188271475/d",
+      "id": 188271475,
+      "price": 1995000,
+      "location": "Bahia de Velerin, 5, El Velerín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-terraza-trastero-zona-comunitaria-ascensor-piscina-no-amueblado/187700741/d",
+      "id": 187700741,
+      "price": 444000,
+      "location": "Calle Antares, 4, Santa Isabel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canovelles/aire-acondicionado-calefaccion-parking-terraza-patio-internet/188481807/d",
+      "id": 188481807,
+      "price": 449000,
+      "location": "Carrer Travessera, Canovelles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cardedeu/calefaccion-terraza-trastero-ascensor-no-amueblado/187818502/d",
+      "id": 187818502,
+      "price": 398000,
+      "location": "Carrer Barcelona, 50, Cardedeu",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrejon-de-ardoz/aire-acondicionado-calefaccion-ascensor-piscina/188446613/d",
+      "id": 188446613,
+      "price": 339600,
+      "location": "Calle de Milán, Veredillas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/lleida-capital/20533784/188409902",
+      "id": 188409902,
+      "price": 332000,
+      "location": "Avinguda de la Canadiense, 7, Cappont",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oropesa-del-mar-orpesa/aire-acondicionado-jardin-terraza-zona-comunitaria-ascensor-amueblado-piscina/187996617/d",
+      "id": 187996617,
+      "price": 288000,
+      "location": "Carrer el Rall, 9, La Renegà-Torre Bellver-Les Platgetes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-calefaccion-zona-comunitaria-ascensor-amueblado-television/188470940/d",
+      "id": 188470940,
+      "price": 360000,
+      "location": "Balmes, El Pilar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gijon/ascensor-no-amueblado/188190946/d",
+      "id": 188190946,
+      "price": 199000,
+      "location": "Gijón - Avenida de Castilla, 21, La Arena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-ascensor-amueblado/188455277/d",
+      "id": 188455277,
+      "price": 365000,
+      "location": "LEHENDAKARI AGUIRRE, San Ignacio - Elorrieta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guardamar-del-segura/aire-acondicionado-calefaccion-parking-terraza/187068929/d",
+      "id": 187068929,
+      "price": 279900,
+      "location": "Avenida Madrid, 18, Puerto Deportivo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-piscina/188436722/d",
+      "id": 188436722,
+      "price": 850000,
+      "location": "Acacias",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrevieja/terraza-ascensor-television-no-amueblado/188435846/d",
+      "id": 188435846,
+      "price": 139000,
+      "location": "Colonia San Esteban, 5, Las Piscinas Naturales",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-parking-ascensor-no-amueblado/187248145/d",
+      "id": 187248145,
+      "price": 725000,
+      "location": "Calle Calabria, 114, La Nova Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/altea/aire-acondicionado-calefaccion-ascensor/188426040/d",
+      "id": 188426040,
+      "price": 310000,
+      "location": "Carrer la Mar, Altea ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/aire-acondicionado-parking-terraza-trastero-patio/187821206/d",
+      "id": 187821206,
+      "price": 575000,
+      "location": "Carrer XABEC, Can Pastilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-parking-ascensor-amueblado-television-internet-piscina/188152395/d",
+      "id": 188152395,
+      "price": 250000,
+      "location": "Avenida de Cataluña, Cabo de las Huertas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/poio/calefaccion-ascensor/187030564/d",
+      "id": 187030564,
+      "price": 110000,
+      "location": "Avenida de Andurique, 23, San Salvador - Caeira",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/aire-acondicionado-calefaccion-parking-trastero-ascensor/188394150/d",
+      "id": 188394150,
+      "price": 356500,
+      "location": "Calle ARABIAL, Camino de Ronda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-estartit/aire-acondicionado-parking-jardin-terraza-piscina/187085922/d",
+      "id": 187085922,
+      "price": 955000,
+      "location": "Calle Barcelona, 83, L'Estartit Poble",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/terraza-ascensor-amueblado/188390890/d",
+      "id": 188390890,
+      "price": 330000,
+      "location": "Calle Muralla del Mar, 15, Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/borox/calefaccion-parking-ascensor/188052591/d",
+      "id": 188052591,
+      "price": 95000,
+      "location": " Parque, 9, Borox",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/avila-capital/calefaccion-terraza-trastero-ascensor-piscina/188377468/d",
+      "id": 188377468,
+      "price": 198000,
+      "location": "DALIA, 10, Sónsoles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cartagena/20520326/187399600",
+      "id": 187399600,
+      "price": null,
+      "location": "Avenida Reina Victoria Eugenia, 2, Alameda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuenlabrada/aire-acondicionado-calefaccion-ascensor-patio-piscina-piscina-no-amueblado/188373287/d",
+      "id": 188373287,
+      "price": 188000,
+      "location": "Urbanizacion Nuevo Versalles, Loranca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor/188368106/d",
+      "id": 188368106,
+      "price": 650000,
+      "location": "Carrer de Mallorca, Sagrada Família",
+      "type": "realEstate"
+    }
+  ]
+}

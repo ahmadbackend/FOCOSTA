@@ -1,0 +1,47 @@
+{
+  "property_id": "20534248",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-pere-de-ribes/20534248",
+  "scrape_date": "2026-01-21T03:37:24Z",
+  "title": "KAIROS BY SEASTONE HOMES",
+  "description": "\"EL MEJOR LUGAR DONDE VIVIR – KAIROS\n\nDescubre Kairos, un proyecto inmobiliario excepcional y la mejor opción para quienes buscan una vivienda moderna y eficiente en una urbanización con todas las comodidades situada en un entorno privilegiado. Elige vivir en una de estas 28 magníficas viviendas unifamiliares adosadas construidas en el término municipal de Sant Pere de Ribes, próximo a Sitges y a menos de una hora de Barcelona.\n\nKairos se levanta en la comarca del Garraf, a pocos minutos de la costa y a los pies de un espacio único como el Parque Natural del Garraf.  Calidad de vida asegurada en un entorno ideal para quienes valoran el contacto con la naturaleza. Además, sus excelentes comunicaciones en transporte público y por carretera, con fácil acceso a la autopista C-32 y al eje costero C-31, permiten desplazarse en 25 minutos al Aeropuerto Josep Tarradellas Barcelona-El Prat.\"\n\t\n\"Kairos es un proyecto innovador y sostenible, creado a tu medida. Viviendas unifamiliares adosadas de 3 y 4 habitaciones con excelentes acabados y materiales de gran calidad, además de una magnífica distribución que permite aprovechar al máximo el espacio. Hogares pensados para ser disfrutados que comparten unas magníficas zonas comunes, con una espectacular piscina y amplias zonas ajardinadas que te brindan el espacio perfecto para tu tiempo de descanso y ocio. \n\nPlanifica tu futuro en un entorno familiar y seguro, un área residencial donde encontrarás la tranquilidad que buscabas.\"",
+  "contact_info": {
+    "phone_number": "930442536",
+    "advertiser_name": "SWAN PROPERTY SERVICES",
+    "client_id": 9202769310612
+  },
+  "location": {
+    "city": "Sant Pere de Ribes",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.23152160644531,
+    "longitude": 1.7538599967956543
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 173,
+    "max_surface": 235,
+    "min_price": 470000,
+    "max_price": 580000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/9649a0f0-987a-4ef4-a1d8-0f3dde308f45?rule=original",
+    "https://static.fotocasa.es/images/ads/45341f26-c44d-4a37-89c1-8f0d366edd74?rule=original",
+    "https://static.fotocasa.es/images/ads/b85ca370-951f-4e1a-a9f3-e361a16f8071?rule=original",
+    "https://static.fotocasa.es/images/ads/39057db2-f16f-4706-b8cf-86cdbaa7785f?rule=original",
+    "https://static.fotocasa.es/images/ads/d1752150-cf28-439a-a7a5-72e9ec202af9?rule=original",
+    "https://static.fotocasa.es/images/ads/e65e641f-aeea-4acd-907d-267287f74b9e?rule=original",
+    "https://static.fotocasa.es/images/ads/afa1f736-5d3a-4f2b-bace-837d5f80bc2b?rule=original",
+    "https://static.fotocasa.es/images/ads/5e7495b2-8ad0-47dd-9f9d-4548921ba48e?rule=original",
+    "https://static.fotocasa.es/images/ads/d9dfa587-8bec-4a4b-98bc-e8a6d621f75c?rule=original",
+    "https://static.fotocasa.es/images/ads/bd392c47-76ce-4a5c-9f17-29d837bfffed?rule=original",
+    "https://static.fotocasa.es/images/ads/ebb64e63-247f-4b9c-b034-d119279be8eb?rule=original",
+    "https://static.fotocasa.es/images/ads/e71543b3-648c-4569-8214-a75d4386a471?rule=original",
+    "https://static.fotocasa.es/images/ads/422e98e4-70fb-4455-a630-1dc570d8a8dd?rule=original",
+    "https://static.fotocasa.es/images/ads/dd16bc54-b39f-4294-b9c4-196fbd9f5d01?rule=original"
+  ],
+  "videos": []
+}

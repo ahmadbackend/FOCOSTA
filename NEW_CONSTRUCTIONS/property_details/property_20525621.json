@@ -1,0 +1,49 @@
+{
+  "property_id": "20525621",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/suances/20525621",
+  "scrape_date": "2026-01-21T03:54:35Z",
+  "title": "El Mirador de San Juan",
+  "description": "EL MIRADOR DE SAN JUAN… UN BALCÓN CON VISTAS.\n\nUn balcón con vistas. El Mirador de San Juan, el nuevo proyecto residencial de Grupo Tecniobras en Suances, se ubica en un escenario realmente privilegiado; se trata de un entorno natural único, rodeado de naturaleza y con unas extraordinarias vistas panorámicas. Esta exclusiva promoción aúna el confort residencial, la sostenibilidad y el más avanzado diseño, creando espacios de bienestar para el disfrute de toda la familia en plena naturaleza y sin renunciar a la comodidad de cada detalle. Todos los espacios han sido pensados para ofrecer una experiencia única, funcionalidad y eficiencia, así como tecnologías avanzadas que aportan bienestar y seguridad a sus residentes.\n\nEl Mirador de San Juan lo componen 57 espectaculares chalets de 4 dormitorios, todos ellos con amplias parcelas privadas de hasta 432 m², cerramiento perimetral y acceso controlado mediante videoportero. La urbanización incluye una piscina comunitaria y viales iluminados, garantizando seguridad y funcionalidad en cada espacio. La cuidada integración paisajística, la calidad de los materiales y las amplias zonas verdes que rodean la promoción, convierten esta urbanización en un extraordinario lugar de descanso y disfrute.\n\nEl Mirador de San Juan es la inversión perfecta para quienes desean una vivienda de calidad en un entorno único, tranquilo y con excelentes comunicaciones. A pocos minutos del centro de Suances, de las playas y áreas de ocio, este nuevo residencial cuenta con servicios de proximidad, incluyendo centros educativos, transporte y zonas deportivas en sus alrededores. Una opción inmobiliaria única para disfrutar de tu tiempo e invertir en futuro.\n\nCon el objetivo puesto en el ahorro de costes y la eficiencia energética, como en todas las promociones de Grupo Tecniobras, EL MIRADOR DE SAN JUAN cuenta con aerotermia y una selección de materiales certificados que le confieren la máxima calificación energética.\n\nBienvenidos a El Mirador de San Juan. Bienvenidos a Tecniobras.",
+  "contact_info": {
+    "phone_number": "984220675",
+    "advertiser_name": "Tecniobras",
+    "client_id": 9202774687224
+  },
+  "location": {
+    "city": "Suances",
+    "province": "Cantabria",
+    "region": "Cantabria",
+    "country": "España",
+    "latitude": 43.41544723510742,
+    "longitude": -4.0417160987854
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 122,
+    "max_surface": 132,
+    "min_price": 350000,
+    "max_price": 390000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/80ebee71-978b-4826-92b9-4e08e9508d35?rule=original",
+    "https://static.fotocasa.es/images/ads/4e5d01f6-e23c-42f5-9fe1-0dd15108235e?rule=original",
+    "https://static.fotocasa.es/images/ads/d8c090fc-36c9-442f-ac23-d8a095a9d641?rule=original",
+    "https://static.fotocasa.es/images/ads/a214f4fc-1369-47ce-9660-43ddb0a85a8b?rule=original",
+    "https://static.fotocasa.es/images/ads/c14d78a1-1f0a-4061-80e9-5f866a76f14d?rule=original",
+    "https://static.fotocasa.es/images/ads/89cc6acb-54da-437b-bdde-515d46eccb02?rule=original",
+    "https://static.fotocasa.es/images/ads/cc59dec7-f715-4db4-80e3-110261b71d27?rule=original",
+    "https://static.fotocasa.es/images/ads/01ba3374-fbd2-411e-9102-23ffeac23e42?rule=original",
+    "https://static.fotocasa.es/images/ads/99395cf5-c736-4cff-bac3-f5120a4ddf56?rule=original",
+    "https://static.fotocasa.es/images/ads/d94f29ae-5ebd-4177-8149-3c3338ce27f7?rule=original",
+    "https://static.fotocasa.es/images/ads/54aa4727-fddd-4b34-b16a-3ceaa574b054?rule=original",
+    "https://static.fotocasa.es/images/ads/ebc5cf88-7fb9-456b-a509-a3c3a558d6c4?rule=original",
+    "https://static.fotocasa.es/images/ads/072888c9-d95b-4536-a4f0-78034f5aec69?rule=original",
+    "https://static.fotocasa.es/images/ads/95be7fbc-91d2-4ce9-afc4-b8f5a9a5f157?rule=original",
+    "https://static.fotocasa.es/images/ads/5ca25087-aca6-4c73-a04e-e21ada2bc3de?rule=original",
+    "https://static.fotocasa.es/images/ads/e4a7e348-d574-4ec3-9aa5-efc16c75b5a8?rule=original"
+  ],
+  "videos": []
+}

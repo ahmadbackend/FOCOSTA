@@ -1,0 +1,39 @@
+{
+  "property_id": "20601607",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/ses-salines/20601607",
+  "scrape_date": "2026-01-21T03:14:00Z",
+  "title": "Promoción en Colònia de Sant Jordi",
+  "description": "Te presentamos la última vivienda disponible en una exclusiva promoción de solo 8 apartamentos ubicada en el emblemático pueblo costero de Colònia de Sant Jordi, a tan solo 200 metros del mar. Un entorno privilegiado donde disfrutar del auténtico estilo de vida mediterráneo, rodeado de playas de arena blanca y aguas cristalinas.\n\nLa vivienda cuenta con 3 dormitorios, 2 baños completos, y un amplio salón comedor con salida directa a una terraza perfecta para desayunar al sol o relajarse en cualquier momento del día. La cocina, totalmente amueblada y equipada con electrodomésticos de primeras marcas, también se conecta con la terraza, aportando comodidad y practicidad a la vida diaria.\n\nEntre sus características destacan:\n- Plaza de aparcamiento y trastero incluidos.\n- Climatización por conductos frío/calor con sistema de aerotermia de alta eficiencia energética.\n- Primeras calidades en acabados: carpintería exterior de aluminio con doble acristalamiento, puertas interiores lacadas en blanco, armarios empotrados, pavimentos porcelánicos y encimera Silestone en cocina.\n- Edificio con ascensor y acceso directo desde el garaje.\n\nEntrega de llaves inmediata.\n\nUna vivienda singular que combina diseño moderno, eficiencia energética y una ubicación privilegiada en una de las zonas más deseadas del sur de Mallorca.\n\nPida una visita hoy mismo.",
+  "contact_info": {
+    "phone_number": "971084176",
+    "advertiser_name": "Servicios Inmobiliarios Stl Mallorca S.L.U.",
+    "client_id": 9202754862961
+  },
+  "location": {
+    "city": "Ses Salines",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.316017150878906,
+    "longitude": 2.997525930404663
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 123,
+    "max_surface": 123,
+    "min_price": 650000,
+    "max_price": 650000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/263fe3ee-1bb1-41ce-bce7-0eaf1c6acc9e?rule=original",
+    "https://static.fotocasa.es/images/ads/cdbe62be-0ffd-424c-a111-c0357cffc07f?rule=original",
+    "https://static.fotocasa.es/images/ads/52c0e6e9-8723-478d-9469-28a0d3b5834a?rule=original",
+    "https://static.fotocasa.es/images/ads/87dd30cd-648a-4101-b4d9-18409f012562?rule=original",
+    "https://static.fotocasa.es/images/ads/5109044f-e8ef-4beb-b76b-e2ee8668b974?rule=original",
+    "https://static.fotocasa.es/images/ads/08ed98c2-bb77-4efd-bd81-f50009b92d38?rule=original"
+  ],
+  "videos": []
+}

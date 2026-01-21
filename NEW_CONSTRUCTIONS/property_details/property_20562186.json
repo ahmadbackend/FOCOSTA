@@ -1,0 +1,53 @@
+{
+  "property_id": "20562186",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/villajoyosa-la-vila-joiosa/20562186",
+  "scrape_date": "2026-01-21T04:18:36Z",
+  "title": "Orizonne",
+  "description": "Orizonne será un sueño hecho realidad en la Playa del Torres.\n\nViviendas de 2 y 3 dormitorios, amplias terrazas y una urbanización completa que incluye, club social, gimnasio y piscina. Cerca de tu nueva casa encontrarás centros comerciales, hospital y todo tipo de servicios a escasos minutos.\t\t\n\t\t\t\t\t\nOrizonne se encuentra a escasos 2 km del centro de Villajoyosa y a 10 km de Benidorm. Tu nueva casa se encuentra en un rincón idílico, Playa del Torres, un entorno natural. Una cala de aguas cristalinas y tranquilas, donde el azul turquesa es el principal protagonista.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Villajoyosa / La Vila Joiosa",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.51728439331055,
+    "longitude": -0.2000720500946045
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 102,
+    "max_surface": 219,
+    "min_price": 357000,
+    "max_price": 660000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2dfd65c1-dee5-41c8-b528-794f323549fe?rule=original",
+    "https://static.fotocasa.es/images/ads/f9e435b0-066b-472c-ac56-728847c3226b?rule=original",
+    "https://static.fotocasa.es/images/ads/16e17139-baed-45c1-9a30-afd58757a45c?rule=original",
+    "https://static.fotocasa.es/images/ads/f7c14011-ff65-452d-bd0c-f46aea6e20c6?rule=original",
+    "https://static.fotocasa.es/images/ads/12e42d91-8cb2-4a88-98c3-40c6a7220da8?rule=original",
+    "https://static.fotocasa.es/images/ads/f0e6d0d1-ec88-435d-b7e6-34d1fb3f49a5?rule=original",
+    "https://static.fotocasa.es/images/ads/ba524575-ccdd-47fa-92bc-45fe7e68b4bd?rule=original",
+    "https://static.fotocasa.es/images/ads/44bf60a8-4aaf-443b-aeeb-f90196c04deb?rule=original",
+    "https://static.fotocasa.es/images/ads/6ffad610-da7a-4f69-b934-b9eed621e776?rule=original",
+    "https://static.fotocasa.es/images/ads/52549c48-c5d8-4a85-9edd-cd026b11a4c8?rule=original",
+    "https://static.fotocasa.es/images/ads/b2733909-6d48-4310-b749-1ee8736fb160?rule=original",
+    "https://static.fotocasa.es/images/ads/f9d1e1dc-2866-43f3-878d-6a702baf25b5?rule=original",
+    "https://static.fotocasa.es/images/ads/72d0adb1-23f9-4775-9221-08f17170f8e5?rule=original",
+    "https://static.fotocasa.es/images/ads/489a1b5c-0f88-4596-a4b2-42f8a0d2d875?rule=original",
+    "https://static.fotocasa.es/images/ads/eb955c56-6251-4c2c-850c-1f3a47935788?rule=original",
+    "https://static.fotocasa.es/images/ads/dbaee3ff-d51b-47a8-93d8-a1d993d63536?rule=original",
+    "https://static.fotocasa.es/images/ads/2e4fa452-7b44-457f-b766-330477302eb0?rule=original",
+    "https://static.fotocasa.es/images/ads/8c3dc09e-dcd1-4e42-8810-2e20910b7754?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/XLpjaQIppG0"
+  ]
+}

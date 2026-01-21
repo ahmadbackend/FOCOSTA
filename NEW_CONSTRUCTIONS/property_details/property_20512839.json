@@ -1,0 +1,40 @@
+{
+  "property_id": "20512839",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/girona-capital/20512839",
+  "scrape_date": "2026-01-21T03:48:22Z",
+  "title": "EDIFICI MIGDIA-PARC",
+  "description": "GIRONA-MIGDIA-OBRA NUEVA. Promoción de 9 viviendas de nueva construcción en el “Parc del Migdia”.\n\nCon acabados inmejorables, cocina y baños de primera calidad, suelos de parqué flotante natural, carpintería exterior de aluminio, persianas enrollables de aluminio en la zona de noche, doble acristalamiento con cámara tipo “climalit” y baja emisividad, armarios empotrados, calefacción por suelo radiante y aire acondicionado con aerotermia, toldo de protección solar y videoportero. Ascensor. Posibilidad de plazas de aparcamiento. Viviendas accesibles para personas con movilidad reducida. \n\nNo dude en llamarnos y concertar una cita.",
+  "contact_info": {
+    "phone_number": "972084405",
+    "advertiser_name": "AGENCIA D'EDIFICIS I SOLARS AGENTIA SLU",
+    "client_id": 9202753754043
+  },
+  "location": {
+    "city": "Girona Capital",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.97310256958008,
+    "longitude": 2.8203983306884766
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 119,
+    "max_surface": 119,
+    "min_price": 477000,
+    "max_price": 537000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1e34698a-bb47-4526-b365-55dbcb65d942?rule=original",
+    "https://static.fotocasa.es/images/ads/22f5809f-d948-4c42-aaa6-5200f8329500?rule=original",
+    "https://static.fotocasa.es/images/ads/bec621e3-c087-42bb-9642-69118d730d22?rule=original",
+    "https://static.fotocasa.es/images/ads/2cf0126d-dbbf-4764-bf45-e657d1dad850?rule=original",
+    "https://static.fotocasa.es/images/ads/fdf47347-36b2-4fd9-a397-5637c9adf19c?rule=original",
+    "https://static.fotocasa.es/images/ads/54c6a459-484c-46d6-a244-d8231d1ea6ac?rule=original",
+    "https://static.fotocasa.es/images/ads/d5a4ce10-96b3-4750-b7bd-5a14f999949c?rule=original"
+  ],
+  "videos": []
+}

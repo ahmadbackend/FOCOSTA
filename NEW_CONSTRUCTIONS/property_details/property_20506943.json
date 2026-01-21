@@ -1,0 +1,37 @@
+{
+  "property_id": "20506943",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/getxo/20506943",
+  "scrape_date": "2026-01-21T03:53:40Z",
+  "title": "Test promo Nur",
+  "description": "Exclusiva promoción de 52 viviendas de obra nueva en Bizcaia situada  en el sector Isla Nueva del barrioNervión. Cuenta con sala para bicicletas, trastero, parking comunitario y mucho más",
+  "contact_info": {
+    "phone_number": "+34619876576",
+    "advertiser_name": "Test ProPublishers",
+    "client_id": 9202768131473
+  },
+  "location": {
+    "city": "Getxo ",
+    "province": "Bizkaia",
+    "region": "País Vasco",
+    "country": "España",
+    "latitude": 43.32448196411133,
+    "longitude": -3.0157124996185303
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 1,
+    "min_surface": 50,
+    "max_surface": 50,
+    "min_price": 303545,
+    "max_price": 303545
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/39d6022b-d031-4f76-b633-36855114ad0e?rule=original",
+    "https://static.fotocasa.es/images/ads/ada83601-8241-452a-b393-1bbff081cbaa?rule=original",
+    "https://static.fotocasa.es/images/ads/bdf74604-dff1-4c12-b114-1787f588b894?rule=original",
+    "https://static.fotocasa.es/images/ads/5ed107a8-ca90-4aac-bd26-ae87cc62be29?rule=original"
+  ],
+  "videos": []
+}

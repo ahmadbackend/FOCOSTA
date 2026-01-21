@@ -1,0 +1,225 @@
+{
+  "page": 265,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/265",
+  "scrape_date": "2026-01-21T04:23:32.909821",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/encarnacion-regina/187815783/d",
+      "id": 187815783,
+      "price": 335000,
+      "location": "Encarnación - Regina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelodones/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/187305971/d",
+      "id": 187305971,
+      "price": 1020000,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/inca/terraza/187342772/d",
+      "id": 187342772,
+      "price": 239000,
+      "location": "Gran Via de Colom",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/aire-acondicionado-no-amueblado/188050192/d",
+      "id": 188050192,
+      "price": 194900,
+      "location": "Els Molins",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pineda-de-mar/terraza-patio/187728620/d",
+      "id": 187728620,
+      "price": 114000,
+      "location": "Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jerez-de-la-frontera/amueblado/188006120/d",
+      "id": 188006120,
+      "price": 300000,
+      "location": "Caballero Bonald - San José Obrero - Guadalcacín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zumaia/calefaccion-parking-ascensor-amueblado/186717800/d",
+      "id": 186717800,
+      "price": 475000,
+      "location": "Zumaia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/trastero-patio-no-amueblado/187971490/d",
+      "id": 187971490,
+      "price": 80000,
+      "location": "Monteagudo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pineda-de-mar/terraza/187690612/d",
+      "id": 187690612,
+      "price": 175000,
+      "location": "Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/naquera/calefaccion-parking-terraza-zona-comunitaria-piscina-amueblado/187403441/d",
+      "id": 187403441,
+      "price": 390000,
+      "location": "La Loma - Las Lomas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arcos-de-la-frontera/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-no-amueblado/184852704/d",
+      "id": 184852704,
+      "price": 795000,
+      "location": "Calle de los Olivos, Arcos de la Frontera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellar-del-valles/calefaccion-parking-jardin-terraza-patio-piscina/185137183/d",
+      "id": 185137183,
+      "price": 475000,
+      "location": "El Racó - Sant Feliu del Racó  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arnuero/calefaccion-jardin-no-amueblado/187594595/d",
+      "id": 187594595,
+      "price": 960000,
+      "location": "Barrio Isla-Calleja, Arnuero",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-escorial/calefaccion-parking-jardin-terraza-trastero-no-amueblado/187568521/d",
+      "id": 187568521,
+      "price": 585000,
+      "location": "Centro - Manguilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ribamontan-al-mar/calefaccion-parking-jardin-piscina/187735207/d",
+      "id": 187735207,
+      "price": 480000,
+      "location": "Galizano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calafell/bellamar/187670687/d",
+      "id": 187670687,
+      "price": 420000,
+      "location": "Bellamar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tordera/parking-jardin-terraza-patio-internet-no-amueblado/178714246/d",
+      "id": 178714246,
+      "price": 840000,
+      "location": "Mas Mora - Sant Daniel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-joan-d-alacant/aire-acondicionado-parking-ascensor-amueblado/187610582/d",
+      "id": 187610582,
+      "price": 199000,
+      "location": "Centro  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/calefaccion-parking-jardin-zona-comunitaria/187552855/d",
+      "id": 187552855,
+      "price": 450000,
+      "location": "Travessia Cami de les Penyes, Puntabrava - Port Salvi",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zierbena/calefaccion-parking-jardin-terraza-trastero/187131167/d",
+      "id": 187131167,
+      "price": 899000,
+      "location": "Zierbena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/puntales-zona-franca/186482318/d",
+      "id": 186482318,
+      "price": 170000,
+      "location": "Puntales - Zona Franca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alzira/calefaccion-parking-jardin-terraza-trastero-no-amueblado/187287334/d",
+      "id": 187287334,
+      "price": 342000,
+      "location": "Urbanitzacions i Pedanies Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santo-domingo-de-la-calzada/terraza-trastero-amueblado/181874585/d",
+      "id": 181874585,
+      "price": 38000,
+      "location": "Santo Domingo de la Calzada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bellpuig/calefaccion-terraza-trastero-no-amueblado/182202564/d",
+      "id": 182202564,
+      "price": 108000,
+      "location": "RAMON I CAJAL, Bellpuig",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valle-de-yerri-deierri/calefaccion-terraza-trastero/183628349/d",
+      "id": 183628349,
+      "price": 259000,
+      "location": "Valle de Yerri / Deierri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/ascensor-no-amueblado/186349128/d",
+      "id": 186349128,
+      "price": 299900,
+      "location": "De Ponferrada, Pilar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gandia/aire-acondicionado-amueblado/186979039/d",
+      "id": 186979039,
+      "price": 99000,
+      "location": "Benipeixcar - El Raval ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/terraza-amueblado-piscina/181982036/d",
+      "id": 181982036,
+      "price": 280000,
+      "location": "El Perellonet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/les-franqueses-del-valles/calefaccion-parking-terraza-ascensor-amueblado/183311846/d",
+      "id": 183311846,
+      "price": 215000,
+      "location": "Les Franqueses del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/deltebre/jardin-piscina/153597094/d",
+      "id": 153597094,
+      "price": 165000,
+      "location": "Carrer de la Capadella, 53, Deltebre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/plasencia/los-pinos-el-pilar/188357627/d",
+      "id": 188357627,
+      "price": 65000,
+      "location": "Los Pinos - El Pilar",
+      "type": "realEstate"
+    }
+  ]
+}

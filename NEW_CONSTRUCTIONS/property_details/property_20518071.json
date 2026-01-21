@@ -1,0 +1,40 @@
+{
+  "property_id": "20518071",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valladolid-capital/20518071",
+  "scrape_date": "2026-01-21T04:25:06Z",
+  "title": "Farnesio25",
+  "description": "Próximo a la estación de trenes, Zarzuela S.A. proyecta la construcción de un nuevo edificio de 27 viviendas con la máxima calidad en acabados, además de la garantía y experiencia de nuestra empresa.\n\nViviendas de 1, 2, 3 y 4 dormitorios. Desde 40 a 100m2 útiles. 3 áticos espectaculares con una gran terraza abierta.\n\nLa fachada contará con un diseño exclusivo en ladrillo. Materiales de primera calidad de fabricantes nacionales y calificación energética «A».\n\nDiseño moderno y funcional, con un aprovechamiento máximo de las superficie útiles de cada vivienda. Cuentan todas ellas con terraza cubierta y armarios empotrados que optimizan el espacio. Cada vivienda dispone de una plaza de garaje y cuarto trastero en el  sótano del edificio.",
+  "contact_info": {
+    "phone_number": "983980178",
+    "advertiser_name": "KER 2000, S.L.",
+    "client_id": 9202751184167
+  },
+  "location": {
+    "city": "Valladolid Capital",
+    "province": "Valladolid",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 41.639591217041016,
+    "longitude": -4.72322416305542
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 93,
+    "max_surface": 100,
+    "min_price": 307000,
+    "max_price": 327000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8be12b4d-6ebd-41f2-bba1-92d255e6a560?rule=original",
+    "https://static.fotocasa.es/images/ads/0ff6e557-25e5-43d2-874b-7f1f742b2495?rule=original",
+    "https://static.fotocasa.es/images/ads/5b943e3d-9cfe-4f41-8327-80b7471bf262?rule=original",
+    "https://static.fotocasa.es/images/ads/5d571c1d-e929-458b-a327-54d3f1738cab?rule=original",
+    "https://static.fotocasa.es/images/ads/412a3f92-3b61-4dbf-b5ed-dfc0310f165b?rule=original",
+    "https://static.fotocasa.es/images/ads/19099da4-0747-4b00-8e8a-85e4b3825bc0?rule=original",
+    "https://static.fotocasa.es/images/ads/e5eca9c3-1391-4561-8d23-6f7dd1ed0128?rule=original"
+  ],
+  "videos": []
+}

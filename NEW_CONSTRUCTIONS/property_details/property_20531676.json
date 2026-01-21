@@ -1,0 +1,57 @@
+{
+  "property_id": "20531676",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20531676",
+  "scrape_date": "2026-01-21T02:58:35Z",
+  "title": "Exclusiva vivienda con terraza en el Putxet",
+  "description": "En uno de los barrios más deseados de Barcelona encontramos esta planta baja de 98 m², que combina diseño, confort y una ubicación privilegiada.\nLa vivienda cuenta con dos dormitorios dobles, uno de ellos en suite con baño privado y acceso directo a una terraza de 15 m², perfecta para relajarse al aire libre. Dispone además de un estudio polivalente, ideal como despacho o zona de lectura, y un segundo baño completo. El salón-comedor, amplio y luminoso, se integra con una cocina abierta totalmente equipada, con salida a un balcón que aporta aún más luz y ventilación. Los acabados son de alta gama: parquet de roble natural, gres porcelánico en cocina y baños, encimeras de mármol y mobiliario de cocina con diseño minimalista y electrodomésticos incluidos.\nUbicado en una finca rehabilitada en El Putxet – Sant Gervasi, un entorno residencial tranquilo y elegante, rodeado de parques, cafés, restaurantes y todos los servicios, con excelente conexión al centro de la ciudad.\nUna vivienda que ofrece el equilibrio perfecto entre exclusividad, confort y calidad de vida.\nEl Putget i Farró es un barrio ubicado en el distrito de Sarrià-Sant Gervasi, en el noroeste de Barcelona. En el corazón del barrio se encuentran los agradables Jardins del Turó del Putget. La parte alta del barrio la ocupa la pequeña montaña llamada el Putget, mientras que la parte baja corresponde al vecindario de Farró. Dada su proximidad a la Ronda de Dalt, el barrio es fácilmente accesible en coche. Hay una buena comunicación mediante autobús y metro (Vallcarca, Lesseps y Fontana).",
+  "contact_info": {
+    "phone_number": "930441839",
+    "advertiser_name": "APROPERTIES REAL ESTATE BARCELONA COMPRAVENTA S.L",
+    "client_id": 9202753825457
+  },
+  "location": {
+    "city": " Barcelona Capital",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.40702819824219,
+    "longitude": 2.147798776626587
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 98,
+    "max_surface": 98,
+    "min_price": 625000,
+    "max_price": 625000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/70a29230-1442-4b01-a121-1ec51c0cce6b?rule=original",
+    "https://static.fotocasa.es/images/ads/68b84cbe-ad61-4cd7-a0f3-f2658cd8f674?rule=original",
+    "https://static.fotocasa.es/images/ads/3f7bac6f-23be-48bd-bc96-7b9c18d669ae?rule=original",
+    "https://static.fotocasa.es/images/ads/aa5b64ac-fb40-491d-ac58-06d59ab5800f?rule=original",
+    "https://static.fotocasa.es/images/ads/32de0763-9abe-423c-b0d5-b5391457c705?rule=original",
+    "https://static.fotocasa.es/images/ads/d32a0b47-bc7d-42a0-9e56-a2bce7e6a630?rule=original",
+    "https://static.fotocasa.es/images/ads/03883fc1-9389-406c-8f43-d1a774059a28?rule=original",
+    "https://static.fotocasa.es/images/ads/263d5428-4c57-4d50-bf9a-2bcb1b086e7d?rule=original",
+    "https://static.fotocasa.es/images/ads/fe68194c-bf17-4c27-902e-174d51ea4054?rule=original",
+    "https://static.fotocasa.es/images/ads/dfe41b52-6b21-47aa-a413-83e12bcdb310?rule=original",
+    "https://static.fotocasa.es/images/ads/eda235c7-ecd1-4e55-8791-322045a1951f?rule=original",
+    "https://static.fotocasa.es/images/ads/24261a58-8130-43a9-a62e-98d301e8f5fa?rule=original",
+    "https://static.fotocasa.es/images/ads/2858c64f-8e26-4469-9852-889ae09dc897?rule=original",
+    "https://static.fotocasa.es/images/ads/d9b792aa-36d7-4289-aa1b-346d4307e33c?rule=original",
+    "https://static.fotocasa.es/images/ads/7308a5f3-4cd2-4b20-8401-d592633b62b2?rule=original",
+    "https://static.fotocasa.es/images/ads/8e89a468-51bf-488e-9a2a-88902adc5686?rule=original",
+    "https://static.fotocasa.es/images/ads/4a2fac93-8767-4e4b-b145-14ff262dbcf7?rule=original",
+    "https://static.fotocasa.es/images/ads/d5080d93-1d10-44a6-a98c-6fb118eab11c?rule=original",
+    "https://static.fotocasa.es/images/ads/2b9b563b-032c-4a59-b285-4acdf7f5a4ae?rule=original",
+    "https://static.fotocasa.es/images/ads/aa922b36-fc1e-405f-85c2-304d412f3184?rule=original",
+    "https://static.fotocasa.es/images/ads/7149fb60-254d-49a8-b8b9-3c7186048b42?rule=original",
+    "https://static.fotocasa.es/images/ads/cc8f50a0-47b5-44b0-afd3-01772a05f941?rule=original",
+    "https://static.fotocasa.es/images/ads/28820df6-c9ef-46c5-8c76-39b54909f78d?rule=original",
+    "https://static.fotocasa.es/images/ads/5f81ecf6-e12f-4285-9cfe-c14700e10f4e?rule=original"
+  ],
+  "videos": []
+}

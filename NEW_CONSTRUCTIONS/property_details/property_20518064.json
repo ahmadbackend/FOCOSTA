@@ -1,0 +1,42 @@
+{
+  "property_id": "20518064",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valladolid-capital/20518064",
+  "scrape_date": "2026-01-21T04:03:48Z",
+  "title": "LAS DAMAS",
+  "description": "El proyecto \"LAS DAMAS\" consiste en la rehabilitación de un edificio histórico con notables valores arquitectónicos, tanto en su composición exterior como en su tipología. Este edificio será rehabilitado para cumplir con las más altas exigencias de confort, sostenibilidad y habitabilidad actuales.\nEl nuevo edificio plantea una adición en la parte superior de una planta, manteniendo su fachada original y recompone en su interior los valores tradicionales de corrala y galería según lo indicado en los parámetros de protección marcados.\nEl proyecto plantea viviendas de 2 y 3 dormitorios todos ellos con exteriorización a la calle Las Damas, hoy denominada Leopoldo Cano. El edificio contará con un elevador de vehículos que dará acceso a las plazas de garaje. El portal, de acceso mixto tendrá conexión mediante ramas de suave pendiente con los trasteros. Calidades por encima de la normativa vigente. Se incluye trastero. Posibilidad de adquirir plazas de garaje, opcional. INFORMESE",
+  "contact_info": {
+    "phone_number": "983980178",
+    "advertiser_name": "KER 2000, S.L.",
+    "client_id": 9202751184167
+  },
+  "location": {
+    "city": "Valladolid Capital",
+    "province": "Valladolid",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 41.65406036376953,
+    "longitude": -4.725610733032227
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 126,
+    "max_surface": 126,
+    "min_price": 455000,
+    "max_price": 455000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/cc6b0d9e-b924-4a60-8704-7a458c2219a8?rule=original",
+    "https://static.fotocasa.es/images/ads/1d04fd55-7d77-4043-9649-39089cb25fa3?rule=original",
+    "https://static.fotocasa.es/images/ads/03b8442f-0022-4473-8b19-65d48ed44280?rule=original",
+    "https://static.fotocasa.es/images/ads/a7c34e41-6bfb-4058-92cf-23ea7905b9c0?rule=original",
+    "https://static.fotocasa.es/images/ads/49765a38-59f5-4739-84d5-436694c46cc8?rule=original",
+    "https://static.fotocasa.es/images/ads/b7f94244-8ee8-4b29-9f43-8946ce068986?rule=original",
+    "https://static.fotocasa.es/images/ads/9f005e92-577c-418a-9177-81b242a38774?rule=original",
+    "https://static.fotocasa.es/images/ads/eb767cdc-d525-43ea-8b1a-ded7b499a47f?rule=original",
+    "https://static.fotocasa.es/images/ads/730887f2-cddd-4d57-8893-9bd3392a381b?rule=original"
+  ],
+  "videos": []
+}

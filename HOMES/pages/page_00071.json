@@ -1,0 +1,225 @@
+{
+  "page": 71,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/71",
+  "scrape_date": "2026-01-21T04:19:36.485895",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor-amueblado/185169064/d",
+      "id": 185169064,
+      "price": 3990000,
+      "location": "Recoletos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/terrassa/20644278/188587279",
+      "id": 188587279,
+      "price": 169000,
+      "location": "Avinguda de Jaume I, Sant Pere",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/aire-acondicionado-calefaccion-parking-jardin-terraza-zona-comunitaria-patio-piscina-no-amueblado/187871466/d",
+      "id": 187871466,
+      "price": 940000,
+      "location": "Calle de Asturias, Castillo Campodón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cabrils/aire-acondicionado-calefaccion-parking-terraza-trastero-no-amueblado/188537309/d",
+      "id": 188537309,
+      "price": 495000,
+      "location": "Cabrils",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cambrils/aire-acondicionado-parking-jardin-terraza-trastero/187945959/d",
+      "id": 187945959,
+      "price": 385000,
+      "location": "Jardins de Vilafortuny- Mas d'en Bosch",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mont-roig-del-camp/aire-acondicionado-calefaccion-parking-jardin-trastero-piscina-no-amueblado/184842277/d",
+      "id": 184842277,
+      "price": 358000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/baiona/calefaccion-parking-trastero-ascensor-amueblado/188377026/d",
+      "id": 188377026,
+      "price": 290000,
+      "location": "Baiona",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/elche-elx/jardin-no-amueblado/188558834/d",
+      "id": 188558834,
+      "price": 115000,
+      "location": "Partida Hoya, La Foia - Daimés - Asprella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pozuelo-de-calatrava/aire-acondicionado-calefaccion-parking-terraza-patio/188557257/d",
+      "id": 188557257,
+      "price": 110000,
+      "location": "Calle Sancho Panza, Pozuelo de Calatrava",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/parking-jardin-terraza-ascensor-piscina/188554987/d",
+      "id": 188554987,
+      "price": 340000,
+      "location": "Los Almendros - El Limonero - El Tomillar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/salou/20555795/188437811",
+      "id": 188437811,
+      "price": 566000,
+      "location": "Avinguda del Pla de Maset, Pla de Maset - Cap de Salou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/salou/20555795/188437705",
+      "id": 188437705,
+      "price": 493000,
+      "location": "Avinguda del Pla de Maset, Pla de Maset - Cap de Salou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrevieja/aire-acondicionado-parking-terraza-ascensor/187612501/d",
+      "id": 187612501,
+      "price": 174500,
+      "location": "Calle RAFAL, El Acequión",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/reus/aire-acondicionado-calefaccion-terraza-no-amueblado/188550454/d",
+      "id": 188550454,
+      "price": 395000,
+      "location": "Camí de l'Aleixar, Ponent",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bormujos/20518899/188548206",
+      "id": 188548206,
+      "price": 204800,
+      "location": "Avenida Universidad de Salamanca, Zona Universitaria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/parking-ascensor/188546205/d",
+      "id": 188546205,
+      "price": 230000,
+      "location": "Calle EMP. Y ESCRIT. MARCELA BM, Astilleros - La Paz  - Loreto - El Corte Inglés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-terraza/188545889/d",
+      "id": 188545889,
+      "price": 124300,
+      "location": "Fátima - Levante ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-no-amueblado/188545746/d",
+      "id": 188545746,
+      "price": 295000,
+      "location": "Calle de los Voluntarios Catalanes, Valdeacederas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aranjuez/calefaccion-terraza-patio-no-amueblado/188538823/d",
+      "id": 188538823,
+      "price": 280000,
+      "location": "La Montaña - El Cortijo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/olvega/parking-trastero-ascensor/188542785/d",
+      "id": 188542785,
+      "price": 82000,
+      "location": "AMÉRICA, Ólvega",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor/188539658/d",
+      "id": 188539658,
+      "price": 475000,
+      "location": "Ibiza de Madrid",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gava/aire-acondicionado-calefaccion-terraza-ascensor/187453276/d",
+      "id": 187453276,
+      "price": 325000,
+      "location": "Can Tintorer - Can Tries",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilanova-i-la-geltru/ascensor/188457764/d",
+      "id": 188457764,
+      "price": 224900,
+      "location": "La Geltrú - Sant Jordi",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecans/aire-acondicionado-ascensor/188124221/d",
+      "id": 188124221,
+      "price": 269300,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cordoba-capital/20631987/188290247",
+      "id": 188290247,
+      "price": 415000,
+      "location": "   Sector PPO2, El Higuerón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cordoba-capital/20631987/188290237",
+      "id": 188290237,
+      "price": 391000,
+      "location": "   Sector PPO2, El Higuerón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cordoba-capital/20631987/188290245",
+      "id": 188290245,
+      "price": 398000,
+      "location": "   Sector PPO2, El Higuerón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion-parking/188526838/d",
+      "id": 188526838,
+      "price": 159000,
+      "location": "Calle Arriba, San Julián - Barriada de Cortes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cassa-de-la-selva/aire-acondicionado-calefaccion-parking-terraza-trastero-no-amueblado/188383491/d",
+      "id": 188383491,
+      "price": 395000,
+      "location": "MIGDIA, Cassà de la Selva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sesena/20509479/185698884",
+      "id": 185698884,
+      "price": 283000,
+      "location": "Calle Helsinki, 49, Seseña Nuevo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-parking-terraza-ascensor/188501276/d",
+      "id": 188501276,
+      "price": 209000,
+      "location": "Calle Calle de Thailandia, 14, Colores -  Entreparques",
+      "type": "realEstate"
+    }
+  ]
+}

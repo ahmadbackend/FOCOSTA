@@ -1,0 +1,44 @@
+{
+  "property_id": "20512586",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20512586",
+  "scrape_date": "2026-01-21T03:49:41Z",
+  "title": "CARIB",
+  "description": "CARIB\nMar y montaña\n\nCarib es una exclusiva promoción de obra nueva situada en Sant Antoni de Calonge, en la Costa Brava. La promoción consta de dos edificios con 9 viviendas cada uno.\nDestaca por su ubicación privilegiada, combinando la tranquilidad de la naturaleza con la proximidad a servicios y actividades. Además, se encuentra cerca de calas y playas de arena dorada con certificaciones de calidad, siendo perfectas para pasear por el camino de ronda y para practicar deportes acuáticos.\nEn Carib encontrarás: \n\n. Viviendas de 2 - 3 habitaciones \n. Todas disponen de terraza o jardín\n. Zonas comunes ajardinadas\n. Piscina comunitaria y solárium\n. Cocinas de diseño\n. Grandes ventanales con abundante luz natural\n. Posibilidad de aparcamiento",
+  "contact_info": {
+    "phone_number": "972084389",
+    "advertiser_name": "Tq Investpro",
+    "client_id": 9202773701070
+  },
+  "location": {
+    "city": "Calonge i Sant Antoni",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.84506607055664,
+    "longitude": 3.0951173305511475
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 99,
+    "max_surface": 112,
+    "min_price": 374000,
+    "max_price": 398000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/c12e0940-39d2-4391-a99f-14845ed6e46e?rule=original",
+    "https://static.fotocasa.es/images/ads/4b192a03-a4d6-4e34-89bd-61d0fd226ff8?rule=original",
+    "https://static.fotocasa.es/images/ads/bba58981-89da-4a39-ae74-d10b69b9b587?rule=original",
+    "https://static.fotocasa.es/images/ads/6a0cad6c-10df-48a2-91d1-15843ed1d604?rule=original",
+    "https://static.fotocasa.es/images/ads/0a310ae1-c8a3-4e55-8339-77086659765b?rule=original",
+    "https://static.fotocasa.es/images/ads/077e3bfc-d82b-4a35-93c3-5eaaa1041598?rule=original",
+    "https://static.fotocasa.es/images/ads/c10381b5-df78-431b-8409-184db3775916?rule=original",
+    "https://static.fotocasa.es/images/ads/35d8ec68-75c7-4166-b1c5-c3ff0c7e046a?rule=original",
+    "https://static.fotocasa.es/images/ads/664b831d-1fa1-4ef2-b987-455b4834dc21?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/1c51fe05-cc34-4ad7-9e66-13df7ebdb732"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "property_id": "20567220",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/hontoba/20567220",
+  "scrape_date": "2026-01-21T03:57:16Z",
+  "title": "URBANIZACION LOS MANANTIALES - HONTOBA",
+  "description": "ZLG CONSTRUCCIONES inicia la comercialización viviendas unifamiliares de última generación en la urbanización Los Manantiales, ubicada en el municipio de Hontoba, a una hora de Madrid, en el entorno del Parque Natural de Hontoba, una de las zonas de mayor belleza paisajística de la Alcarria Sur.Las parcelas están ubicadas en el Camino Manzanos números 27 a 45, en un área urbanizada con todos los servicios de acometidas de saneamiento, luz y agua.\t\n\nEl sistema constructivo de ultima generación basa su estructura en el sistema de acero perfilado Steel Frame. o sistema constructivo SIP (Structural Insulated Panel), un método de construcción en seco que usa paneles tipo sándwich, con un núcleo aislante de poliestireno expandido (EPS) entre dos placas estructurales de OSB, creando muros, techos y suelos portantes y aislantes a la vez, ofreciendo gran eficiencia energética, rapidez de montaje y reducción de costes en mano de obra, siendo ideal para viviendas ecológicas y de alto rendimiento térmico. De igual forma los cerramientos y aislamientos se ejecutan el material de última generación Compact Sate. Tres diez viviendas unifamiliares totalmente independientes, con una configuración inicial de dos dormitorios, salón y cocina en espacio abierto con salida directa a zona de ocio y un baño completo.",
+  "contact_info": {
+    "phone_number": "949804892",
+    "advertiser_name": "Zlg Construcciones",
+    "client_id": 9202775275442
+  },
+  "location": {
+    "city": "Hontoba",
+    "province": "Guadalajara",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.46248245239258,
+    "longitude": -3.0149447917938232
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 45,
+    "max_surface": 90,
+    "min_price": 92900,
+    "max_price": 149900
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/023b7ace-ed23-48c6-b2b2-3177bfcdcc0f?rule=original"
+  ],
+  "videos": []
+}

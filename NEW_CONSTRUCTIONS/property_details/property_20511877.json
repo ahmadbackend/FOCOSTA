@@ -1,0 +1,50 @@
+{
+  "property_id": "20511877",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/lazkao/20511877",
+  "scrape_date": "2026-01-21T03:00:40Z",
+  "title": "ITURRIALDEA 19",
+  "description": "Nueva promoción de viviendas, trasteros y garajes cerrados motorizados. Viviendas de 1, 2 y 3 dormitorios con armarios, cocina equipada, 2 baños,  terrazas, tendedero, todo ello con materiales de primera calidad. Informáte en la oficina de venta situada en la obra. El mobiliario reflejado en los planos es una simulación. Los planos pueden estar abiertos a modificaciones.  DESDE 195.840€",
+  "contact_info": {
+    "phone_number": "943913017",
+    "advertiser_name": "ETXEBERRIKOA DESARROLLOS",
+    "client_id": 9202774420195
+  },
+  "location": {
+    "city": "Lazkao",
+    "province": "Gipuzkoa",
+    "region": "País Vasco",
+    "country": "España",
+    "latitude": 43.038333892822266,
+    "longitude": -2.1881215572357178
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 0,
+    "max_bathrooms": 2,
+    "min_surface": 10,
+    "max_surface": 114,
+    "min_price": 0,
+    "max_price": 0
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/79147d63-89e1-4beb-a8dd-ad4fe2cf6908?rule=original",
+    "https://static.fotocasa.es/images/ads/3a86f160-cb90-43c9-bde2-e92a9fed12cc?rule=original",
+    "https://static.fotocasa.es/images/ads/f2b80cfb-8611-4378-8935-06b6c7b37d86?rule=original",
+    "https://static.fotocasa.es/images/ads/32b491b3-2ede-40d8-9c84-b3a90bcd76ca?rule=original",
+    "https://static.fotocasa.es/images/ads/fd1ac94d-07ec-4f12-8755-6a96b2ce5267?rule=original",
+    "https://static.fotocasa.es/images/ads/b1747466-2426-484a-8dd2-8af1bda79ef4?rule=original",
+    "https://static.fotocasa.es/images/ads/49539fe7-53c5-4aec-8c05-2a68d9cbd4af?rule=original",
+    "https://static.fotocasa.es/images/ads/c6cfbb42-4420-49b6-a250-08ab7b04441f?rule=original",
+    "https://static.fotocasa.es/images/ads/a9ed3f74-51d6-4b60-b769-0467bf6077e7?rule=original",
+    "https://static.fotocasa.es/images/ads/96eeddbd-4141-4117-81e2-da99c507c1c2?rule=original",
+    "https://static.fotocasa.es/images/ads/8c19f27a-79de-4109-9913-7cd422b710b6?rule=original",
+    "https://static.fotocasa.es/images/ads/c4ce959f-aa56-4c9a-8b8c-3f7300bd1930?rule=original",
+    "https://static.fotocasa.es/images/ads/d278fa8f-29f9-43df-92ac-35840e812f9a?rule=original",
+    "https://static.fotocasa.es/images/ads/415e2864-217d-4637-8ea3-298036858722?rule=original",
+    "https://static.fotocasa.es/images/ads/505a2917-c09b-4b58-8656-fc503d1475c7?rule=original",
+    "https://static.fotocasa.es/images/ads/9033ed9b-1c67-4e72-af3f-7ae08d5a96dd?rule=original",
+    "https://static.fotocasa.es/images/ads/5c159298-6e6c-4634-a219-074730e4ae70?rule=original"
+  ],
+  "videos": []
+}

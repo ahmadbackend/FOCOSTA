@@ -1,0 +1,41 @@
+{
+  "property_id": "20509446",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/denia/20509446",
+  "scrape_date": "2026-01-21T03:28:31Z",
+  "title": "MONTGO ZEN -  Fase 2",
+  "description": "28 viviendas de alto standing ubicadas en la zona soleada  del Montgó en Denia.\n\nMontgoZen está compuesto por dos edificios de 14 viviendas cada uno y zonas comunes con piscina y zonas verdes.  Todas las vivienda son de 1 y 2 dormitorios, siempre con un baño por dormitorio.  Las plantas bajas tienen  aceso directo a la calle por la parte de delante con vehículo y terazas delante y detrás de la vivienda.  Los áticos con ascensores (4)  tienen una terraza  ´roof top´ privada  de 65m2 con magníficas vistas . Fachadas con aislamiento SATE. Parkings techados. \n\nEquipamientos :  Bosh, Porcelanosa, Mitsubishi...",
+  "contact_info": {
+    "phone_number": "965092956",
+    "advertiser_name": "Montgó Zen",
+    "client_id": 9202774219903
+  },
+  "location": {
+    "city": "Dénia",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.82807540893555,
+    "longitude": 0.10601049661636353
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 45,
+    "max_surface": 76,
+    "min_price": 224000,
+    "max_price": 429000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/384a348b-2784-4603-9237-980b2c3bfc2e?rule=original",
+    "https://static.fotocasa.es/images/ads/3f77b17e-103e-4bb0-8aed-35acfe1aef53?rule=original",
+    "https://static.fotocasa.es/images/ads/515d18d1-9031-4159-8107-f4fa07f88cad?rule=original",
+    "https://static.fotocasa.es/images/ads/474e0055-dd1c-4b4c-b2cd-84df47c3877a?rule=original",
+    "https://static.fotocasa.es/images/ads/99943469-9dea-4ba7-ab81-85b181861ccc?rule=original",
+    "https://static.fotocasa.es/images/ads/5b8be31f-5872-40c1-9d07-df26f47814a2?rule=original",
+    "https://static.fotocasa.es/images/ads/7d04ed86-a964-4fe0-aaf8-204e3bd79c68?rule=original",
+    "https://static.fotocasa.es/images/ads/2b9c0c62-8009-475d-ab97-56cca0308b10?rule=original"
+  ],
+  "videos": []
+}

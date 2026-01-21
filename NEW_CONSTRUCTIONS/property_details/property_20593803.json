@@ -1,0 +1,49 @@
+{
+  "property_id": "20593803",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/felanitx/20593803",
+  "scrape_date": "2026-01-21T03:21:20Z",
+  "title": "Wyndham Portocolom",
+  "description": "Discover the essence of Mediterranean living with our latest collection of branded residences in Mallorca, comprised of 115 newly refurbished studio, 1 and 2-bedroom apartments.\n\nWyndham Portocolom – A new standard of living where the warmth of home meets high-quality hotel services. Just 250 meters from the golden sands of Cala Marçal, Wyndham Portocolom enjoys an enviable location in Portocolom Bay. With Cala d’Or just a short drive away, this setting combines convenience with stunning natural beauty.\n\nSurrounded by breathtaking Mediterranean scenery, these apartments are designed to offer more than just a place to stay.\n\nEach apartment will be newly renovated and fully furnished, with well-appointed kitchens and private terraces, finished to premium Wyndham brand standards. Residents will benefit from a host of hotel amenities, from reception and housekeeping to onsite restaurants, bar and mini market, in addition to sports and leisure facilities including;\n\nswimming pool, fitness suite & sauna, squash court, volleyball court, pétanque court, Entertainment Zone with cinema and pool tables, coworking lounge and more.\n\nWhether you are seeking a serene holiday getaway or a savvy rental investment, Wyndham Portocolom strikes the perfect balance between versatility, comfort, and timeless charm.",
+  "contact_info": {
+    "phone_number": "951341079",
+    "advertiser_name": "IDILIQ ESTATES",
+    "client_id": 9202772590888
+  },
+  "location": {
+    "city": "Felanitx",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.40803909301758,
+    "longitude": 3.2597150802612305
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 1,
+    "min_bathrooms": 1,
+    "max_bathrooms": 1,
+    "min_surface": 25,
+    "max_surface": 53,
+    "min_price": 191700,
+    "max_price": 325000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/36c8973a-5dc6-4d39-8216-3c6fcfb0608f?rule=original",
+    "https://static.fotocasa.es/images/ads/d8e8bdcc-3916-4adb-8c48-6c3b18e99dd2?rule=original",
+    "https://static.fotocasa.es/images/ads/90205449-e294-4e18-a6ee-e1b21a94de84?rule=original",
+    "https://static.fotocasa.es/images/ads/ecde6674-95e8-4449-869a-1bf370bbb043?rule=original",
+    "https://static.fotocasa.es/images/ads/47790bc9-50be-4d53-8930-87537b6d5c12?rule=original",
+    "https://static.fotocasa.es/images/ads/f49bc984-b153-4a03-b7b3-50c8e9d81f2d?rule=original",
+    "https://static.fotocasa.es/images/ads/f7fd1089-abbb-4687-81d6-a44bfdf1fbcc?rule=original",
+    "https://static.fotocasa.es/images/ads/3afd1642-6206-436b-bd2a-151e9c1a1737?rule=original",
+    "https://static.fotocasa.es/images/ads/555499a4-d99e-4b7f-b95b-5dd0f70e7406?rule=original",
+    "https://static.fotocasa.es/images/ads/1b5dfdbe-7de9-4e69-8384-c7cbc66e1743?rule=original",
+    "https://static.fotocasa.es/images/ads/d010d436-bad5-4886-a015-245f27a9dbd9?rule=original",
+    "https://static.fotocasa.es/images/ads/03cf66c3-c556-4846-bf9a-fa1437af8b00?rule=original",
+    "https://static.fotocasa.es/images/ads/e26afd5b-3edc-4325-81b7-267064dd8d67?rule=original",
+    "https://static.fotocasa.es/images/ads/fa418862-3936-4839-9ba8-c2315f11f6cf?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/c95a53a3-881b-4bcd-a889-e1c9b721fde7"
+  ]
+}

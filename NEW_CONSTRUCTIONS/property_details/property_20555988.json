@@ -1,0 +1,40 @@
+{
+  "property_id": "20555988",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/a-coruna-capital/20555988",
+  "scrape_date": "2026-01-21T03:00:01Z",
+  "title": "Torre Aura",
+  "description": "En A Coruña, en el nuevo barrio de San Pedro de Visma se encuentra Torre Aura.  Un complejo de 18 alturas y 96 viviendas, todas ellas con terrazas. Las viviendas han sido diseñadas para generar espacios amables, aprovechando al máximo la luz del entorno.\n\nCon opciones de viviendas de 2, 3 y 4 dormitorios, con 2 plazas de garajes, trastero y una gran variedad de tamaños y orientaciones, Torre Aura se ajusta perfectamente a las demandas únicas de cada hogar. \n\nLos espacios comunes, planificados para el disfrute de los residentes, son el corazón de la comunidad. Es el momento de comenzar tu nueva vida: gracias a las áreas verdes, el gimnasio y la sala comunitaria, aquí y ahora encontrarás todo lo que siempre soñaste tener.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": "A Coruña Capital ",
+    "province": "A Coruña",
+    "region": "Galicia",
+    "country": "España",
+    "latitude": 43.362186431884766,
+    "longitude": -8.428810119628906
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 111,
+    "max_surface": 170,
+    "min_price": 333800,
+    "max_price": 443800
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/cb84e7fb-4a78-4d9f-8a6b-97d82631a918?rule=original",
+    "https://static.fotocasa.es/images/ads/078fed73-8aab-4df7-94be-d0bd5c15e9b4?rule=original",
+    "https://static.fotocasa.es/images/ads/9ab6aa21-8350-4434-a548-7fd49774d1ee?rule=original",
+    "https://static.fotocasa.es/images/ads/4abb33b9-e59d-405a-a5f3-8d30cb91f4b7?rule=original",
+    "https://static.fotocasa.es/images/ads/2b4f09ac-2f88-4b1d-a6a7-274d27b6d3a3?rule=original",
+    "https://static.fotocasa.es/images/ads/f1133e6e-613c-496c-a835-a045e9a55fb5?rule=original",
+    "https://static.fotocasa.es/images/ads/77b95fe6-714b-4914-aaf7-050447bda4db?rule=original"
+  ],
+  "videos": []
+}

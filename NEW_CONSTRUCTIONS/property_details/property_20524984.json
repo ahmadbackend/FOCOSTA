@@ -1,0 +1,53 @@
+{
+  "property_id": "20524984",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cordoba-capital/20524984",
+  "scrape_date": "2026-01-21T04:21:31Z",
+  "title": "Terrazas de Santa Rosa II",
+  "description": "¡LLAVE EN MANO! ¡VISITA PISO PILOTO! VIVIENDAS DE 2 A 4 DORMITORIOS CON TERRAZAS A UN PASO DEL CENTRO DE CÓRDOBA.\n\nTerrazas de Santa Rosa II es un residencial de viviendas de obra nueva de 2, 3 y 4 dormitorios, todas con terrazas e increíbles áticos y bajos en la ciudad de Córdoba.\n\nEl proyecto está diseñado para ofrecer la máxima comodidad en el hogar, destacando la importancia de la orientación de las viviendas, optimizando la luz y la ventilación natural y cruzada, donde todas las terrazas vuelcan hacia las amplias zonas comunes, consiguiendo así mayor tranquilidad. Las viviendas se entregan con cocina equipada, lavadero independiente, instalación de aire acondicionado y excelentes calidades.\n\nEn sus cuidadas zonas comunes, Terrazas de Santa Rosa II ofrece una gran piscina, zonas verdes y de descanso, un parque infantil y bicicletero. Además, el residencial cuenta con garajes y trasteros incluidos en el precio para mayor comodidad de los residentes.\n\nTerrazas de Santa Rosa II se encuentra a un paso del centro de Córdoba, en un barrio consolidado que cuenta con todos los servicios necesarios para el día a día, con gran oferta de ocio, supermercados, comercios y con excelentes conexiones y fácil acceso con las principales arterias de la ciudad.\n\n*Los precios de las viviendas incluyen garaje y trastero.",
+  "contact_info": {
+    "phone_number": "957950384",
+    "advertiser_name": "GRUPO INSUR",
+    "client_id": 9202774667315
+  },
+  "location": {
+    "city": " Córdoba Capital",
+    "province": "Córdoba",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.89917755126953,
+    "longitude": -4.774216651916504
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 90,
+    "max_surface": 121,
+    "min_price": 243000,
+    "max_price": 292000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/82347ec9-060c-49b1-a7ab-9cc25055f9fb?rule=original",
+    "https://static.fotocasa.es/images/ads/d8c872cb-defe-44fa-81aa-b747b7948aa7?rule=original",
+    "https://static.fotocasa.es/images/ads/afbbead8-8567-4c9e-b496-cbbb1e100a0a?rule=original",
+    "https://static.fotocasa.es/images/ads/0e296d6f-8445-4e3d-8cb8-48bc701ccb6c?rule=original",
+    "https://static.fotocasa.es/images/ads/c53eb010-1dd2-42dc-9618-d91b6b52b3ad?rule=original",
+    "https://static.fotocasa.es/images/ads/de7c9018-ee53-4bcd-a7b7-2eb6f0450671?rule=original",
+    "https://static.fotocasa.es/images/ads/4dc1bec0-f0d7-4912-9bd4-a5d833a2ca25?rule=original",
+    "https://static.fotocasa.es/images/ads/a3077df3-27d4-4833-b02a-02710d8e8c29?rule=original",
+    "https://static.fotocasa.es/images/ads/69b1482a-53ca-4d17-951e-d236c1a16e3a?rule=original",
+    "https://static.fotocasa.es/images/ads/91006c53-07b4-4f82-a017-7e356cbb264e?rule=original",
+    "https://static.fotocasa.es/images/ads/1301b54a-2649-445b-869b-da4d63fc8f67?rule=original",
+    "https://static.fotocasa.es/images/ads/631f398b-d067-457f-991e-645cfa5dfad4?rule=original",
+    "https://static.fotocasa.es/images/ads/0dffae54-7666-4672-aa0a-fc2f0619923d?rule=original",
+    "https://static.fotocasa.es/images/ads/d0bd04ee-8b81-48a9-bc1f-371f6314775a?rule=original",
+    "https://static.fotocasa.es/images/ads/d0d180b6-3594-4977-becd-d825d1ee7a46?rule=original",
+    "https://static.fotocasa.es/images/ads/b5885300-81de-42d8-8dbb-e78122246af8?rule=original",
+    "https://static.fotocasa.es/images/ads/15809499-83ca-4927-bfd0-6d974488fcba?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/5Hv-paGvUQg",
+    "https://www.youtube.com/watch?v=4LwA1hwFtcc"
+  ]
+}

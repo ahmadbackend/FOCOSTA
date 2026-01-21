@@ -1,0 +1,43 @@
+{
+  "property_id": "20554431",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/vallromanes/20554431",
+  "scrape_date": "2026-01-21T03:54:22Z",
+  "title": "Residencial Cal Pirrot",
+  "description": "VIVIENDAS DE OBRA NUEVA EN VALLROMANES\nOBRAS INICIADAS\nÚltimas viviendas de 2, 3 y 4 dormitorios con amplias terrazas, completamente equipadas, en una exclusiva urbanización privada con piscina y solárium, en el corazón de Vallromanes.\n\nResidencial Cal Pirrot está ubicado en un entorno natural privilegiado, con vistas al Parque de la Serralada Litoral y una excelente conexión con Barcelona y el Maresme. Muy cerca del campo de golf y del EcoResort Mas Salagros.\n\nTodas las viviendas incluyen cocina equipada, armario en el dormitorio principal, garaje y trastero. Un estilo de vida pensado para disfrutar del exterior, la tranquilidad y el confort, desde el primer día.\n\nLas obras de construcción ya han empezado. ¡Infórmate de las viviendas disponibles!",
+  "contact_info": {
+    "phone_number": "943914258",
+    "advertiser_name": "URBEMAR",
+    "client_id": 9202774589055
+  },
+  "location": {
+    "city": "Vallromanes",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.5322380065918,
+    "longitude": 2.2957122325897217
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 65,
+    "max_surface": 100,
+    "min_price": 333000,
+    "max_price": 415000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b65fbeaa-b7d6-4a7f-ab17-e677fe71dcd8?rule=original",
+    "https://static.fotocasa.es/images/ads/4f373da6-a3f7-464e-9e55-275d08185fb8?rule=original",
+    "https://static.fotocasa.es/images/ads/60146286-a8fa-49d8-a247-8c0ac3f123f9?rule=original",
+    "https://static.fotocasa.es/images/ads/78c8bca1-2ab3-4469-8aad-a240c0701c9f?rule=original",
+    "https://static.fotocasa.es/images/ads/a0e95bc1-1434-4ff7-a6fa-a8e8626aba85?rule=original",
+    "https://static.fotocasa.es/images/ads/f475db80-9f55-49ed-9c54-20868ff2bf53?rule=original",
+    "https://static.fotocasa.es/images/ads/fd40b154-efbe-4a41-84b9-1223c7e7d911?rule=original",
+    "https://static.fotocasa.es/images/ads/5a2f40d0-c992-4a30-830f-2052c026aa05?rule=original",
+    "https://static.fotocasa.es/images/ads/815eea7f-b2f0-4bb7-89f7-d6bca2da2367?rule=original",
+    "https://static.fotocasa.es/images/ads/211d8550-8d64-49f9-ae78-b29049f9dfd7?rule=original"
+  ],
+  "videos": []
+}

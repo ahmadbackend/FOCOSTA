@@ -1,0 +1,39 @@
+{
+  "property_id": "20526907",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20526907",
+  "scrape_date": "2026-01-21T04:24:53Z",
+  "title": "RESIDENCIAL ALVAR",
+  "description": "¡Últimas Viviendas!  Obra Nueva en “Vicálvaro”\n\n“Residencial Alvar” nueva promoción en Madrid, situada en la zona de Vicálvaro, un barrio histórico y frente al Parque Forestal de Vicálvaro.\nEste proyecto está compuesto por 33 viviendas de 2, 3 y 4 dormitorios, ubicadas en la Calle Abad Juan Catalán.\n\n“Residencial Alvar” donde podrás disfrutar de la tranquilidad de un ambiente residencial rodeado de parques y áreas verdes, junto con la conveniencia de estar perfectamente conectado al corazón de Madrid gracias a su excelente red de transporte público, ya que ofrece Cercanías, líneas de metro y autobús.",
+  "contact_info": {
+    "phone_number": "910751908",
+    "advertiser_name": "LIBRA GESTION DE PROYECTOS SL",
+    "client_id": 9202766088767
+  },
+  "location": {
+    "city": " Madrid Capital",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.40627670288086,
+    "longitude": -3.592496633529663
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 84,
+    "max_surface": 109,
+    "min_price": 431800,
+    "max_price": 461400
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/cf59bd2d-dd35-428e-afb8-e5cf10e2a3a8?rule=original",
+    "https://static.fotocasa.es/images/ads/69c4dc5b-4a89-4faf-84fd-e68e5208ba47?rule=original",
+    "https://static.fotocasa.es/images/ads/76d5c5f5-3e76-44a0-89a8-9dfcc8c00869?rule=original",
+    "https://static.fotocasa.es/images/ads/e412e304-cb43-44cb-896b-b359025eba06?rule=original",
+    "https://static.fotocasa.es/images/ads/298f98e0-8ee5-456c-8266-d2064ec13c10?rule=original",
+    "https://static.fotocasa.es/images/ads/6c3491cc-a8f6-47d3-84c9-8d198a6e4757?rule=original"
+  ],
+  "videos": []
+}

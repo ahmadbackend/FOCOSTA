@@ -1,0 +1,41 @@
+{
+  "property_id": "20559123",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/vallirana/20559123",
+  "scrape_date": "2026-01-21T03:33:27Z",
+  "title": "ARBOÇAR",
+  "description": "Obra Nueva en el Centro de Vallirana. \n\n6 viviendas de 2 y 3 dormitorios en Passatge Arboçar y una vivienda unifamiliar con terraza en c/Verge de Montserrat. \n\nDiseño actual, con calificación energética A, climatización por conductos y calefacción por suelo radiante. Acabados de calidad en un entorno tranquilo, en segunda línea de c/Major y a 100 m del Ayuntamiento. Con plaza de aparcamiento y trastero opcional. \n\nTrasteros disponibles desde 5.000€.\n\nEntrega en primer semestre 2027.",
+  "contact_info": {
+    "phone_number": "935434172",
+    "advertiser_name": "SARGANT, S.L",
+    "client_id": 9202750992797
+  },
+  "location": {
+    "city": "Vallirana",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.38880157470703,
+    "longitude": 1.931844711303711
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 3,
+    "min_surface": 70,
+    "max_surface": 174,
+    "min_price": 253440,
+    "max_price": 450000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2f9adab3-990f-4bd7-ab02-f856bcc950da?rule=original",
+    "https://static.fotocasa.es/images/ads/f37e839a-cb31-49db-8163-83b7b481e31d?rule=original",
+    "https://static.fotocasa.es/images/ads/315f27c5-ad71-44c3-a232-c34f29ab1587?rule=original",
+    "https://static.fotocasa.es/images/ads/5fbad8fb-692e-42ce-af41-6f7c006a9c66?rule=original",
+    "https://static.fotocasa.es/images/ads/5520b762-e591-42dc-82e8-ab219e7d4330?rule=original",
+    "https://static.fotocasa.es/images/ads/dce43302-679b-4c1d-9028-d08b347f8763?rule=original",
+    "https://static.fotocasa.es/images/ads/67cd1853-4583-4e71-8780-9b05054854a7?rule=original",
+    "https://static.fotocasa.es/images/ads/df109cb1-50af-4991-9680-f9e6c2f23838?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,40 @@
+{
+  "property_id": "20532465",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/las-rozas-de-madrid/20532465",
+  "scrape_date": "2026-01-21T04:33:55Z",
+  "title": "Las Rozas - Club de Golf",
+  "description": "Exclusiva villa en Las Rozas\n\nEngel and Völkers presenta esta magnífica villa de obra nueva, situada en un entorno natural incomparable. Se trata de una exclusiva vivienda en la que cada rincón está pensado para el disfrute.\n\nLa villa, con una cuidada estética y original distribución de mano de Rozona Architecture and Construction, cuenta con una parcela privada vallada con jardines y estanque, piscina climatizada con apertura de cubierta alta mecanizada y amplio garaje cerrado.\n\nEl esmerado proyecto se adapta al suelo para respetar la vegetación autóctona de la zona y la vivienda se embulle en ella consiguiendo una integración perfecta. El cuidado diseño paisajístico integra a la perfección el conjunto de árboles, plantas, láminas de agua, pozos de fuego y materiales cuidadosamente escogidos para lograr un diseño moderno conservando la calidez de lo natural.\n\nDesde el jardín podemos acceder a las diferentes secciones de esta original vivienda, en la que la independencia de las estancias la hacen perfecta para vivir en familia manteniendo la privacidad.\n\nEn cada rincón podemos apreciar el lujo y la delicadeza de cada detalle, amplias y cálidas estancias llenas de luz natural, acabados de alta gama y energía sostenible.\n\nFachadas exteriores acabadas en lajas de piedra natural y madera exterior en las orientadas al norte.\n\nCalificación energética A. Dos sistemas de climatización: suelo\nradiante y conductos de aire con recuperador de calor.",
+  "contact_info": {
+    "phone_number": "910752075",
+    "advertiser_name": "EV MMC SPAIN S.L.U.",
+    "client_id": 9202765062251
+  },
+  "location": {
+    "city": "Las Rozas de Madrid",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.53079605102539,
+    "longitude": -3.9295201301574707
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 5,
+    "max_bathrooms": 5,
+    "min_surface": 515,
+    "max_surface": 515,
+    "min_price": 3900000,
+    "max_price": 3900000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1da46d9d-33d4-45d6-8a97-2210a4ce5455?rule=original",
+    "https://static.fotocasa.es/images/ads/b404d850-4b50-4088-b384-6825f0981612?rule=original",
+    "https://static.fotocasa.es/images/ads/3e1ad09e-0bc6-48d9-81fe-a84bda8ed8bc?rule=original",
+    "https://static.fotocasa.es/images/ads/75dd4a12-7388-4640-823a-938796f4e00d?rule=original",
+    "https://static.fotocasa.es/images/ads/e6bb623c-d59b-4804-9ac1-5f2dead3bde0?rule=original",
+    "https://static.fotocasa.es/images/ads/6213ce8a-20b6-4d77-b2b0-226c84158c21?rule=original",
+    "https://static.fotocasa.es/images/ads/4865bfa7-f340-4387-b413-6007a06debb1?rule=original"
+  ],
+  "videos": []
+}

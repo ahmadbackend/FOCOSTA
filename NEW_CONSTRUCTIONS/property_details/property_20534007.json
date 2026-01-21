@@ -1,0 +1,43 @@
+{
+  "property_id": "20534007",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/pulpi/20534007",
+  "scrape_date": "2026-01-21T03:25:46Z",
+  "title": "Swing Golf",
+  "description": "¡En comercialización!\nSwing Golf es una exclusiva promoción residencial situada junto al espectacular campo Mundo Aguilón Golf, en Pulpí, Almería, una ubicación privilegiada entre el mar y la montaña que invita al relax y al estilo de vida activo durante todo el año.\n\nEste moderno complejo está compuesto por 54 viviendas de 1, 2 y 3 dormitorios, todas ellas con plaza de garaje y trastero incluidos. Las viviendas han sido diseñadas con un enfoque contemporáneo y funcional, y cuentan con amplias terrazas con vistas al campo de golf y al mar, ideales para disfrutar del clima mediterráneo y el entorno natural.\n\nLa promoción ofrece completas zonas comunes pensadas para el bienestar y el disfrute de toda la familia, entre ellas una piscina comunitaria, perfecta para los días soleados del Levante almeriense, y un espacio destinado a gimnasio para mantenerse en forma sin salir de casa.\n\nRodeado por un entorno consolidado de naturaleza, deporte y tranquilidad, Swing Golf se encuentra en un enclave único dentro de la costa de Almería. Muy cerca están algunas de las mejores playas vírgenes del Mediterráneo y para los amantes del golf, el prestigioso Mundo Aguilón Golf, considerado uno de los campos más atractivos de la región por su diseño integrado en el paisaje montañoso.\n\nLas viviendas de Swing Golf han sido concebidas con materiales actuales, espacios luminosos y distribuciones optimizadas, ideales tanto como primera residencia, como segunda vivienda o inversión para alquiler vacacional.\n\nCalificación energética A.\nDisfruta de más de 300 días de sol al año, rodeado de naturaleza, deporte y mar, en una ubicación con gran proyección. ¡Elige calidad de vida en Swing Golf!",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": "Pulpí",
+    "province": "Almería",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.360076904296875,
+    "longitude": -1.707342505455017
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 91,
+    "max_surface": 126,
+    "min_price": 174000,
+    "max_price": 238000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/c608499a-323e-4796-b902-bfb9e6f0b99b?rule=original",
+    "https://static.fotocasa.es/images/ads/d9d53757-0cde-4e2a-94b1-2c3f4b106dcc?rule=original",
+    "https://static.fotocasa.es/images/ads/00c65891-4431-48ce-97a2-f004595bf3de?rule=original",
+    "https://static.fotocasa.es/images/ads/4016e14f-8947-4dbb-aa15-da9bf4ac4e03?rule=original",
+    "https://static.fotocasa.es/images/ads/eaa055e2-3ab4-42e0-ba0c-b127f3fb3978?rule=original",
+    "https://static.fotocasa.es/images/ads/b5c09415-587a-4be2-a39c-cc74f74843e3?rule=original",
+    "https://static.fotocasa.es/images/ads/126d113a-753c-4129-b224-9b0a906d5adb?rule=original",
+    "https://static.fotocasa.es/images/ads/41699ba4-32fc-4648-a88b-3cc31abbd337?rule=original",
+    "https://static.fotocasa.es/images/ads/a5db6161-578b-4863-93ac-f07b4484514f?rule=original",
+    "https://static.fotocasa.es/images/ads/9ea3ce72-078d-4612-ba99-03d1680f24a2?rule=original"
+  ],
+  "videos": []
+}

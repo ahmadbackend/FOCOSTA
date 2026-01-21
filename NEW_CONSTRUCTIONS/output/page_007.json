@@ -1,0 +1,217 @@
+{
+  "page": 7,
+  "url": "https://www.fotocasa.es/es/promociones-obra-nueva/comprar/viviendas/espana/todas-las-zonas/l/7",
+  "count": 30,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20625901",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de Juan Castelló, Tormos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/l-ametlla-del-valles/20612250",
+      "id": 0,
+      "price": null,
+      "location": "Carrer del Mestre Ramón Capell, 23, L'Ametlla del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/artes/20633013",
+      "id": 0,
+      "price": null,
+      "location": "Artés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/santa-cruz-de-bezana/20633830",
+      "id": 0,
+      "price": null,
+      "location": "Avenida del Marqués de Valdecilla, Soto de la Marina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/begues/20509526",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda Sitges, 23, Begues",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/a-coruna-capital/20555988",
+      "id": 0,
+      "price": null,
+      "location": "PARCELA ZRL PARCELA ZRL, Riazor - Visma",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20525093",
+      "id": 0,
+      "price": null,
+      "location": "Mesena, Pinar del Rey",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/el-ejido/20523864",
+      "id": 0,
+      "price": null,
+      "location": "Calle Virazon, 28, Almerimar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/lazkao/20511877",
+      "id": 0,
+      "price": null,
+      "location": "Iturrialdea Kalea, 19, Lazkao",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/palma-de-mallorca/20514805",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de Darwin, 1, El Coll d'en Rabassa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/los-corrales-de-buelna/20631986",
+      "id": 0,
+      "price": null,
+      "location": "Los Corrales de Buelna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20633211",
+      "id": 0,
+      "price": null,
+      "location": "Calle de Nuestra Señora de Valverde, 16, Tres Olivos - Valverde",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/getafe/20610592",
+      "id": 0,
+      "price": null,
+      "location": "Los Molinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/cullera/20633125",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de la Bega, 20, Pueblo de Cullera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/calafell/20623255",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Clos del Rectoret, 10, Calafell Poble",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20527036",
+      "id": 0,
+      "price": null,
+      "location": "Torrevigía, La Concha - Resina Golf",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/tacoronte/20632888",
+      "id": 0,
+      "price": null,
+      "location": "Calle Cecilio Marrero, 13, Campo de Golf - Agua García - Juan Fernández",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20559161",
+      "id": 0,
+      "price": null,
+      "location": "Plaça de l'Actor Enrique Rambal, 17, Ciutat Jardí",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20559160",
+      "id": 0,
+      "price": null,
+      "location": "Calle Doctor Balmis, 23, Aravaca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-just-desvern/20509425",
+      "id": 0,
+      "price": null,
+      "location": "La Plana - Bellsoleig",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/malaga-capital/20632448",
+      "id": 0,
+      "price": null,
+      "location": "Calle Idris, 6, Limonar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20632303",
+      "id": 0,
+      "price": null,
+      "location": "Calle Ventanilla, 20, Centro - Sagrario",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/adeje/20525116",
+      "id": 0,
+      "price": null,
+      "location": "Adeje  (Adeje  Tenerife), Callao Salvaje - Playa Paraíso",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/manresa/20525109",
+      "id": 0,
+      "price": null,
+      "location": "de Santpedor, Carretera de Vic  - Remei",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/oviedo/20555987",
+      "id": 0,
+      "price": null,
+      "location": "Parcela Rbb Vaqueros la Estrecha, HUCA - La Cadellada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/elche-elx/20631958",
+      "id": 0,
+      "price": null,
+      "location": "La Marina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/villanueva-de-la-torre/20567238",
+      "id": 0,
+      "price": null,
+      "location": "Villanueva de la Torre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/miraflores-de-la-sierra/20611157",
+      "id": 0,
+      "price": null,
+      "location": "Calle Arroyo de Valdesalices, 4, Miraflores de la Sierra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/villanueva-del-pardillo/20624133",
+      "id": 0,
+      "price": null,
+      "location": "Calle Palma, Ibiza - San Pedro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/badalona/20631661",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de Roger de Flor, Progrés - Pep Ventura",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "page": 48,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/48",
+  "scrape_date": "2026-01-21T04:19:13.869746",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-ascensor/188324767/d",
+      "id": 188324767,
+      "price": 430000,
+      "location": "Carrer Carrer dels Castillejos, Sagrada Família",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/paterna/20560282/188527425",
+      "id": 188527425,
+      "price": 299000,
+      "location": "  Calle Carrasca, 1, Parc Central",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/paterna/20560282/188527419",
+      "id": 188527419,
+      "price": 286000,
+      "location": "  Calle Carrasca, 1, Parc Central",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/paterna/20560282/188527421",
+      "id": 188527421,
+      "price": 357000,
+      "location": "  Calle Carrasca, 1, Parc Central",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/paterna/20560282/188527422",
+      "id": 188527422,
+      "price": 291000,
+      "location": "  Calle Carrasca, 1, Parc Central",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/paterna/20560282/188527424",
+      "id": 188527424,
+      "price": 320000,
+      "location": "  Calle Carrasca, 1, Parc Central",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/ascensor-patio/188553873/d",
+      "id": 188553873,
+      "price": 365000,
+      "location": "Embajadores - Lavapiés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-trastero-ascensor-amueblado-television-internet/187980192/d",
+      "id": 187980192,
+      "price": 749000,
+      "location": "Carrer de Lepant, Sagrada Família",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cordoba-capital/20631987/188588782",
+      "id": 188588782,
+      "price": 238000,
+      "location": "   Sector PPO2, El Higuerón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/begues/parking-terraza-trastero-ascensor-patio/187656103/d",
+      "id": 187656103,
+      "price": 350000,
+      "location": " MAJOR, Begues",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badajoz-capital/aire-acondicionado-parking-terraza-trastero-ascensor/188554453/d",
+      "id": 188554453,
+      "price": 175000,
+      "location": "Maria Auxiliadora - Barriada de Llera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-no-amueblado/188472223/d",
+      "id": 188472223,
+      "price": 270000,
+      "location": "De Jaime Hermida, Simancas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/calefaccion-parking-jardin-terraza-trastero-patio-piscina-amueblado/188560046/d",
+      "id": 188560046,
+      "price": 719900,
+      "location": "Calle Duero, El Bosque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/calefaccion-ascensor-no-amueblado/187394611/d",
+      "id": 187394611,
+      "price": 439000,
+      "location": "Santander - Bonifaz, Puerto Chico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilanova-i-la-geltru/terraza/188537249/d",
+      "id": 188537249,
+      "price": 260000,
+      "location": "Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188257174/d",
+      "id": 188257174,
+      "price": 450000,
+      "location": "Bailen, El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cabezon-de-la-sal/aire-acondicionado-patio/188155823/d",
+      "id": 188155823,
+      "price": 169000,
+      "location": " SAN PEDRO, Cabezón de la Sal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado/186827068/d",
+      "id": 186827068,
+      "price": 260000,
+      "location": "Carrer de la Lleialtat, El Raval",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tinajo/no-amueblado/188547493/d",
+      "id": 188547493,
+      "price": 183000,
+      "location": "De Los Volcanes, 6, Tinajo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-gabias/parking-zona-comunitaria-ascensor-amueblado-piscina/188546610/d",
+      "id": 188546610,
+      "price": 145000,
+      "location": "San Francisco - Chorillo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-amueblado-internet/188545500/d",
+      "id": 188545500,
+      "price": 1395000,
+      "location": "Fuente del Berro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilanova-i-la-geltru/terraza-ascensor/188374072/d",
+      "id": 188374072,
+      "price": 135000,
+      "location": "Calle nansa, Prat de Vilanova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/calefaccion-parking-terraza-ascensor-amueblado/186748785/d",
+      "id": 186748785,
+      "price": 125000,
+      "location": "Carrer Nou, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion/188543964/d",
+      "id": 188543964,
+      "price": 315000,
+      "location": "Calle Perpetua Díaz, Pradolongo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-hospitalet-de-llobregat/calefaccion-ascensor/188333920/d",
+      "id": 188333920,
+      "price": 320000,
+      "location": "Rambla CATALANA, La Torrassa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gava/terraza-ascensor-no-amueblado/188535099/d",
+      "id": 188535099,
+      "price": 355000,
+      "location": "Centre - Estació",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salou/aire-acondicionado-terraza-ascensor-piscina/188538805/d",
+      "id": 188538805,
+      "price": 149000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor/187837001/d",
+      "id": 187837001,
+      "price": 1387000,
+      "location": "Avenida de Sarrià, Barri de les Corts",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zaragoza-capital/calefaccion-ascensor-no-amueblado/188334452/d",
+      "id": 188334452,
+      "price": 190000,
+      "location": "De La Fabla Aragonesa, La Jota",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor/188022555/d",
+      "id": 188022555,
+      "price": 835000,
+      "location": "Carrer de Modolell, Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zaragoza-capital/ascensor/188490470/d",
+      "id": 188490470,
+      "price": 149000,
+      "location": "Calle JOSE PELLICER, 7, Barrio de San José",
+      "type": "realEstate"
+    }
+  ]
+}

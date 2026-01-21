@@ -1,0 +1,225 @@
+{
+  "page": 4,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/4",
+  "scrape_date": "2026-01-21T04:18:27.777502",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-amueblado-television-internet/187434072/d",
+      "id": 187434072,
+      "price": 889000,
+      "location": "Conde de Peñalver, Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/terraza-ascensor-amueblado-piscina/188496799/d",
+      "id": 188496799,
+      "price": 350000,
+      "location": "Centre - Platja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calonge-i-sant-antoni/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188304261/d",
+      "id": 188304261,
+      "price": 295000,
+      "location": "Aubi, Sant Antoni de Calonge",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor/187067517/d",
+      "id": 187067517,
+      "price": 1550000,
+      "location": "Carrer del Dr. Carulla, Les Tres Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calonge-i-sant-antoni/aire-acondicionado-calefaccion-parking-terraza-ascensor/177083187/d",
+      "id": 177083187,
+      "price": 764000,
+      "location": "Passeig Passeig Josep Mundet, Sant Antoni de Calonge",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-parking-terraza-trastero-ascensor-television-internet-no-amueblado/188100521/d",
+      "id": 188100521,
+      "price": 1550000,
+      "location": "Passeig de la Bonanova, Sant Gervasi i la Bonanova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calonge-i-sant-antoni/aire-acondicionado-calefaccion-parking-jardin-terraza/178914129/d",
+      "id": 178914129,
+      "price": 1250000,
+      "location": "Calle Gavarres, Sant Antoni de Calonge",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-no-amueblado/186975237/d",
+      "id": 186975237,
+      "price": 3790000,
+      "location": "Calle Alcalá, Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/aire-acondicionado-parking-terraza-trastero-ascensor-no-amueblado/187611048/d",
+      "id": 187611048,
+      "price": 450000,
+      "location": "Carrer el Rierot, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-terraza-ascensor-no-amueblado/186541183/d",
+      "id": 186541183,
+      "price": 2495000,
+      "location": "Calle de Viriato, Almagro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-terraza-ascensor/187776832/d",
+      "id": 187776832,
+      "price": 1195000,
+      "location": "Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/parking-terraza-ascensor-no-amueblado/187596679/d",
+      "id": 187596679,
+      "price": 746500,
+      "location": "El Poblenou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lasarte-oria/calefaccion-amueblado/188302223/d",
+      "id": 188302223,
+      "price": 225000,
+      "location": "Lasarte-Oria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-parking-terraza/188409186/d",
+      "id": 188409186,
+      "price": 310000,
+      "location": "El Besós i el Maresme",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/aire-acondicionado-calefaccion-terraza-trastero/186556519/d",
+      "id": 186556519,
+      "price": 400000,
+      "location": "Colòmbia, Vallirana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-terraza-ascensor-piscina-no-amueblado/188041278/d",
+      "id": 188041278,
+      "price": 780000,
+      "location": "Roger de Flor, El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/parking-trastero-ascensor/187153695/d",
+      "id": 187153695,
+      "price": 225334,
+      "location": "Colores -  Entreparques",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor-no-amueblado/186897515/d",
+      "id": 186897515,
+      "price": 409000,
+      "location": "DE PI I MARGALL, El Baix Guinardó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pioz/parking-jardin-internet-piscina-no-amueblado/188591088/d",
+      "id": 188591088,
+      "price": 214500,
+      "location": "Calle de los Olivos, Pioz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-patio-piscina/187397340/d",
+      "id": 187397340,
+      "price": 1850000,
+      "location": "Calle CAN CARALLEU, Sarrià",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calonge-i-sant-antoni/terraza-ascensor/187277532/d",
+      "id": 187277532,
+      "price": 825000,
+      "location": "Sant Antoni de Calonge",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilafranca-del-penedes/parking-ascensor/188559286/d",
+      "id": 188559286,
+      "price": 226000,
+      "location": "Calle Balcó de les Clotes, Les Clotes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/corbera-de-llobregat/aire-acondicionado-calefaccion-jardin-terraza-piscina/186717830/d",
+      "id": 186717830,
+      "price": 499000,
+      "location": "Calle Rafael Alberti, 18, Corbera de Llobregat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santiago-de-compostela/parking-terraza-ascensor-no-amueblado/187851609/d",
+      "id": 187851609,
+      "price": 490000,
+      "location": "Rua Pintor Urbano Lugris, 4, Castiñeiriño - Cruceiro de Sar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/calefaccion-parking-terraza-ascensor-no-amueblado/187519521/d",
+      "id": 187519521,
+      "price": 315000,
+      "location": "Carrer Lluís Companys, 2, Vallirana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santiago-de-compostela/parking-ascensor-no-amueblado/187128325/d",
+      "id": 187128325,
+      "price": 480000,
+      "location": "Rua Republica Arxentina, 13, Ensanche - Sar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188560089/d",
+      "id": 188560089,
+      "price": 1400000,
+      "location": "Carrer de Mallorca, L'Antiga Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/188480282/d",
+      "id": 188480282,
+      "price": 525000,
+      "location": "Corral, La Bordeta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-ascensor-no-amueblado/188390500/d",
+      "id": 188390500,
+      "price": 515000,
+      "location": "Paral.Lel, Sant Antoni",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-trastero-ascensor-amueblado/187867425/d",
+      "id": 187867425,
+      "price": 1980000,
+      "location": "Jose Ortega Y Gasset, Lista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/calefaccion-parking-jardin-terraza-trastero-no-amueblado/188458067/d",
+      "id": 188458067,
+      "price": 430000,
+      "location": "Pep Ventura, Fenals",
+      "type": "realEstate"
+    }
+  ]
+}

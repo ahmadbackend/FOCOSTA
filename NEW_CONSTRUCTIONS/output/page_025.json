@@ -1,0 +1,217 @@
+{
+  "page": 25,
+  "url": "https://www.fotocasa.es/es/promociones-obra-nueva/comprar/viviendas/espana/todas-las-zonas/l/25",
+  "count": 30,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/mijas/20523309",
+      "id": 0,
+      "price": null,
+      "location": "Calle Apero, Campo de Mijas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/a-coruna-capital/20522424",
+      "id": 0,
+      "price": null,
+      "location": "Rúa Montes, 20, Los Castros - Castrillón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/el-portil/20521009",
+      "id": 0,
+      "price": null,
+      "location": "Avenida Cristóbal Colón, El Portil",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/montequinto/20521007",
+      "id": 0,
+      "price": null,
+      "location": "Avenida Montequinto, Avenida de Europa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/dos-hermanas/20520941",
+      "id": 0,
+      "price": null,
+      "location": "Arco Norte - Avda España",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/lepe/20520813",
+      "id": 0,
+      "price": null,
+      "location": "Mariquita Florentina, 13, Lepe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/merida/20520738",
+      "id": 0,
+      "price": null,
+      "location": "Avenida Constitución, 23, Oeste",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/zahara-de-los-atunes/20518136",
+      "id": 0,
+      "price": null,
+      "location": "Calle Sierra del Retín, Zahara Pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/valladolid-capital/20518072",
+      "id": 0,
+      "price": null,
+      "location": "Calle Miguel Delibes, 27, Covaresa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/santa-coloma-de-gramenet/20517034",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda de la Generalitat, 111, El Raval",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/mollet-del-valles/20517032",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda d'Antoni Gaudí, 15, Can Pantiquet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/molins-de-rei/20517031",
+      "id": 0,
+      "price": null,
+      "location": "Carrer del Canal de la Infanta, 36, Molins de Rei",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20517030",
+      "id": 0,
+      "price": null,
+      "location": "Ronda del Guinardó, 1, La Salut",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/santona/20516984",
+      "id": 0,
+      "price": null,
+      "location": "Santoña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/ortuella/20516568",
+      "id": 0,
+      "price": null,
+      "location": "Catalina Gibaja Kalea, 8, Ortuella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/basauri/20515129",
+      "id": 0,
+      "price": null,
+      "location": "Kareaga Goikoa Kalea, 11, Kalero - Basozelai",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/dos-hermanas/20515103",
+      "id": 0,
+      "price": null,
+      "location": "Avenida Manuel Clavero Arévalo, Entrenúcleos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/boadilla-del-monte/20515079",
+      "id": 0,
+      "price": null,
+      "location": "Viñas Viejas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/barakaldo/20515029",
+      "id": 0,
+      "price": null,
+      "location": "Altos Hornos de Vizcaya Hiribidea, Rontegui - Pormetxeta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20513539",
+      "id": 0,
+      "price": null,
+      "location": "Avenida Federico García Lorca, 38, Avda. Federico Garcia Lorca - Nueva Estación Autobuses",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/castrillon/20511108",
+      "id": 0,
+      "price": null,
+      "location": "Calle Libertad, Piedras Blancas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/bilbao/20511005",
+      "id": 0,
+      "price": null,
+      "location": "Moncada Kalea, 3, Rekalde Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/burgos-capital/20511002",
+      "id": 0,
+      "price": null,
+      "location": "Calle de la Ventosa, 17, San Agustín - Parque Europa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/burgos-capital/20510968",
+      "id": 0,
+      "price": null,
+      "location": "Bulevar del Ferrocarril, Universidad - Las Huelgas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/blanes/20510059",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda de la Pau, 33, Mercat - Mas Moixa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/murla/20509484",
+      "id": 0,
+      "price": null,
+      "location": "Calle Cruz, 24, Murla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-rinconada/20644799",
+      "id": 0,
+      "price": null,
+      "location": "San José de la Rinconada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-just-desvern/20582902",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda de la Indústria, 66, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/salt/20553097",
+      "id": 0,
+      "price": null,
+      "location": "Barri dels Escriptors",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/cambrils/20643366",
+      "id": 0,
+      "price": null,
+      "location": "Camí Corralet, Vilafortuny Platja",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "page": 103,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/103",
+  "scrape_date": "2026-01-21T04:20:28.300741",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188201776/d",
+      "id": 188201776,
+      "price": 370000,
+      "location": "Carrer NAPOLS, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alella/aire-acondicionado-ascensor-no-amueblado/187919723/d",
+      "id": 187919723,
+      "price": 299000,
+      "location": "Carrer de Santa Teresa, Alella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zaragoza-capital/calefaccion-terraza/186884427/d",
+      "id": 186884427,
+      "price": 100500,
+      "location": "Nuez de Ebro, Salvador Allende",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lleida-capital/aire-acondicionado-ascensor/185164036/d",
+      "id": 185164036,
+      "price": 61500,
+      "location": "General Brito, Rambla Ferran",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/valencia-capital/20540634/187875671",
+      "id": 187875671,
+      "price": 295300,
+      "location": "Faitanar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/aire-acondicionado-ascensor-no-amueblado/187866571/d",
+      "id": 187866571,
+      "price": 400000,
+      "location": "Paseo Marítimo - San José - La Laguna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-no-amueblado/187665612/d",
+      "id": 187665612,
+      "price": 495000,
+      "location": "Castillejos - Cuzco",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/vinaros/20509537/185699372",
+      "id": 185699372,
+      "price": 253900,
+      "location": "Carrer de Sant Francesc, Casco Urbano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-cebria-de-vallalta/jardin-terraza-patio-internet-no-amueblado/187676468/d",
+      "id": 187676468,
+      "price": 240000,
+      "location": "Sant Cebrià de Vallalta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gava/aire-acondicionado-calefaccion-parking-terraza-piscina-no-amueblado/182689638/d",
+      "id": 182689638,
+      "price": 380000,
+      "location": "Gavà Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/carcaixent/aire-acondicionado-calefaccion-parking-terraza-trastero-patio-no-amueblado/182662234/d",
+      "id": 182662234,
+      "price": 250000,
+      "location": "Carcaixent",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/ascensor/186128120/d",
+      "id": 186128120,
+      "price": 115000,
+      "location": "Padre Mohedano, Viñuela - Rescatado",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sagunto-sagunt/terraza-ascensor-amueblado/187698865/d",
+      "id": 187698865,
+      "price": 160000,
+      "location": "Rey Don Martin, Nuevo Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/capmany/calefaccion-jardin-piscina-amueblado-internet/183804570/d",
+      "id": 183804570,
+      "price": 1200000,
+      "location": "Capmany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arcos/calefaccion-trastero/187591761/d",
+      "id": 187591761,
+      "price": 58000,
+      "location": "Carretera Villanueva Matamala, Arcos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lorca/parking-jardin-terraza-trastero/187550954/d",
+      "id": 187550954,
+      "price": 165000,
+      "location": "Humbrías",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guadarrama/calefaccion-parking/187305452/d",
+      "id": 187305452,
+      "price": 389900,
+      "location": "Calle Alfonso Senra, Guadarrama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calig/aire-acondicionado-calefaccion-parking-trastero-patio-amueblado/177513139/d",
+      "id": 177513139,
+      "price": 395000,
+      "location": "Càlig",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/premia-de-dalt/aire-acondicionado-calefaccion-ascensor-no-amueblado/184545668/d",
+      "id": 184545668,
+      "price": 584000,
+      "location": "Camí Empedrat, 5, Premià de Dalt",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-esteve-sesrovires/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina/186561200/d",
+      "id": 186561200,
+      "price": 519000,
+      "location": "Sant Esteve Sesrovires",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vitoria-gasteiz/calefaccion/186459090/d",
+      "id": 186459090,
+      "price": 170000,
+      "location": "Barrenkale Kalea, Casco Viejo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vila-real/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/186071544/d",
+      "id": 186071544,
+      "price": 450000,
+      "location": "Madrigal ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/calefaccion-parking-jardin-terraza-trastero-piscina-internet/184323718/d",
+      "id": 184323718,
+      "price": 545000,
+      "location": "Do Alcalde De Lavadores, Lavadores",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/calefaccion-parking-terraza-trastero-no-amueblado/188192840/d",
+      "id": 188192840,
+      "price": 330000,
+      "location": "Llefià",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-parking-jardin-trastero-piscina/188125147/d",
+      "id": 188125147,
+      "price": 690000,
+      "location": "Calle SALVIA, El Brillante -El Naranjo - El Tablero",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/185845341/d",
+      "id": 185845341,
+      "price": 650000,
+      "location": "JULI GARRETA, Eixample Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/colmenar-viejo/aire-acondicionado-jardin-terraza-patio/188281289/d",
+      "id": 188281289,
+      "price": 300000,
+      "location": " VICENTE BERROCAL, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/huelva-capital/aire-acondicionado-ascensor/188562979/d",
+      "id": 188562979,
+      "price": 154900,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor/188389808/d",
+      "id": 188389808,
+      "price": 209900,
+      "location": "Mangas Verdes - Las Flores - Parque del Sur",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/ascensor-no-amueblado/188591302/d",
+      "id": 188591302,
+      "price": 530000,
+      "location": "Área Romántica",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chipiona/terraza-trastero-patio-no-amueblado/186429651/d",
+      "id": 186429651,
+      "price": 459000,
+      "location": "Del Castillo, Playa Cruz del Mar",
+      "type": "realEstate"
+    }
+  ]
+}

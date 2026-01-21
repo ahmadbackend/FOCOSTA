@@ -1,0 +1,225 @@
+{
+  "page": 288,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/288",
+  "scrape_date": "2026-01-21T04:24:06.914378",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/ascensor/185589959/d",
+      "id": 185589959,
+      "price": 325000,
+      "location": "Calle Liberia, El Molinillo - Capuchinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/no-amueblado/186550659/d",
+      "id": 186550659,
+      "price": 210000,
+      "location": "Calle San Juan, El Pópulo - Santa María ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina/181771510/d",
+      "id": 181771510,
+      "price": 1350000,
+      "location": "Urbanización Este - Montepríncipe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/caldes-d-estrac/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina-internet/186893920/d",
+      "id": 186893920,
+      "price": 2750000,
+      "location": "Caldes d'Estrac",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/matadepera/matadepera/187648915/d",
+      "id": 187648915,
+      "price": 715000,
+      "location": "Carrer Camí dels Monjos, Matadepera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/piscina/187211936/d",
+      "id": 187211936,
+      "price": 1342000,
+      "location": "BERGUEDA , S'Agaró",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/soba/jardin-trastero-no-amueblado/187262620/d",
+      "id": 187262620,
+      "price": 50000,
+      "location": "Barrio Rehoyos, Soba",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/algorfa/aire-acondicionado-piscina-no-amueblado/186435575/d",
+      "id": 186435575,
+      "price": 535000,
+      "location": "N/A, Algorfa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valdilecha/patio-piscina/177330589/d",
+      "id": 177330589,
+      "price": 175000,
+      "location": "Calle Alcala, Valdilecha",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcena-de-cicero/parking-jardin-terraza-trastero/186800654/d",
+      "id": 186800654,
+      "price": 1850000,
+      "location": "Bárcena de Cicero",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granollers/aire-acondicionado-ascensor/188522612/d",
+      "id": 188522612,
+      "price": 299500,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/jardin-trastero/188503821/d",
+      "id": 188503821,
+      "price": 425000,
+      "location": "La Punxa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/calefaccion-no-amueblado/185509863/d",
+      "id": 185509863,
+      "price": 700000,
+      "location": "Avenida da Atlántida, Alcabre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/villaviciosa-de-odon/20509505/185699341",
+      "id": 185699341,
+      "price": 895000,
+      "location": "Calle Praga, El Bosque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/begues/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-no-amueblado/188234053/d",
+      "id": 188234053,
+      "price": 1350000,
+      "location": "Carrer Nostra Senyora de Falgars, Begues",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/inca/ascensor-amueblado/188227366/d",
+      "id": 188227366,
+      "price": 320000,
+      "location": "Carrer del General Weyler, 58, Cristo Rey - Parque Europa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-roca-del-valles/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/188183509/d",
+      "id": 188183509,
+      "price": 1200000,
+      "location": "De Les Vinyes, La Roca del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/terraza-trastero-zona-comunitaria-ascensor-piscina-no-amueblado/185291111/d",
+      "id": 185291111,
+      "price": 790000,
+      "location": "Calle de Fernández Caro, 7, Concepción",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-cruz-del-retamar/calefaccion-jardin-piscina/184024469/d",
+      "id": 184024469,
+      "price": 288900,
+      "location": "Calalberche",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/dos-hermanas/calefaccion-parking-jardin-piscina-amueblado/186483847/d",
+      "id": 186483847,
+      "price": 890000,
+      "location": "La Motilla - Fuente del Rey",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcudia/patio-amueblado/186839399/d",
+      "id": 186839399,
+      "price": 380000,
+      "location": "Ciutat d'Alcúdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/aire-acondicionado-calefaccion-parking-jardin-piscina/187749658/d",
+      "id": 187749658,
+      "price": 2675000,
+      "location": "Lluminetes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/polanco/parking-jardin-terraza/183284120/d",
+      "id": 183284120,
+      "price": 995000,
+      "location": " LA COCHERA, Polanco",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/haria/parking-jardin-terraza-trastero-amueblado/185942882/d",
+      "id": 185942882,
+      "price": 390000,
+      "location": "Máguez",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/serra/aire-acondicionado-calefaccion-parking-terraza-trastero-patio-internet-no-amueblado/188139193/d",
+      "id": 188139193,
+      "price": 425000,
+      "location": "Serra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/carranque/calefaccion-parking-jardin/187834020/d",
+      "id": 187834020,
+      "price": 275000,
+      "location": "Carranque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sotogrande/parking-terraza-trastero-piscina/188215303/d",
+      "id": 188215303,
+      "price": 610000,
+      "location": "Polo Sur, San Enrique - Guadiaro -  Pueblo Nuevo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torroella-de-montgri/calefaccion-parking-terraza-trastero-piscina-amueblado/187647160/d",
+      "id": 187647160,
+      "price": 2200000,
+      "location": "Torroella de Montgrí",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gorliz/parking-trastero/188378006/d",
+      "id": 188378006,
+      "price": 960000,
+      "location": "Gorliz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/calefaccion-parking-jardin-trastero-piscina-no-amueblado/188359967/d",
+      "id": 188359967,
+      "price": 680000,
+      "location": "Bembrive",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vinuelas/parking-jardin/187127479/d",
+      "id": 187127479,
+      "price": 40000,
+      "location": "Calle Mayor, Viñuelas",
+      "type": "realEstate"
+    }
+  ]
+}

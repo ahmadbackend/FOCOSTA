@@ -1,0 +1,64 @@
+{
+  "property_id": "20532308",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/gijon/20532308",
+  "scrape_date": "2026-01-21T03:23:01Z",
+  "title": "CULMIA Arbeyal III Gijón",
+  "description": "Obra nueva en la playa de Arbeyal\nCulmia Arbeyal III Gijón está formada por 59 viviendas de 2 y 3 dormitorios con plazas de garaje y trasteros. Todas las viviendas cuentan con amplias terrazas donde podrás disfrutar de unas maravillosas vistas al mar y a la playa de Arbeyal.\n\nEl conjunto residencial dispone tanto de una zona privada con Espacio Club Social donde poder realizar celebraciones como de zona infantil para disfrutar con los más pequeños. También cuenta con Espacio para Bicicletas.\n\nViviendas disponibles de 2 dormitorios\nSuelo radiante en viviendas\nCalificación energética A",
+  "contact_info": {
+    "phone_number": "910752063",
+    "advertiser_name": "Culmia",
+    "client_id": 9202774844777
+  },
+  "location": {
+    "city": "Gijón ",
+    "province": "Asturias",
+    "region": "Asturias",
+    "country": "España",
+    "latitude": 43.54240798950195,
+    "longitude": -5.691985130310059
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 89,
+    "max_surface": 89,
+    "min_price": 375000,
+    "max_price": 379000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b8a5142d-d729-4a22-969d-7829c7ee0dc0?rule=original",
+    "https://static.fotocasa.es/images/ads/6ce91d13-eb45-44da-9b54-cac4a0f3dc10?rule=original",
+    "https://static.fotocasa.es/images/ads/d6d2221a-5f75-4d25-b87c-34b6da4c5746?rule=original",
+    "https://static.fotocasa.es/images/ads/62abde86-151f-462a-8010-b86752849da7?rule=original",
+    "https://static.fotocasa.es/images/ads/5623fee8-11bf-4c6a-889a-f6cf5a11767e?rule=original",
+    "https://static.fotocasa.es/images/ads/5a672f56-5f50-4fe6-ae3b-c079fbcc44d4?rule=original",
+    "https://static.fotocasa.es/images/ads/2dc290ad-0d26-499e-ae36-2d2bba518c51?rule=original",
+    "https://static.fotocasa.es/images/ads/acd32e47-6092-466d-9741-473eee4c2d4f?rule=original",
+    "https://static.fotocasa.es/images/ads/3fb06e5f-3112-4c0e-a7bc-af1fd67fd27c?rule=original",
+    "https://static.fotocasa.es/images/ads/9ba00a40-036e-4f41-b009-59eb990b301c?rule=original",
+    "https://static.fotocasa.es/images/ads/6b5467f2-88bf-4cd7-a3b6-11c8ba62bb89?rule=original",
+    "https://static.fotocasa.es/images/ads/aa33b92a-3cbf-4d0a-9944-d9219fd3d61f?rule=original",
+    "https://static.fotocasa.es/images/ads/6e5469d5-cf08-45d2-92ce-f6b96eb9afe5?rule=original",
+    "https://static.fotocasa.es/images/ads/d35e49e4-6861-409a-ab69-b87636592458?rule=original",
+    "https://static.fotocasa.es/images/ads/1e502762-f847-4186-af40-d1e4d25ec5b9?rule=original",
+    "https://static.fotocasa.es/images/ads/2194a89e-164d-4b7b-994d-683866bbbeee?rule=original",
+    "https://static.fotocasa.es/images/ads/eb7a7bcb-47f4-4a8c-ad9b-f246ff8d77bc?rule=original",
+    "https://static.fotocasa.es/images/ads/f5acab19-335c-49c8-9670-739283ee441e?rule=original",
+    "https://static.fotocasa.es/images/ads/1436e3c9-0ab1-48cd-93f9-239770815f63?rule=original",
+    "https://static.fotocasa.es/images/ads/7590e11f-a0f8-488c-926f-325e718ec7fd?rule=original",
+    "https://static.fotocasa.es/images/ads/58ccf121-322e-4a57-9621-b28ecde174c3?rule=original",
+    "https://static.fotocasa.es/images/ads/ae44150a-cf6b-4b36-8238-c82151552da8?rule=original",
+    "https://static.fotocasa.es/images/ads/a2cd8b7d-7606-4a4b-b470-311019d9726a?rule=original",
+    "https://static.fotocasa.es/images/ads/b48080e9-f5b4-4666-9800-0c104b43286f?rule=original",
+    "https://static.fotocasa.es/images/ads/af747d4f-4177-4cc2-95bd-da30c61f5738?rule=original",
+    "https://static.fotocasa.es/images/ads/e2a2b535-fb9d-4d85-b030-53f5b0a37264?rule=original",
+    "https://static.fotocasa.es/images/ads/8d6f01cb-f15c-43ad-934d-3be5b29c23aa?rule=original",
+    "https://static.fotocasa.es/images/ads/04de06de-89cc-45c4-ac22-50be60a981da?rule=original",
+    "https://static.fotocasa.es/images/ads/1f08ba9b-2ff9-4b83-a453-bd19ee81bfd0?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/ccdefb29-974b-4e70-ace6-5eb3895b4866"
+  ]
+}

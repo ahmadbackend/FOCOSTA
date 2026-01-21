@@ -1,0 +1,43 @@
+{
+  "property_id": "20566098",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/rota/20566098",
+  "scrape_date": "2026-01-21T03:31:41Z",
+  "title": "DUNAS DE ROTA",
+  "description": "Descrube tu hogar ideal en nuestra exclusiva promoción, Dunas de Rota.27 exclusivas viviendas de 2,3 y 4 dormitorios,con opciones de bajos con jardin privado,áticos y amplias terrazas, primeras calidades y un cuidado diseño. Ubicada en Rota, en una zona risidencial en expansión, segura y tranquila,pero al mismo tiempo cerca de todo lo que necesitas. A solo unos pasos encontrarás restaurantes, tiendas, parques, supermercados, etc... Ubicado a su vez cerca de las principales vias de acceso, lo que te permitirá moverte rapidamente hasta cualquier punto de la ciudad y la provincia.\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nUn sitio perfecto para vivir y disfrutar durante todo el año. Su cercania a las fantásticas playas de Rota hace que sea un lugar privilegiado, tu pequeño paraiso. Garaje y trastero no incluidos en el precio. Precio IVA no incluido.",
+  "contact_info": {
+    "phone_number": "956913905",
+    "advertiser_name": "Alegra Homes S,L.",
+    "client_id": 9202766020725
+  },
+  "location": {
+    "city": "Rota",
+    "province": "Cádiz",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.63190841674805,
+    "longitude": -6.373814105987549
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 91,
+    "max_surface": 118,
+    "min_price": 275678,
+    "max_price": 384836
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/888c3810-836a-451e-b078-c6c570e2b853?rule=original",
+    "https://static.fotocasa.es/images/ads/301e62c0-c24f-4b53-8b24-09d907046437?rule=original",
+    "https://static.fotocasa.es/images/ads/8250e990-2fcc-44b1-865a-5fe72df4fb2e?rule=original",
+    "https://static.fotocasa.es/images/ads/be502e66-6e02-4124-b37b-83fdb048d3b2?rule=original",
+    "https://static.fotocasa.es/images/ads/7e4608c2-8d6f-4e47-b3ef-3116bf34c228?rule=original",
+    "https://static.fotocasa.es/images/ads/79140154-cebb-4696-a54f-b1f4ea5d11e3?rule=original",
+    "https://static.fotocasa.es/images/ads/e69515b1-d9c6-431b-9e99-210abfb7c7f0?rule=original",
+    "https://static.fotocasa.es/images/ads/2d9486a0-3990-45f8-ba1a-45d9e73affb4?rule=original",
+    "https://static.fotocasa.es/images/ads/470aeab3-3ef8-472f-9504-27c4a9659405?rule=original",
+    "https://static.fotocasa.es/images/ads/ac65a6f9-3ba2-491f-a068-0357adb2ad15?rule=original"
+  ],
+  "videos": []
+}

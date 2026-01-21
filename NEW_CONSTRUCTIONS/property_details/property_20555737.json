@@ -1,0 +1,43 @@
+{
+  "property_id": "20555737",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/urduliz/20555737",
+  "scrape_date": "2026-01-21T04:31:10Z",
+  "title": "URDÚLIZ - ELEXALDE RESIDENCIAL",
+  "description": "Elexalde Berdea Residencial es una promoción de obra nueva en Urduliz, localidad cercana a Bilbao y a la costa vasca. Se trata de un edificio moderno, con 86 viviendas de 1, 2 o 3 dormitorios distribuidas en 5 bloques. \n\nEl residencial, ubicado en una de las mejores zonas de Urduliz, está rodeado de todos los servicios y de grandes zonas verdes y cuenta con excelentes comunicaciones, ya que está al lado del metro que conecta con Bilbao y a 15 minutos en coche de la playa. \n\nLas viviendas son luminosas, confortables y con una amplia terraza en los pisos superiores y jardín en las plantas bajas. Las viviendas se edificarán conforme el estándar internacional de PASSIVHAUS el cual combina un sistema de EFICIENCIA ENERGÉTICA, CONFORT y CALIDAD DE AIRE INTERIOR de las unidades a construir con un CONSUMO DE ENERGÍA MUY BAJO. Los pisos contarán además con la certificación energética A y aerotermia para agua caliente sanitaria. \n\nTodas las viviendas disponen de una plaza de aparcamiento y trastero (no incluidos en el precio).",
+  "contact_info": {
+    "phone_number": "930443421",
+    "advertiser_name": "INMOCAIXA",
+    "client_id": 9202775050834
+  },
+  "location": {
+    "city": "Urduliz",
+    "province": "Bizkaia",
+    "region": "País Vasco",
+    "country": "España",
+    "latitude": 43.37858200073242,
+    "longitude": -2.958397388458252
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 69,
+    "max_surface": 69,
+    "min_price": 366000,
+    "max_price": 366000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4c5e4af4-43f6-4b0d-b6ae-383a5ce8d6b3?rule=original",
+    "https://static.fotocasa.es/images/ads/c7cea7aa-03ad-4e5d-a55f-55faaaa6234a?rule=original",
+    "https://static.fotocasa.es/images/ads/8e5ef30d-7b69-4972-b13f-c1452e2d7d59?rule=original",
+    "https://static.fotocasa.es/images/ads/7a142e4c-0865-430c-bbcd-85fecffcbcbd?rule=original",
+    "https://static.fotocasa.es/images/ads/9cd0396e-e8c1-4efe-8790-72928a35a4cf?rule=original",
+    "https://static.fotocasa.es/images/ads/28083a0e-90a3-44ab-b792-246987a051a2?rule=original",
+    "https://static.fotocasa.es/images/ads/35517b92-4207-42d1-a3d7-4d7b5e2545ad?rule=original",
+    "https://static.fotocasa.es/images/ads/4ff0f0c4-6479-4744-93db-c9e78798a2ac?rule=original",
+    "https://static.fotocasa.es/images/ads/1f7cf555-8f15-4285-a88e-984cc24d3462?rule=original",
+    "https://static.fotocasa.es/images/ads/5d429560-5703-481a-9ca9-ea30bc088654?rule=original"
+  ],
+  "videos": []
+}

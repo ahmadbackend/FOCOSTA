@@ -1,0 +1,56 @@
+{
+  "property_id": "20521727",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20521727",
+  "scrape_date": "2026-01-21T02:49:23Z",
+  "title": "Living Sabadell Gambús BySacresa",
+  "description": "CONSULTA NUESTRAS FORMAS DE PAGO PERSONALIZADAS\n\nLiving Sabadell Gambús es una nueva y exclusiva promoción residencial de viviendas ubicada junto al parque de Can Gambús, al oeste de la ciudad de Sabadell, en el nuevo barrio de Can Gambús. El parque, que ocupa un total de 13,24 ha y es, por su superficie, el segundo parque de la ciudad en el municipio de Sabadell, proporciona a las viviendas de Living Sabadell Gambús un entorno natural y lúdico, rodeado de exuberantes espacios verdes.\n\nEste enclave, uno de los más recientes y privilegiados del municipio, se encuentra a 26 km de Barcelona y próximo a otros grandes municipios del Vallès. Por su ubicación, disfruta de una excelente accesibilidad por carretera, con accesos rápidos a la C-58 y la N-150, además de contar con todo tipo de servicios en sus proximidades.\n\nLiving Sabadell Gambús ofrece un total de 132 viviendas con opciones de 1, 2, 3 y 4 dormitorios, plazas de parking, trasteros y una cuidada zona comunitaria con piscina y zona infantil. Además, la promoción dispone de un Gimnasio y un Meeting Room totalmente equipados, pensados para el bienestar, la actividad diaria y las necesidades de sus residentes. Todas las viviendas de plantas intermedias disponen de amplios balcones. El conjunto residencial se completa con amplias plantas bajas con jardín y áticos con grandes terrazas a pie de comedor y cocina.\n\nLas viviendas disponen de todos los elementos de aislamiento que determina la normativa vigente y se ofrece una selección de diferentes acabados para poder personalizar cada hogar según las preferencias individuales.\n\nLa fecha de entrega de la promoción está prevista para mayo de 2027.\n\nDescubre la excelencia de esta promoción, donde la calidad de vida se une a la comodidad y el confort, en un entorno incomparable.",
+  "contact_info": {
+    "phone_number": "931321568",
+    "advertiser_name": "Sacresa",
+    "client_id": 9202774614804
+  },
+  "location": {
+    "city": "Sabadell",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.54973220825195,
+    "longitude": 2.0785419940948486
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 85,
+    "max_surface": 166,
+    "min_price": 310000,
+    "max_price": 585500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/cefa22a3-1c10-4c52-af04-a417349e24a7?rule=original",
+    "https://static.fotocasa.es/images/ads/a59d6143-6432-4707-979b-2cad2488946b?rule=original",
+    "https://static.fotocasa.es/images/ads/afbce329-de89-4e7b-8b11-39aa311ee9e3?rule=original",
+    "https://static.fotocasa.es/images/ads/4ed7d3d9-32e8-4120-8c4b-df32b291730d?rule=original",
+    "https://static.fotocasa.es/images/ads/61a87495-6ad8-4871-8aff-6bc78da40e2e?rule=original",
+    "https://static.fotocasa.es/images/ads/4454b370-d7a8-4adf-b5d4-557201ad667c?rule=original",
+    "https://static.fotocasa.es/images/ads/07c8c93f-8d86-4987-b10f-3f09a5b4a2ed?rule=original",
+    "https://static.fotocasa.es/images/ads/c7b53410-42f2-4624-898a-ee056e4a986b?rule=original",
+    "https://static.fotocasa.es/images/ads/1ecd98a8-f837-4a83-aba3-c36eddfe3458?rule=original",
+    "https://static.fotocasa.es/images/ads/a4b6fd9b-b43b-4943-8390-53bb4b758e3e?rule=original",
+    "https://static.fotocasa.es/images/ads/246884ce-3fe5-4a16-90ae-4a4b436d8fe0?rule=original",
+    "https://static.fotocasa.es/images/ads/78eb78c3-2454-451c-bfec-8c41ff8b47da?rule=original",
+    "https://static.fotocasa.es/images/ads/38764896-cd61-4c7a-bfd7-5c51b6eae5f8?rule=original",
+    "https://static.fotocasa.es/images/ads/d820bc3d-ee6d-4dd3-a639-980e2f8a273e?rule=original",
+    "https://static.fotocasa.es/images/ads/81b41af8-edcd-491c-a610-45adcfe2d9eb?rule=original",
+    "https://static.fotocasa.es/images/ads/8bd6b0f9-ec0f-4ef3-ab01-eba7e57adfc0?rule=original",
+    "https://static.fotocasa.es/images/ads/fd23bafd-01b8-45bc-95ed-2998eb5c88bd?rule=original",
+    "https://static.fotocasa.es/images/ads/dcb09f2e-6ec3-4e08-8634-335773ee9230?rule=original",
+    "https://static.fotocasa.es/images/ads/956da853-2e8a-4717-9579-13eae40a3473?rule=original",
+    "https://static.fotocasa.es/images/ads/6eadd81a-29ad-44ec-bffd-57ccc346e48e?rule=original",
+    "https://static.fotocasa.es/images/ads/fa28cce5-6b13-4d69-9672-7a3aa529fb5a?rule=original",
+    "https://static.fotocasa.es/images/ads/9a9610d9-954c-4fc9-b21e-4d0246de1f5a?rule=original",
+    "https://static.fotocasa.es/images/ads/330fb102-2725-40d7-a335-ea1286526781?rule=original"
+  ],
+  "videos": []
+}

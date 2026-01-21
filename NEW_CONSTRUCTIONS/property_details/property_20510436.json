@@ -1,0 +1,57 @@
+{
+  "property_id": "20510436",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/son-servera/20510436",
+  "scrape_date": "2026-01-21T03:18:03Z",
+  "title": "RESIDENCIAL CALA BONA",
+  "description": "PROMOCION OBRA NUEVA CALA MILLOR\t\t\t\t\t\nResidencial Cala Bona te ofrece una oportunidad única para disfrutar de un hogar en uno de los entornos más envidiables de Mallorca. \nLa construcción comenzó el segundo trimestre de 2025.\nUbicado a tan solo 850 metros del mar, este exclusivo residencial garantiza un estilo de vida incomparable, combinando proximidad a la playa con todas las comodidades modernas.\n\nUbicación estratégica:  \nA 5 minutos a pie de Cala Millor, una de las zonas costeras más atractivas de la isla.\nA 50 minutos en coche del Aeropuerto de Palma y del moderno centro comercial FAN Mallorca.\nA 1 hora del centro de Palma.\nLa zona de Cala Bona ofrece uno de los paisajes más hermosos de Mallorca, además de una variada selección de restaurantes especializados en mariscos y pescado fresco, así como tiendas con productos típicos de la isla.\nCaracterísticas del complejo:\nEl Residencial Cala Bona está compuesto por 65 viviendas diseñadas para satisfacer diversas necesidades. Las tipologías disponibles son:\n\nViviendas libres\nViviendas de Protección Pública de Precio Limitado (VPTM)\nViviendas de Protección Oficial (VPO)\n\nLas viviendas están distribuidas en 3 plantas, con opciones de:\nPlantas bajas con jardín privado.\nTodas las unidades cuentan con terrazas y plaza de aparcamiento.\nOpciones de vivienda:\nApartamentos de 2 habitaciones, ideales para parejas o familias pequeñas.\nViviendas de 3 habitaciones, perfectas para quienes buscan más espacio y comodidad.\nAdemás, el complejo dispone de:\n76 plazas de aparcamiento\n38 trasteros\n\nNo pierdas la oportunidad de formar parte de este exclusivo complejo residencial, donde se combinan a la perfección la comodidad, una excelente ubicación y una alta calidad de vida.\n\n¡Descubre tu nuevo hogar en Residencial Cala Bona!\n\nContáctanos hoy mismo para más información y asegurar tu vivienda.",
+  "contact_info": {
+    "phone_number": "971082719",
+    "advertiser_name": "RE/MAX Experience",
+    "client_id": 9202770226186
+  },
+  "location": {
+    "city": "Son Servera",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.60449981689453,
+    "longitude": 3.3826396465301514
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 60,
+    "max_surface": 119,
+    "min_price": 193499,
+    "max_price": 525000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2bcf2174-e398-4da1-a9f4-cc26b8b356b3?rule=original",
+    "https://static.fotocasa.es/images/ads/f8bd84b0-f685-4bc6-9816-32890e421411?rule=original",
+    "https://static.fotocasa.es/images/ads/9e043e34-1893-4d94-8805-cbc20bc2b37e?rule=original",
+    "https://static.fotocasa.es/images/ads/6cc516e6-0f94-4786-88a7-93b7a468b56f?rule=original",
+    "https://static.fotocasa.es/images/ads/3253e00c-5138-4976-b64b-5b5b864c831b?rule=original",
+    "https://static.fotocasa.es/images/ads/2a16d090-9216-421a-967a-9b68d2d6d3e2?rule=original",
+    "https://static.fotocasa.es/images/ads/968bb43a-83ca-46b8-bbaa-6852a1c992dc?rule=original",
+    "https://static.fotocasa.es/images/ads/df1c2eed-8742-49b5-8deb-4b8913cef8e6?rule=original",
+    "https://static.fotocasa.es/images/ads/dbb89b2b-b0e6-4195-9e99-9b15070d0c98?rule=original",
+    "https://static.fotocasa.es/images/ads/0da1be09-e6df-41d0-a2eb-b008c161d37a?rule=original",
+    "https://static.fotocasa.es/images/ads/b37ae8bb-eabe-4871-9ee0-4941c23f377f?rule=original",
+    "https://static.fotocasa.es/images/ads/b889ed74-9533-4afd-beb4-0853e5204f96?rule=original",
+    "https://static.fotocasa.es/images/ads/f7ae9e9f-bec3-45ce-9c0e-a49cdb7c2b4d?rule=original",
+    "https://static.fotocasa.es/images/ads/05bb7c2d-4d58-41aa-8561-cdaf9960f429?rule=original",
+    "https://static.fotocasa.es/images/ads/9fd90de1-7513-4c15-a931-16931d85bdb7?rule=original",
+    "https://static.fotocasa.es/images/ads/7100e33f-70a7-4c71-b015-377f53d5977a?rule=original",
+    "https://static.fotocasa.es/images/ads/686ffd8b-2778-4f15-a54f-75e0bdcfb9be?rule=original",
+    "https://static.fotocasa.es/images/ads/171b33a3-40fe-4668-b911-82a33290af55?rule=original",
+    "https://static.fotocasa.es/images/ads/2583d821-6106-4ac4-aa97-14f169e7a298?rule=original",
+    "https://static.fotocasa.es/images/ads/a778b746-fd1f-4bce-bc0f-ec0d6b6c3ac9?rule=original",
+    "https://static.fotocasa.es/images/ads/06d2840a-5178-49c3-b6dd-526e6180bec3?rule=original",
+    "https://static.fotocasa.es/images/ads/750bb9c9-22b9-4bb2-b267-1ef4b5bd7c6c?rule=original",
+    "https://static.fotocasa.es/images/ads/0186c8e5-99a1-46f4-afc2-da8ec62aa9ed?rule=original",
+    "https://static.fotocasa.es/images/ads/aa8d0ae7-06e4-4f68-b02c-b0b76722f538?rule=original"
+  ],
+  "videos": []
+}

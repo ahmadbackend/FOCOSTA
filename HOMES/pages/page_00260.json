@@ -1,0 +1,225 @@
+{
+  "page": 260,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/260",
+  "scrape_date": "2026-01-21T04:23:09.358123",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/trastero-ascensor/188482353/d",
+      "id": 188482353,
+      "price": 650000,
+      "location": "Sagrada Família",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabinanigo/calefaccion-ascensor/187372805/d",
+      "id": 187372805,
+      "price": 108000,
+      "location": "pirineo, Sabiñánigo Centro - Aurín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pineda-de-mar/parking-trastero-ascensor/182416821/d",
+      "id": 182416821,
+      "price": 179000,
+      "location": "Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/les-alqueries-alquerias-del-nino-perdido/aire-acondicionado-calefaccion-terraza-no-amueblado/188345505/d",
+      "id": 188345505,
+      "price": 185000,
+      "location": "Les Alqueries / Alquerías del Niño Perdido",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-sebastian-de-los-reyes/aire-acondicionado-calefaccion-parking-patio-no-amueblado/187906729/d",
+      "id": 187906729,
+      "price": 790000,
+      "location": "Los Arroyos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-ascensor-no-amueblado/187247944/d",
+      "id": 187247944,
+      "price": 399000,
+      "location": "Concepción",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/parking-ascensor-no-amueblado/188295448/d",
+      "id": 188295448,
+      "price": 185000,
+      "location": "Calle Veracruz, Astilleros - La Paz  - Loreto - El Corte Inglés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/dos-hermanas-nuevo-san-andres/188339752/d",
+      "id": 188339752,
+      "price": 220000,
+      "location": "Dos Hermanas - Nuevo San Andrés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-coloma-de-gramenet/calefaccion/188338821/d",
+      "id": 188338821,
+      "price": 265000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/terraza-ascensor/188102776/d",
+      "id": 188102776,
+      "price": 299000,
+      "location": "Camino de Ronda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/calefaccion-terraza-ascensor-patio/186949735/d",
+      "id": 186949735,
+      "price": 175000,
+      "location": "Ensanche - Franciscanos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/calefaccion-terraza/184674607/d",
+      "id": 184674607,
+      "price": 540000,
+      "location": "Progrés - Pep Ventura",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-ejido/terraza-ascensor/187156223/d",
+      "id": 187156223,
+      "price": 90000,
+      "location": "Ejido Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vitoria-gasteiz/parking-jardin-terraza-amueblado/187580607/d",
+      "id": 187580607,
+      "price": 768000,
+      "location": "Hospitaleros Kalea, Mendizorrotza - Armentia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/molins-de-rei/aire-acondicionado-calefaccion-terraza/188160101/d",
+      "id": 188160101,
+      "price": 349000,
+      "location": "Molins de Rei",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-trastero-ascensor-no-amueblado/187646920/d",
+      "id": 187646920,
+      "price": 595000,
+      "location": "Guindalera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torremolinos/ascensor/188277376/d",
+      "id": 188277376,
+      "price": 115000,
+      "location": "Manantiales - Estación de Autobuses",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-calefaccion-ascensor-patio-no-amueblado/188255740/d",
+      "id": 188255740,
+      "price": 249000,
+      "location": "Triana Oeste",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuengirola/aire-acondicionado-calefaccion-terraza-trastero-patio-piscina/188269373/d",
+      "id": 188269373,
+      "price": 595000,
+      "location": "Puerto Deportivo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lugo-capital/parking-ascensor-no-amueblado/188085867/d",
+      "id": 188085867,
+      "price": 230000,
+      "location": "A Milagrosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/terraza-trastero-ascensor-no-amueblado/186843845/d",
+      "id": 186843845,
+      "price": 350000,
+      "location": "Centro - Ayuntamiento",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valle-de-trapaga-trapagaran/valle-de-trapaga-trapagaran/188244371/d",
+      "id": 188244371,
+      "price": 70000,
+      "location": "De Galindo De Valle De Trapaga, 6, -1, Valle de Trápaga-Trapagaran",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/ascensor/188241736/d",
+      "id": 188241736,
+      "price": 199000,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rincon-de-la-victoria/aire-acondicionado-parking-terraza-ascensor/188001766/d",
+      "id": 188001766,
+      "price": 390000,
+      "location": "La Cala del Moral",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/denia/calefaccion-parking-terraza-piscina-amueblado/187615532/d",
+      "id": 187615532,
+      "price": 265000,
+      "location": "El Palmar - Los Molinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/aire-acondicionado-parking-jardin-trastero-ascensor/188216393/d",
+      "id": 188216393,
+      "price": 1160000,
+      "location": "Valenoso",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arenys-de-mar/terraza-ascensor/187484774/d",
+      "id": 187484774,
+      "price": 179900,
+      "location": "Urbanitzacions  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/ascensor/187980560/d",
+      "id": 187980560,
+      "price": 215000,
+      "location": "Campoamor",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiclana-de-la-frontera/terraza/186181784/d",
+      "id": 186181784,
+      "price": 139990,
+      "location": "La Banda - Campo de Fútbol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mao-mahon/terraza-ascensor-no-amueblado/187412586/d",
+      "id": 187412586,
+      "price": 350000,
+      "location": "Dalt Sant Joan - Plaça Eivissa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ayamonte/aire-acondicionado-parking-jardin-terraza-piscina-amueblado/188168690/d",
+      "id": 188168690,
+      "price": 449000,
+      "location": "Costa Esuri",
+      "type": "realEstate"
+    }
+  ]
+}

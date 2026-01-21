@@ -1,0 +1,47 @@
+{
+  "property_id": "20602419",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valladolid-capital/20602419",
+  "scrape_date": "2026-01-21T04:23:19Z",
+  "title": "Residencial INBISA Arco de Ladrillo",
+  "description": "Con un diseño elegante y contemporáneo, Residencial INBISA Arco de Ladrillo presenta un exclusivo proyecto residencial compuesto por 79 viviendas, en un entorno residencial privado que invita a disfrutar del tiempo libre en sus completas zonas comunes.\nLa promoción ofrece una cuidada variedad de tipologías de 2, 3 y 4 dormitorios, todas ellas con amplias terrazas que invitan a disfrutar del exterior. Además, incluye opciones singulares como bajos con jardín privado y áticos con espectaculares terrazas, ideales para quienes buscan un estilo de vida más conectado con la luz, el aire libre y la privacidad.\nEl diseño de Residencial INBISA Arco de Ladrillo marca un antes y un después en el paisaje urbano de Valladolid. Su arquitectura escalonada, moderna y elegante no solo aporta una estética singular, sino que también responde a una visión contemporánea de la habitabilidad.\nEste diseño distintivo no solo embellece la ciudad, sino que también mejora la experiencia residencial, ofreciendo viviendas luminosas, abiertas al exterior y conectadas con el entorno. Residencial INBISA Arco de Ladrillo es mucho más que un conjunto de viviendas: es una propuesta arquitectónica que redefine el concepto de vivir en el centro de Valladolid.",
+  "contact_info": {
+    "phone_number": "983980174",
+    "advertiser_name": "INBISA",
+    "client_id": 9202766882932
+  },
+  "location": {
+    "city": "Valladolid Capital",
+    "province": "Valladolid",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 41.637996673583984,
+    "longitude": -4.728360652923584
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 104,
+    "max_surface": 225,
+    "min_price": 274800,
+    "max_price": 502400
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/c34b446e-7774-4c50-97db-3c419a9579c0?rule=original",
+    "https://static.fotocasa.es/images/ads/5fec9e7d-1d8c-4399-b0a7-4939e519fb3e?rule=original",
+    "https://static.fotocasa.es/images/ads/414ace80-8794-44bd-81ea-b4151d6fde3b?rule=original",
+    "https://static.fotocasa.es/images/ads/ccd67066-df03-4f28-91a0-a80e60d8c2f5?rule=original",
+    "https://static.fotocasa.es/images/ads/68c6d885-4679-437b-8056-36103038c954?rule=original",
+    "https://static.fotocasa.es/images/ads/d78e6a80-ea38-497f-92ac-528ec3be9a22?rule=original",
+    "https://static.fotocasa.es/images/ads/db402ceb-c03f-42e0-962f-f1af1ecccf49?rule=original",
+    "https://static.fotocasa.es/images/ads/011e5590-052f-4ca7-bb14-94e32ba21cfc?rule=original",
+    "https://static.fotocasa.es/images/ads/8d610119-48dd-4280-b503-9a7bf6dab81e?rule=original",
+    "https://static.fotocasa.es/images/ads/d99828d2-bc69-40bc-a8b7-e28e5e9d03e4?rule=original",
+    "https://static.fotocasa.es/images/ads/1375ecc5-25a9-4415-846b-b56c35747289?rule=original",
+    "https://static.fotocasa.es/images/ads/fe2c8c28-9055-4709-97ad-2d272e6390d9?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/6vD95yzjv4Y"
+  ]
+}

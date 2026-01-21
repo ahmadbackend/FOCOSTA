@@ -1,0 +1,225 @@
+{
+  "page": 298,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/298",
+  "scrape_date": "2026-01-21T04:24:05.321216",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/ascensor-amueblado/186875030/d",
+      "id": 186875030,
+      "price": 350000,
+      "location": "Calle Ferrándiz, Conde de Ureña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vinaros/terraza-patio/188046418/d",
+      "id": 188046418,
+      "price": 205000,
+      "location": " José María Salaverria, Boverals - Saldonar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion-parking-terraza-trastero-ascensor/187020833/d",
+      "id": 187020833,
+      "price": 334000,
+      "location": "San Pedro y San Felices",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arrasate-mondragon/calefaccion-ascensor/184645016/d",
+      "id": 184645016,
+      "price": 155000,
+      "location": "Arrasate / Mondragón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion/188425028/d",
+      "id": 188425028,
+      "price": 95000,
+      "location": "San Julián - Barriada de Cortes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion/187975880/d",
+      "id": 187975880,
+      "price": 95000,
+      "location": "San Pedro y San Felices",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mallabia/calefaccion-trastero-ascensor-amueblado/186542290/d",
+      "id": 186542290,
+      "price": 235000,
+      "location": "Mallabia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/puigcerda/calefaccion-ascensor/186096990/d",
+      "id": 186096990,
+      "price": 250000,
+      "location": "Puigcerdà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/quintanilla-de-onesimo/jardin/184595528/d",
+      "id": 184595528,
+      "price": 59000,
+      "location": "Quintanilla de Onésimo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/merida/aire-acondicionado-calefaccion-trastero-ascensor-piscina/187318881/d",
+      "id": 187318881,
+      "price": 185000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion-trastero/187007875/d",
+      "id": 187007875,
+      "price": 359000,
+      "location": "Barriada Yagüe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion-parking-terraza-trastero-ascensor/184773304/d",
+      "id": 184773304,
+      "price": 196000,
+      "location": "Illera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion/187976769/d",
+      "id": 187976769,
+      "price": 109000,
+      "location": "San Pedro y San Felices",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/legutio/calefaccion-parking-jardin-terraza/184841747/d",
+      "id": 184841747,
+      "price": 525000,
+      "location": "Legutio",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castromonte/patio/187093916/d",
+      "id": 187093916,
+      "price": 74000,
+      "location": "Castromonte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion-trastero-patio/188446304/d",
+      "id": 188446304,
+      "price": 880000,
+      "location": "Illera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zegama/calefaccion-jardin-trastero/183633791/d",
+      "id": 183633791,
+      "price": 230323,
+      "location": "Ikaitzalde Auzoa, Zegama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/javea-xabia/aire-acondicionado-calefaccion-terraza-trastero-amueblado/183411269/d",
+      "id": 183411269,
+      "price": 1050000,
+      "location": "Partides comunes - Adsubia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/santpedor/20582905/187478582",
+      "id": 187478582,
+      "price": 228500,
+      "location": "Carretera de Callús, 49, Santpedor",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/aire-acondicionado-ascensor-amueblado/187235902/d",
+      "id": 187235902,
+      "price": 190000,
+      "location": "Calle SAN FERNANDO, Numancia - San Fernando",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor-no-amueblado/188534026/d",
+      "id": 188534026,
+      "price": 255000,
+      "location": "El Besós i el Maresme",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/altea/aire-acondicionado-calefaccion-parking-terraza-trastero-piscina/187235516/d",
+      "id": 187235516,
+      "price": 775000,
+      "location": "Altea la Vella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-barrios/jardin-terraza-zona-comunitaria-ascensor-piscina-no-amueblado/187016486/d",
+      "id": 187016486,
+      "price": 148990,
+      "location": "Los Barrios",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelodones/aire-acondicionado-calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-amueblado-television-internet-piscina/187271638/d",
+      "id": 187271638,
+      "price": 429000,
+      "location": "Calle los Ángeles, Los Ángeles - Jarandilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-just-desvern/calefaccion-terraza-trastero/188544892/d",
+      "id": 188544892,
+      "price": 410000,
+      "location": "Carrer Verge dels Dolors, Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gandia/benipeixcar-el-raval/187004755/d",
+      "id": 187004755,
+      "price": 120175,
+      "location": " SEQUIA ASSUT, Benipeixcar - El Raval ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/paterna/calefaccion/186305546/d",
+      "id": 186305546,
+      "price": 190000,
+      "location": "El Alborgí",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mollet-del-valles/aire-acondicionado-calefaccion-parking-trastero-zona-comunitaria-ascensor-no-amueblado/188555430/d",
+      "id": 188555430,
+      "price": 280000,
+      "location": "Can Borrell",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilanova-del-valles/aire-acondicionado-parking-jardin-patio/186305123/d",
+      "id": 186305123,
+      "price": 270000,
+      "location": "Vilanova del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salou/terraza/187424463/d",
+      "id": 187424463,
+      "price": 139900,
+      "location": "Platja de Llevant",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-ascensor/188291496/d",
+      "id": 188291496,
+      "price": 167260,
+      "location": "Calle Abril, Villegas",
+      "type": "realEstate"
+    }
+  ]
+}

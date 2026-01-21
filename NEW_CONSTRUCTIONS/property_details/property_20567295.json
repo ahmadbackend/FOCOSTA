@@ -1,0 +1,49 @@
+{
+  "property_id": "20567295",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/mataro/20567295",
+  "scrape_date": "2026-01-21T03:30:44Z",
+  "title": "D-0461BI Impresionante promoción de pisos frente al mar en Mataró-El Rengle.",
+  "description": "Engel&Völkers les ofrece esta promoción de pisos de alto standing con espectaculares vistas al mar. El edificio está ubicado en el barrio de El Rengle de Mataró, la mejor zona residencial de la población, de reciente urbanización, a 150 metros de la playa, con muy fácil acceso a la autopista hacia Barcelona. El gran atractivo de estas viviendas y su ubicación es una garantía de inversión. Precios desde 472.000 euros.\n\nTodos los pisos tienen terraza de 22 a 49 m2, a la cual se accede desde el salón-comedor (con cocina integrada) y desde sus dos o tres dormitorios, confiriendo luminosidad y vistas al mar a todas las estancias del piso. Las seis plantas del edificio están coronadas por una estupenda terraza comunitaria con impresionantes vistas al mar, piscina desbordante y zonas de recreo (jardines relajantes, ejercicio de calistenia, juegos infantiles).\n\nLos acabados premium combinan diseño moderno y elementos naturales: amplios ventanales, techos de madera en algunas zonas de la vivienda, mobiliario de diseño minimalista y refinado con texturas naturales. Cocinas equipadas de bonito diseño; climatización eficiente por conductos.\n\nEl elegante edificio ha sido diseñado por un estudio de arquitectura de renombre internacional especializado en proyectos altamente sostenibles e innovadores. Destacan algunas características funcionales del mismo, por ejemplo, cada piso dispone de paneles de madera móviles para regular la luz en su interior, confiriendo confort y mayor eficiencia energética a las viviendas; los buzones de última generación permiten recibir paquetes de forma cómoda y segura; el edificio dispone de gimnasio totalmente equipado.",
+  "contact_info": {
+    "phone_number": "930441963",
+    "advertiser_name": "EV MMC SPAIN ,S.L.U",
+    "client_id": 9202758116439
+  },
+  "location": {
+    "city": "Mataró",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.52751541137695,
+    "longitude": 2.4366612434387207
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 101,
+    "max_surface": 124,
+    "min_price": 507483,
+    "max_price": 699528
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/9e39a99f-3570-4a47-b66c-851a64cd1599?rule=original",
+    "https://static.fotocasa.es/images/ads/2ba66504-9663-4405-9f3b-e6eb85a9e402?rule=original",
+    "https://static.fotocasa.es/images/ads/c869876c-a565-4e61-b894-209e42995766?rule=original",
+    "https://static.fotocasa.es/images/ads/a236f0bd-e334-4793-a21c-20a056e2ff31?rule=original",
+    "https://static.fotocasa.es/images/ads/d32cfb46-0d05-43c7-b2f0-975021c2a3f3?rule=original",
+    "https://static.fotocasa.es/images/ads/7be22187-6d8d-4d33-82b8-8b284e9fecd9?rule=original",
+    "https://static.fotocasa.es/images/ads/026436d4-ae55-46d3-9737-b64ebc3c4428?rule=original",
+    "https://static.fotocasa.es/images/ads/47f1fce9-e6a3-472d-81b0-27d67fbb14a6?rule=original",
+    "https://static.fotocasa.es/images/ads/becfa4e7-1550-46da-99ef-343cc5d69b81?rule=original",
+    "https://static.fotocasa.es/images/ads/66045bd2-ba8d-4697-a0e4-b38c80fbcce2?rule=original",
+    "https://static.fotocasa.es/images/ads/7d157e97-a1ce-4f14-b57e-da57acd71fef?rule=original",
+    "https://static.fotocasa.es/images/ads/c4aa5f72-1272-4057-a8ee-ab5a551ff2b5?rule=original",
+    "https://static.fotocasa.es/images/ads/869abce0-e3f8-41ae-accf-d20d53a0b06e?rule=original",
+    "https://static.fotocasa.es/images/ads/76dccdb0-f1af-4da9-a5b7-57b89e78b7a3?rule=original",
+    "https://static.fotocasa.es/images/ads/b327dd78-3c13-4010-963c-2553dc066d65?rule=original",
+    "https://static.fotocasa.es/images/ads/5585b577-f4db-4566-a888-29bfbee17315?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,48 @@
+{
+  "property_id": "20525000",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/dos-hermanas/20525000",
+  "scrape_date": "2026-01-21T04:10:18Z",
+  "title": "Insur Iris",
+  "description": "¡Obras iniciadas! Viviendas de 2 a 4 dormitorios con terrazas y zonas comunes junto al parque Dehesa Doña María\n\nNueva promoción de 101 viviendas con terrazas, bajos con jardín, y áticos con vistas infinitas a la naturaleza.\nTodas han sido diseñadas para aprovechar al máximo la luz natural gracias a su excelente orientación, con espacios diáfanos que ofrecen el máximo confort, luz y una integración perfecta con el entorno natural que le rodea. Además, todas las viviendas de 2, 3 y 4 dormitorios, se entregan con cocinas equipadas e instalación de aerotermia y aire acondicionado frío-calor.\n\nEl complejo dispone de magníficas zonas comunes para disfrutar en familia, incluyendo piscina, salón social y amplias áreas verdes, ideales para desconectar en tu tiempo libre.\n\nInsur Iris está situado en una ubicación privilegiada en Entrenúcleos, junto al Parque Dehesa Doña María, lo que te permite tener unas vistas increíbles a la naturaleza. Además, cuenta con una excelente conexión que conecta rápidamente con Sevilla capital y con el centro de Dos Hermanas y con la SE-30 y SE-40. La zona también dispone de todos los servicios necesarios, con fácil acceso a universidades, supermercados, colegios, zonas de ocio y mucho más, lo que garantiza una excelente calidad de vida en un entorno tranquilo y bien comunicado.\n\nPromoción con Plan Flexible Insur\nCon el Plan Flexible Insur, podrás estar seguro. Estudiamos cada caso de manera personalizada y te damos el apoyo y asesoramiento que más se ajuste a tus necesidades con medidas como estas:\n\nCalendario de pago a medida de tus posibilidades.\nEstudio de fórmulas de pago de las cantidades acordadas inicialmente y flexibilidad en el pago de las mismas.\nEstudio de fórmulas excepcionales para aplazar el pago de cuotas a un momento posterior a la entrega de la vivienda.\nMedidas aplicables exclusivamente a Insur Iris previo estudio personalizado.\n\nGrupo Insur es líder en Entrenúcleos desde 2015, siendo los primeros en apostar y ofrecer la posibilidad de vivir en la zona de mayor proyección de crecimiento de Sevilla. Con más de 15 promociones y más de 2.200 viviendas, Grupo Insur ofrece al cliente bienestar y calidad en sus viviendas, creando lugares donde sentirse inspirado cada día.\n\nLíderes en Entrenúcleos, inspirando el mañana. *Garaje y trastero no incluidos en el precio.",
+  "contact_info": {
+    "phone_number": "954201726",
+    "advertiser_name": "GRUPO INSUR",
+    "client_id": 9202774667315
+  },
+  "location": {
+    "city": "Dos Hermanas",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.30335235595703,
+    "longitude": -5.933242321014404
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 100,
+    "max_surface": 162,
+    "min_price": 230000,
+    "max_price": 375000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1c972cd2-a729-46f4-9027-15f045faac90?rule=original",
+    "https://static.fotocasa.es/images/ads/da5ff86b-67cf-408b-8aef-5b4e9996f43e?rule=original",
+    "https://static.fotocasa.es/images/ads/e26f75e9-a986-4cb9-b5fc-9bf18e7bc5d4?rule=original",
+    "https://static.fotocasa.es/images/ads/81029431-c594-4925-a607-98d732a20875?rule=original",
+    "https://static.fotocasa.es/images/ads/5400cc61-0b8f-4b0f-875e-2a28e3dd8b87?rule=original",
+    "https://static.fotocasa.es/images/ads/71955472-3866-40e8-8dee-22a8fe755eb7?rule=original",
+    "https://static.fotocasa.es/images/ads/7e327156-5cb6-4926-b9e7-670b81ea00e9?rule=original",
+    "https://static.fotocasa.es/images/ads/46c37338-31eb-4114-9453-24228545f333?rule=original",
+    "https://static.fotocasa.es/images/ads/3c0a4aaa-a285-483d-888b-a1d834087a28?rule=original",
+    "https://static.fotocasa.es/images/ads/2fea3e4e-e6fd-4d36-b8fa-4495ad7492c9?rule=original",
+    "https://static.fotocasa.es/images/ads/09525e47-99c3-4245-97af-c1fb541e0e5a?rule=original",
+    "https://static.fotocasa.es/images/ads/4938e2f0-525d-4c28-a0b7-b1b4ea194657?rule=original",
+    "https://static.fotocasa.es/images/ads/4238da66-4612-4674-abbb-36795fa3af7b?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/3e088e8e-1d47-4090-82b7-c8b6a4d4cf1b"
+  ]
+}

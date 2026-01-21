@@ -1,0 +1,225 @@
+{
+  "page": 67,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/67",
+  "scrape_date": "2026-01-21T04:19:37.773641",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/fort-pienc/188253547/d",
+      "id": 188253547,
+      "price": 695000,
+      "location": "Pasaje MATILDE DE GAIOLÀ, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-parking-jardin-terraza-ascensor-piscina/187782749/d",
+      "id": 187782749,
+      "price": 258000,
+      "location": "Calle  Músico Antón Roch, Agua Amarga - Urbanova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiclana-de-la-frontera/parking-jardin-terraza-trastero-piscina/187820077/d",
+      "id": 187820077,
+      "price": 249900,
+      "location": "Los Franceses – La Vega",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tordera/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-amueblado/182866999/d",
+      "id": 182866999,
+      "price": 220000,
+      "location": "Calle Hortènsia, Mas Mora - Sant Daniel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecans/aire-acondicionado-calefaccion/188546067/d",
+      "id": 188546067,
+      "price": 284700,
+      "location": "La Roureda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20516287/188547983",
+      "id": 188547983,
+      "price": 449000,
+      "location": "  Avenida de la Salud, Bellavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cubelles/aire-acondicionado-terraza-ascensor-amueblado/185615326/d",
+      "id": 185615326,
+      "price": 182000,
+      "location": "Plaza del Mar, Marítim",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guillena/aire-acondicionado-parking-jardin-terraza-trastero-patio-piscina/187740816/d",
+      "id": 187740816,
+      "price": 180000,
+      "location": "Urbanizacion LAS NIEVES (Zona Las Pajanosas - Guil, Guillena pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/calefaccion-terraza-trastero-ascensor/188543636/d",
+      "id": 188543636,
+      "price": 895000,
+      "location": "Sant Jaume",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/no-amueblado/188539816/d",
+      "id": 188539816,
+      "price": 259800,
+      "location": "Porta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-rozas-de-madrid/terraza/188537537/d",
+      "id": 188537537,
+      "price": 640000,
+      "location": " ADOLFO PEREZ ESQUIVEL, -1, Parque Empresarial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-rozas-de-madrid/terraza/188537533/d",
+      "id": 188537533,
+      "price": 745000,
+      "location": " ADOLFO PEREZ ESQUIVEL, -1, Parque Empresarial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20516287/187615511",
+      "id": 187615511,
+      "price": 364000,
+      "location": "  Avenida de la Salud, Bellavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/las-rozas-de-madrid/20516293/188537444",
+      "id": 188537444,
+      "price": 745000,
+      "location": "  Calle Adolfo Pérez Esquivel, Parque Empresarial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/las-rozas-de-madrid/20516293/188537441",
+      "id": 188537441,
+      "price": 640000,
+      "location": "  Calle Adolfo Pérez Esquivel, Parque Empresarial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor-amueblado/188470557/d",
+      "id": 188470557,
+      "price": 650000,
+      "location": "Calle de Garc&#xED;a de Paredes, Almagro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badajoz-capital/terraza-ascensor/188211248/d",
+      "id": 188211248,
+      "price": 155000,
+      "location": "La Estación ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-ascensor-no-amueblado/188533247/d",
+      "id": 188533247,
+      "price": 375000,
+      "location": "Gregorio de la Revilla Zumarkalea, Zona Indautxu",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-gabias/parking-ascensor/188180310/d",
+      "id": 188180310,
+      "price": 124900,
+      "location": "Calle ISLAS (HI), Híjar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-amueblado/188530071/d",
+      "id": 188530071,
+      "price": 255000,
+      "location": "Vista Alegre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/parking/188489935/d",
+      "id": 188489935,
+      "price": 1350000,
+      "location": "Calle BAHIA DE SANTANDER, Corralejos - Campo de las Naciones",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-rozas-de-madrid/terraza/188527475/d",
+      "id": 188527475,
+      "price": 765000,
+      "location": " ADOLFO PEREZ ESQUIVEL, -1, Parque Empresarial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/mungia/20516301/188329427",
+      "id": 188329427,
+      "price": 360000,
+      "location": "  Calle Lauxeta Olerkari, Mungia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/mungia/20516301/188329425",
+      "id": 188329425,
+      "price": 370000,
+      "location": "  Calle Lauxeta Olerkari, Mungia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/mungia/20516301/186740358",
+      "id": 186740358,
+      "price": 332000,
+      "location": "  Calle Lauxeta Olerkari, Mungia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-amueblado/187983222/d",
+      "id": 187983222,
+      "price": 550000,
+      "location": "Canillas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/trastero/188381708/d",
+      "id": 188381708,
+      "price": 210000,
+      "location": "El Raval",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ourense-capital/calefaccion-parking-trastero-ascensor-no-amueblado/188519417/d",
+      "id": 188519417,
+      "price": 380000,
+      "location": "Couto",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/calefaccion-ascensor/188517799/d",
+      "id": 188517799,
+      "price": 510000,
+      "location": "Narrika Kalea, Parte Vieja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/la-rinconada/20513174/188361928",
+      "id": 188361928,
+      "price": 218000,
+      "location": "Avenida Anda Jaleo, San José de la Rinconada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/esplugues-de-llobregat/20564372/188491136",
+      "id": 188491136,
+      "price": 391700,
+      "location": "Carrer de Sant Antoni Mª Claret, La Plana",
+      "type": "realEstate"
+    }
+  ]
+}

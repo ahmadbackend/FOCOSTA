@@ -1,0 +1,225 @@
+{
+  "page": 329,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/329",
+  "scrape_date": "2026-01-21T04:24:54.826131",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-trastero-ascensor/188269927/d",
+      "id": 188269927,
+      "price": 440000,
+      "location": "San Lorenzo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/getafe/calefaccion-terraza/188493053/d",
+      "id": 188493053,
+      "price": 330000,
+      "location": "Calle PADRE FAUSTINO, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/peligros/aire-acondicionado/188538746/d",
+      "id": 188538746,
+      "price": 129900,
+      "location": "Calle de Granada, 12, Peligros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-cugat-del-valles/aire-acondicionado-calefaccion-parking-terraza-trastero-no-amueblado/188095467/d",
+      "id": 188095467,
+      "price": 845000,
+      "location": "DE LA FÀBRICA, Coll Favà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/ascensor-amueblado/188538501/d",
+      "id": 188538501,
+      "price": 152000,
+      "location": "Carolinas Bajas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor/188150553/d",
+      "id": 188150553,
+      "price": 335000,
+      "location": "Calle Carrasco i Formiguera, La Serreta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sagunto-sagunt/terraza-ascensor/188514045/d",
+      "id": 188514045,
+      "price": 205000,
+      "location": "Calle Euskadi, Centro Puerto",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aspe/parking-terraza-trastero-ascensor-no-amueblado/188201546/d",
+      "id": 188201546,
+      "price": 155000,
+      "location": "Avenida Pintor Pastor Calpena, La Coca - La Nia - Vistahermosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/aire-acondicionado-calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-amueblado-piscina/188534603/d",
+      "id": 188534603,
+      "price": 719900,
+      "location": "Calle Reyes Católicos, Valenoso",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/estepona/aire-acondicionado-calefaccion-parking-terraza-trastero-piscina-no-amueblado/188497771/d",
+      "id": 188497771,
+      "price": 280000,
+      "location": "Costa Galera, Buenas Noches",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcala-de-henares/calefaccion-terraza-ascensor/188532029/d",
+      "id": 188532029,
+      "price": 250000,
+      "location": " Avenida virgen del val 7, 7, Val",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/a-coruna-capital/calefaccion-parking-trastero-ascensor/188514525/d",
+      "id": 188514525,
+      "price": 218000,
+      "location": "Calle JOSE MARIA HERNANSAEZ, Los Castros - Castrillón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torredembarra/aire-acondicionado-ascensor-no-amueblado/188526013/d",
+      "id": 188526013,
+      "price": 239900,
+      "location": "Camí Vell Pobla Montornès, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pamplona-iruna/aire-acondicionado-calefaccion-terraza-no-amueblado/188500286/d",
+      "id": 188500286,
+      "price": 185000,
+      "location": "Calle Ferrocarril, Buztintxuri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tres-cantos/aire-acondicionado-calefaccion-ascensor-no-amueblado/188525605/d",
+      "id": 188525605,
+      "price": 290000,
+      "location": "Sector Embarcaciones, Segunda Fase",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valladolid-capital/calefaccion-ascensor/188525369/d",
+      "id": 188525369,
+      "price": 365000,
+      "location": "Plaza PONIENTE, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zaragoza-capital/aire-acondicionado-terraza-ascensor/187968763/d",
+      "id": 187968763,
+      "price": 269000,
+      "location": "Cesáreo Alierta, 23, La Granja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/palma-de-mallorca/20514805/188028819",
+      "id": 188028819,
+      "price": 387500,
+      "location": "Carrer de Darwin, 1, El Coll d'en Rabassa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/palma-de-mallorca/20514805/187934974",
+      "id": 187934974,
+      "price": 375000,
+      "location": "Carrer de Darwin, 1, El Coll d'en Rabassa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/portugalete/calefaccion-ascensor-amueblado/188523570/d",
+      "id": 188523570,
+      "price": 210000,
+      "location": "Ortuño de Alango Kalea, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guardamar-del-segura/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-piscina/187943888/d",
+      "id": 187943888,
+      "price": 369900,
+      "location": "Calle Berlín, 1, El Moncayo - El Pòrtic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sestao/txabarri-la-union-vista-alegre/188522560/d",
+      "id": 188522560,
+      "price": 123500,
+      "location": "Chavarri, 89, Txabarri - La Unión - Vista Alegre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/ascensor/186684124/d",
+      "id": 186684124,
+      "price": 630000,
+      "location": "Calle Calle de la Marina, Área Romántica",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/calefaccion-jardin-terraza-trastero-patio-television/187219400/d",
+      "id": 187219400,
+      "price": 320000,
+      "location": "Carrer de la Ribagorça, Molí de Vent - La Sauleda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-television/187665337/d",
+      "id": 187665337,
+      "price": 450000,
+      "location": "Avinguda de Josep Vergés i Mata, Piverd - Vila-Seca - Bruguerol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/aire-acondicionado-calefaccion-parking-trastero-ascensor-patio-television-internet/188094931/d",
+      "id": 188094931,
+      "price": 220000,
+      "location": "Rambla de Ramir Deulofeu, Piverd - Vila-Seca - Bruguerol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mollet-del-valles/aire-acondicionado-calefaccion-trastero-ascensor-no-amueblado/188518407/d",
+      "id": 188518407,
+      "price": 245000,
+      "location": "Carrer de Vicenç Plantada, Col.legis Nous",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cubelles/20642564/188516629",
+      "id": 188516629,
+      "price": 435000,
+      "location": "Avinguda Jaume I, 125, Les Salines - Pla de Sant Pere",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cubelles/20642564/188516582",
+      "id": 188516582,
+      "price": 650000,
+      "location": "Avinguda Jaume I, 125, Les Salines - Pla de Sant Pere",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cubelles/20642564/188516547",
+      "id": 188516547,
+      "price": 515000,
+      "location": "Avinguda Jaume I, 125, Les Salines - Pla de Sant Pere",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cubelles/20642564/188516695",
+      "id": 188516695,
+      "price": 1000000,
+      "location": "Avinguda Jaume I, 125, Les Salines - Pla de Sant Pere",
+      "type": "realEstate"
+    }
+  ]
+}

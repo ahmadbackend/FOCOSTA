@@ -1,0 +1,41 @@
+{
+  "property_id": "20523310",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/dos-hermanas/20523310",
+  "scrape_date": "2026-01-21T04:26:28Z",
+  "title": "LandCo Entrenúcleos",
+  "description": "VIVIENDAS OBRA NUEVA EN ENTRENUCLEOS, SEVILLA| DESDE 406.000€ 4 DORMITORIOS\n\n\nDescubre LandCo Entrenúcleos, una exclusiva promoción de 28 viviendas unifamiliares pareadas de 4 dormitorios, todas con amplias parcelas con jardín. Posibilidad de piscina privada. Dos plazas de garaje. \n\n\nCon un diseño moderno y contemporáneo, estas viviendas aprovechan al máximo la luz natural y crean espacios ideales para el descanso. Equipadas con cocina amueblada y principales electrodomésticos, sistema de ACS mediante aerotermia, e instalación completa de aire acondicionado. \n\n\nEn la calle Ángel López, Entrenúcleos, Dos Hermanas, un paso del centro de Sevilla y Montequinto. Comunicaciones perfectas mediante las autovías SE 30 y SE 40, y muy próximo a la autovía AP4. Disfruta de un entorno dinámico, bien conectado también por metro y autobuses, y cercano a mercados, colegios, centros de salud, zonas deportivas, parajes naturales como el Lago de la Vida y universidades como Loyola y Pablo de Olavide.\n \n\nVive en un residencial excepcional que promueve la calidad de vida y la práctica de actividades al aire libre. \n\n\nTu nuevo hogar te espera en landCo Entrenúcleos, en donde exclusividad y comodidad se unen.",
+  "contact_info": {
+    "phone_number": "954201703",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "Dos Hermanas",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.32182693481445,
+    "longitude": -5.924116134643555
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 150,
+    "max_surface": 165,
+    "min_price": 406000,
+    "max_price": 441000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/30807379-8ca5-4049-b0df-cb4f128ef15f?rule=original",
+    "https://static.fotocasa.es/images/ads/5e6c5086-52f3-4072-b891-88c3eb77c62b?rule=original",
+    "https://static.fotocasa.es/images/ads/0be56e0e-69f8-41bd-8c16-7a36becc1f12?rule=original",
+    "https://static.fotocasa.es/images/ads/acbfc2ce-7cb8-4374-959d-eaa76b93289d?rule=original",
+    "https://static.fotocasa.es/images/ads/44d2a673-2351-4deb-b983-b3c7023c1843?rule=original",
+    "https://static.fotocasa.es/images/ads/cc2d800a-b996-4961-ba56-1c0df009bb59?rule=original",
+    "https://static.fotocasa.es/images/ads/b84ba3da-2716-4b70-b34e-acf4edfd7959?rule=original",
+    "https://static.fotocasa.es/images/ads/a600a94a-12bd-473a-8f1a-801a0f730241?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,225 @@
+{
+  "page": 51,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/51",
+  "scrape_date": "2026-01-21T04:19:14.323476",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/terraza-ascensor/188087635/d",
+      "id": 188087635,
+      "price": 580000,
+      "location": "Plaza PZ TETUAN, 36, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torredembarra/terraza-no-amueblado/188102954/d",
+      "id": 188102954,
+      "price": 112000,
+      "location": "Carrer de l'Envelat, 21, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/hernani/aire-acondicionado-calefaccion-terraza-ascensor/188236296/d",
+      "id": 188236296,
+      "price": 468000,
+      "location": "Gartzia Goldaraz Kalea, Hernani",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/aire-acondicionado-calefaccion-parking-terraza-trastero-no-amueblado/188103629/d",
+      "id": 188103629,
+      "price": 555000,
+      "location": "Morera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/vielha-e-mijaran/20624483/188227420",
+      "id": 188227420,
+      "price": 1190000,
+      "location": "Carrèr Sobernedo, 15, Vielha",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/vielha-e-mijaran/20624483/188222606",
+      "id": 188222606,
+      "price": 280000,
+      "location": "Carrèr Sobernedo, 15, Vielha",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-parking-trastero-ascensor/187856418/d",
+      "id": 187856418,
+      "price": 399000,
+      "location": "Lasesarre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pamplona-iruna/calefaccion-parking-jardin-trastero-ascensor/187580892/d",
+      "id": 187580892,
+      "price": 259000,
+      "location": "Paseo de Santa Lucía, Buztintxuri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor/185336406/d",
+      "id": 185336406,
+      "price": 1350000,
+      "location": "Av. de Pau Casals, Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/aire-acondicionado-calefaccion-terraza-trastero/188205928/d",
+      "id": 188205928,
+      "price": 265000,
+      "location": "lloreda, Lloreda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-portil/terraza-ascensor-amueblado-piscina/188121769/d",
+      "id": 188121769,
+      "price": 169900,
+      "location": "Sabina, El Portil",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-jardin-zona-comunitaria-ascensor-amueblado/187837486/d",
+      "id": 187837486,
+      "price": 850000,
+      "location": "Calle de Mateo López, Estrella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion/186764936/d",
+      "id": 186764936,
+      "price": 330000,
+      "location": "Carrer del Mar, La Barceloneta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santurtzi/calefaccion-parking-terraza-ascensor/186125195/d",
+      "id": 186125195,
+      "price": 650000,
+      "location": "Capitán Mendizabal - La Sardinera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canet-d-en-berenguer/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/188052800/d",
+      "id": 188052800,
+      "price": 195000,
+      "location": "Carrer Mare Nostrum, Canet d'En Berenguer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-trastero-ascensor/187510048/d",
+      "id": 187510048,
+      "price": 246990,
+      "location": "Butarque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcobendas/aire-acondicionado-calefaccion-parking-trastero-zona-comunitaria-ascensor-amueblado-television-piscina/188042990/d",
+      "id": 188042990,
+      "price": 520000,
+      "location": "Calle de los Deseos, Norte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-calefaccion-ascensor-amueblado/188024263/d",
+      "id": 188024263,
+      "price": 119900,
+      "location": "Avinguda de València, Ensanche - Río Júcar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-ascensor/187996813/d",
+      "id": 187996813,
+      "price": 470000,
+      "location": "Passeig d'Amunt, El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-trastero-ascensor/187717626/d",
+      "id": 187717626,
+      "price": 740000,
+      "location": "Telesforo Aranzadi Kalea, Ensanche - Moyua - Diputación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilafranca-del-penedes/calefaccion-parking-ascensor-no-amueblado/185898469/d",
+      "id": 185898469,
+      "price": 177000,
+      "location": "N/A, Poble Nou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tibi/aire-acondicionado-parking-jardin-terraza-trastero-piscina/187972045/d",
+      "id": 187972045,
+      "price": 245000,
+      "location": " TEROL A, Tibi",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuengirola/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-zona-comunitaria-ascensor-piscina-amueblado-piscina/187965612/d",
+      "id": 187965612,
+      "price": 599000,
+      "location": "Fuengirola, Las Gaviotas  - Carvajal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabinanigo/calefaccion-parking-jardin-terraza-trastero/183941908/d",
+      "id": 183941908,
+      "price": 79000,
+      "location": "Calle iglesia, 13, Sabiñánigo Centro - Aurín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/calefaccion-parking-terraza-ascensor/187940556/d",
+      "id": 187940556,
+      "price": 1850000,
+      "location": "De Bentaberri Plaza, Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/calefaccion-parking-terraza-ascensor/185222992/d",
+      "id": 185222992,
+      "price": 239000,
+      "location": "Calle ACONCAGUA, Camino de los Neveros - Serrallo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/granada-capital/20606573/187841803",
+      "id": 187841803,
+      "price": 260000,
+      "location": "Calle Hornillo de Cartuja, 15, San Ildefonso",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-pola/aire-acondicionado-calefaccion-parking-terraza-piscina-no-amueblado/186995650/d",
+      "id": 186995650,
+      "price": 265000,
+      "location": "Calle Monte de Santa Pola , Monte Faro - Altomar II",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cambrils/aire-acondicionado-calefaccion-parking-ascensor-piscina/187815740/d",
+      "id": 187815740,
+      "price": 335000,
+      "location": "Llosa, Port - Horta de Santa María",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mostoles/calefaccion-trastero-ascensor-piscina/187809174/d",
+      "id": 187809174,
+      "price": 375000,
+      "location": "Suroeste - Zona Hospital",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-terraza-ascensor/187315436/d",
+      "id": 187315436,
+      "price": 249950,
+      "location": "Calle Esteban Collantes, Pueblo Nuevo",
+      "type": "realEstate"
+    }
+  ]
+}

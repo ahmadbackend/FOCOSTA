@@ -1,0 +1,42 @@
+{
+  "property_id": "20523811",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/santa-coloma-de-gramenet/20523811",
+  "scrape_date": "2026-01-21T04:35:38Z",
+  "title": "landCo Santa Coloma",
+  "description": "NUEVA PROMOCIÓN DE OBRA NUEVA | LandCo Santa Coloma, Barcelona | DESDE 245.000€\n\nDescubre landCo Santa Coloma, una exclusiva promoción de 20 viviendas de 1 y 2 dormitorios, diseñadas con un enfoque en la luminosidad y la funcionalidad. Cada casa cuenta con amplias terrazas que se convierten en el espacio ideal para disfrutar del verano, relajarte o compartir momentos inolvidables con familia y amigos. Los acabados han sido cuidadosamente seleccionados para ofrecerte un hogar práctico y acogedor.\n\nCon un diseño contemporáneo que maximiza la luz natural, estas viviendas están pensadas para el descanso y el disfrute. Todas incluyen cocinas amuebladas equipadas con los principales electrodomésticos, además de un sistema de aerotermia que garantiza calefacción eficiente y agua caliente sanitaria.\n\nUbicada en una zona residencial consolidada de Santa Coloma de Gramanet, esta promoción te ofrece acceso a todos los servicios necesarios: supermercados, restaurantes, centros educativos y zonas verdes. A solo 10 minutos a pie del centro de la ciudad y con vistas al parque fluvial del río Besòs, disfrutarás de un entorno privilegiado.\n\nLas áreas comunes han sido meticulosamente diseñadas para fomentar un estilo de vida activo y relajado. Disfruta de un lounge area equipado con mesas y jardineras, así como un huerto urbano donde podrás conectar con la naturaleza. También encontrarás un espacio dedicado a calistenia para fortalecer cuerpo y mente, junto a un aparcamiento para bicicletas y una sala comunitaria con terraza descubierta.\n\nComprometidos con la sostenibilidad, las zonas comunes de LandCo Santa Coloma contarán con iluminación LED, contribuyendo al ahorro energético y al cuidado del medio ambiente.\n\nVive en landCo Santa Coloma y haz de tu hogar un lugar donde puedas ser tú mismo, rodeado de todas las comodidades que necesitas. ¡Tu nuevo hogar te espera!",
+  "contact_info": {
+    "phone_number": "931321637",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "Santa Coloma de Gramenet",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.45145034790039,
+    "longitude": 2.201533794403076
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 77,
+    "max_surface": 77,
+    "min_price": 297000,
+    "max_price": 297000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/9e043a91-7c43-407c-9c09-8d099520c4e4?rule=original",
+    "https://static.fotocasa.es/images/ads/2b7300da-9492-4fbb-ac44-5e53229e0f2f?rule=original",
+    "https://static.fotocasa.es/images/ads/37267593-c52d-4636-a184-cca32f3a7e32?rule=original",
+    "https://static.fotocasa.es/images/ads/67d27f68-f55c-436c-ad7c-5d4cec7af705?rule=original",
+    "https://static.fotocasa.es/images/ads/75be092f-1577-4f6d-80d5-003c1d495fa3?rule=original",
+    "https://static.fotocasa.es/images/ads/56413c15-8d1f-417b-b249-b0c3a85e4204?rule=original",
+    "https://static.fotocasa.es/images/ads/e1ad1427-1657-427f-ae63-f322e3fa65de?rule=original",
+    "https://static.fotocasa.es/images/ads/6714ab42-32ff-4db6-a884-99ddf67caf2d?rule=original",
+    "https://static.fotocasa.es/images/ads/f99a16bf-ceba-4674-ae99-0ef98eafa9d1?rule=original"
+  ],
+  "videos": []
+}

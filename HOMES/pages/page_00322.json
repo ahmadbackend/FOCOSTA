@@ -1,0 +1,225 @@
+{
+  "page": 322,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/322",
+  "scrape_date": "2026-01-21T04:24:54.247510",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/terraza-ascensor/188087635/d",
+      "id": 188087635,
+      "price": 580000,
+      "location": "Plaza PZ TETUAN, 36, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/orihuela/aire-acondicionado-parking-trastero-ascensor/187338061/d",
+      "id": 187338061,
+      "price": 239900,
+      "location": "Calle ARAGON, 12, Orihuela ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gandia/parking-jardin-terraza-trastero-patio-piscina/188543418/d",
+      "id": 188543418,
+      "price": 299900,
+      "location": "Park Nord - Casona",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guimar/terraza-ascensor-piscina/188301653/d",
+      "id": 188301653,
+      "price": 257500,
+      "location": "Avenida PALMERAS LAS, 6, Puertito de Güímar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-manga-del-mar-menor/aire-acondicionado-parking-jardin-terraza-piscina/187745924/d",
+      "id": 187745924,
+      "price": 575000,
+      "location": " CYANA, 3, Entremares",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/manilva/aire-acondicionado-parking-jardin-terraza-piscina/186161021/d",
+      "id": 186161021,
+      "price": 144900,
+      "location": "Avenida avenida Sierra Morena 2 manilva, 2, Chullera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/parking-ascensor/188549738/d",
+      "id": 188549738,
+      "price": 930000,
+      "location": "Calle Manuel González Hoyos, Valdenoja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-ascensor/187371482/d",
+      "id": 187371482,
+      "price": 598000,
+      "location": "Calle de Santa Engracia, Ríos Rosas - Nuevos Ministerios",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-campello/calefaccion-parking-terraza-ascensor-piscina-no-amueblado/187720261/d",
+      "id": 187720261,
+      "price": 1290000,
+      "location": "Carrer d'Alboran, 1, Playa Muchavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albolote/aire-acondicionado-parking-terraza-trastero-patio/188545955/d",
+      "id": 188545955,
+      "price": 309000,
+      "location": "Calle del Poleo, Albolote",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ermua/calefaccion-ascensor-amueblado/188544769/d",
+      "id": 188544769,
+      "price": 175000,
+      "location": "Ongarai Kalea, Ermua",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/majadahonda/aire-acondicionado-calefaccion/188537316/d",
+      "id": 188537316,
+      "price": 339900,
+      "location": "Calle Iglesia, Zona Norte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cenes-de-la-vega/aire-acondicionado-calefaccion-amueblado-television-internet/188544025/d",
+      "id": 188544025,
+      "price": 137900,
+      "location": "Calle Real, Cenes de la Vega",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/reus/ascensor-amueblado/161728675/d",
+      "id": 161728675,
+      "price": 153000,
+      "location": "Riera de Miró, Llevant",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-terraza-ascensor-no-amueblado/187866755/d",
+      "id": 187866755,
+      "price": 420000,
+      "location": "Casanova, L'Antiga Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-maria-de-cayon/calefaccion-terraza-no-amueblado/187381676/d",
+      "id": 187381676,
+      "price": 135000,
+      "location": "Sarón - Avenida Solares, 20, Santa María de Cayón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/yuncler/aire-acondicionado-calefaccion-parking-terraza-zona-comunitaria-ascensor-amueblado-piscina/188536160/d",
+      "id": 188536160,
+      "price": 163000,
+      "location": "Calle Tránsito, Yuncler",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-palmas-de-gran-canaria/zona-comunitaria-ascensor-no-amueblado/188535886/d",
+      "id": 188535886,
+      "price": 180000,
+      "location": "Calle Tomás Miller, 57, Santa Catalina - Canteras",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/188491929/d",
+      "id": 188491929,
+      "price": 1195000,
+      "location": "Calle Jorge Juan, Recoletos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benalmadena/zona-comunitaria-ascensor-amueblado-television-internet-piscina/188138433/d",
+      "id": 188138433,
+      "price": 165000,
+      "location": "Avenida Gamonal, Parque de la Paloma",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/calefaccion-trastero-ascensor-patio/185871538/d",
+      "id": 185871538,
+      "price": 1100000,
+      "location": "Calle Aldamar, Parte Vieja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benalmadena/aire-acondicionado-parking-terraza-zona-comunitaria-ascensor-piscina-amueblado-television-internet-piscina/188289346/d",
+      "id": 188289346,
+      "price": 339000,
+      "location": "Calle Torrealmádena, 1, Cortijo Torrequebrada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188519140/d",
+      "id": 188519140,
+      "price": 940000,
+      "location": "Calle Montesa, Lista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llica-d-amunt/aire-acondicionado-calefaccion-parking-terraza-ascensor/185783537/d",
+      "id": 185783537,
+      "price": 365000,
+      "location": "Calle Fàbrica, 19, Lliçà d'Amunt",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llica-d-amunt/aire-acondicionado-calefaccion-parking-terraza-ascensor/185783536/d",
+      "id": 185783536,
+      "price": 320000,
+      "location": "Calle Fàbrica, 19, Lliçà d'Amunt",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado/188518217/d",
+      "id": 188518217,
+      "price": 310000,
+      "location": "Arenys , La Teixonera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/onda/aire-acondicionado-parking-terraza/188525690/d",
+      "id": 188525690,
+      "price": 220000,
+      "location": "Calle Betxí, Onda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-calefaccion-ascensor/188525170/d",
+      "id": 188525170,
+      "price": 285000,
+      "location": "conde toreno, Martiricos - La Roca - La Rosaleda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/la-roca-del-valles/20611191/188470701",
+      "id": 188470701,
+      "price": 292000,
+      "location": "Avinguda de les Hortes, La Roca del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-vendrell/aire-acondicionado-calefaccion-jardin-terraza-zona-comunitaria-piscina-no-amueblado/187271627/d",
+      "id": 187271627,
+      "price": 310000,
+      "location": "Carrer Mare Nostrum, 2, Coma-ruga platja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/aire-acondicionado-calefaccion-parking-jardin-ascensor-patio-piscina/188519105/d",
+      "id": 188519105,
+      "price": 680000,
+      "location": "Calle de Francisco Tomás y Valiente, Viñas Viejas",
+      "type": "realEstate"
+    }
+  ]
+}

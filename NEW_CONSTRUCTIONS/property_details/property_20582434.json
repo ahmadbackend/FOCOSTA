@@ -1,0 +1,37 @@
+{
+  "property_id": "20582434",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/arganda-del-rey/20582434",
+  "scrape_date": "2026-01-21T03:23:33Z",
+  "title": "LOS OLIVOS DE VALDELARCIPRESTE",
+  "description": "Promoción de Obra Nueva en régimen de cooperativa a precio de coste.\n\nEdificio de 48 viviendas VPP, trasteros y 98 plazas de garaje en Avda. de Europa nº 2, Arganda del Rey (Madrid).\n\nCaracterísticas:\n- Calefacción mediante Aerotermia\n- Ascensor\n- Garaje\n- Trastero",
+  "contact_info": {
+    "phone_number": "+34682242415",
+    "advertiser_name": "VALDELARCIPRESTE VIVIENDA SOCIAL S.COOP.MAD.",
+    "client_id": 9202775450147
+  },
+  "location": {
+    "city": "Arganda del Rey",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.299407958984375,
+    "longitude": -3.4509122371673584
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 99,
+    "max_surface": 134,
+    "min_price": 223523,
+    "max_price": 333988
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/0aa6436a-6881-4643-8d62-f320ebb17606?rule=original",
+    "https://static.fotocasa.es/images/ads/402f7517-8262-4665-8f8b-a2ebc61a4fbb?rule=original",
+    "https://static.fotocasa.es/images/ads/e5562c95-db8c-4ed3-b953-4450eb26c6db?rule=original",
+    "https://static.fotocasa.es/images/ads/c03c744c-8659-4570-b1d4-2b126f686224?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,217 @@
+{
+  "page": 10,
+  "url": "https://www.fotocasa.es/es/promociones-obra-nueva/comprar/viviendas/espana/todas-las-zonas/l/10",
+  "count": 30,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/mostoles/20616499",
+      "id": 0,
+      "price": null,
+      "location": "Villafontana - Estoril I",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/valdemoro/20610591",
+      "id": 0,
+      "price": null,
+      "location": "Calle Gabriela Mistral, 21, Hospital",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-cugat-del-valles/20531689",
+      "id": 0,
+      "price": null,
+      "location": "El Coll",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/villalbilla/20563350",
+      "id": 0,
+      "price": null,
+      "location": "Calle Soto del Henares, 36, Villalbilla pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/san-felices-de-buelna/20621672",
+      "id": 0,
+      "price": null,
+      "location": "San Felices de Buelna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20622035",
+      "id": 0,
+      "price": null,
+      "location": "Plaza San Esteban, Casco Histórico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/boadilla-del-monte/20560277",
+      "id": 0,
+      "price": null,
+      "location": "Calle Cabo de Plata, El Olivar de Mirabal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/lugo-capital/20621944",
+      "id": 0,
+      "price": null,
+      "location": "Rúa Eloi Maquieira Arquitecto, 10, A Milagrosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/castell-d-aro,-platja-d-aro-i-s-agaro/20525095",
+      "id": 0,
+      "price": null,
+      "location": "París, Fenals",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20608062",
+      "id": 0,
+      "price": null,
+      "location": "Calle de Antonio Pérez, 24, El Viso",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/alcala-de-guadaira/20608662",
+      "id": 0,
+      "price": null,
+      "location": "Santiago de Chile, 21, Oromana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/cordoba-capital/20605868",
+      "id": 0,
+      "price": null,
+      "location": "Camino de la Albaida, 5, Tablero Bajo - Arruzafilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/san-pedro-del-pinatar/20621186",
+      "id": 0,
+      "price": null,
+      "location": "San Pedro del Pinatar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-rinconada/20523515",
+      "id": 0,
+      "price": null,
+      "location": "San José de la Rinconada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/el-alamo/20597873",
+      "id": 0,
+      "price": null,
+      "location": "Calle de las Eras Altas, 2, El Álamo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/huelva-capital/20509488",
+      "id": 0,
+      "price": null,
+      "location": "Solar PP3 la Florida, 25, Fuentepiña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/murcia-capital/20509416",
+      "id": 0,
+      "price": null,
+      "location": "Plaza Bandera Paracaidista Ortiz de Zarate, Juan de Borbón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20511431",
+      "id": 0,
+      "price": null,
+      "location": "Carrer d'Elcano, 61, Creu de Barberà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sesena/20509479",
+      "id": 0,
+      "price": null,
+      "location": "Calle Helsinki, 49, Seseña Nuevo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/ses-salines/20620559",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Romaní, 1, Colònia Sant Jordi",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/vila-real/20620379",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Joan Baptista Llorens, 133, El Pilar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/pozo-canada/20620173",
+      "id": 0,
+      "price": null,
+      "location": "Calle de las Eras, Pozo Cañada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/vila-seca/20619872",
+      "id": 0,
+      "price": null,
+      "location": "Vía Máxima, Vila-seca Poble",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/finestrat/20619980",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Amsterdam, 52, Golf Bahía",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/betxi/20620199",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda del Primer de Maig, 97, Betxí",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/moncofa/20553969",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda de la Generalitat, Moncófar Playa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-joan-d-alacant/20606285",
+      "id": 0,
+      "price": null,
+      "location": "Rambla de la Llibertat, 1, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/el-puerto-de-santa-maria/20613560",
+      "id": 0,
+      "price": null,
+      "location": "Avenida Hermandad Oracion en el Huerto, 22, El Juncal - Vallealto",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/tiana/20619923",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda Creu de Terme, 22, Tiana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20508739",
+      "id": 0,
+      "price": null,
+      "location": "Passeig de Josep Mundet, 9, Sant Antoni de Calonge",
+      "type": "realEstate"
+    }
+  ]
+}

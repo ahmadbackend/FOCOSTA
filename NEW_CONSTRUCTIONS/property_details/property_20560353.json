@@ -1,0 +1,39 @@
+{
+  "property_id": "20560353",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/fuenlabrada/20560353",
+  "scrape_date": "2026-01-21T03:32:42Z",
+  "title": "LA GEMA DE LOURDES",
+  "description": "\"“La Gema de Lourdes” – La joya del centro de Fuenlabrada\n\nNueva promoción de obra nueva en Calle Serranillos de Fuenlabrada. Viviendas de 2 dormitorios con 1 baño, cocina amueblada, garaje y trastero comunitario desde 225.900 €. Diseño moderno con espacios amplios, armarios empotrados vestidos y aislamiento acústico superior. Climatización por aerotermia con suelo radiante-refrescante y alta eficiencia energética para mayor confort y ahorro. Puerta blindada, videoportero, preinstalación de alarma, garaje con montacoches y opción de recarga para coche eléctrico.\"\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\" Edificio con ascensor, zonas comunes de calidad y trastero comunitario. Ubicación privilegiada en pleno centro, junto a Metro, Renfe, autobuses, Ayuntamiento, centro comercial, colegios y todos los servicios.\nUn hogar pensado para disfrutar. Vive con estilo y comodidad en “La Gema de Lourdes”. ¡Te enamorará!\"",
+  "contact_info": {
+    "phone_number": "910751408",
+    "advertiser_name": "OXA GESTION 3 S.L.",
+    "client_id": 9202751812305
+  },
+  "location": {
+    "city": "Fuenlabrada",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.28083038330078,
+    "longitude": -3.7973783016204834
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 1,
+    "min_bathrooms": 1,
+    "max_bathrooms": 1,
+    "min_surface": 58,
+    "max_surface": 67,
+    "min_price": 212900,
+    "max_price": 240900
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/de261dbf-9f0d-4941-bb4b-2c306581e5aa?rule=original",
+    "https://static.fotocasa.es/images/ads/dcd69111-12e1-4696-8c36-f96a99274992?rule=original",
+    "https://static.fotocasa.es/images/ads/999df996-29e7-4530-ba2b-50988af377c3?rule=original",
+    "https://static.fotocasa.es/images/ads/53554100-8a07-443c-bd1c-a42028344c84?rule=original",
+    "https://static.fotocasa.es/images/ads/ce505125-0394-44da-937e-293588393683?rule=original",
+    "https://static.fotocasa.es/images/ads/4723a3c6-85a5-489f-95a0-ffb51a211150?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,41 @@
+{
+  "property_id": "20561770",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cordoba-capital/20561770",
+  "scrape_date": "2026-01-21T04:18:49Z",
+  "title": "Eida",
+  "description": "1ª y 2ª YA FASE ENTREGADAS. ULTIMAS VIVIENDAS DISPONIBLES. VISITE NUESTROS PISOS PILOTO\nDescubre EIDA, viviendas de 2, 3 y 4 dormitorios con amplias terrazas, plazas de garaje y trasteros incluidos. \n\nEIDA plantea un conjunto de edificios de tres alturas con solo dos viviendas por núcleo y planta, donde todas las opciones cuentan con amplias terrazas y dos orientaciones distintas disfrutando de magníficas vistas y una orientación óptima. \n\nViviendas elegantes y modernas, luminosas, ubicadas en un entorno ideal, con unas zonas comunes inmejorables, que incluyen grandes espacios ajardinados, un área de piscinas ubicada en el amplio espacio central de la urbanización, una sala comunitaria multiusos y un recinto de juegos infantiles. \n\nTodo ello en la mejor ubicación de Córdoba. No lo dudes y ven a visitarnos, estaremos encantados de  atenderte.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": " Córdoba Capital",
+    "province": "Córdoba",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.90168762207031,
+    "longitude": -4.801450252532959
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 87,
+    "max_surface": 107,
+    "min_price": 447500,
+    "max_price": 540000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/20821495-1228-4b34-a98c-4d8572cad782?rule=original",
+    "https://static.fotocasa.es/images/ads/ce4860b7-fdf0-4ef2-a41d-4fccbd921ad8?rule=original",
+    "https://static.fotocasa.es/images/ads/480844cb-574f-493a-a17a-617b45e2468d?rule=original",
+    "https://static.fotocasa.es/images/ads/f85c9206-68be-4b7c-85fb-787f442016e9?rule=original",
+    "https://static.fotocasa.es/images/ads/5dbbb2e4-81e1-4b34-98d9-71b8c17838b4?rule=original",
+    "https://static.fotocasa.es/images/ads/6be1bdfa-3b37-4bc1-994e-bc1d51b104dc?rule=original",
+    "https://static.fotocasa.es/images/ads/221cd230-4d3f-4138-a14e-a1774a4df0c8?rule=original",
+    "https://static.fotocasa.es/images/ads/3b5d57ad-4526-4457-a095-016d9470ff19?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,37 @@
+{
+  "property_id": "20593265",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-union/20593265",
+  "scrape_date": "2026-01-21T03:21:05Z",
+  "title": "RESIDENCIAL PLAZA MAYOR",
+  "description": "Residencial Plaza Mayor en La Unión es un proyecto pensado para quienes buscan un hogar que combine comodidad, diseño y calidad. \n\nCada vivienda ha sido cuidadosamente concebida para aprovechar al máximo cada rincón, logrando espacios funcionales y acogedores que invitan a disfrutarse día a día. La elección de materiales ha seguido un criterio exigente, priorizando la durabilidad, la estética y el confort, lo que se refleja en acabados modernos y ambientes llenos de calidez. El diseño interior destaca por su equilibrio entre estilo y practicidad, ofreciendo estancias luminosas, bien distribuidas y adaptadas a la vida actual. \n\nVivir en Residencial Plaza Mayor significa disfrutar de un hogar donde cada detalle cuenta y donde la arquitectura se une con la funcionalidad para crear un espacio pensado para ti y tu familia, en una ubicación con gran proyección en La Unión.",
+  "contact_info": {
+    "phone_number": "968912169",
+    "advertiser_name": "VILLAS GRIMANGA S.L",
+    "client_id": 9202768681577
+  },
+  "location": {
+    "city": "La Unión",
+    "province": "Murcia",
+    "region": "Región de Murcia",
+    "country": "España",
+    "latitude": 37.6191520690918,
+    "longitude": -0.8821802139282227
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 74,
+    "max_surface": 103,
+    "min_price": 0,
+    "max_price": 0
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/7434b276-10b2-44f6-8a81-62328e8e6453?rule=original",
+    "https://static.fotocasa.es/images/ads/03e76d56-d898-4181-b5fb-6a7191767262?rule=original",
+    "https://static.fotocasa.es/images/ads/8ca9df43-f77e-454d-9ea9-44a404e25254?rule=original",
+    "https://static.fotocasa.es/images/ads/6f05914b-6bb8-43b7-8224-5b25ab0eae24?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,57 @@
+{
+  "property_id": "20525101",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20525101",
+  "scrape_date": "2026-01-21T03:26:40Z",
+  "title": "Residencial Etna",
+  "description": "¡Inicio de construcción!\n\nResidencial Etna. Conjunto residencial compuesto por 74 magnificas viviendas de 1 a 4 dormitorios, amplios salones, cocinas amuebladas y terrazas en todas ellas. Las viviendas están distribuidas en 2 edificios, cada uno de ellos con 37 viviendas y que se levantan a ambos lados de la zona comunitaria de piscina situada en segunda planta del conjunto.\n \nResidencial Etna dispondrá en planta baja de una zona de esparcimiento, juego de niños y pista de pádel privada. Además, en línea con el compromiso de sostenibilidad de METROVACESA presente en ISLA NATURA, la promoción contará con las certificaciones ACV, DOMUN y el sello verde GBCE que garantiza el mínimo impacto ecológico de nuestras construcciones. \n\nSorprendente con el diseño de las viviendas, la calidad de los materiales o las opciones de personalización mediante nuestro exclusivo sistema \"ELIGE TU LOOK\". No pierdas la oportunidad de elegir dónde quieres vivir y hacerlo a tu manera. Tu vida, tu elección.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": " Sevilla Capital",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.33308029174805,
+    "longitude": -5.981247901916504
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 3,
+    "min_surface": 69,
+    "max_surface": 156,
+    "min_price": 229500,
+    "max_price": 404000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/aa883c11-3eee-4c5e-9910-3c294f3ef589?rule=original",
+    "https://static.fotocasa.es/images/ads/f7847f3d-cc54-48e1-80b1-92d8f2d2d4d6?rule=original",
+    "https://static.fotocasa.es/images/ads/186870e5-8459-41e9-9f07-8a067e935f19?rule=original",
+    "https://static.fotocasa.es/images/ads/cc18ad0a-6431-48d4-9ec5-08e22e251b48?rule=original",
+    "https://static.fotocasa.es/images/ads/9e0bcc0b-c1f0-4b82-9bcc-4d8bfc690f42?rule=original",
+    "https://static.fotocasa.es/images/ads/c148e4cb-1600-434a-84df-0e10c380b1a5?rule=original",
+    "https://static.fotocasa.es/images/ads/ddf54c2e-b3d9-404f-a1ac-b80326d1718e?rule=original",
+    "https://static.fotocasa.es/images/ads/869d7c90-77c9-498e-9505-c6ad12c17408?rule=original",
+    "https://static.fotocasa.es/images/ads/2d4ddba1-57c9-4297-8e55-cf6c4add4953?rule=original",
+    "https://static.fotocasa.es/images/ads/bb096056-dc0f-4418-940f-f7d71c71bd39?rule=original",
+    "https://static.fotocasa.es/images/ads/b404def3-86f7-4181-a4f0-a16161f88ff7?rule=original",
+    "https://static.fotocasa.es/images/ads/1f825955-44cc-4f94-9573-78ceae3cf48f?rule=original",
+    "https://static.fotocasa.es/images/ads/25a513d3-73c5-41a2-95f7-6dcdf6885a09?rule=original",
+    "https://static.fotocasa.es/images/ads/7dd19636-cb4c-4927-ae19-fa725302c08d?rule=original",
+    "https://static.fotocasa.es/images/ads/79a618df-a469-4187-878e-22d7f68c82ef?rule=original",
+    "https://static.fotocasa.es/images/ads/10c07d25-fc91-48da-8d45-3dd6cf5ee2d5?rule=original",
+    "https://static.fotocasa.es/images/ads/d6d4746d-b39b-4d2c-a933-8fa0678acd15?rule=original",
+    "https://static.fotocasa.es/images/ads/877b860d-cef8-41c7-a3d7-a24341638bca?rule=original",
+    "https://static.fotocasa.es/images/ads/bd67d8ff-1497-43c1-a52d-572dddbbce12?rule=original",
+    "https://static.fotocasa.es/images/ads/b310a30a-4886-4b06-8deb-d02360ebb707?rule=original",
+    "https://static.fotocasa.es/images/ads/56882d05-dee0-4512-8dd2-b587b22cfbd5?rule=original",
+    "https://static.fotocasa.es/images/ads/bc330045-a249-4d25-b458-0a1d5c8ab55e?rule=original",
+    "https://static.fotocasa.es/images/ads/08782a93-8306-4bac-bd9c-493c08ac9429?rule=original",
+    "https://static.fotocasa.es/images/ads/41403c2f-39eb-4fd9-afe7-a7c49797c39b?rule=original"
+  ],
+  "videos": []
+}

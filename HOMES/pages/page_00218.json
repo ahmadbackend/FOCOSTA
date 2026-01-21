@@ -1,0 +1,225 @@
+{
+  "page": 218,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/218",
+  "scrape_date": "2026-01-21T04:22:20.742495",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/el-molinillo-capuchinos/182257549/d",
+      "id": 182257549,
+      "price": 169000,
+      "location": "Calle Duque de Rivas, El Molinillo - Capuchinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/parking-terraza-ascensor-patio/188173074/d",
+      "id": 188173074,
+      "price": 225000,
+      "location": "Carretas - Pajarita",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/camas/aire-acondicionado-patio/188325102/d",
+      "id": 188325102,
+      "price": 165000,
+      "location": "Calle GINES, 52, Camas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palau-solita-i-plegamans/aire-acondicionado-calefaccion-jardin-trastero/185489638/d",
+      "id": 185489638,
+      "price": 340000,
+      "location": "Palau-solità i Plegamans",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilanova-i-la-geltru/aire-acondicionado-parking-terraza-trastero-patio/185972335/d",
+      "id": 185972335,
+      "price": 980000,
+      "location": "Rambla Principal, Centre Vila ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-zona-comunitaria-ascensor-amueblado/186693740/d",
+      "id": 186693740,
+      "price": 815000,
+      "location": "Juan Bravo, Lista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/soller/aire-acondicionado-jardin-terraza-trastero-piscina/186054244/d",
+      "id": 186054244,
+      "price": 1075000,
+      "location": "Sóller",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-trastero/188372272/d",
+      "id": 188372272,
+      "price": 89000,
+      "location": "Calle de Sebastián de Benalcázar, Huerta de la Reina - Trassierra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-roca-del-valles/aire-acondicionado-calefaccion-jardin-terraza-trastero-patio/186676941/d",
+      "id": 186676941,
+      "price": 450000,
+      "location": "La Roca del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/laredo/calefaccion-jardin-terraza/188543821/d",
+      "id": 188543821,
+      "price": 398000,
+      "location": "de la libertad, El Puntal ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/quart-de-poblet/aire-acondicionado/188067614/d",
+      "id": 188067614,
+      "price": 199000,
+      "location": "Quart de Poblet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-cristina-d-aro/calefaccion-terraza-trastero-ascensor-amueblado/187731435/d",
+      "id": 187731435,
+      "price": 275000,
+      "location": "Santa Cristina Poble",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-alfas-del-pi/aire-acondicionado-parking-jardin-terraza-ascensor-piscina-no-amueblado/188543682/d",
+      "id": 188543682,
+      "price": 399000,
+      "location": "L'Albir",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-no-amueblado/188238100/d",
+      "id": 188238100,
+      "price": 550000,
+      "location": "Barri de les Corts",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado/188195793/d",
+      "id": 188195793,
+      "price": 345000,
+      "location": "Calle del Pare Laínez, El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado/187755991/d",
+      "id": 187755991,
+      "price": 217000,
+      "location": "Calle de Mascaró, El Guinardó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torreblanca/terraza/187944977/d",
+      "id": 187944977,
+      "price": 63000,
+      "location": "Torreblanca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/aire-acondicionado-calefaccion-parking-trastero-patio/188360567/d",
+      "id": 188360567,
+      "price": 550000,
+      "location": "Universidad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-vendrell/calefaccion-parking-ascensor/187880281/d",
+      "id": 187880281,
+      "price": 209000,
+      "location": "El Tancat - Mas d'en Gual",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/188274218/d",
+      "id": 188274218,
+      "price": 1420000,
+      "location": "Calle Madroño, Castillo Campodón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-parking-ascensor/185803586/d",
+      "id": 185803586,
+      "price": 249000,
+      "location": "Huerta de la Reina - Trassierra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/187877275/d",
+      "id": 187877275,
+      "price": 675000,
+      "location": "Ronda del General Mitre, Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guadarrama/calefaccion-terraza-piscina/188530596/d",
+      "id": 188530596,
+      "price": 280000,
+      "location": "Guadarrama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/marratxi/aire-acondicionado-calefaccion-parking-terraza-trastero/187133172/d",
+      "id": 187133172,
+      "price": 555000,
+      "location": "Pont d'Inca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelodones/calefaccion-parking-jardin-amueblado-television-piscina/188198190/d",
+      "id": 188198190,
+      "price": 649000,
+      "location": "Calle del Pico del Pañuelo, Centro Comercial - Hospital",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cunit/aire-acondicionado-parking-jardin-terraza-trastero-patio/187568050/d",
+      "id": 187568050,
+      "price": 235000,
+      "location": "Cunit Residencial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-calefaccion-ascensor-no-amueblado/188226618/d",
+      "id": 188226618,
+      "price": 350000,
+      "location": "Eixample Sud – Migdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lliria/aire-acondicionado-terraza-piscina/188517416/d",
+      "id": 188517416,
+      "price": 135000,
+      "location": "Calle Pluto , Urbanizaciones  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/parking-ascensor-no-amueblado/186950733/d",
+      "id": 186950733,
+      "price": 350000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion/185410782/d",
+      "id": 185410782,
+      "price": 275000,
+      "location": "Carrer de Bacardí, Sants-Badal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/banyeres-del-penedes/aire-acondicionado-calefaccion-parking-jardin-piscina/186737110/d",
+      "id": 186737110,
+      "price": 280000,
+      "location": "Banyeres del Penedès",
+      "type": "realEstate"
+    }
+  ]
+}

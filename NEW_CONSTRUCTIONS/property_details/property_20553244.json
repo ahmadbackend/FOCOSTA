@@ -1,0 +1,44 @@
+{
+  "property_id": "20553244",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20553244",
+  "scrape_date": "2026-01-21T03:19:56Z",
+  "title": "NOU SANT ANDREU GARDENS",
+  "description": "ULTIMAS VIVIENDAS DISPONIBLES. OBRAS INICIADAS. PRECIOS CON PARKING INCLUIDO ¡Descubre Nou Sant Andreu Gardens nuestra promoción de pisos de obra nueva en el barrio de Sant Andreu! Con opciones de 2 y 3 dormitorios, modernos pisos ubicados estratégicamente junto al Centro Comercial de la Maquinista, ofreciendo acceso conveniente a una amplia gama de tiendas, restaurantes y entretenimiento.\n\nAdemás, esta promoción cuenta con exclusivos áticos que incluyen terrazas al mismo nivel, proporcionando espacios al aire libre perfectos para relajarse y disfrutar de vistas panorámicas de la ciudad.\n\nNuestro proyecto está perfectamente comunicado, con proximidad al metro y a la futura nueva estación del AVE de la Sagrera, lo que facilita los desplazamientos dentro y fuera de la ciudad. Además, disfruta de la comodidad de tener una gran variedad de servicios a tu alcance, desde supermercados hasta centros educativos y de salud.\n\nNo pierdas la oportunidad de ser parte de esta emocionante comunidad en crecimiento en el corazón de Barcelona. ¡Contáctanos hoy mismo para obtener más información y reservar tu nuevo hogar en Sant Andreu!",
+  "contact_info": {
+    "phone_number": "930443089",
+    "advertiser_name": "PREMIER",
+    "client_id": 9202775009119
+  },
+  "location": {
+    "city": " Barcelona Capital",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.44465255737305,
+    "longitude": 2.193391799926758
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 109,
+    "max_surface": 114,
+    "min_price": 479000,
+    "max_price": 569000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1c618613-048d-4e74-a53d-3c8ae92ef0c9?rule=original",
+    "https://static.fotocasa.es/images/ads/ea0070ac-9624-4af8-8457-9b951209aa1b?rule=original",
+    "https://static.fotocasa.es/images/ads/9e70c023-3f1e-4fad-89cc-8f11d1baf459?rule=original",
+    "https://static.fotocasa.es/images/ads/d8ce4e60-cabb-4a23-b27b-1c37f815d7f1?rule=original",
+    "https://static.fotocasa.es/images/ads/233cc92a-294f-43a9-b9c5-1a2ba7ef6f77?rule=original",
+    "https://static.fotocasa.es/images/ads/3ca43663-c6a3-4504-8727-8e20e3404e64?rule=original",
+    "https://static.fotocasa.es/images/ads/e750b573-37e9-4dc1-8090-48752431d963?rule=original",
+    "https://static.fotocasa.es/images/ads/dd4c40c1-2cbe-42a9-82fc-8e58f37ff510?rule=original",
+    "https://static.fotocasa.es/images/ads/f8df730d-c6c6-491e-841a-cc5e7b48747b?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/C5SezlRNBao"
+  ]
+}

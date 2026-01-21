@@ -1,0 +1,225 @@
+{
+  "page": 183,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/183",
+  "scrape_date": "2026-01-21T04:21:56.168522",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor/187977624/d",
+      "id": 187977624,
+      "price": 1165000,
+      "location": "Castellana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelavega/parking/187755955/d",
+      "id": 187755955,
+      "price": 215000,
+      "location": "Calle Marcel Pirón, 235, Inmobiliaria - Barreda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-cruz-de-tenerife-capital/aire-acondicionado-parking-trastero-zona-comunitaria-piscina-no-amueblado/188546780/d",
+      "id": 188546780,
+      "price": 448000,
+      "location": "Calle de Bravo Murillo, Los Llanos - El Cabo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/logrono/calefaccion-parking-trastero-ascensor/188260254/d",
+      "id": 188260254,
+      "price": 230000,
+      "location": "parque del cubo, Oeste",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-ascensor/187234910/d",
+      "id": 187234910,
+      "price": 429000,
+      "location": "Calle Cuarteles, Perchel Sur - Plaza de Toros Vieja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecans/vilamarina/188533137/d",
+      "id": 188533137,
+      "price": 160000,
+      "location": "Vilamarina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-terraza-trastero/188407092/d",
+      "id": 188407092,
+      "price": 575000,
+      "location": "Feria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/marbella/parking-ascensor/186805614/d",
+      "id": 186805614,
+      "price": 399999,
+      "location": " Av. Ricardo Soriano, 54, Ricardo Soriano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cornella-de-llobregat/aire-acondicionado-calefaccion-ascensor-no-amueblado/188544859/d",
+      "id": 188544859,
+      "price": 215000,
+      "location": "La Gavarra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/montcada-i-reixac/calefaccion-ascensor/188543399/d",
+      "id": 188543399,
+      "price": 218000,
+      "location": "Mas Rampinyo - Montcada Nova - Carrerada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-ascensor-no-amueblado/188337240/d",
+      "id": 188337240,
+      "price": 148000,
+      "location": "Carrer de Méndez Núñez, Hospital - Plaza del Real",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiclana-de-la-frontera/parking-terraza-patio/188537421/d",
+      "id": 188537421,
+      "price": 230000,
+      "location": "Calle PLUTON, La Banda - Campo de Fútbol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuengirola/aire-acondicionado-calefaccion-parking-terraza/187966889/d",
+      "id": 187966889,
+      "price": 219900,
+      "location": " MIJAS, Centro ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-terraza-ascensor/188139822/d",
+      "id": 188139822,
+      "price": 869000,
+      "location": "Alameda Mazarredo, Zabalburu",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-trastero/188533497/d",
+      "id": 188533497,
+      "price": 499000,
+      "location": "Universidad - Malasaña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zaragoza-capital/aire-acondicionado-calefaccion-ascensor-no-amueblado/188376268/d",
+      "id": 188376268,
+      "price": 165000,
+      "location": "De Utrillas, Las Fuentes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/aire-acondicionado-calefaccion-parking-ascensor/188533222/d",
+      "id": 188533222,
+      "price": 225000,
+      "location": "Fátima",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rincon-de-la-victoria/aire-acondicionado-terraza-ascensor-amueblado/188530270/d",
+      "id": 188530270,
+      "price": 329900,
+      "location": "Playa del Rincón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188515761/d",
+      "id": 188515761,
+      "price": 570000,
+      "location": "Carrer de Conca, Arrancapins",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/elche-elx/parking-jardin-terraza-piscina/187847947/d",
+      "id": 187847947,
+      "price": 434999,
+      "location": "Camino OLIVAR, 13, La Algoda - Matola - Llano de San José",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/calefaccion-parking-trastero-ascensor/188525782/d",
+      "id": 188525782,
+      "price": 375000,
+      "location": "Calle de Méndez Núñez, Camino de Ronda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mont-roig-del-camp/calefaccion-parking-terraza-television-no-amueblado/188385758/d",
+      "id": 188385758,
+      "price": 286000,
+      "location": "Carrer Pamplona, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-calefaccion-parking-ascensor-piscina-no-amueblado/188022046/d",
+      "id": 188022046,
+      "price": 575000,
+      "location": "Sant Pau",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tarragona-capital/aire-acondicionado-calefaccion-terraza-trastero-piscina-piscina-no-amueblado/188521603/d",
+      "id": 188521603,
+      "price": 340000,
+      "location": "Mediterrani, La Móra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pineda-de-mar/calefaccion-terraza-trastero-ascensor/188519100/d",
+      "id": 188519100,
+      "price": 398000,
+      "location": "Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/188303485/d",
+      "id": 188303485,
+      "price": 280000,
+      "location": "Mare de Deu del Remei, Sant Narcís",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/parking-ascensor/186893410/d",
+      "id": 186893410,
+      "price": 225000,
+      "location": "Calle del Historiador Juan Torres Fontes, 2, Infante Juan Manuel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oropesa-del-mar-orpesa/parking-ascensor-no-amueblado/188028752/d",
+      "id": 188028752,
+      "price": 410000,
+      "location": "Calle Argentina, La Renegà-Torre Bellver-Les Platgetes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-trastero-patio/188512952/d",
+      "id": 188512952,
+      "price": 299000,
+      "location": "Calle Boyero, Florida Baja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/terraza-ascensor/188501301/d",
+      "id": 188501301,
+      "price": 229000,
+      "location": "Sol i Padris - Sant Oleguer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/orihuela/aire-acondicionado-calefaccion-terraza-piscina-amueblado-internet/188494286/d",
+      "id": 188494286,
+      "price": 157000,
+      "location": "La Florida",
+      "type": "realEstate"
+    }
+  ]
+}

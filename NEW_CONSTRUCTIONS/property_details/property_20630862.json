@@ -1,0 +1,48 @@
+{
+  "property_id": "20630862",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/torrevieja/20630862",
+  "scrape_date": "2026-01-21T03:06:54Z",
+  "title": "EDIFICIO ZOA",
+  "description": "",
+  "contact_info": {
+    "phone_number": "+34965706868",
+    "advertiser_name": "EDENBEACH, SOCIEDAD LIMITADA",
+    "client_id": 9202774459917
+  },
+  "location": {
+    "city": "Torrevieja",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 37.9799919128418,
+    "longitude": -0.6777936816215515
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 1,
+    "min_surface": 46,
+    "max_surface": 69,
+    "min_price": 157000,
+    "max_price": 240000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/34e4f9ff-7d16-41b5-9ae5-5929849f8cf2?rule=original",
+    "https://static.fotocasa.es/images/ads/6a170b24-467a-4e54-a8ef-562804542bf6?rule=original",
+    "https://static.fotocasa.es/images/ads/1c4ea82b-edd1-49f7-999b-5deaa7181cd4?rule=original",
+    "https://static.fotocasa.es/images/ads/54980d21-d225-46f7-9884-cb533275a7d7?rule=original",
+    "https://static.fotocasa.es/images/ads/b7e85925-681b-477f-8c46-d187eef7cdcd?rule=original",
+    "https://static.fotocasa.es/images/ads/4f6d116a-b123-4556-a314-64bd8d3b1377?rule=original",
+    "https://static.fotocasa.es/images/ads/753c5da1-5930-48b8-b204-f780453820be?rule=original",
+    "https://static.fotocasa.es/images/ads/1b6375e0-e90a-41b1-9b1d-c0443fea995c?rule=original",
+    "https://static.fotocasa.es/images/ads/1c54efcb-8bcc-4f17-914d-148d71c0a73d?rule=original",
+    "https://static.fotocasa.es/images/ads/0cb2fb06-e828-4b71-aa9b-115a6f96af74?rule=original",
+    "https://static.fotocasa.es/images/ads/a82b9597-b69f-4ad3-abc4-0d2087e1d778?rule=original",
+    "https://static.fotocasa.es/images/ads/afd176c7-3136-4a60-ad27-dc416688b570?rule=original",
+    "https://static.fotocasa.es/images/ads/366be300-9502-4f9f-b1db-9c5625ffc787?rule=original",
+    "https://static.fotocasa.es/images/ads/7f48828b-3d5a-44e3-905c-11758c9e387d?rule=original",
+    "https://static.fotocasa.es/images/ads/6f6fc9d0-5330-4a91-b8a3-86d9b224baf6?rule=original"
+  ],
+  "videos": []
+}

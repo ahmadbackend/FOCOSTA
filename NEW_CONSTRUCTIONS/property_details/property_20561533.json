@@ -1,0 +1,44 @@
+{
+  "property_id": "20561533",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/mislata/20561533",
+  "scrape_date": "2026-01-21T04:16:49Z",
+  "title": "ROZIER",
+  "description": "Rozier es la nueva promoción de AEDAS Homes en Mislata. Se compone de viviendas de 1, 2, 3 y  4 dormitorios y áticos con grandes terrazas. Para que disfrutes de tu tiempo libre la promoción dispone de zonas comunes con gimnasio y sala social.\n\nDescubre Rozier.\n\nSe incluyen dos plazas de garaje en el precio.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Mislata",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.47660446166992,
+    "longitude": -0.4238167107105255
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 0,
+    "max_bathrooms": 2,
+    "min_surface": 53,
+    "max_surface": 112,
+    "min_price": 108000,
+    "max_price": 420000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/186871a2-4815-412c-925e-16e37ee01f0c?rule=original",
+    "https://static.fotocasa.es/images/ads/3435107a-8d59-4763-9e8b-8f6c718fa86f?rule=original",
+    "https://static.fotocasa.es/images/ads/576e26d4-b6da-40a8-9fa8-920af77ff54e?rule=original",
+    "https://static.fotocasa.es/images/ads/1fad6425-cba3-4d83-b473-5b1bf300605d?rule=original",
+    "https://static.fotocasa.es/images/ads/9b007f56-620e-4d70-81f9-a4b45a1e8ca5?rule=original",
+    "https://static.fotocasa.es/images/ads/0ad1e04e-d79c-46de-9d94-a017235d2b06?rule=original",
+    "https://static.fotocasa.es/images/ads/87f046f4-e69c-4137-84f7-35444ea44728?rule=original",
+    "https://static.fotocasa.es/images/ads/492620a4-5058-4e3e-9202-01cae67e777c?rule=original",
+    "https://static.fotocasa.es/images/ads/086134a6-744f-4b26-a96f-059ecf6d1240?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/SllgKYjlpFk"
+  ]
+}

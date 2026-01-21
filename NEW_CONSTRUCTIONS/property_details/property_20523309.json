@@ -1,0 +1,47 @@
+{
+  "property_id": "20523309",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/mijas/20523309",
+  "scrape_date": "2026-01-21T04:36:29Z",
+  "title": "landCo Mijas",
+  "description": "EN CONSTRUCCION|  ULTIMAS VIVIENDAS  |2 Y 3 DORMITORIOS\nlandCo Mijas\nMijas, Málaga\nPromoción de Obra Nueva en Mijas Costa. Exclusivas viviendas de 2 y 3 dormitorios con plaza de garaje y trastero. Excepcionales zonas comunes con piscina\n\nOBRA EN CURSO\n\nlandCo Mijas, promoción inmobiliaria de obra nueva en Mijas Costa, Málaga. Un exclusivo residencial de 45 viviendas que combina la tranquilidad con la proximidad a las mejores playas de la Costa del Sol, y que ofrece un estilo de vida único y exclusivo para los amantes del golf.\n\nEspacios prácticos y funcionales, perfectos acabados y óptimas condiciones de confort y habitabilidad para procurar un bienestar sostenible y estancias más confortables y eficientes.\n\nUna urbanización privada para garantizar la intimidad y seguridad con amplios espacios ajardinados, zona infantil y piscina comunitaria. Viviendas de 2 y 3 dormitorios con grandes terrazas, muchas de ellas con vistas al mar, con plaza de garaje y trastero y previsión de carga para vehículos eléctricos en sótano.\n\nCocinas amueblas con principales electrodomésticos, aire acondicionado frío/calor y sistema de producción de agua caliente sanitaria mediante aerotermia. En landCo Mijas, la combinación de elegantes volúmenes con amplios espacios abiertos da como resultado viviendas donde apetece vivir, con una conexión fluida entre el interior y el exterior, creando estancias luminosas y acogedoras.\n\nEn Mijas Costa, Málaga\nlandCo Mijas, entre Mijas y Fuengirola, con fácil acceso a la A7 y AP-7. Conexiones perfectas con los municipios de la Costa del Sol y Málaga. A tan solo 7 minutos del centro de Fuengirola, a  20 minutos del Aeropuerto Internacional de Málaga y de la estación del AVE. \n\nPlaza de garaje y trastero incluidos en el precio.",
+  "contact_info": {
+    "phone_number": "951348675",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "Mijas",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.564117431640625,
+    "longitude": -4.631436824798584
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 98,
+    "max_surface": 107,
+    "min_price": 407500,
+    "max_price": 449500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/33cb215e-96cd-4f61-ae9f-0edfd9cf7fa5?rule=original",
+    "https://static.fotocasa.es/images/ads/ec7998c5-a897-42a1-b7e2-5e84c6fb0f26?rule=original",
+    "https://static.fotocasa.es/images/ads/ea22f255-ef79-42d6-94df-fe9f59943874?rule=original",
+    "https://static.fotocasa.es/images/ads/fe93343a-5d7a-4e5e-b6eb-5026ac5d8ac5?rule=original",
+    "https://static.fotocasa.es/images/ads/6840be41-1e6b-402e-8f13-7da05a5bcf13?rule=original",
+    "https://static.fotocasa.es/images/ads/956c4e6b-36cb-4b71-bec8-9f2d5e12f124?rule=original",
+    "https://static.fotocasa.es/images/ads/40a63d6f-cd6c-4b69-b22a-ffeb71f004e6?rule=original",
+    "https://static.fotocasa.es/images/ads/dfbdae4e-7ee9-4fec-a549-4229da4bbda3?rule=original",
+    "https://static.fotocasa.es/images/ads/e0532377-a98b-4de8-9d1f-fc7af08da4fd?rule=original",
+    "https://static.fotocasa.es/images/ads/1edede11-6682-405e-82f6-38263d005ec0?rule=original",
+    "https://static.fotocasa.es/images/ads/385fa582-2026-45fe-8905-b470457942bb?rule=original",
+    "https://static.fotocasa.es/images/ads/e3bfea1e-914d-44fe-8743-b5e7b8edbf79?rule=original",
+    "https://static.fotocasa.es/images/ads/1f774237-a733-450f-834e-ddb72e21c7f0?rule=original",
+    "https://static.fotocasa.es/images/ads/64b808b4-e3ad-48d8-88c4-bff541f3d2de?rule=original"
+  ],
+  "videos": []
+}

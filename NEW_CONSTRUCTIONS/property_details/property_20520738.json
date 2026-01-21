@@ -1,0 +1,44 @@
+{
+  "property_id": "20520738",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/merida/20520738",
+  "scrape_date": "2026-01-21T04:37:48Z",
+  "title": "JARDINES DE AUGUSTO",
+  "description": "Presentamos una exclusiva promoción de 28 viviendas situadas junto al Hospital, en una ubicación privilegiada que ofrece comodidad y acceso a todos los servicios esenciales.\n\nLos pisos, de tres dormitorios, destacan por su diseño moderno y funcional, con amplias terrazas que permiten disfrutar del espacio exterior. Además, cada vivienda incluye garaje y trastero, proporcionando el espacio y la comodidad que necesitas.\n\nUna oportunidad única para vivir en un entorno bien comunicado y con todas las comodidades. Para más información, no dudes en contactarnos.",
+  "contact_info": {
+    "phone_number": "924920397",
+    "advertiser_name": "LAGUNAS DEL PORTIL SA",
+    "client_id": 9202758832211
+  },
+  "location": {
+    "city": "Mérida",
+    "province": "Badajoz",
+    "region": "Extremadura",
+    "country": "España",
+    "latitude": 38.90861129760742,
+    "longitude": -6.365809917449951
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 113,
+    "max_surface": 116,
+    "min_price": 164000,
+    "max_price": 185000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d1494c1e-cd25-4be5-90f0-f2895115f074?rule=original",
+    "https://static.fotocasa.es/images/ads/99640f0e-181d-4e61-b848-d7878e16198f?rule=original",
+    "https://static.fotocasa.es/images/ads/5b00556a-e486-41fe-a474-c79b49ea471b?rule=original",
+    "https://static.fotocasa.es/images/ads/8aadb664-3d67-4dce-ac2b-6613335b25b8?rule=original",
+    "https://static.fotocasa.es/images/ads/2be99a61-95ca-4af1-8e86-de0b5aa7b3da?rule=original",
+    "https://static.fotocasa.es/images/ads/c9ddff13-6bba-412a-967a-71af8e9f4577?rule=original",
+    "https://static.fotocasa.es/images/ads/94b332f6-74b9-4ba5-b7d4-96b67770ff54?rule=original",
+    "https://static.fotocasa.es/images/ads/06feef32-1907-4e1d-a8ba-cec23d2efec3?rule=original",
+    "https://static.fotocasa.es/images/ads/21ad9349-d8c0-4e2d-8b3a-b7c532bde2cc?rule=original",
+    "https://static.fotocasa.es/images/ads/880caa18-d0e7-407b-8e94-b0f0541e08e7?rule=original",
+    "https://static.fotocasa.es/images/ads/4b9d0a08-3792-4d3b-9669-3ec1315ffb9d?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,47 @@
+{
+  "property_id": "20535966",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20535966",
+  "scrape_date": "2026-01-21T03:36:45Z",
+  "title": "Altoasis",
+  "description": "Acércate a conocer nuestra caseta de ventas en Residencial Altoasis, en C/ Perú s/n, 29680 Estepona, y descubre todos los detalles de tu futura vivienda.\nAltoasis Residences es una exclusiva promoción de 87 viviendas unifamiliares listas para entrar a vivir, situadas en la zona oeste de Estepona, junto al nuevo Hospital de Alta Resolución y en primera línea del campo de golf. Este enclave, en plena expansión urbanística, se está consolidando como uno de los destinos residenciales más prestigiosos y con mayor proyección de la Costa del Sol.\n\nLas viviendas, distribuidas en dos plantas más sótano, cuentan con tres dormitorios y dos baños, amplias terrazas privadas y, en algunos casos, solárium con impresionantes vistas al mar y al golf. Diseñadas con un estilo moderno inspirado en la arquitectura mediterránea, ofrecen estancias luminosas, suelos de mármol, ventanas con doble acristalamiento, persianas eléctricas y una bañera de hidromasaje pensada para tu bienestar y confort.\n\nEl conjunto residencial incluye zonas comunes exclusivas como piscinas interior y exterior, spa y gimnasio, así como jardines rediseñados que aportan armonía y bienestar. La urbanización está siendo completamente renovada, tanto en exteriores como interiores, para ofrecer un entorno de alta calidad, funcionalidad y elegancia.\n\nEntrega llave en mano. Gracias a su ubicación estratégica, rodeada de naturaleza y perfectamente conectada con Estepona, Marbella, Sotogrande y los aeropuertos de Málaga y Gibraltar, Altoasis representa una oportunidad única de inversión y estilo de vida en la Costa del Sol.\n\n* Las imágenes son orientativas y no contractuales.",
+  "contact_info": {
+    "phone_number": "951348857",
+    "advertiser_name": "GILMAR CONSULTING INMOBILIARIO",
+    "client_id": 9202774744009
+  },
+  "location": {
+    "city": "Estepona",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.42182159423828,
+    "longitude": -5.1980977058410645
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 230,
+    "max_surface": 255,
+    "min_price": 470250,
+    "max_price": 593750
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/fecc20b7-b76b-4f2a-9a7e-eb59b7f3bc5a?rule=original",
+    "https://static.fotocasa.es/images/ads/dd7683e6-d0ef-48b1-81fc-79a6cfc7abda?rule=original",
+    "https://static.fotocasa.es/images/ads/648ead06-1626-4ab0-b3b5-aa95080147c5?rule=original",
+    "https://static.fotocasa.es/images/ads/2c2d2ba5-0994-4b5b-b166-5ae38a69d337?rule=original",
+    "https://static.fotocasa.es/images/ads/be1478ba-73b3-4b61-bfe8-18f0599528f7?rule=original",
+    "https://static.fotocasa.es/images/ads/3e319455-7998-491c-b5c4-8f8272502798?rule=original",
+    "https://static.fotocasa.es/images/ads/c8d3d319-b767-44c3-bf23-34bb548c795b?rule=original",
+    "https://static.fotocasa.es/images/ads/c3ba071b-76d0-40cb-ba20-026502e87d44?rule=original",
+    "https://static.fotocasa.es/images/ads/62c4bef5-f83c-4ca4-baa1-c4b3c453dff5?rule=original",
+    "https://static.fotocasa.es/images/ads/fb3e09f3-cf3f-4da1-8e73-a9cd7768cbd4?rule=original",
+    "https://static.fotocasa.es/images/ads/4ff25360-ded9-48d4-9909-10d4c99c0c30?rule=original",
+    "https://static.fotocasa.es/images/ads/806cf0c1-c9e0-420a-96f3-ad037c469e5a?rule=original",
+    "https://static.fotocasa.es/images/ads/e8c393c0-415e-467c-9d99-647234047d95?rule=original",
+    "https://static.fotocasa.es/images/ads/e5f127ff-4515-431c-89e5-67bfdb76e958?rule=original"
+  ],
+  "videos": []
+}

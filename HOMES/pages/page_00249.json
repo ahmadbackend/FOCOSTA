@@ -1,0 +1,225 @@
+{
+  "page": 249,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/249",
+  "scrape_date": "2026-01-21T04:23:10.840066",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/encarnacion-regina/187815783/d",
+      "id": 187815783,
+      "price": 335000,
+      "location": "Encarnación - Regina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/huetor-vega/aire-acondicionado-parking-terraza-patio/188233249/d",
+      "id": 188233249,
+      "price": 419000,
+      "location": "Huétor Vega",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartama/terraza/188091015/d",
+      "id": 188091015,
+      "price": 234990,
+      "location": "Cártama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-susanna/parking-jardin-piscina/186993753/d",
+      "id": 186993753,
+      "price": 360000,
+      "location": "Santa Susanna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/la-caleta-la-vina/187465134/d",
+      "id": 187465134,
+      "price": 190000,
+      "location": "La Caleta - La Viña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ourense-capital/centro/184596004/d",
+      "id": 184596004,
+      "price": 430000,
+      "location": "CURROS ENRIQUEZ, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-palmas-de-gran-canaria/trastero-ascensor/188379343/d",
+      "id": 188379343,
+      "price": 410000,
+      "location": "Santa Catalina - Canteras",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/alameda-mentidero-teatro-falla/188406447/d",
+      "id": 188406447,
+      "price": 205000,
+      "location": "Alameda - Mentidero - Teatro Falla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor/188178614/d",
+      "id": 188178614,
+      "price": 890000,
+      "location": "El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcudia/parking-jardin-terraza/188389147/d",
+      "id": 188389147,
+      "price": 425000,
+      "location": "Port d'Alcúdia - Platja d'Alcúdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gandia/aire-acondicionado-terraza-piscina-amueblado/187686151/d",
+      "id": 187686151,
+      "price": 669000,
+      "location": "Carrer del Comtat, Playa de Gandia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/parking-jardin-terraza/186481493/d",
+      "id": 186481493,
+      "price": 1050000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-cebria-de-vallalta/parking-jardin-terraza-patio-piscina-internet/185337267/d",
+      "id": 185337267,
+      "price": 350000,
+      "location": "Sant Cebrià de Vallalta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tudela/aire-acondicionado-calefaccion-parking-trastero-ascensor-no-amueblado/187723544/d",
+      "id": 187723544,
+      "price": 170000,
+      "location": "Zaragoza, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/ascensor/188533468/d",
+      "id": 188533468,
+      "price": 225000,
+      "location": "Triana Este",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llica-de-vall/parking-jardin-trastero-patio-piscina-no-amueblado/188529175/d",
+      "id": 188529175,
+      "price": 420000,
+      "location": "Carrer del Roser, Lliçà de Vall",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/elche-elx/parking-jardin-terraza-ascensor-patio-piscina/187676583/d",
+      "id": 187676583,
+      "price": 210000,
+      "location": "Sector V",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ripoll/no-amueblado/185425530/d",
+      "id": 185425530,
+      "price": 595000,
+      "location": "Progrés, Ripoll",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/magan/terraza/188389765/d",
+      "id": 188389765,
+      "price": 110000,
+      "location": "Magán",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-eliana/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-internet-no-amueblado/185678315/d",
+      "id": 185678315,
+      "price": 675000,
+      "location": "Montesol ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mostoles/calefaccion-parking-jardin-ascensor-amueblado/188179045/d",
+      "id": 188179045,
+      "price": 329000,
+      "location": "Norte - Universidad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor-no-amueblado/188360241/d",
+      "id": 188360241,
+      "price": 1100000,
+      "location": "Calle de Cea Bermúdez, Vallehermoso",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/aire-acondicionado-calefaccion-parking-terraza/188500925/d",
+      "id": 188500925,
+      "price": 335000,
+      "location": "Bellamar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-ascensor/188382340/d",
+      "id": 188382340,
+      "price": 250000,
+      "location": "Villaverde Alto",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/centre/188369165/d",
+      "id": 188369165,
+      "price": 570000,
+      "location": "de l'Algavira, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/matadepera/calefaccion-jardin/188478498/d",
+      "id": 188478498,
+      "price": 875000,
+      "location": "Matadepera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guadarrama/calefaccion-terraza-no-amueblado/188208756/d",
+      "id": 188208756,
+      "price": 320000,
+      "location": "Guadarrama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/sabino-arana-jesuitas/188501063/d",
+      "id": 188501063,
+      "price": 345000,
+      "location": "Sabino Arana - Jesuitas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/patio/188500353/d",
+      "id": 188500353,
+      "price": 190000,
+      "location": "Cerdanyola Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llinars-del-valles/calefaccion-jardin-terraza-patio/187845040/d",
+      "id": 187845040,
+      "price": 396000,
+      "location": "Llinars del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rivas-vaciamadrid/aire-acondicionado-calefaccion-parking-jardin-piscina-no-amueblado/187819712/d",
+      "id": 187819712,
+      "price": 770000,
+      "location": "Urbanizaciones",
+      "type": "realEstate"
+    }
+  ]
+}

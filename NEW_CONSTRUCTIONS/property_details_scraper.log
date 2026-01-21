@@ -1,0 +1,648 @@
+2026-01-21 01:02:49,848 - MainThread - ERROR - No properties to scrape!
+2026-01-21 01:08:54,200 - MainThread - INFO - Starting property details scraper for 1020 properties with 30 threads
+2026-01-21 01:08:54,201 - MainThread - INFO - Rate limit: 2 seconds between requests
+2026-01-21 01:08:54,204 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20528373: https://www.fotocasa.es/es/comprar/obra-nueva/begues/20528373
+2026-01-21 01:08:56,209 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20563916: https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20563916
+2026-01-21 01:08:58,211 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20564652: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20564652
+2026-01-21 01:09:00,211 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20562086: https://www.fotocasa.es/es/comprar/obra-nueva/fuenlabrada/20562086
+2026-01-21 01:09:02,211 - ThreadPoolExecutor-0_4 - INFO - Scraping property 20541166: https://www.fotocasa.es/es/comprar/obra-nueva/sitges/20541166
+2026-01-21 01:09:04,212 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20529247: https://www.fotocasa.es/es/comprar/obra-nueva/eivissa/20529247
+2026-01-21 01:09:06,212 - ThreadPoolExecutor-0_6 - INFO - Scraping property 20525105: https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20525105
+2026-01-21 01:09:08,213 - ThreadPoolExecutor-0_7 - INFO - Scraping property 20525140: https://www.fotocasa.es/es/comprar/obra-nueva/sagunto-sagunt/20525140
+2026-01-21 01:09:10,213 - ThreadPoolExecutor-0_8 - INFO - Scraping property 20525087: https://www.fotocasa.es/es/comprar/obra-nueva/arico/20525087
+2026-01-21 01:09:12,214 - ThreadPoolExecutor-0_9 - INFO - Scraping property 20567479: https://www.fotocasa.es/es/comprar/obra-nueva/azuqueca-de-henares/20567479
+2026-01-21 01:09:14,214 - ThreadPoolExecutor-0_10 - INFO - Scraping property 20567478: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20567478
+2026-01-21 01:09:16,214 - ThreadPoolExecutor-0_11 - INFO - Scraping property 20516328: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516328
+2026-01-21 01:09:18,215 - ThreadPoolExecutor-0_12 - INFO - Scraping property 20516327: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516327
+2026-01-21 01:09:20,215 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20554437: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20554437
+2026-01-21 01:09:22,216 - ThreadPoolExecutor-0_14 - INFO - Scraping property 20516323: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516323
+2026-01-21 01:09:24,217 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20516321: https://www.fotocasa.es/es/comprar/obra-nueva/mungia/20516321
+2026-01-21 01:09:26,217 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20553693: https://www.fotocasa.es/es/comprar/obra-nueva/bilbao/20553693
+2026-01-21 01:09:28,218 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20516301: https://www.fotocasa.es/es/comprar/obra-nueva/mungia/20516301
+2026-01-21 01:09:30,218 - ThreadPoolExecutor-0_18 - INFO - Scraping property 20631987: https://www.fotocasa.es/es/comprar/obra-nueva/cordoba-capital/20631987
+2026-01-21 01:09:32,218 - ThreadPoolExecutor-0_19 - INFO - Scraping property 20516300: https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20516300
+2026-01-21 01:09:34,218 - ThreadPoolExecutor-0_20 - INFO - Scraping property 20560282: https://www.fotocasa.es/es/comprar/obra-nueva/paterna/20560282
+2026-01-21 01:09:36,219 - ThreadPoolExecutor-0_21 - INFO - Scraping property 20516299: https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20516299
+2026-01-21 01:09:38,220 - ThreadPoolExecutor-0_22 - INFO - Scraping property 20516298: https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20516298
+2026-01-21 01:09:40,220 - ThreadPoolExecutor-0_23 - INFO - Scraping property 20516296: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20516296
+2026-01-21 01:09:42,221 - ThreadPoolExecutor-0_24 - INFO - Scraping property 20516295: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20516295
+2026-01-21 01:09:44,221 - ThreadPoolExecutor-0_25 - INFO - Scraping property 20516294: https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20516294
+2026-01-21 01:09:46,222 - ThreadPoolExecutor-0_26 - INFO - Scraping property 20516293: https://www.fotocasa.es/es/comprar/obra-nueva/las-rozas-de-madrid/20516293
+2026-01-21 01:09:48,222 - ThreadPoolExecutor-0_27 - INFO - Scraping property 20516291: https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20516291
+2026-01-21 01:09:50,222 - ThreadPoolExecutor-0_28 - INFO - Scraping property 20516289: https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20516289
+2026-01-21 01:09:52,223 - ThreadPoolExecutor-0_0 - ERROR - [ERROR] Property 20528373: HTTP Error 405: 
+2026-01-21 01:09:52,223 - ThreadPoolExecutor-0_29 - INFO - Scraping property 20516288: https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20516288
+2026-01-21 01:09:52,223 - ThreadPoolExecutor-0_1 - ERROR - [ERROR] Property 20563916: HTTP Error 405: 
+2026-01-21 01:09:52,224 - ThreadPoolExecutor-0_2 - ERROR - [ERROR] Property 20564652: HTTP Error 405: 
+2026-01-21 01:09:52,224 - ThreadPoolExecutor-0_3 - ERROR - [ERROR] Property 20562086: HTTP Error 405: 
+2026-01-21 01:09:52,224 - ThreadPoolExecutor-0_4 - ERROR - [ERROR] Property 20541166: HTTP Error 405: 
+2026-01-21 01:09:52,224 - ThreadPoolExecutor-0_5 - ERROR - [ERROR] Property 20529247: HTTP Error 405: 
+2026-01-21 01:09:52,226 - ThreadPoolExecutor-0_11 - ERROR - [ERROR] Property 20516328: HTTP Error 405: 
+2026-01-21 01:09:52,225 - ThreadPoolExecutor-0_8 - ERROR - [ERROR] Property 20525087: HTTP Error 405: 
+2026-01-21 01:09:52,227 - ThreadPoolExecutor-0_14 - ERROR - [ERROR] Property 20516323: HTTP Error 405: 
+2026-01-21 01:09:52,226 - ThreadPoolExecutor-0_9 - ERROR - [ERROR] Property 20567479: HTTP Error 405: 
+2026-01-21 01:09:52,227 - ThreadPoolExecutor-0_15 - ERROR - [ERROR] Property 20516321: HTTP Error 405: 
+2026-01-21 01:09:52,226 - ThreadPoolExecutor-0_10 - ERROR - [ERROR] Property 20567478: HTTP Error 405: 
+2026-01-21 01:09:52,225 - ThreadPoolExecutor-0_6 - ERROR - [ERROR] Property 20525105: HTTP Error 405: 
+2026-01-21 01:09:52,227 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20553693: HTTP Error 405: 
+2026-01-21 01:09:52,227 - ThreadPoolExecutor-0_7 - ERROR - [ERROR] Property 20525140: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:09:52,227 - ThreadPoolExecutor-0_17 - ERROR - [ERROR] Property 20516301: HTTP Error 405: 
+2026-01-21 01:09:52,227 - ThreadPoolExecutor-0_19 - ERROR - [ERROR] Property 20516300: HTTP Error 405: 
+2026-01-21 01:09:52,227 - ThreadPoolExecutor-0_18 - ERROR - [ERROR] Property 20631987: HTTP Error 405: 
+2026-01-21 01:09:52,228 - ThreadPoolExecutor-0_20 - ERROR - [ERROR] Property 20560282: HTTP Error 405: 
+2026-01-21 01:09:52,228 - ThreadPoolExecutor-0_13 - ERROR - [ERROR] Property 20554437: HTTP Error 405: 
+2026-01-21 01:09:52,228 - ThreadPoolExecutor-0_21 - ERROR - [ERROR] Property 20516299: HTTP Error 405: 
+2026-01-21 01:09:52,229 - ThreadPoolExecutor-0_22 - ERROR - [ERROR] Property 20516298: HTTP Error 405: 
+2026-01-21 01:09:52,229 - ThreadPoolExecutor-0_12 - ERROR - [ERROR] Property 20516327: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:09:52,229 - MainThread - ERROR - [FAILED] Property 20528373: HTTP Error 405: 
+2026-01-21 01:09:52,230 - ThreadPoolExecutor-0_23 - ERROR - [ERROR] Property 20516296: HTTP Error 405: 
+2026-01-21 01:09:52,230 - ThreadPoolExecutor-0_25 - ERROR - [ERROR] Property 20516294: HTTP Error 405: 
+2026-01-21 01:09:52,230 - ThreadPoolExecutor-0_28 - ERROR - [ERROR] Property 20516289: HTTP Error 405: 
+2026-01-21 01:09:52,258 - MainThread - ERROR - [FAILED] Property 20563916: HTTP Error 405: 
+2026-01-21 01:09:52,261 - MainThread - ERROR - [FAILED] Property 20564652: HTTP Error 405: 
+2026-01-21 01:09:52,262 - MainThread - ERROR - [FAILED] Property 20541166: HTTP Error 405: 
+2026-01-21 01:09:52,262 - MainThread - ERROR - [FAILED] Property 20562086: HTTP Error 405: 
+2026-01-21 01:09:52,264 - MainThread - ERROR - [FAILED] Property 20529247: HTTP Error 405: 
+2026-01-21 01:09:52,265 - MainThread - ERROR - [FAILED] Property 20516328: HTTP Error 405: 
+2026-01-21 01:09:52,266 - MainThread - ERROR - [FAILED] Property 20525087: HTTP Error 405: 
+2026-01-21 01:09:52,266 - MainThread - ERROR - [FAILED] Property 20516323: HTTP Error 405: 
+2026-01-21 01:09:52,267 - MainThread - ERROR - [FAILED] Property 20567479: HTTP Error 405: 
+2026-01-21 01:09:52,267 - MainThread - ERROR - [FAILED] Property 20516321: HTTP Error 405: 
+2026-01-21 01:09:52,267 - MainThread - ERROR - [FAILED] Property 20525140: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:09:52,268 - MainThread - ERROR - [FAILED] Property 20567478: HTTP Error 405: 
+2026-01-21 01:09:52,268 - MainThread - ERROR - [FAILED] Property 20525105: HTTP Error 405: 
+2026-01-21 01:09:52,268 - MainThread - ERROR - [FAILED] Property 20553693: HTTP Error 405: 
+2026-01-21 01:09:52,269 - MainThread - ERROR - [FAILED] Property 20516300: HTTP Error 405: 
+2026-01-21 01:09:52,269 - MainThread - ERROR - [FAILED] Property 20631987: HTTP Error 405: 
+2026-01-21 01:09:52,270 - MainThread - ERROR - [FAILED] Property 20554437: HTTP Error 405: 
+2026-01-21 01:09:52,270 - MainThread - ERROR - [FAILED] Property 20560282: HTTP Error 405: 
+2026-01-21 01:09:52,271 - MainThread - ERROR - [FAILED] Property 20516327: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:09:52,272 - MainThread - ERROR - [FAILED] Property 20516301: HTTP Error 405: 
+2026-01-21 01:09:52,272 - MainThread - ERROR - [FAILED] Property 20516299: HTTP Error 405: 
+2026-01-21 01:09:52,272 - MainThread - ERROR - [FAILED] Property 20516298: HTTP Error 405: 
+2026-01-21 01:09:52,273 - MainThread - ERROR - [FAILED] Property 20516296: HTTP Error 405: 
+2026-01-21 01:09:52,273 - MainThread - ERROR - [FAILED] Property 20516294: HTTP Error 405: 
+2026-01-21 01:09:52,273 - MainThread - ERROR - [FAILED] Property 20516289: HTTP Error 405: 
+2026-01-21 01:09:54,223 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20641586: https://www.fotocasa.es/es/comprar/obra-nueva/anoeta/20641586
+2026-01-21 01:09:56,224 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20562767: https://www.fotocasa.es/es/comprar/obra-nueva/moncofa/20562767
+2026-01-21 01:09:58,224 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20509178: https://www.fotocasa.es/es/comprar/obra-nueva/salou/20509178
+2026-01-21 01:10:00,224 - ThreadPoolExecutor-0_4 - INFO - Scraping property 20511742: https://www.fotocasa.es/es/comprar/obra-nueva/sant-andreu-de-llavaneres/20511742
+2026-01-21 01:10:02,225 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20509463: https://www.fotocasa.es/es/comprar/obra-nueva/foz/20509463
+2026-01-21 01:10:04,225 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20538825: https://www.fotocasa.es/es/comprar/obra-nueva/murcia-capital/20538825
+2026-01-21 01:10:06,226 - ThreadPoolExecutor-0_11 - INFO - Scraping property 20582905: https://www.fotocasa.es/es/comprar/obra-nueva/santpedor/20582905
+2026-01-21 01:10:08,226 - ThreadPoolExecutor-0_8 - INFO - Scraping property 20643452: https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20643452
+2026-01-21 01:10:10,226 - ThreadPoolExecutor-0_14 - INFO - Scraping property 20518899: https://www.fotocasa.es/es/comprar/obra-nueva/bormujos/20518899
+2026-01-21 01:10:12,227 - ThreadPoolExecutor-0_9 - INFO - Scraping property 20518867: https://www.fotocasa.es/es/comprar/obra-nueva/dos-hermanas/20518867
+2026-01-21 01:10:14,227 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20633521: https://www.fotocasa.es/es/comprar/obra-nueva/cadiz-capital/20633521
+2026-01-21 01:10:16,299 - ThreadPoolExecutor-0_7 - INFO - Scraping property 20631529: https://www.fotocasa.es/es/comprar/obra-nueva/alcala-de-henares/20631529
+2026-01-21 01:10:18,300 - ThreadPoolExecutor-0_10 - INFO - Scraping property 20610904: https://www.fotocasa.es/es/comprar/obra-nueva/l-hospitalet-de-llobregat/20610904
+2026-01-21 01:10:20,301 - ThreadPoolExecutor-0_6 - INFO - Scraping property 20532950: https://www.fotocasa.es/es/comprar/obra-nueva/badalona/20532950
+2026-01-21 01:10:22,301 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20603582: https://www.fotocasa.es/es/comprar/obra-nueva/calafell/20603582
+2026-01-21 01:10:24,301 - ThreadPoolExecutor-0_19 - INFO - Scraping property 20531662: https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20531662
+2026-01-21 01:10:26,302 - ThreadPoolExecutor-0_18 - INFO - Scraping property 20531678: https://www.fotocasa.es/es/comprar/obra-nueva/begur/20531678
+2026-01-21 01:10:28,302 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20534662: https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20534662
+2026-01-21 01:10:30,302 - ThreadPoolExecutor-0_20 - INFO - Scraping property 20560517: https://www.fotocasa.es/es/comprar/obra-nueva/l-hospitalet-de-llobregat/20560517
+2026-01-21 01:10:32,303 - ThreadPoolExecutor-0_12 - INFO - Scraping property 20531695: https://www.fotocasa.es/es/comprar/obra-nueva/gualta/20531695
+2026-01-21 01:10:34,304 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20604333: https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20604333
+2026-01-21 01:10:36,304 - ThreadPoolExecutor-0_21 - INFO - Scraping property 20613234: https://www.fotocasa.es/es/comprar/obra-nueva/sant-cugat-del-valles/20613234
+2026-01-21 01:10:38,305 - ThreadPoolExecutor-0_22 - INFO - Scraping property 20531677: https://www.fotocasa.es/es/comprar/obra-nueva/montgat/20531677
+2026-01-21 01:10:40,305 - ThreadPoolExecutor-0_23 - INFO - Scraping property 20598948: https://www.fotocasa.es/es/comprar/obra-nueva/alicante-alacant/20598948
+2026-01-21 01:10:42,305 - ThreadPoolExecutor-0_25 - INFO - Scraping property 20509179: https://www.fotocasa.es/es/comprar/obra-nueva/vilafranca-del-penedes/20509179
+2026-01-21 01:10:44,306 - ThreadPoolExecutor-0_28 - INFO - Scraping property 20642863: https://www.fotocasa.es/es/comprar/obra-nueva/armilla/20642863
+2026-01-21 01:10:44,306 - ThreadPoolExecutor-0_29 - ERROR - [ERROR] Property 20516288: HTTP Error 405: 
+2026-01-21 01:10:44,307 - ThreadPoolExecutor-0_0 - ERROR - [ERROR] Property 20641586: HTTP Error 405: 
+2026-01-21 01:10:44,307 - ThreadPoolExecutor-0_2 - ERROR - [ERROR] Property 20509178: HTTP Error 405: 
+2026-01-21 01:10:44,307 - ThreadPoolExecutor-0_24 - ERROR - [ERROR] Property 20516295: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,308 - ThreadPoolExecutor-0_4 - ERROR - [ERROR] Property 20511742: HTTP Error 405: 
+2026-01-21 01:10:44,308 - ThreadPoolExecutor-0_3 - ERROR - [ERROR] Property 20509463: HTTP Error 405: 
+2026-01-21 01:10:44,308 - ThreadPoolExecutor-0_5 - ERROR - [ERROR] Property 20538825: HTTP Error 405: 
+2026-01-21 01:10:44,309 - ThreadPoolExecutor-0_26 - ERROR - [ERROR] Property 20516293: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,309 - ThreadPoolExecutor-0_27 - ERROR - [ERROR] Property 20516291: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,310 - ThreadPoolExecutor-0_11 - ERROR - [ERROR] Property 20582905: HTTP Error 405: 
+2026-01-21 01:10:44,312 - ThreadPoolExecutor-0_8 - ERROR - [ERROR] Property 20643452: HTTP Error 405: 
+2026-01-21 01:10:44,312 - MainThread - ERROR - [FAILED] Property 20509178: HTTP Error 405: 
+2026-01-21 01:10:44,312 - ThreadPoolExecutor-0_14 - ERROR - [ERROR] Property 20518899: HTTP Error 405: 
+2026-01-21 01:10:44,312 - ThreadPoolExecutor-0_9 - ERROR - [ERROR] Property 20518867: HTTP Error 405: 
+2026-01-21 01:10:44,313 - ThreadPoolExecutor-0_15 - ERROR - [ERROR] Property 20633521: HTTP Error 405: 
+2026-01-21 01:10:44,313 - ThreadPoolExecutor-0_7 - ERROR - [ERROR] Property 20631529: HTTP Error 405: 
+2026-01-21 01:10:44,313 - ThreadPoolExecutor-0_1 - ERROR - [ERROR] Property 20562767: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,314 - ThreadPoolExecutor-0_17 - ERROR - [ERROR] Property 20604333: HTTP Error 405: 
+2026-01-21 01:10:44,314 - ThreadPoolExecutor-0_10 - ERROR - [ERROR] Property 20610904: HTTP Error 405: 
+2026-01-21 01:10:44,315 - ThreadPoolExecutor-0_21 - ERROR - [ERROR] Property 20613234: HTTP Error 405: 
+2026-01-21 01:10:44,314 - ThreadPoolExecutor-0_18 - ERROR - [ERROR] Property 20531678: HTTP Error 405: 
+2026-01-21 01:10:44,314 - ThreadPoolExecutor-0_20 - ERROR - [ERROR] Property 20560517: HTTP Error 405: 
+2026-01-21 01:10:44,315 - ThreadPoolExecutor-0_6 - ERROR - [ERROR] Property 20532950: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,314 - ThreadPoolExecutor-0_12 - ERROR - [ERROR] Property 20531695: HTTP Error 405: 
+2026-01-21 01:10:44,315 - ThreadPoolExecutor-0_22 - ERROR - [ERROR] Property 20531677: HTTP Error 405: 
+2026-01-21 01:10:44,315 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20603582: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,315 - ThreadPoolExecutor-0_23 - ERROR - [ERROR] Property 20598948: HTTP Error 405: 
+2026-01-21 01:10:44,315 - ThreadPoolExecutor-0_25 - ERROR - [ERROR] Property 20509179: HTTP Error 405: 
+2026-01-21 01:10:44,318 - MainThread - ERROR - [FAILED] Property 20516288: HTTP Error 405: 
+2026-01-21 01:10:44,320 - MainThread - ERROR - [FAILED] Property 20516295: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,321 - MainThread - ERROR - [FAILED] Property 20641586: HTTP Error 405: 
+2026-01-21 01:10:44,342 - MainThread - ERROR - [FAILED] Property 20509463: HTTP Error 405: 
+2026-01-21 01:10:44,343 - MainThread - ERROR - [FAILED] Property 20511742: HTTP Error 405: 
+2026-01-21 01:10:44,345 - MainThread - ERROR - [FAILED] Property 20516293: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,346 - MainThread - ERROR - [FAILED] Property 20538825: HTTP Error 405: 
+2026-01-21 01:10:44,346 - MainThread - ERROR - [FAILED] Property 20516291: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,346 - MainThread - ERROR - [FAILED] Property 20582905: HTTP Error 405: 
+2026-01-21 01:10:44,347 - MainThread - ERROR - [FAILED] Property 20643452: HTTP Error 405: 
+2026-01-21 01:10:44,347 - MainThread - ERROR - [FAILED] Property 20633521: HTTP Error 405: 
+2026-01-21 01:10:44,348 - MainThread - ERROR - [FAILED] Property 20631529: HTTP Error 405: 
+2026-01-21 01:10:44,348 - MainThread - ERROR - [FAILED] Property 20562767: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,348 - MainThread - ERROR - [FAILED] Property 20610904: HTTP Error 405: 
+2026-01-21 01:10:44,349 - MainThread - ERROR - [FAILED] Property 20604333: HTTP Error 405: 
+2026-01-21 01:10:44,349 - MainThread - ERROR - [FAILED] Property 20531678: HTTP Error 405: 
+2026-01-21 01:10:44,349 - MainThread - ERROR - [FAILED] Property 20532950: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,350 - MainThread - ERROR - [FAILED] Property 20560517: HTTP Error 405: 
+2026-01-21 01:10:44,350 - MainThread - ERROR - [FAILED] Property 20613234: HTTP Error 405: 
+2026-01-21 01:10:44,350 - MainThread - ERROR - [FAILED] Property 20603582: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:10:44,351 - MainThread - ERROR - [FAILED] Property 20531677: HTTP Error 405: 
+2026-01-21 01:10:44,351 - MainThread - ERROR - [FAILED] Property 20531695: HTTP Error 405: 
+2026-01-21 01:10:44,351 - MainThread - ERROR - [FAILED] Property 20598948: HTTP Error 405: 
+2026-01-21 01:10:44,352 - MainThread - ERROR - [FAILED] Property 20509179: HTTP Error 405: 
+2026-01-21 01:10:44,352 - MainThread - ERROR - [FAILED] Property 20518899: HTTP Error 405: 
+2026-01-21 01:10:44,352 - MainThread - ERROR - [FAILED] Property 20518867: HTTP Error 405: 
+2026-01-21 01:10:46,307 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20559633: https://www.fotocasa.es/es/comprar/obra-nueva/cuevas-del-almanzora/20559633
+2026-01-21 01:10:48,308 - ThreadPoolExecutor-0_29 - INFO - Scraping property 20509580: https://www.fotocasa.es/es/comprar/obra-nueva/alcazar-de-san-juan/20509580
+2026-01-21 01:10:50,308 - ThreadPoolExecutor-0_24 - INFO - Scraping property 20642069: https://www.fotocasa.es/es/comprar/obra-nueva/sant-feliu-de-llobregat/20642069
+2026-01-21 01:10:52,309 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20622783: https://www.fotocasa.es/es/comprar/obra-nueva/roquetas-de-mar/20622783
+2026-01-21 01:10:54,310 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20642827: https://www.fotocasa.es/es/comprar/obra-nueva/girona-capital/20642827
+2026-01-21 01:10:56,310 - ThreadPoolExecutor-0_4 - INFO - Scraping property 20642824: https://www.fotocasa.es/es/comprar/obra-nueva/sesena/20642824
+2026-01-21 01:10:58,311 - ThreadPoolExecutor-0_26 - INFO - Scraping property 20564663: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20564663
+2026-01-21 01:11:00,311 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20611191: https://www.fotocasa.es/es/comprar/obra-nueva/la-roca-del-valles/20611191
+2026-01-21 01:11:02,312 - ThreadPoolExecutor-0_27 - INFO - Scraping property 20560520: https://www.fotocasa.es/es/comprar/obra-nueva/girona-capital/20560520
+2026-01-21 01:11:04,313 - ThreadPoolExecutor-0_11 - INFO - Scraping property 20608877: https://www.fotocasa.es/es/comprar/obra-nueva/navalcarnero/20608877
+2026-01-21 01:11:06,314 - ThreadPoolExecutor-0_8 - INFO - Scraping property 20507488: https://www.fotocasa.es/es/comprar/obra-nueva/palma-de-mallorca/20507488
+2026-01-21 01:11:08,314 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20525114: https://www.fotocasa.es/es/comprar/obra-nueva/la-alcaidesa/20525114
+2026-01-21 01:11:10,314 - ThreadPoolExecutor-0_7 - INFO - Scraping property 20595861: https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20595861
+2026-01-21 01:11:12,315 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20593232: https://www.fotocasa.es/es/comprar/obra-nueva/palma-de-mallorca/20593232
+2026-01-21 01:11:14,315 - ThreadPoolExecutor-0_10 - INFO - Scraping property 20525094: https://www.fotocasa.es/es/comprar/obra-nueva/terrassa/20525094
+2026-01-21 01:11:16,315 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20598958: https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20598958
+2026-01-21 01:11:18,316 - ThreadPoolExecutor-0_18 - INFO - Scraping property 20642564: https://www.fotocasa.es/es/comprar/obra-nueva/cubelles/20642564
+2026-01-21 01:11:20,317 - ThreadPoolExecutor-0_6 - INFO - Scraping property 20510789: https://www.fotocasa.es/es/comprar/obra-nueva/miraflores-de-la-sierra/20510789
+2026-01-21 01:11:22,317 - ThreadPoolExecutor-0_20 - INFO - Scraping property 20567226: https://www.fotocasa.es/es/comprar/obra-nueva/barakaldo/20567226
+2026-01-21 01:11:24,318 - ThreadPoolExecutor-0_21 - INFO - Scraping property 20597092: https://www.fotocasa.es/es/comprar/obra-nueva/cassa-de-la-selva/20597092
+2026-01-21 01:11:26,318 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20605893: https://www.fotocasa.es/es/comprar/obra-nueva/torremolinos/20605893
+2026-01-21 01:11:28,318 - ThreadPoolExecutor-0_22 - INFO - Scraping property 20605837: https://www.fotocasa.es/es/comprar/obra-nueva/torremolinos/20605837
+2026-01-21 01:11:30,318 - ThreadPoolExecutor-0_12 - INFO - Scraping property 20521728: https://www.fotocasa.es/es/comprar/obra-nueva/badalona/20521728
+2026-01-21 01:11:32,319 - ThreadPoolExecutor-0_23 - INFO - Scraping property 20513174: https://www.fotocasa.es/es/comprar/obra-nueva/la-rinconada/20513174
+2026-01-21 01:11:34,320 - ThreadPoolExecutor-0_25 - INFO - Scraping property 20521727: https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20521727
+2026-01-21 01:11:36,321 - ThreadPoolExecutor-0_14 - INFO - Scraping property 20508204: https://www.fotocasa.es/es/comprar/obra-nueva/mataro/20508204
+2026-01-21 01:11:38,321 - ThreadPoolExecutor-0_28 - ERROR - [ERROR] Property 20642863: HTTP Error 405: 
+2026-01-21 01:11:38,321 - ThreadPoolExecutor-0_19 - ERROR - [ERROR] Property 20531662: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:11:38,321 - ThreadPoolExecutor-0_9 - INFO - Scraping property 20510574: https://www.fotocasa.es/es/comprar/obra-nueva/san-cristobal-de-la-laguna/20510574
+2026-01-21 01:11:38,322 - ThreadPoolExecutor-0_13 - ERROR - [ERROR] Property 20534662: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:11:38,322 - ThreadPoolExecutor-0_2 - ERROR - [ERROR] Property 20559633: HTTP Error 405: 
+2026-01-21 01:11:38,322 - ThreadPoolExecutor-0_24 - ERROR - [ERROR] Property 20642069: HTTP Error 405: 
+2026-01-21 01:11:38,322 - ThreadPoolExecutor-0_3 - ERROR - [ERROR] Property 20642827: HTTP Error 405: 
+2026-01-21 01:11:38,322 - ThreadPoolExecutor-0_4 - ERROR - [ERROR] Property 20642824: HTTP Error 405: 
+2026-01-21 01:11:38,323 - ThreadPoolExecutor-0_26 - ERROR - [ERROR] Property 20564663: HTTP Error 405: 
+2026-01-21 01:11:38,323 - ThreadPoolExecutor-0_5 - ERROR - [ERROR] Property 20611191: HTTP Error 405: 
+2026-01-21 01:11:38,323 - ThreadPoolExecutor-0_27 - ERROR - [ERROR] Property 20560520: HTTP Error 405: 
+2026-01-21 01:11:38,323 - ThreadPoolExecutor-0_29 - ERROR - [ERROR] Property 20509580: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:11:38,328 - ThreadPoolExecutor-0_21 - ERROR - [ERROR] Property 20597092: HTTP Error 405: 
+2026-01-21 01:11:38,323 - ThreadPoolExecutor-0_8 - ERROR - [ERROR] Property 20507488: HTTP Error 405: 
+2026-01-21 01:11:38,328 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20605893: HTTP Error 405: 
+2026-01-21 01:11:38,324 - ThreadPoolExecutor-0_0 - ERROR - [ERROR] Property 20622783: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:11:38,325 - ThreadPoolExecutor-0_7 - ERROR - [ERROR] Property 20595861: HTTP Error 405: 
+2026-01-21 01:11:38,325 - ThreadPoolExecutor-0_1 - ERROR - [ERROR] Property 20593232: HTTP Error 405: 
+2026-01-21 01:11:38,326 - MainThread - ERROR - [FAILED] Property 20531662: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:11:38,326 - ThreadPoolExecutor-0_10 - ERROR - [ERROR] Property 20525094: HTTP Error 405: 
+2026-01-21 01:11:38,326 - ThreadPoolExecutor-0_17 - ERROR - [ERROR] Property 20598958: HTTP Error 405: 
+2026-01-21 01:11:38,327 - ThreadPoolExecutor-0_18 - ERROR - [ERROR] Property 20642564: HTTP Error 405: 
+2026-01-21 01:11:38,327 - ThreadPoolExecutor-0_20 - ERROR - [ERROR] Property 20567226: HTTP Error 405: 
+2026-01-21 01:11:38,324 - ThreadPoolExecutor-0_11 - ERROR - [ERROR] Property 20608877: HTTP Error 405: 
+2026-01-21 01:11:38,324 - ThreadPoolExecutor-0_15 - ERROR - [ERROR] Property 20525114: HTTP Error 405: 
+2026-01-21 01:11:38,329 - ThreadPoolExecutor-0_12 - ERROR - [ERROR] Property 20521728: HTTP Error 405: 
+2026-01-21 01:11:38,329 - ThreadPoolExecutor-0_25 - ERROR - [ERROR] Property 20521727: HTTP Error 405: 
+2026-01-21 01:11:38,329 - ThreadPoolExecutor-0_14 - ERROR - [ERROR] Property 20508204: HTTP Error 405: 
+2026-01-21 01:11:38,344 - MainThread - ERROR - [FAILED] Property 20642863: HTTP Error 405: 
+2026-01-21 01:11:38,353 - MainThread - ERROR - [FAILED] Property 20534662: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:11:38,354 - MainThread - ERROR - [FAILED] Property 20642827: HTTP Error 405: 
+2026-01-21 01:11:38,355 - MainThread - ERROR - [FAILED] Property 20559633: HTTP Error 405: 
+2026-01-21 01:11:38,355 - MainThread - ERROR - [FAILED] Property 20564663: HTTP Error 405: 
+2026-01-21 01:11:38,355 - MainThread - ERROR - [FAILED] Property 20642069: HTTP Error 405: 
+2026-01-21 01:11:38,357 - MainThread - ERROR - [FAILED] Property 20509580: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:11:38,357 - MainThread - ERROR - [FAILED] Property 20611191: HTTP Error 405: 
+2026-01-21 01:11:38,358 - MainThread - ERROR - [FAILED] Property 20642824: HTTP Error 405: 
+2026-01-21 01:11:38,359 - MainThread - ERROR - [FAILED] Property 20597092: HTTP Error 405: 
+2026-01-21 01:11:38,359 - MainThread - ERROR - [FAILED] Property 20560520: HTTP Error 405: 
+2026-01-21 01:11:38,359 - MainThread - ERROR - [FAILED] Property 20507488: HTTP Error 405: 
+2026-01-21 01:11:38,359 - MainThread - ERROR - [FAILED] Property 20622783: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:11:38,360 - MainThread - ERROR - [FAILED] Property 20605893: HTTP Error 405: 
+2026-01-21 01:11:38,360 - MainThread - ERROR - [FAILED] Property 20595861: HTTP Error 405: 
+2026-01-21 01:11:38,360 - MainThread - ERROR - [FAILED] Property 20593232: HTTP Error 405: 
+2026-01-21 01:11:38,360 - MainThread - ERROR - [FAILED] Property 20525094: HTTP Error 405: 
+2026-01-21 01:11:38,361 - MainThread - ERROR - [FAILED] Property 20642564: HTTP Error 405: 
+2026-01-21 01:11:38,361 - MainThread - ERROR - [FAILED] Property 20598958: HTTP Error 405: 
+2026-01-21 01:11:38,361 - MainThread - ERROR - [FAILED] Property 20567226: HTTP Error 405: 
+2026-01-21 01:11:38,361 - MainThread - ERROR - [FAILED] Property 20525114: HTTP Error 405: 
+2026-01-21 01:11:38,362 - MainThread - ERROR - [FAILED] Property 20608877: HTTP Error 405: 
+2026-01-21 01:11:38,362 - MainThread - ERROR - [FAILED] Property 20521728: HTTP Error 405: 
+2026-01-21 01:11:38,362 - MainThread - ERROR - [FAILED] Property 20521727: HTTP Error 405: 
+2026-01-21 01:11:38,362 - MainThread - ERROR - [FAILED] Property 20508204: HTTP Error 405: 
+2026-01-21 01:11:40,322 - ThreadPoolExecutor-0_19 - INFO - Scraping property 20610020: https://www.fotocasa.es/es/comprar/obra-nueva/sesena/20610020
+2026-01-21 01:11:42,323 - ThreadPoolExecutor-0_28 - INFO - Scraping property 20641565: https://www.fotocasa.es/es/comprar/obra-nueva/castellar-del-valles/20641565
+2026-01-21 01:11:44,324 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20512584: https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20512584
+2026-01-21 01:11:46,324 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20533784: https://www.fotocasa.es/es/comprar/obra-nueva/lleida-capital/20533784
+2026-01-21 01:11:48,325 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20624425: https://www.fotocasa.es/es/comprar/obra-nueva/almendralejo/20624425
+2026-01-21 01:11:50,325 - ThreadPoolExecutor-0_26 - INFO - Scraping property 20536422: https://www.fotocasa.es/es/comprar/obra-nueva/sant-joan-despi/20536422
+2026-01-21 01:11:52,326 - ThreadPoolExecutor-0_24 - INFO - Scraping property 20525100: https://www.fotocasa.es/es/comprar/obra-nueva/lleida-capital/20525100
+2026-01-21 01:11:54,326 - ThreadPoolExecutor-0_29 - INFO - Scraping property 20598951: https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20598951
+2026-01-21 01:11:56,327 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20640615: https://www.fotocasa.es/es/comprar/obra-nueva/almeria-capital/20640615
+2026-01-21 01:11:58,327 - ThreadPoolExecutor-0_4 - INFO - Scraping property 20509619: https://www.fotocasa.es/es/comprar/obra-nueva/villanueva-del-rio-segura/20509619
+2026-01-21 01:12:00,328 - ThreadPoolExecutor-0_21 - INFO - Scraping property 20640020: https://www.fotocasa.es/es/comprar/obra-nueva/denia/20640020
+2026-01-21 01:12:02,329 - ThreadPoolExecutor-0_27 - INFO - Scraping property 20607398: https://www.fotocasa.es/es/comprar/obra-nueva/fuengirola/20607398
+2026-01-21 01:12:04,329 - ThreadPoolExecutor-0_8 - INFO - Scraping property 20633164: https://www.fotocasa.es/es/comprar/obra-nueva/begues/20633164
+2026-01-21 01:12:06,330 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20533783: https://www.fotocasa.es/es/comprar/obra-nueva/lleida-capital/20533783
+2026-01-21 01:12:08,341 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20609089: https://www.fotocasa.es/es/comprar/obra-nueva/cerdanyola-del-valles/20609089
+2026-01-21 01:12:10,341 - ThreadPoolExecutor-0_7 - INFO - Scraping property 20532314: https://www.fotocasa.es/es/comprar/obra-nueva/cerdanyola-del-valles/20532314
+2026-01-21 01:12:12,342 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20601244: https://www.fotocasa.es/es/comprar/obra-nueva/vandellos-i-l-hospitalet-de-l-infant/20601244
+2026-01-21 01:12:14,342 - ThreadPoolExecutor-0_10 - INFO - Scraping property 20516000: https://www.fotocasa.es/es/comprar/obra-nueva/zaragoza-capital/20516000
+2026-01-21 01:12:16,343 - ThreadPoolExecutor-0_18 - INFO - Scraping property 20525108: https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20525108
+2026-01-21 01:12:18,343 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20532312: https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20532312
+2026-01-21 01:12:20,343 - ThreadPoolExecutor-0_20 - INFO - Scraping property 20638669: https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20638669
+2026-01-21 01:12:22,344 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20637662: https://www.fotocasa.es/es/comprar/obra-nueva/salou/20637662
+2026-01-21 01:12:24,344 - ThreadPoolExecutor-0_11 - INFO - Scraping property 20532313: https://www.fotocasa.es/es/comprar/obra-nueva/sanxenxo/20532313
+2026-01-21 01:12:26,345 - ThreadPoolExecutor-0_12 - INFO - Scraping property 20509607: https://www.fotocasa.es/es/comprar/obra-nueva/oliva/20509607
+2026-01-21 01:12:28,345 - ThreadPoolExecutor-0_25 - INFO - Scraping property 20637536: https://www.fotocasa.es/es/comprar/obra-nueva/llucmajor/20637536
+2026-01-21 01:12:30,346 - ThreadPoolExecutor-0_14 - INFO - Scraping property 20514081: https://www.fotocasa.es/es/comprar/obra-nueva/pals/20514081
+2026-01-21 01:12:30,346 - ThreadPoolExecutor-0_9 - ERROR - [ERROR] Property 20510574: HTTP Error 405: 
+2026-01-21 01:12:30,346 - ThreadPoolExecutor-0_19 - ERROR - [ERROR] Property 20610020: HTTP Error 405: 
+2026-01-21 01:12:30,346 - ThreadPoolExecutor-0_6 - ERROR - [ERROR] Property 20510789: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,347 - ThreadPoolExecutor-0_13 - ERROR - [ERROR] Property 20512584: HTTP Error 405: 
+2026-01-21 01:12:30,347 - ThreadPoolExecutor-0_3 - ERROR - [ERROR] Property 20533784: HTTP Error 405: 
+2026-01-21 01:12:30,348 - ThreadPoolExecutor-0_22 - ERROR - [ERROR] Property 20605837: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,348 - ThreadPoolExecutor-0_2 - ERROR - [ERROR] Property 20624425: HTTP Error 405: 
+2026-01-21 01:12:30,350 - ThreadPoolExecutor-0_24 - ERROR - [ERROR] Property 20525100: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,348 - ThreadPoolExecutor-0_26 - ERROR - [ERROR] Property 20536422: HTTP Error 405: 
+2026-01-21 01:12:30,348 - ThreadPoolExecutor-0_23 - ERROR - [ERROR] Property 20513174: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,350 - MainThread - ERROR - [FAILED] Property 20510789: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,349 - ThreadPoolExecutor-0_29 - ERROR - [ERROR] Property 20598951: HTTP Error 405: 
+2026-01-21 01:12:30,349 - ThreadPoolExecutor-0_5 - ERROR - [ERROR] Property 20640615: HTTP Error 405: 
+2026-01-21 01:12:30,349 - ThreadPoolExecutor-0_4 - ERROR - [ERROR] Property 20509619: HTTP Error 405: 
+2026-01-21 01:12:30,349 - ThreadPoolExecutor-0_28 - ERROR - [ERROR] Property 20641565: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,350 - ThreadPoolExecutor-0_21 - ERROR - [ERROR] Property 20640020: HTTP Error 405: 
+2026-01-21 01:12:30,350 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20609089: HTTP Error 405: 
+2026-01-21 01:12:30,361 - MainThread - ERROR - [FAILED] Property 20610020: HTTP Error 405: 
+2026-01-21 01:12:30,369 - MainThread - ERROR - [FAILED] Property 20510574: HTTP Error 405: 
+2026-01-21 01:12:30,369 - MainThread - ERROR - [FAILED] Property 20605837: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,370 - MainThread - ERROR - [FAILED] Property 20512584: HTTP Error 405: 
+2026-01-21 01:12:30,370 - MainThread - ERROR - [FAILED] Property 20533784: HTTP Error 405: 
+2026-01-21 01:12:30,371 - MainThread - ERROR - [FAILED] Property 20525100: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,371 - MainThread - ERROR - [FAILED] Property 20624425: HTTP Error 405: 
+2026-01-21 01:12:30,371 - MainThread - ERROR - [FAILED] Property 20513174: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,372 - MainThread - ERROR - [FAILED] Property 20536422: HTTP Error 405: 
+2026-01-21 01:12:30,372 - MainThread - ERROR - [FAILED] Property 20598951: HTTP Error 405: 
+2026-01-21 01:12:30,373 - MainThread - ERROR - [FAILED] Property 20509619: HTTP Error 405: 
+2026-01-21 01:12:30,373 - MainThread - ERROR - [FAILED] Property 20641565: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:30,373 - MainThread - ERROR - [FAILED] Property 20640020: HTTP Error 405: 
+2026-01-21 01:12:30,374 - MainThread - ERROR - [FAILED] Property 20609089: HTTP Error 405: 
+2026-01-21 01:12:30,374 - MainThread - ERROR - [FAILED] Property 20640615: HTTP Error 405: 
+2026-01-21 01:12:32,346 - ThreadPoolExecutor-0_10 - ERROR - [ERROR] Property 20516000: HTTP Error 405: 
+2026-01-21 01:12:32,346 - ThreadPoolExecutor-0_17 - ERROR - [ERROR] Property 20532312: HTTP Error 405: 
+2026-01-21 01:12:32,346 - ThreadPoolExecutor-0_6 - INFO - Scraping property 20617808: https://www.fotocasa.es/es/comprar/obra-nueva/aspe/20617808
+2026-01-21 01:12:32,346 - ThreadPoolExecutor-0_27 - ERROR - [ERROR] Property 20607398: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:32,346 - ThreadPoolExecutor-0_8 - ERROR - [ERROR] Property 20633164: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:32,348 - ThreadPoolExecutor-0_15 - ERROR - [ERROR] Property 20637662: HTTP Error 405: 
+2026-01-21 01:12:32,348 - ThreadPoolExecutor-0_0 - ERROR - [ERROR] Property 20533783: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:32,348 - ThreadPoolExecutor-0_11 - ERROR - [ERROR] Property 20532313: HTTP Error 405: 
+2026-01-21 01:12:32,349 - ThreadPoolExecutor-0_7 - ERROR - [ERROR] Property 20532314: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:32,349 - ThreadPoolExecutor-0_1 - ERROR - [ERROR] Property 20601244: HTTP Error 405: 
+2026-01-21 01:12:32,351 - MainThread - ERROR - [FAILED] Property 20516000: HTTP Error 405: 
+2026-01-21 01:12:32,357 - MainThread - ERROR - [FAILED] Property 20633164: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:32,357 - MainThread - ERROR - [FAILED] Property 20607398: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:32,358 - MainThread - ERROR - [FAILED] Property 20533783: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:32,358 - MainThread - ERROR - [FAILED] Property 20637662: HTTP Error 405: 
+2026-01-21 01:12:32,362 - MainThread - ERROR - [FAILED] Property 20532312: HTTP Error 405: 
+2026-01-21 01:12:32,362 - MainThread - ERROR - [FAILED] Property 20532314: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:12:32,363 - MainThread - ERROR - [FAILED] Property 20532313: HTTP Error 405: 
+2026-01-21 01:12:32,363 - MainThread - ERROR - [FAILED] Property 20601244: HTTP Error 405: 
+2026-01-21 01:12:34,347 - ThreadPoolExecutor-0_19 - INFO - Scraping property 20636089: https://www.fotocasa.es/es/comprar/obra-nueva/palma-de-mallorca/20636089
+2026-01-21 01:12:36,347 - ThreadPoolExecutor-0_9 - INFO - Scraping property 20622953: https://www.fotocasa.es/es/comprar/obra-nueva/navalcarnero/20622953
+2026-01-21 01:12:38,348 - ThreadPoolExecutor-0_22 - INFO - Scraping property 20623429: https://www.fotocasa.es/es/comprar/obra-nueva/azuqueca-de-henares/20623429
+2026-01-21 01:12:40,349 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20532302: https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20532302
+2026-01-21 01:12:42,349 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20559709: https://www.fotocasa.es/es/comprar/obra-nueva/terrassa/20559709
+2026-01-21 01:12:44,349 - ThreadPoolExecutor-0_24 - INFO - Scraping property 20634443: https://www.fotocasa.es/es/comprar/obra-nueva/mutxamel/20634443
+2026-01-21 01:12:46,350 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20525083: https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20525083
+2026-01-21 01:12:48,351 - ThreadPoolExecutor-0_23 - INFO - Scraping property 20632470: https://www.fotocasa.es/es/comprar/obra-nueva/burjassot/20632470
+2026-01-21 01:12:50,351 - ThreadPoolExecutor-0_26 - INFO - Scraping property 20634103: https://www.fotocasa.es/es/comprar/obra-nueva/inca/20634103
+2026-01-21 01:12:52,352 - ThreadPoolExecutor-0_29 - INFO - Scraping property 20531676: https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20531676
+2026-01-21 01:12:54,352 - ThreadPoolExecutor-0_4 - INFO - Scraping property 20625901: https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20625901
+2026-01-21 01:12:56,353 - ThreadPoolExecutor-0_28 - INFO - Scraping property 20612250: https://www.fotocasa.es/es/comprar/obra-nueva/l-ametlla-del-valles/20612250
+2026-01-21 01:12:58,353 - ThreadPoolExecutor-0_21 - INFO - Scraping property 20633013: https://www.fotocasa.es/es/comprar/obra-nueva/artes/20633013
+2026-01-21 01:13:00,353 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20633830: https://www.fotocasa.es/es/comprar/obra-nueva/santa-cruz-de-bezana/20633830
+2026-01-21 01:13:02,354 - ThreadPoolExecutor-0_25 - ERROR - [ERROR] Property 20637536: HTTP Error 405: 
+2026-01-21 01:13:02,354 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20509526: https://www.fotocasa.es/es/comprar/obra-nueva/begues/20509526
+2026-01-21 01:13:02,354 - ThreadPoolExecutor-0_14 - ERROR - [ERROR] Property 20514081: HTTP Error 405: 
+2026-01-21 01:13:02,358 - MainThread - ERROR - [FAILED] Property 20514081: HTTP Error 405: 
+2026-01-21 01:13:02,359 - MainThread - ERROR - [FAILED] Property 20637536: HTTP Error 405: 
+2026-01-21 01:13:04,355 - ThreadPoolExecutor-0_10 - INFO - Scraping property 20555988: https://www.fotocasa.es/es/comprar/obra-nueva/a-coruna-capital/20555988
+2026-01-21 01:13:06,356 - ThreadPoolExecutor-0_8 - INFO - Scraping property 20525093: https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20525093
+2026-01-21 01:13:08,356 - ThreadPoolExecutor-0_27 - INFO - Scraping property 20523864: https://www.fotocasa.es/es/comprar/obra-nueva/el-ejido/20523864
+2026-01-21 01:13:10,356 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20511877: https://www.fotocasa.es/es/comprar/obra-nueva/lazkao/20511877
+2026-01-21 01:13:12,357 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20514805: https://www.fotocasa.es/es/comprar/obra-nueva/palma-de-mallorca/20514805
+2026-01-21 01:13:14,357 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20631986: https://www.fotocasa.es/es/comprar/obra-nueva/los-corrales-de-buelna/20631986
+2026-01-21 01:13:16,357 - ThreadPoolExecutor-0_7 - INFO - Scraping property 20633211: https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20633211
+2026-01-21 01:13:18,358 - ThreadPoolExecutor-0_11 - INFO - Scraping property 20610592: https://www.fotocasa.es/es/comprar/obra-nueva/getafe/20610592
+2026-01-21 01:13:20,358 - ThreadPoolExecutor-0_18 - ERROR - [ERROR] Property 20525108: HTTP Error 405: 
+2026-01-21 01:13:20,358 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20633125: https://www.fotocasa.es/es/comprar/obra-nueva/cullera/20633125
+2026-01-21 01:13:20,358 - ThreadPoolExecutor-0_9 - ERROR - [ERROR] Property 20622953: HTTP Error 405: 
+2026-01-21 01:13:20,358 - ThreadPoolExecutor-0_20 - ERROR - [ERROR] Property 20638669: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:20,358 - ThreadPoolExecutor-0_13 - ERROR - [ERROR] Property 20532302: HTTP Error 405: 
+2026-01-21 01:13:20,359 - ThreadPoolExecutor-0_22 - ERROR - [ERROR] Property 20623429: HTTP Error 405: 
+2026-01-21 01:13:20,360 - ThreadPoolExecutor-0_3 - ERROR - [ERROR] Property 20559709: HTTP Error 405: 
+2026-01-21 01:13:20,361 - ThreadPoolExecutor-0_24 - ERROR - [ERROR] Property 20634443: HTTP Error 405: 
+2026-01-21 01:13:20,361 - ThreadPoolExecutor-0_2 - ERROR - [ERROR] Property 20525083: HTTP Error 405: 
+2026-01-21 01:13:20,362 - ThreadPoolExecutor-0_12 - ERROR - [ERROR] Property 20509607: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:20,362 - ThreadPoolExecutor-0_23 - ERROR - [ERROR] Property 20632470: HTTP Error 405: 
+2026-01-21 01:13:20,362 - MainThread - ERROR - [FAILED] Property 20525108: HTTP Error 405: 
+2026-01-21 01:13:20,363 - ThreadPoolExecutor-0_29 - ERROR - [ERROR] Property 20531676: HTTP Error 405: 
+2026-01-21 01:13:20,363 - ThreadPoolExecutor-0_26 - ERROR - [ERROR] Property 20634103: HTTP Error 405: 
+2026-01-21 01:13:20,363 - ThreadPoolExecutor-0_19 - ERROR - [ERROR] Property 20636089: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:20,364 - ThreadPoolExecutor-0_28 - ERROR - [ERROR] Property 20612250: HTTP Error 405: 
+2026-01-21 01:13:20,363 - ThreadPoolExecutor-0_6 - ERROR - [ERROR] Property 20617808: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:20,364 - ThreadPoolExecutor-0_21 - ERROR - [ERROR] Property 20633013: HTTP Error 405: 
+2026-01-21 01:13:20,364 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20633830: HTTP Error 405: 
+2026-01-21 01:13:20,371 - MainThread - ERROR - [FAILED] Property 20638669: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:20,378 - MainThread - ERROR - [FAILED] Property 20622953: HTTP Error 405: 
+2026-01-21 01:13:20,379 - MainThread - ERROR - [FAILED] Property 20559709: HTTP Error 405: 
+2026-01-21 01:13:20,379 - MainThread - ERROR - [FAILED] Property 20532302: HTTP Error 405: 
+2026-01-21 01:13:20,379 - MainThread - ERROR - [FAILED] Property 20634443: HTTP Error 405: 
+2026-01-21 01:13:20,381 - MainThread - ERROR - [FAILED] Property 20623429: HTTP Error 405: 
+2026-01-21 01:13:20,381 - MainThread - ERROR - [FAILED] Property 20509607: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:20,381 - MainThread - ERROR - [FAILED] Property 20525083: HTTP Error 405: 
+2026-01-21 01:13:20,382 - MainThread - ERROR - [FAILED] Property 20632470: HTTP Error 405: 
+2026-01-21 01:13:20,382 - MainThread - ERROR - [FAILED] Property 20636089: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:20,383 - MainThread - ERROR - [FAILED] Property 20531676: HTTP Error 405: 
+2026-01-21 01:13:20,383 - MainThread - ERROR - [FAILED] Property 20634103: HTTP Error 405: 
+2026-01-21 01:13:20,383 - MainThread - ERROR - [FAILED] Property 20617808: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:20,384 - MainThread - ERROR - [FAILED] Property 20612250: HTTP Error 405: 
+2026-01-21 01:13:20,384 - MainThread - ERROR - [FAILED] Property 20633013: HTTP Error 405: 
+2026-01-21 01:13:20,384 - MainThread - ERROR - [FAILED] Property 20633830: HTTP Error 405: 
+2026-01-21 01:13:22,359 - ThreadPoolExecutor-0_14 - INFO - Scraping property 20623255: https://www.fotocasa.es/es/comprar/obra-nueva/calafell/20623255
+2026-01-21 01:13:24,359 - ThreadPoolExecutor-0_5 - ERROR - [ERROR] Property 20509526: HTTP Error 405: 
+2026-01-21 01:13:24,359 - ThreadPoolExecutor-0_10 - ERROR - [ERROR] Property 20555988: HTTP Error 405: 
+2026-01-21 01:13:24,359 - ThreadPoolExecutor-0_25 - INFO - Scraping property 20527036: https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20527036
+2026-01-21 01:13:24,359 - ThreadPoolExecutor-0_0 - ERROR - [ERROR] Property 20511877: HTTP Error 405: 
+2026-01-21 01:13:24,359 - ThreadPoolExecutor-0_15 - ERROR - [ERROR] Property 20514805: HTTP Error 405: 
+2026-01-21 01:13:24,359 - ThreadPoolExecutor-0_17 - ERROR - [ERROR] Property 20631986: HTTP Error 405: 
+2026-01-21 01:13:24,359 - ThreadPoolExecutor-0_4 - ERROR - [ERROR] Property 20625901: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:24,360 - ThreadPoolExecutor-0_7 - ERROR - [ERROR] Property 20633211: HTTP Error 405: 
+2026-01-21 01:13:24,364 - MainThread - ERROR - [FAILED] Property 20509526: HTTP Error 405: 
+2026-01-21 01:13:24,367 - MainThread - ERROR - [FAILED] Property 20555988: HTTP Error 405: 
+2026-01-21 01:13:24,368 - MainThread - ERROR - [FAILED] Property 20625901: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:13:24,369 - MainThread - ERROR - [FAILED] Property 20514805: HTTP Error 405: 
+2026-01-21 01:13:24,369 - MainThread - ERROR - [FAILED] Property 20631986: HTTP Error 405: 
+2026-01-21 01:13:24,369 - MainThread - ERROR - [FAILED] Property 20511877: HTTP Error 405: 
+2026-01-21 01:13:24,371 - MainThread - ERROR - [FAILED] Property 20633211: HTTP Error 405: 
+2026-01-21 01:13:26,360 - ThreadPoolExecutor-0_18 - INFO - Scraping property 20632888: https://www.fotocasa.es/es/comprar/obra-nueva/tacoronte/20632888
+2026-01-21 01:13:28,360 - ThreadPoolExecutor-0_20 - INFO - Scraping property 20559161: https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20559161
+2026-01-21 01:13:30,360 - ThreadPoolExecutor-0_9 - INFO - Scraping property 20559160: https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20559160
+2026-01-21 01:13:32,361 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20509425: https://www.fotocasa.es/es/comprar/obra-nueva/sant-just-desvern/20509425
+2026-01-21 01:13:34,361 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20632448: https://www.fotocasa.es/es/comprar/obra-nueva/malaga-capital/20632448
+2026-01-21 01:13:36,361 - ThreadPoolExecutor-0_24 - INFO - Scraping property 20632303: https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20632303
+2026-01-21 01:13:38,362 - ThreadPoolExecutor-0_22 - INFO - Scraping property 20525116: https://www.fotocasa.es/es/comprar/obra-nueva/adeje/20525116
+2026-01-21 01:13:40,362 - ThreadPoolExecutor-0_12 - INFO - Scraping property 20525109: https://www.fotocasa.es/es/comprar/obra-nueva/manresa/20525109
+2026-01-21 01:13:42,363 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20555987: https://www.fotocasa.es/es/comprar/obra-nueva/oviedo/20555987
+2026-01-21 01:13:44,363 - ThreadPoolExecutor-0_23 - INFO - Scraping property 20631958: https://www.fotocasa.es/es/comprar/obra-nueva/elche-elx/20631958
+2026-01-21 01:13:46,364 - ThreadPoolExecutor-0_19 - INFO - Scraping property 20567238: https://www.fotocasa.es/es/comprar/obra-nueva/villanueva-de-la-torre/20567238
+2026-01-21 01:13:48,364 - ThreadPoolExecutor-0_29 - INFO - Scraping property 20611157: https://www.fotocasa.es/es/comprar/obra-nueva/miraflores-de-la-sierra/20611157
+2026-01-21 01:13:50,370 - ThreadPoolExecutor-0_26 - INFO - Scraping property 20624133: https://www.fotocasa.es/es/comprar/obra-nueva/villanueva-del-pardillo/20624133
+2026-01-21 01:13:52,370 - ThreadPoolExecutor-0_6 - INFO - Scraping property 20631661: https://www.fotocasa.es/es/comprar/obra-nueva/badalona/20631661
+2026-01-21 01:13:54,370 - ThreadPoolExecutor-0_28 - INFO - Scraping property 20631799: https://www.fotocasa.es/es/comprar/obra-nueva/miraflores-de-la-sierra/20631799
+2026-01-21 01:13:56,371 - ThreadPoolExecutor-0_21 - INFO - Scraping property 20532997: https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20532997
+2026-01-21 01:13:58,371 - ThreadPoolExecutor-0_1 - ERROR - [ERROR] Property 20633125: HTTP Error 405: 
+2026-01-21 01:13:58,371 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20533003: https://www.fotocasa.es/es/comprar/obra-nueva/premia-de-dalt/20533003
+2026-01-21 01:13:58,371 - ThreadPoolExecutor-0_14 - ERROR - [ERROR] Property 20623255: HTTP Error 405: 
+2026-01-21 01:13:58,375 - MainThread - ERROR - [FAILED] Property 20623255: HTTP Error 405: 
+2026-01-21 01:13:58,375 - MainThread - ERROR - [FAILED] Property 20633125: HTTP Error 405: 
+2026-01-21 01:14:00,372 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20530524: https://www.fotocasa.es/es/comprar/obra-nueva/caceres-capital/20530524
+2026-01-21 01:14:02,372 - ThreadPoolExecutor-0_10 - INFO - Scraping property 20629990: https://www.fotocasa.es/es/comprar/obra-nueva/ciudad-real-capital/20629990
+2026-01-21 01:14:04,372 - ThreadPoolExecutor-0_4 - INFO - Scraping property 20559802: https://www.fotocasa.es/es/comprar/obra-nueva/bilbao/20559802
+2026-01-21 01:14:06,378 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20630862: https://www.fotocasa.es/es/comprar/obra-nueva/torrevieja/20630862
+2026-01-21 01:14:08,378 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20630727: https://www.fotocasa.es/es/comprar/obra-nueva/vigo/20630727
+2026-01-21 01:14:10,379 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20630715: https://www.fotocasa.es/es/comprar/obra-nueva/mino/20630715
+2026-01-21 01:14:12,379 - ThreadPoolExecutor-0_8 - ERROR - [ERROR] Property 20525093: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:12,379 - ThreadPoolExecutor-0_25 - ERROR - [ERROR] Property 20527036: HTTP Error 405: 
+2026-01-21 01:14:12,380 - ThreadPoolExecutor-0_7 - INFO - Scraping property 20560515: https://www.fotocasa.es/es/comprar/obra-nueva/cerdanyola-del-valles/20560515
+2026-01-21 01:14:12,380 - ThreadPoolExecutor-0_20 - ERROR - [ERROR] Property 20559161: HTTP Error 405: 
+2026-01-21 01:14:12,380 - ThreadPoolExecutor-0_27 - ERROR - [ERROR] Property 20523864: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:12,380 - ThreadPoolExecutor-0_9 - ERROR - [ERROR] Property 20559160: HTTP Error 405: 
+2026-01-21 01:14:12,380 - ThreadPoolExecutor-0_18 - ERROR - [ERROR] Property 20632888: HTTP Error 405: 
+2026-01-21 01:14:12,381 - ThreadPoolExecutor-0_13 - ERROR - [ERROR] Property 20632448: HTTP Error 405: 
+2026-01-21 01:14:12,381 - ThreadPoolExecutor-0_24 - ERROR - [ERROR] Property 20632303: HTTP Error 405: 
+2026-01-21 01:14:12,381 - ThreadPoolExecutor-0_11 - ERROR - [ERROR] Property 20610592: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:12,381 - ThreadPoolExecutor-0_22 - ERROR - [ERROR] Property 20525116: HTTP Error 405: 
+2026-01-21 01:14:12,382 - ThreadPoolExecutor-0_2 - ERROR - [ERROR] Property 20555987: HTTP Error 405: 
+2026-01-21 01:14:12,382 - ThreadPoolExecutor-0_23 - ERROR - [ERROR] Property 20631958: HTTP Error 405: 
+2026-01-21 01:14:12,383 - ThreadPoolExecutor-0_19 - ERROR - [ERROR] Property 20567238: HTTP Error 405: 
+2026-01-21 01:14:12,382 - MainThread - ERROR - [FAILED] Property 20525093: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:12,383 - ThreadPoolExecutor-0_3 - ERROR - [ERROR] Property 20509425: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:12,386 - ThreadPoolExecutor-0_6 - ERROR - [ERROR] Property 20631661: HTTP Error 405: 
+2026-01-21 01:14:12,406 - MainThread - ERROR - [FAILED] Property 20527036: HTTP Error 405: 
+2026-01-21 01:14:12,407 - MainThread - ERROR - [FAILED] Property 20559161: HTTP Error 405: 
+2026-01-21 01:14:12,407 - MainThread - ERROR - [FAILED] Property 20559160: HTTP Error 405: 
+2026-01-21 01:14:12,408 - MainThread - ERROR - [FAILED] Property 20523864: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:12,408 - MainThread - ERROR - [FAILED] Property 20632448: HTTP Error 405: 
+2026-01-21 01:14:12,408 - MainThread - ERROR - [FAILED] Property 20632303: HTTP Error 405: 
+2026-01-21 01:14:12,409 - MainThread - ERROR - [FAILED] Property 20632888: HTTP Error 405: 
+2026-01-21 01:14:12,409 - MainThread - ERROR - [FAILED] Property 20610592: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:12,417 - MainThread - ERROR - [FAILED] Property 20525116: HTTP Error 405: 
+2026-01-21 01:14:12,417 - MainThread - ERROR - [FAILED] Property 20555987: HTTP Error 405: 
+2026-01-21 01:14:12,418 - MainThread - ERROR - [FAILED] Property 20631958: HTTP Error 405: 
+2026-01-21 01:14:12,418 - MainThread - ERROR - [FAILED] Property 20567238: HTTP Error 405: 
+2026-01-21 01:14:12,418 - MainThread - ERROR - [FAILED] Property 20631661: HTTP Error 405: 
+2026-01-21 01:14:12,419 - MainThread - ERROR - [FAILED] Property 20509425: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:14,381 - ThreadPoolExecutor-0_20 - INFO - Scraping property 20512493: https://www.fotocasa.es/es/comprar/obra-nueva/les-franqueses-del-valles/20512493
+2026-01-21 01:14:16,381 - ThreadPoolExecutor-0_14 - INFO - Scraping property 20611963: https://www.fotocasa.es/es/comprar/obra-nueva/quart-de-poblet/20611963
+2026-01-21 01:14:18,382 - ThreadPoolExecutor-0_12 - ERROR - [ERROR] Property 20525109: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:18,382 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20509587: https://www.fotocasa.es/es/comprar/obra-nueva/fuengirola/20509587
+2026-01-21 01:14:18,382 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20533003: HTTP Error 405: 
+2026-01-21 01:14:18,382 - ThreadPoolExecutor-0_5 - ERROR - [ERROR] Property 20530524: HTTP Error 405: 
+2026-01-21 01:14:18,382 - ThreadPoolExecutor-0_15 - ERROR - [ERROR] Property 20630862: HTTP Error 405: 
+2026-01-21 01:14:18,383 - ThreadPoolExecutor-0_29 - ERROR - [ERROR] Property 20611157: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:18,383 - ThreadPoolExecutor-0_17 - ERROR - [ERROR] Property 20630727: HTTP Error 405: 
+2026-01-21 01:14:18,383 - ThreadPoolExecutor-0_26 - ERROR - [ERROR] Property 20624133: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:18,383 - ThreadPoolExecutor-0_0 - ERROR - [ERROR] Property 20630715: HTTP Error 405: 
+2026-01-21 01:14:18,385 - MainThread - ERROR - [FAILED] Property 20525109: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:18,390 - MainThread - ERROR - [FAILED] Property 20533003: HTTP Error 405: 
+2026-01-21 01:14:18,390 - MainThread - ERROR - [FAILED] Property 20611157: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:18,391 - MainThread - ERROR - [FAILED] Property 20630862: HTTP Error 405: 
+2026-01-21 01:14:18,391 - MainThread - ERROR - [FAILED] Property 20530524: HTTP Error 405: 
+2026-01-21 01:14:18,392 - MainThread - ERROR - [FAILED] Property 20624133: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:18,393 - MainThread - ERROR - [FAILED] Property 20630727: HTTP Error 405: 
+2026-01-21 01:14:18,394 - MainThread - ERROR - [FAILED] Property 20630715: HTTP Error 405: 
+2026-01-21 01:14:20,383 - ThreadPoolExecutor-0_8 - INFO - Scraping property 20530852: https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20530852
+2026-01-21 01:14:22,384 - ThreadPoolExecutor-0_21 - ERROR - [ERROR] Property 20532997: HTTP Error 405: 
+2026-01-21 01:14:22,384 - ThreadPoolExecutor-0_25 - INFO - Scraping property 20512558: https://www.fotocasa.es/es/comprar/obra-nueva/tiana/20512558
+2026-01-21 01:14:22,389 - MainThread - ERROR - [FAILED] Property 20532997: HTTP Error 405: 
+2026-01-21 01:14:24,384 - ThreadPoolExecutor-0_9 - INFO - Scraping property 20512467: https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20512467
+2026-01-21 01:14:26,385 - ThreadPoolExecutor-0_27 - INFO - Scraping property 20559157: https://www.fotocasa.es/es/comprar/obra-nueva/la-pobla-de-vallbona/20559157
+2026-01-21 01:14:28,385 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20630515: https://www.fotocasa.es/es/comprar/obra-nueva/leon-capital/20630515
+2026-01-21 01:14:30,386 - ThreadPoolExecutor-0_24 - INFO - Scraping property 20525099: https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20525099
+2026-01-21 01:14:32,386 - ThreadPoolExecutor-0_18 - INFO - Scraping property 20630103: https://www.fotocasa.es/es/comprar/obra-nueva/las-rozas-de-madrid/20630103
+2026-01-21 01:14:34,387 - ThreadPoolExecutor-0_11 - INFO - Scraping property 20629969: https://www.fotocasa.es/es/comprar/obra-nueva/vigo/20629969
+2026-01-21 01:14:36,387 - ThreadPoolExecutor-0_22 - INFO - Scraping property 20509505: https://www.fotocasa.es/es/comprar/obra-nueva/villaviciosa-de-odon/20509505
+2026-01-21 01:14:38,387 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20511123: https://www.fotocasa.es/es/comprar/obra-nueva/pals/20511123
+2026-01-21 01:14:40,388 - ThreadPoolExecutor-0_23 - INFO - Scraping property 20579324: https://www.fotocasa.es/es/comprar/obra-nueva/dos-hermanas/20579324
+2026-01-21 01:14:42,388 - ThreadPoolExecutor-0_19 - INFO - Scraping property 20629218: https://www.fotocasa.es/es/comprar/obra-nueva/los-corrales-de-buelna/20629218
+2026-01-21 01:14:44,388 - ThreadPoolExecutor-0_6 - INFO - Scraping property 20517889: https://www.fotocasa.es/es/comprar/obra-nueva/vallirana/20517889
+2026-01-21 01:14:46,389 - ThreadPoolExecutor-0_28 - ERROR - [ERROR] Property 20631799: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:46,389 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20627814: https://www.fotocasa.es/es/comprar/obra-nueva/donostia-san-sebastian/20627814
+2026-01-21 01:14:46,389 - ThreadPoolExecutor-0_7 - ERROR - [ERROR] Property 20560515: HTTP Error 405: 
+2026-01-21 01:14:46,389 - ThreadPoolExecutor-0_20 - ERROR - [ERROR] Property 20512493: HTTP Error 405: 
+2026-01-21 01:14:46,391 - MainThread - ERROR - [FAILED] Property 20631799: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 01:14:46,394 - MainThread - ERROR - [FAILED] Property 20560515: HTTP Error 405: 
+2026-01-21 01:14:46,395 - MainThread - ERROR - [FAILED] Property 20512493: HTTP Error 405: 
+2026-01-21 01:14:48,390 - ThreadPoolExecutor-0_12 - INFO - Scraping property 20614174: https://www.fotocasa.es/es/comprar/obra-nueva/malaga-capital/20614174
+2026-01-21 01:14:50,396 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20628364: https://www.fotocasa.es/es/comprar/obra-nueva/fuengirola/20628364
+2026-01-21 01:14:52,410 - ThreadPoolExecutor-0_29 - INFO - Scraping property 20628252: https://www.fotocasa.es/es/comprar/obra-nueva/santa-margalida/20628252
+2026-01-21 01:14:54,414 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20539651: https://www.fotocasa.es/es/comprar/obra-nueva/valdemoro/20539651
+2026-01-21 01:14:56,412 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20527111: https://www.fotocasa.es/es/comprar/obra-nueva/cadiz-capital/20527111
+2026-01-21 01:14:58,413 - ThreadPoolExecutor-0_26 - INFO - Scraping property 20604933: https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20604933
+2026-01-21 01:15:00,413 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20604659: https://www.fotocasa.es/es/comprar/obra-nueva/santiago-de-compostela/20604659
+2026-01-21 03:11:07,126 - MainThread - INFO - Starting property details scraper for 1020 properties with 30 threads
+2026-01-21 03:11:07,127 - MainThread - INFO - Rate limit: 2 seconds between requests
+2026-01-21 03:11:07,130 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20528373: https://www.fotocasa.es/es/comprar/obra-nueva/begues/20528373
+2026-01-21 03:11:09,130 - ThreadPoolExecutor-0_0 - ERROR - [ERROR] Property 20528373: name 'USER_AGENTS' is not defined
+2026-01-21 03:11:09,130 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20563916: https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20563916
+2026-01-21 03:11:09,132 - MainThread - ERROR - [FAILED] Property 20528373: name 'USER_AGENTS' is not defined
+2026-01-21 03:11:11,130 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20564652: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20564652
+2026-01-21 03:11:13,131 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20562086: https://www.fotocasa.es/es/comprar/obra-nueva/fuenlabrada/20562086
+2026-01-21 03:11:15,132 - ThreadPoolExecutor-0_4 - INFO - Scraping property 20541166: https://www.fotocasa.es/es/comprar/obra-nueva/sitges/20541166
+2026-01-21 03:11:17,133 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20529247: https://www.fotocasa.es/es/comprar/obra-nueva/eivissa/20529247
+2026-01-21 03:11:19,133 - ThreadPoolExecutor-0_6 - INFO - Scraping property 20525105: https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20525105
+2026-01-21 03:11:21,134 - ThreadPoolExecutor-0_7 - INFO - Scraping property 20525140: https://www.fotocasa.es/es/comprar/obra-nueva/sagunto-sagunt/20525140
+2026-01-21 03:11:23,135 - ThreadPoolExecutor-0_8 - INFO - Scraping property 20525087: https://www.fotocasa.es/es/comprar/obra-nueva/arico/20525087
+2026-01-21 03:11:25,136 - ThreadPoolExecutor-0_9 - INFO - Scraping property 20567479: https://www.fotocasa.es/es/comprar/obra-nueva/azuqueca-de-henares/20567479
+2026-01-21 03:11:27,136 - ThreadPoolExecutor-0_10 - INFO - Scraping property 20567478: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20567478
+2026-01-21 03:11:29,137 - ThreadPoolExecutor-0_11 - INFO - Scraping property 20516328: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516328
+2026-01-21 03:11:31,138 - ThreadPoolExecutor-0_12 - INFO - Scraping property 20516327: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516327
+2026-01-21 03:11:33,138 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20554437: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20554437
+2026-01-21 03:11:35,139 - ThreadPoolExecutor-0_14 - INFO - Scraping property 20516323: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516323
+2026-01-21 03:11:37,140 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20516321: https://www.fotocasa.es/es/comprar/obra-nueva/mungia/20516321
+2026-01-21 03:11:39,604 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20553693: https://www.fotocasa.es/es/comprar/obra-nueva/bilbao/20553693
+2026-01-21 03:11:39,626 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20553693: name 'USER_AGENTS' is not defined
+2026-01-21 03:11:42,898 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20562767: https://www.fotocasa.es/es/comprar/obra-nueva/moncofa/20562767
+2026-01-21 03:11:42,919 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20562767: name 'USER_AGENTS' is not defined
+2026-01-21 03:11:44,901 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20509178: https://www.fotocasa.es/es/comprar/obra-nueva/salou/20509178
+2026-01-21 03:11:44,902 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20509178: name 'USER_AGENTS' is not defined
+2026-01-21 03:11:46,903 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20511742: https://www.fotocasa.es/es/comprar/obra-nueva/sant-andreu-de-llavaneres/20511742
+2026-01-21 03:11:48,903 - ThreadPoolExecutor-0_23 - INFO - Scraping property 20516296: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20516296
+2026-01-21 03:11:50,903 - ThreadPoolExecutor-0_24 - INFO - Scraping property 20516295: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20516295
+2026-01-21 03:11:52,904 - ThreadPoolExecutor-0_25 - INFO - Scraping property 20516294: https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20516294
+2026-01-21 03:11:54,904 - ThreadPoolExecutor-0_26 - INFO - Scraping property 20516293: https://www.fotocasa.es/es/comprar/obra-nueva/las-rozas-de-madrid/20516293
+2026-01-21 03:11:57,063 - ThreadPoolExecutor-0_27 - INFO - Scraping property 20516291: https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20516291
+2026-01-21 03:11:59,110 - ThreadPoolExecutor-0_28 - INFO - Scraping property 20516289: https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20516289
+2026-01-21 03:12:01,113 - ThreadPoolExecutor-0_1 - ERROR - [ERROR] Property 20563916: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:01,114 - ThreadPoolExecutor-0_29 - INFO - Scraping property 20516288: https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20516288
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_2 - ERROR - [ERROR] Property 20564652: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20641586: https://www.fotocasa.es/es/comprar/obra-nueva/anoeta/20641586
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_3 - ERROR - [ERROR] Property 20562086: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_4 - ERROR - [ERROR] Property 20541166: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_5 - ERROR - [ERROR] Property 20529247: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_6 - ERROR - [ERROR] Property 20525105: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_7 - ERROR - [ERROR] Property 20525140: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_8 - ERROR - [ERROR] Property 20525087: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,117 - ThreadPoolExecutor-0_9 - ERROR - [ERROR] Property 20567479: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,118 - ThreadPoolExecutor-0_10 - ERROR - [ERROR] Property 20567478: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,118 - ThreadPoolExecutor-0_11 - ERROR - [ERROR] Property 20516328: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,118 - ThreadPoolExecutor-0_12 - ERROR - [ERROR] Property 20516327: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,118 - ThreadPoolExecutor-0_13 - ERROR - [ERROR] Property 20554437: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,118 - ThreadPoolExecutor-0_14 - ERROR - [ERROR] Property 20516323: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:03,119 - ThreadPoolExecutor-0_15 - ERROR - [ERROR] Property 20516321: name 'USER_AGENTS' is not defined
+2026-01-21 03:12:05,118 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20516301: https://www.fotocasa.es/es/comprar/obra-nueva/mungia/20516301
+2026-01-21 03:12:07,119 - ThreadPoolExecutor-0_18 - INFO - Scraping property 20631987: https://www.fotocasa.es/es/comprar/obra-nueva/cordoba-capital/20631987
+2026-01-21 03:12:09,119 - ThreadPoolExecutor-0_19 - INFO - Scraping property 20516300: https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20516300
+2026-01-21 03:12:58,460 - MainThread - INFO - Starting property details scraper for 1020 properties with 30 threads
+2026-01-21 03:12:58,462 - MainThread - INFO - Rate limit: 2 seconds between requests
+2026-01-21 03:12:58,483 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20528373: https://www.fotocasa.es/es/comprar/obra-nueva/begues/20528373
+2026-01-21 03:13:00,490 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20563916: https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20563916
+2026-01-21 03:13:02,497 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20564652: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20564652
+2026-01-21 03:13:04,497 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20562086: https://www.fotocasa.es/es/comprar/obra-nueva/fuenlabrada/20562086
+2026-01-21 03:13:06,498 - ThreadPoolExecutor-0_4 - INFO - Scraping property 20541166: https://www.fotocasa.es/es/comprar/obra-nueva/sitges/20541166
+2026-01-21 03:13:08,498 - ThreadPoolExecutor-0_5 - INFO - Scraping property 20529247: https://www.fotocasa.es/es/comprar/obra-nueva/eivissa/20529247
+2026-01-21 03:13:16,623 - ThreadPoolExecutor-0_6 - INFO - Scraping property 20525105: https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20525105
+2026-01-21 03:13:18,624 - ThreadPoolExecutor-0_7 - INFO - Scraping property 20525140: https://www.fotocasa.es/es/comprar/obra-nueva/sagunto-sagunt/20525140
+2026-01-21 03:13:20,624 - ThreadPoolExecutor-0_8 - INFO - Scraping property 20525087: https://www.fotocasa.es/es/comprar/obra-nueva/arico/20525087
+2026-01-21 03:13:22,625 - ThreadPoolExecutor-0_9 - INFO - Scraping property 20567479: https://www.fotocasa.es/es/comprar/obra-nueva/azuqueca-de-henares/20567479
+2026-01-21 03:13:24,627 - ThreadPoolExecutor-0_10 - INFO - Scraping property 20567478: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20567478
+2026-01-21 03:13:26,730 - ThreadPoolExecutor-0_11 - INFO - Scraping property 20516328: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516328
+2026-01-21 03:13:28,731 - ThreadPoolExecutor-0_12 - INFO - Scraping property 20516327: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516327
+2026-01-21 03:13:30,743 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20554437: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20554437
+2026-01-21 03:13:32,744 - ThreadPoolExecutor-0_14 - INFO - Scraping property 20516323: https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516323
+2026-01-21 03:13:35,883 - ThreadPoolExecutor-0_15 - INFO - Scraping property 20516321: https://www.fotocasa.es/es/comprar/obra-nueva/mungia/20516321
+2026-01-21 03:13:35,920 - ThreadPoolExecutor-0_13 - ERROR - [ERROR] Property 20554437: HTTP Error 405: 
+2026-01-21 03:13:35,952 - MainThread - ERROR - [FAILED] Property 20554437: HTTP Error 405: 
+2026-01-21 03:13:37,885 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20553693: https://www.fotocasa.es/es/comprar/obra-nueva/bilbao/20553693
+2026-01-21 03:13:39,885 - ThreadPoolExecutor-0_18 - INFO - Scraping property 20631987: https://www.fotocasa.es/es/comprar/obra-nueva/cordoba-capital/20631987
+2026-01-21 03:13:41,886 - ThreadPoolExecutor-0_19 - INFO - Scraping property 20516300: https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20516300
+2026-01-21 03:13:43,886 - ThreadPoolExecutor-0_20 - INFO - Scraping property 20560282: https://www.fotocasa.es/es/comprar/obra-nueva/paterna/20560282
+2026-01-21 03:13:45,887 - ThreadPoolExecutor-0_21 - INFO - Scraping property 20516299: https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20516299
+2026-01-21 03:13:47,887 - ThreadPoolExecutor-0_22 - INFO - Scraping property 20516298: https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20516298
+2026-01-21 03:13:49,888 - ThreadPoolExecutor-0_23 - INFO - Scraping property 20516296: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20516296
+2026-01-21 03:13:51,889 - ThreadPoolExecutor-0_24 - INFO - Scraping property 20516295: https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20516295
+2026-01-21 03:13:53,889 - ThreadPoolExecutor-0_25 - INFO - Scraping property 20516294: https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20516294
+2026-01-21 03:13:55,890 - ThreadPoolExecutor-0_26 - INFO - Scraping property 20516293: https://www.fotocasa.es/es/comprar/obra-nueva/las-rozas-de-madrid/20516293
+2026-01-21 03:13:57,890 - ThreadPoolExecutor-0_27 - INFO - Scraping property 20516291: https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20516291
+2026-01-21 03:14:00,083 - ThreadPoolExecutor-0_28 - INFO - Scraping property 20516289: https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20516289
+2026-01-21 03:14:02,078 - ThreadPoolExecutor-0_1 - ERROR - [ERROR] Property 20563916: HTTP Error 405: 
+2026-01-21 03:14:02,078 - ThreadPoolExecutor-0_29 - INFO - Scraping property 20516288: https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20516288
+2026-01-21 03:14:02,080 - ThreadPoolExecutor-0_2 - ERROR - [ERROR] Property 20564652: HTTP Error 405: 
+2026-01-21 03:14:02,080 - ThreadPoolExecutor-0_3 - ERROR - [ERROR] Property 20562086: HTTP Error 405: 
+2026-01-21 03:14:02,080 - ThreadPoolExecutor-0_4 - ERROR - [ERROR] Property 20541166: HTTP Error 405: 
+2026-01-21 03:14:02,080 - ThreadPoolExecutor-0_0 - ERROR - [ERROR] Property 20528373: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 03:14:02,080 - ThreadPoolExecutor-0_6 - ERROR - [ERROR] Property 20525105: HTTP Error 405: 
+2026-01-21 03:14:02,081 - ThreadPoolExecutor-0_7 - ERROR - [ERROR] Property 20525140: HTTP Error 405: 
+2026-01-21 03:14:02,081 - ThreadPoolExecutor-0_8 - ERROR - [ERROR] Property 20525087: HTTP Error 405: 
+2026-01-21 03:14:02,081 - ThreadPoolExecutor-0_9 - ERROR - [ERROR] Property 20567479: HTTP Error 405: 
+2026-01-21 03:14:02,081 - ThreadPoolExecutor-0_5 - ERROR - [ERROR] Property 20529247: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 03:14:02,082 - ThreadPoolExecutor-0_10 - ERROR - [ERROR] Property 20567478: HTTP Error 405: 
+2026-01-21 03:14:02,082 - ThreadPoolExecutor-0_11 - ERROR - [ERROR] Property 20516328: HTTP Error 405: 
+2026-01-21 03:14:02,082 - ThreadPoolExecutor-0_12 - ERROR - [ERROR] Property 20516327: HTTP Error 405: 
+2026-01-21 03:14:02,087 - MainThread - ERROR - [FAILED] Property 20563916: HTTP Error 405: 
+2026-01-21 03:14:02,143 - MainThread - ERROR - [FAILED] Property 20562086: HTTP Error 405: 
+2026-01-21 03:14:02,144 - MainThread - ERROR - [FAILED] Property 20564652: HTTP Error 405: 
+2026-01-21 03:14:02,154 - MainThread - ERROR - [FAILED] Property 20528373: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 03:14:02,154 - MainThread - ERROR - [FAILED] Property 20541166: HTTP Error 405: 
+2026-01-21 03:14:02,155 - MainThread - ERROR - [FAILED] Property 20525140: HTTP Error 405: 
+2026-01-21 03:14:02,155 - MainThread - ERROR - [FAILED] Property 20529247: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-01-21 03:14:02,155 - MainThread - ERROR - [FAILED] Property 20567479: HTTP Error 405: 
+2026-01-21 03:14:02,156 - MainThread - ERROR - [FAILED] Property 20525087: HTTP Error 405: 
+2026-01-21 03:14:02,156 - MainThread - ERROR - [FAILED] Property 20525105: HTTP Error 405: 
+2026-01-21 03:14:02,157 - MainThread - ERROR - [FAILED] Property 20516328: HTTP Error 405: 
+2026-01-21 03:14:02,157 - MainThread - ERROR - [FAILED] Property 20516327: HTTP Error 405: 
+2026-01-21 03:14:02,158 - MainThread - ERROR - [FAILED] Property 20567478: HTTP Error 405: 
+2026-01-21 03:14:04,079 - ThreadPoolExecutor-0_17 - INFO - Scraping property 20516301: https://www.fotocasa.es/es/comprar/obra-nueva/mungia/20516301
+2026-01-21 03:14:06,080 - ThreadPoolExecutor-0_14 - ERROR - [ERROR] Property 20516323: HTTP Error 405: 
+2026-01-21 03:14:06,080 - ThreadPoolExecutor-0_13 - INFO - Scraping property 20641586: https://www.fotocasa.es/es/comprar/obra-nueva/anoeta/20641586
+2026-01-21 03:14:06,080 - ThreadPoolExecutor-0_16 - ERROR - [ERROR] Property 20553693: HTTP Error 405: 
+2026-01-21 03:14:06,081 - ThreadPoolExecutor-0_15 - ERROR - [ERROR] Property 20516321: HTTP Error 405: 
+2026-01-21 03:14:06,081 - ThreadPoolExecutor-0_18 - ERROR - [ERROR] Property 20631987: HTTP Error 405: 
+2026-01-21 03:14:06,081 - ThreadPoolExecutor-0_19 - ERROR - [ERROR] Property 20516300: HTTP Error 405: 
+2026-01-21 03:14:06,082 - ThreadPoolExecutor-0_20 - ERROR - [ERROR] Property 20560282: HTTP Error 405: 
+2026-01-21 03:14:06,082 - ThreadPoolExecutor-0_21 - ERROR - [ERROR] Property 20516299: HTTP Error 405: 
+2026-01-21 03:14:06,083 - ThreadPoolExecutor-0_23 - ERROR - [ERROR] Property 20516296: HTTP Error 405: 
+2026-01-21 03:14:06,083 - ThreadPoolExecutor-0_24 - ERROR - [ERROR] Property 20516295: HTTP Error 405: 
+2026-01-21 03:14:06,083 - ThreadPoolExecutor-0_25 - ERROR - [ERROR] Property 20516294: HTTP Error 405: 
+2026-01-21 03:14:06,083 - ThreadPoolExecutor-0_26 - ERROR - [ERROR] Property 20516293: HTTP Error 405: 
+2026-01-21 03:14:06,085 - ThreadPoolExecutor-0_27 - ERROR - [ERROR] Property 20516291: HTTP Error 405: 
+2026-01-21 03:14:06,086 - MainThread - ERROR - [FAILED] Property 20516323: HTTP Error 405: 
+2026-01-21 03:14:06,087 - MainThread - ERROR - [FAILED] Property 20553693: HTTP Error 405: 
+2026-01-21 03:14:06,099 - MainThread - ERROR - [FAILED] Property 20631987: HTTP Error 405: 
+2026-01-21 03:14:06,100 - MainThread - ERROR - [FAILED] Property 20516321: HTTP Error 405: 
+2026-01-21 03:14:06,100 - MainThread - ERROR - [FAILED] Property 20516300: HTTP Error 405: 
+2026-01-21 03:14:06,100 - MainThread - ERROR - [FAILED] Property 20516296: HTTP Error 405: 
+2026-01-21 03:14:06,101 - MainThread - ERROR - [FAILED] Property 20516295: HTTP Error 405: 
+2026-01-21 03:14:06,101 - MainThread - ERROR - [FAILED] Property 20516299: HTTP Error 405: 
+2026-01-21 03:14:06,101 - MainThread - ERROR - [FAILED] Property 20516294: HTTP Error 405: 
+2026-01-21 03:14:06,102 - MainThread - ERROR - [FAILED] Property 20516293: HTTP Error 405: 
+2026-01-21 03:14:06,103 - MainThread - ERROR - [FAILED] Property 20516291: HTTP Error 405: 
+2026-01-21 03:14:06,103 - MainThread - ERROR - [FAILED] Property 20560282: HTTP Error 405: 
+2026-01-21 03:14:08,080 - ThreadPoolExecutor-0_16 - INFO - Scraping property 20531662: https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20531662
+2026-01-21 03:14:10,080 - ThreadPoolExecutor-0_1 - INFO - Scraping property 20562767: https://www.fotocasa.es/es/comprar/obra-nueva/moncofa/20562767
+2026-01-21 03:14:12,081 - ThreadPoolExecutor-0_3 - INFO - Scraping property 20509178: https://www.fotocasa.es/es/comprar/obra-nueva/salou/20509178
+2026-01-21 03:14:14,082 - ThreadPoolExecutor-0_2 - INFO - Scraping property 20511742: https://www.fotocasa.es/es/comprar/obra-nueva/sant-andreu-de-llavaneres/20511742
+2026-01-21 03:14:16,083 - ThreadPoolExecutor-0_0 - INFO - Scraping property 20509463: https://www.fotocasa.es/es/comprar/obra-nueva/foz/20509463

@@ -1,0 +1,47 @@
+{
+  "property_id": "20521000",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/montequinto/20521000",
+  "scrape_date": "2026-01-21T04:24:00Z",
+  "title": "La Noria",
+  "description": "“La Noria”, SEGUNDA FASE A LA VENTA. Pisos y áticos de 3 dormitorios con amplias terrazas, garaje y trastero, ubicada en Montequinto, frente a la Hacienda Grande de Quinto, un remanso de paz y tranquilidad donde alejarse del bullicio de cada día, y disfrutar con los suyos de sus zonas comunes con piscinas y pista de pádel.\n\n         La promoción, compuesta por 196 luminosos pisos y áticos, a ejecutar en tres fases, todos ellos con garaje y trastero, y dotados con amplias terrazas desde las que disfrutar de las impresionantes vistas que tendrá desde cualquiera de las viviendas, dispondrá de una Calificación Energética A.\n\n         Su ubicación en una totalmente consolidada, con todos los servicios a su alrededor, como supermercados Mercadona, DIN Alimentación, entidades financieras, Institutos y Colegios, y todo tipo de comercios, su cercanía a las universidades Pablo de Olavide, y Loyola, su espaciosa zona común, y su localización frente a un futuro parque y cercana al parque de ´Los Pinos´ con 80.000 m2, hacen de los “La Noria”, un lugar ideal para vivir.\n\n         Dada su localización junto a uno de los accesos a Montequinto, “La Noria” dispondrá de inmejorables comunicaciones mediante autobús, mediante vehículo privado al estar la SE-30 y SE-40 a escasos 5 minutos, o si prefiere hacer ejercicio, mediante bicicleta, dada su cercanía a los carriles bici que comunican la Universidad Pablo de Olavide con Sevilla, o al que recorriendo la Avda. de las Universidades, comunica Montequinto con Dos Hermanas.\n\n         Plaza de garaje y trastero incluidos en el precio. IVA no incluido en los precios publicados. Imágenes virtuales que incluyen un mobiliario que en ningún caso está incluido en la oferta. CEE ´A”.",
+  "contact_info": {
+    "phone_number": "955394629",
+    "advertiser_name": "LAGUNAS DEL PORTIL SA",
+    "client_id": 9202758832211
+  },
+  "location": {
+    "city": "Montequinto",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.33900451660156,
+    "longitude": -5.9270758628845215
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 102,
+    "max_surface": 102,
+    "min_price": 230000,
+    "max_price": 230000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/fd0a23cb-3e8d-4158-94b2-7c27c2d9ec9e?rule=original",
+    "https://static.fotocasa.es/images/ads/4cde82aa-87f9-4e53-915b-0e56c24c704a?rule=original",
+    "https://static.fotocasa.es/images/ads/4b354a0e-1707-4146-8a02-4d0f2a4f9708?rule=original",
+    "https://static.fotocasa.es/images/ads/d53179b9-d888-423a-bf07-095fca60f7f3?rule=original",
+    "https://static.fotocasa.es/images/ads/36612aac-1de8-43fc-bf73-5bea81da50ab?rule=original",
+    "https://static.fotocasa.es/images/ads/452ca69d-5e78-486f-be69-78ad12691924?rule=original",
+    "https://static.fotocasa.es/images/ads/f69af4e5-99ef-4bd2-b285-f7abbdace104?rule=original",
+    "https://static.fotocasa.es/images/ads/139d97df-1121-4b18-879d-6999d3c7215b?rule=original",
+    "https://static.fotocasa.es/images/ads/3b049819-9029-4766-a224-51f09308ac82?rule=original",
+    "https://static.fotocasa.es/images/ads/0461e05a-7285-42b9-972d-daddb70bec28?rule=original",
+    "https://static.fotocasa.es/images/ads/3ea48356-28c7-4381-bad4-b145ca060401?rule=original",
+    "https://static.fotocasa.es/images/ads/c7f9cfb4-c081-44f2-9302-478cacc10e2e?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/fa4171f7-de30-4b1b-af14-87078afe5d23"
+  ]
+}

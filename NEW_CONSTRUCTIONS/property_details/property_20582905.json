@@ -1,0 +1,38 @@
+{
+  "property_id": "20582905",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/santpedor/20582905",
+  "scrape_date": "2026-01-21T02:39:17Z",
+  "title": "MONTSERRAT LIVING",
+  "description": "Montserrat Living un edificio de viviendas situadas en Ctra. de Callús 49-51-53 que se componen de tres edificios con un total de 41 viviendas más plazas de aparcamiento y trasteros.              \n\nEspectaculares Plantas Bajas con jardín privado para disfrutar al aire libre con total intimidad. Pisos de 2, 3 y 4 habitaciones y de 1 a 3 baños.\n\nTIPOLOGÍAS DE LAS DIFERENTES VIVIENDAS:\nPisos desde 64,31m2 con terraza de 10,36m2 con 2 habitaciones.\nPisos desde 79,05m2 con balcones de 4,50m2 de 3 habitaciones.\nPisos desde 98,17m2 con terraza de 54,45m2 y 5,40m2 de 3 habitaciones.\nDúplex desde 102,32m2 con terraza de 67,62m2 y 8,76m2 de 3 habitaciones.\nDúplex desde 124m2 con terraza de 46,52m2 y 8,76m2 de 3 habitaciones.\nÁticos desde 70,02m2 con terraza de 55,06m2 de 2 habitaciones.\nÁticos desde 134,08m2 con terraza de 98,42m2 y 8,76m2 de 4 habitaciones.\t\t\t\t\t\t\t\t\t\t\t\t\t\n\nAcabados a escoger por usted mismo dentro de la gama presentada para suelos, cocina y baños, personalizando así su vivienda a su gusto.\t\t\t\t\t\t\t\t\t\t\t\t\t\nViviendas con altas prestaciones para obtener un excelente resultado garantizando el confort y respetuosos con el medio ambiente gracias al sistema de aerotermia que permite un gran ahorro y la máxima eficiencia energética en consumo y pre-instalación de aire acondicionado.               \n\nINFORMACIÓN Y VENTAS  \nTeléfonos de contacto 93 771 02 98 - 667 47 98 85\nNuestra www.proyectosbruc.com o bien solicitándonos cita previa para informarles en nuestra caseta de información y ventas situada en el mismo solar para atenderle de forma personalizada.",
+  "contact_info": {
+    "phone_number": "930442573",
+    "advertiser_name": "PROYECTOS BRUC, S.L",
+    "client_id": 9202751551349
+  },
+  "location": {
+    "city": "Santpedor",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.78044891357422,
+    "longitude": 1.8352400064468384
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 3,
+    "min_surface": 64,
+    "max_surface": 125,
+    "min_price": 228500,
+    "max_price": 372000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/6a3bdb45-58a6-479c-b6aa-b78faa510309?rule=original",
+    "https://static.fotocasa.es/images/ads/c5cd33ff-86ca-4a3d-a9a6-c69f70c6db91?rule=original",
+    "https://static.fotocasa.es/images/ads/a19c6762-1f3c-46b1-a24d-fa5520321d53?rule=original",
+    "https://static.fotocasa.es/images/ads/2d04c8c8-4902-4194-8d68-d838257ec69f?rule=original",
+    "https://static.fotocasa.es/images/ads/d7cb6026-de0e-4aa4-b354-95cb9384d173?rule=original"
+  ],
+  "videos": []
+}

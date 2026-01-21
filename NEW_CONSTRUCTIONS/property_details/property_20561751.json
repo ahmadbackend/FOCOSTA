@@ -1,0 +1,60 @@
+{
+  "property_id": "20561751",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/paiporta/20561751",
+  "scrape_date": "2026-01-21T03:28:15Z",
+  "title": "EDIFICIO VALENCIA",
+  "description": "Edificio de 47 viviendas de 1, 2 y 3 habitaciones con grandes terrazas, increíbles áticos y plantas bajas con jardín, todas ellas con garaje y trastero.\n\nEl precio incluye VIVIENDA, PLAZA DE APARCAMIENTO Y TRASTERO.\n\nViviendas exclusivas y totalmente equipadas, con las mejores calidades y materiales de primera clase.",
+  "contact_info": {
+    "phone_number": "961281256",
+    "advertiser_name": "CUBELLS ALMENAR",
+    "client_id": 9202774237723
+  },
+  "location": {
+    "city": "Paiporta",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.43008804321289,
+    "longitude": -0.40912988781929016
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 77,
+    "max_surface": 118,
+    "min_price": 230000,
+    "max_price": 320000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1c3183f5-3765-4da9-84c4-932da39f16d7?rule=original",
+    "https://static.fotocasa.es/images/ads/0ac84b96-3a2a-4e06-8200-dc48b5cde28b?rule=original",
+    "https://static.fotocasa.es/images/ads/7c8111f7-a8c2-4b83-adc7-7a4177e2216f?rule=original",
+    "https://static.fotocasa.es/images/ads/73c1cabd-cfc1-4514-acf4-0d04b6616d86?rule=original",
+    "https://static.fotocasa.es/images/ads/4d3d058c-7086-4cc1-835b-7e5a586b27e0?rule=original",
+    "https://static.fotocasa.es/images/ads/3936777a-638d-47a0-a2a2-c5cfb9b889e9?rule=original",
+    "https://static.fotocasa.es/images/ads/a5627803-0bce-4a3f-b38b-562b50feaac7?rule=original",
+    "https://static.fotocasa.es/images/ads/4d4ce5a3-3ad8-42c7-aca9-79fd0a962e2e?rule=original",
+    "https://static.fotocasa.es/images/ads/278cc996-ccc8-4e28-b348-07b0e6850787?rule=original",
+    "https://static.fotocasa.es/images/ads/b5c89df3-4d3b-472e-a3f2-faead9edcbaf?rule=original",
+    "https://static.fotocasa.es/images/ads/1459537c-cb39-4d44-82e0-4b8fcb593191?rule=original",
+    "https://static.fotocasa.es/images/ads/f3b5bf1d-0c76-4661-b47d-0ce446451dab?rule=original",
+    "https://static.fotocasa.es/images/ads/aa769c37-cff1-47fc-8cae-4218b1c840a2?rule=original",
+    "https://static.fotocasa.es/images/ads/bdbd6f9a-ffbd-4d8b-bb09-dcf19eec9793?rule=original",
+    "https://static.fotocasa.es/images/ads/507af929-5c37-4924-b132-c6d271196a6f?rule=original",
+    "https://static.fotocasa.es/images/ads/337aaf25-ad6d-446c-917a-7d83c3cc78c9?rule=original",
+    "https://static.fotocasa.es/images/ads/b9ff9734-8cb4-4928-9353-520c2cb0a1e5?rule=original",
+    "https://static.fotocasa.es/images/ads/e43fa639-2017-41fa-8b33-5b6e040bd7c4?rule=original",
+    "https://static.fotocasa.es/images/ads/1772d195-00e1-42ab-b34a-8eb3a48c40f9?rule=original",
+    "https://static.fotocasa.es/images/ads/9505d5b2-107e-43dc-b597-71cf0d1e9fc8?rule=original",
+    "https://static.fotocasa.es/images/ads/29530355-ef6c-4040-93cb-fbf948b964c0?rule=original",
+    "https://static.fotocasa.es/images/ads/bd0e1124-6382-400c-b723-e3a3a667a194?rule=original",
+    "https://static.fotocasa.es/images/ads/7357c0a6-f6cf-4077-8a52-a1bba609a820?rule=original",
+    "https://static.fotocasa.es/images/ads/7ae2261e-e776-4ade-b7c4-744009b60229?rule=original",
+    "https://static.fotocasa.es/images/ads/f08a0db9-26a9-4958-a256-cef9dd51329f?rule=original",
+    "https://static.fotocasa.es/images/ads/b8afc3d3-50e6-40bb-b814-1f8266f2a27f?rule=original",
+    "https://static.fotocasa.es/images/ads/f6b4e687-f113-450e-a5f8-2e0502ead2cf?rule=original"
+  ],
+  "videos": []
+}

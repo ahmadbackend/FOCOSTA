@@ -1,0 +1,54 @@
+{
+  "property_id": "20536371",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/vilanova-i-la-geltru/20536371",
+  "scrape_date": "2026-01-21T04:32:03Z",
+  "title": "Célere VILANOVA",
+  "description": "Célere Vilanova es un conjunto residencial único con todas las funcionalidades que un residencial moderno precisa, creando un lugar idóneo donde vivir.\n\nLa promoción incorpora 124  viviendas de 2, 3 y 4 dormitorios, distribuidas en diferentes plantas. Cuenta también con 15 viviendas de VPO de 1, 2 y 3 dormitorios.\n\nCélere Vilanova cuenta con la exclusividad de una piscina para refrescarte en los días más caluroso de verano, un parque infantil, pista de pádel y gimnasio para los más deportistas, una práctica sala social-gourmet para reunirte con tus familiares o amigos;  y una sala de juegos para los más pequeños en una urbanización con zonas verdes.\n\nHemos cuidado cada detalle para convertir esta promoción en tu futuro hogar. Por ello, te ofrecemos unas viviendas de arquitectura elegante y cuidada selección de calidades.\n\nTodo el conjunto de viviendas cuenta con una Calificación Energética A - B , lo que las convierte en viviendas respetuosas con el medio ambiente, diseñadas para ofrecerte el máximo nivel de eficiencia energética. Vive tu nuevo hogar en un entorno único\n\n\nCélere Vilanova es un lugar donde disfrutar, situado en la Rambla de Sant Jordi 29-37 de Vilanova i la Geltrú,  en el sector Sant Jordi.\n\nEs un barrio moderno y consolidado que ofrece innumerables oportunidades de ocio y servicio, como áreas deportivas, restaurantes y bares, colegios y centros comerciales, que harán que tengas todo al alcance de la mano.\n\nCélere Vilanova cuenta con una ubicación inmejorable; se encuentra próxima a la estación de Renfe Rodalíes, con fácil acceso a la C-31 y a 10 minutos del centro de Vilanova.\n\n*Las imágenes de la promoción son orientativas y no definitivas.\n\n** Las viviendas anteriormente identificadas y sus condiciones económicas y comerciales están sujetas a disponibilidad y a variaciones por motivos administrativos o comerciales. Consulte con la oficina de ventas.",
+  "contact_info": {
+    "phone_number": "910752145",
+    "advertiser_name": "VIA CELERE DESARROLLOS INMOBILIARIOS SA",
+    "client_id": 9202769700480
+  },
+  "location": {
+    "city": "Vilanova i la Geltrú",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.22857666015625,
+    "longitude": 1.7306748628616333
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 90,
+    "max_surface": 113,
+    "min_price": 355700,
+    "max_price": 410870
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/5f878bd8-2d39-4a27-9db2-fe1cbb12a791?rule=original",
+    "https://static.fotocasa.es/images/ads/b2e4151a-c516-4bca-aa05-bd111f39e82f?rule=original",
+    "https://static.fotocasa.es/images/ads/e68df6c3-1505-4b62-87d5-dea77424cb83?rule=original",
+    "https://static.fotocasa.es/images/ads/95825f7c-1e6e-425b-8c67-67bfc87083ad?rule=original",
+    "https://static.fotocasa.es/images/ads/a0ca549b-09b2-424e-b5c3-add547bf4839?rule=original",
+    "https://static.fotocasa.es/images/ads/30fb0276-a6fd-4f29-8f72-997274ab23de?rule=original",
+    "https://static.fotocasa.es/images/ads/ba5c6d5d-6489-4074-9bb8-e78175a0d285?rule=original",
+    "https://static.fotocasa.es/images/ads/1350abd8-c430-4f16-8372-5a418e62281c?rule=original",
+    "https://static.fotocasa.es/images/ads/d2197f1a-664e-4b27-abf7-ee6773405b88?rule=original",
+    "https://static.fotocasa.es/images/ads/303239d7-17c3-47ec-8677-9a36dc48e014?rule=original",
+    "https://static.fotocasa.es/images/ads/2d5122d3-f2d0-47d8-bd39-ed5851d9a378?rule=original",
+    "https://static.fotocasa.es/images/ads/c07c031b-c84a-4ed9-bd0a-21585372c4d9?rule=original",
+    "https://static.fotocasa.es/images/ads/e2f88001-c6ca-47c3-a296-e441ab2d76ea?rule=original",
+    "https://static.fotocasa.es/images/ads/7832fc4b-b770-41ca-a853-73ea0fc89fcc?rule=original",
+    "https://static.fotocasa.es/images/ads/3b06078d-43dc-4709-abe9-ca2c310549ad?rule=original",
+    "https://static.fotocasa.es/images/ads/3919b6cb-7d3f-4c31-9e20-a8c6c249faf3?rule=original",
+    "https://static.fotocasa.es/images/ads/122651cc-0ee7-44c0-8901-f1803155fc51?rule=original",
+    "https://static.fotocasa.es/images/ads/f24cf174-81af-4237-87cd-43d3a506d0b7?rule=original",
+    "https://static.fotocasa.es/images/ads/dca5c46f-9ede-47cd-847d-59d9ada8e022?rule=original",
+    "https://static.fotocasa.es/images/ads/f2aa5647-a91f-4003-9f36-d668f0ad8ff3?rule=original",
+    "https://static.fotocasa.es/images/ads/ba863eee-0223-41fd-91b3-7a9b9b2b71dd?rule=original"
+  ],
+  "videos": []
+}

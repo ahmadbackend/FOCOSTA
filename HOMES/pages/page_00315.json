@@ -1,0 +1,225 @@
+{
+  "page": 315,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/315",
+  "scrape_date": "2026-01-21T04:24:28.072591",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-trastero-ascensor/187510820/d",
+      "id": 187510820,
+      "price": 2850000,
+      "location": "Castellana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arroyomolinos-(madrid)/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-piscina/187816347/d",
+      "id": 187816347,
+      "price": 594900,
+      "location": "Calle de Tarragona, 113, Urbanización el Mediterráneo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/aire-acondicionado-calefaccion-no-amueblado/187637728/d",
+      "id": 187637728,
+      "price": 339000,
+      "location": "Carrer de Fornaris, La Soledat Sud",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/fraga/20505709/185588698",
+      "id": 185588698,
+      "price": 153000,
+      "location": "Calle de Teruel, 58, Fraga",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/fraga/20505709/185588668",
+      "id": 185588668,
+      "price": 159500,
+      "location": "Calle de Teruel, 58, Fraga",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/fraga/20505709/185588634",
+      "id": 185588634,
+      "price": 168000,
+      "location": "Calle de Teruel, 58, Fraga",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/187749215/d",
+      "id": 187749215,
+      "price": 440000,
+      "location": "Terrassa -  SANT ROC, DE, Barri del Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oropesa-del-mar-orpesa/parking-terraza-trastero-ascensor-piscina/186402491/d",
+      "id": 186402491,
+      "price": 198000,
+      "location": " FARO DEL, 92, Playa de la Concha",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/elche-elx/calefaccion-terraza-ascensor-piscina/186506113/d",
+      "id": 186506113,
+      "price": 180000,
+      "location": "Calle Calle de la Torre, 99, Plaza Crevillente - Antiguos Juzgados - El Asilo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cambrils/terraza-ascensor-no-amueblado/186378002/d",
+      "id": 186378002,
+      "price": 239000,
+      "location": "Carrer de Galceran Marquet, 10, Port - Horta de Santa María",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-calefaccion-ascensor-amueblado-piscina/187239138/d",
+      "id": 187239138,
+      "price": 375000,
+      "location": "Paseo Martiricos, 40, Martiricos - La Roca - La Rosaleda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-terraza-zona-comunitaria-ascensor/185848993/d",
+      "id": 185848993,
+      "price": 350000,
+      "location": "Avinguda Eusebi Sempere, 11, Ensanche - Diputación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/calefaccion-parking-terraza-ascensor-piscina/186677871/d",
+      "id": 186677871,
+      "price": 320000,
+      "location": "Cartagena, 6, Sant Narcís",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuengirola/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina-piscina/186975540/d",
+      "id": 186975540,
+      "price": 1049000,
+      "location": "Avenida Avenida del Higuerón, Las Gaviotas  - Carvajal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuengirola/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina/186975242/d",
+      "id": 186975242,
+      "price": 2530000,
+      "location": "Avenida del higuerón, 48, El Higuerón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valladolid-capital/calefaccion-parking-terraza-ascensor-no-amueblado/186956160/d",
+      "id": 186956160,
+      "price": 350000,
+      "location": "Paseo de Zorrilla, 49, Plaza de Toros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/ascensor-television-no-amueblado/186706929/d",
+      "id": 186706929,
+      "price": 150000,
+      "location": "Carrer dels Plans, 19, Piverd - Vila-Seca - Bruguerol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/ascensor-television-no-amueblado/186706428/d",
+      "id": 186706428,
+      "price": 150000,
+      "location": "Carrer dels Plans, 19, Piverd - Vila-Seca - Bruguerol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/ascensor-no-amueblado/186704672/d",
+      "id": 186704672,
+      "price": 150000,
+      "location": "Camí dels Plans, Piverd - Vila-Seca - Bruguerol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cambrils/aire-acondicionado-calefaccion-terraza-ascensor/185434029/d",
+      "id": 185434029,
+      "price": 374900,
+      "location": "Carrer de les Drassanes, 29, Port - Horta de Santa María",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/183447876/d",
+      "id": 183447876,
+      "price": 1150000,
+      "location": "Carrer d'Avinyó, 17, Barri Gòtic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/183447874/d",
+      "id": 183447874,
+      "price": 650000,
+      "location": "Carrer d'Avinyó, 17, Barri Gòtic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/183447872/d",
+      "id": 183447872,
+      "price": 695000,
+      "location": "Carrer d'Avinyó, 17, Barri Gòtic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/183447871/d",
+      "id": 183447871,
+      "price": 595000,
+      "location": "Carrer d'Avinyó, 17, Barri Gòtic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/183447875/d",
+      "id": 183447875,
+      "price": 995000,
+      "location": "Carrer d'Avinyó, 17, Barri Gòtic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/183447870/d",
+      "id": 183447870,
+      "price": 625000,
+      "location": "Carrer d'Avinyó, 17, Barri Gòtic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salou/aire-acondicionado-terraza-zona-comunitaria-ascensor-piscina/162846228/d",
+      "id": 162846228,
+      "price": 220000,
+      "location": "Carrer de Llevant, 2, Platja de Llevant",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/186608548/d",
+      "id": 186608548,
+      "price": 380000,
+      "location": "Navas de Tolosa, 101, Segle XX",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/186546264/d",
+      "id": 186546264,
+      "price": 395000,
+      "location": "Bartrina, 16, Sant Pere",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/186546267/d",
+      "id": 186546267,
+      "price": 395000,
+      "location": "Bartrina, 16, Sant Pere",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero/185838522/d",
+      "id": 185838522,
+      "price": 475000,
+      "location": "Carrer Major, 316, Vallirana",
+      "type": "realEstate"
+    }
+  ]
+}

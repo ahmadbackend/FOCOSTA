@@ -1,0 +1,46 @@
+{
+  "property_id": "20612250",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/l-ametlla-del-valles/20612250",
+  "scrape_date": "2026-01-21T02:59:01Z",
+  "title": "ÚLTIMAS 3 VIVIENDAS - Els Jardins de l'Ametlla",
+  "description": "Els Jardins de l’Ametlla: Promoción única de obra nueva en el centro de l’Ametlla del Vallès.\nInicio comercial: Noviembre 2025. \nEntrega: Q3 2027. \n\n¡¡¡últimas 3 viviendas a la venta!!!\n\n11 viviendas unifamiliares exclusivas en parcela de 4.000 m², con zona comunitaria de 1.300 m² (piscina, gimnasio/sala polivalente, áreas juegos). Cada una: Hasta 200 m² en 2 plantas, hasta 5 dormitorios + despacho, suite con vestidor/baño privado, 3 baños, terrazas, amplios jardines privados y parking/box individual. \t\t\n\t\t\t\t\t\nUbicación privilegiada: Tranquilidad natural, servicios/escolares a pie, accesos autovía (Barcelona/Vic). Diseño innovador: Espacios diáfanos/luminosos, cocinas office-isla abiertas al salón-comedor con salida jardín. Personalización total: Acabados, equipamiento y distribución.\n\nPromovido por 2AREAL STATE/COMPAS REAL STATE, expertos en proyectos sostenibles (Alella, Teia, etc.). Comunicación directa durante obra.\n\n¡Oportunidad irrepetible con calidad-precio inigualable y revalorización!\"",
+  "contact_info": {
+    "phone_number": "930445315",
+    "advertiser_name": "PROMOCIONES AMETLLÀ BARCELONA SL",
+    "client_id": 9202775746794
+  },
+  "location": {
+    "city": "L'Ametlla del Vallès",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.665103912353516,
+    "longitude": 2.2650773525238037
+  },
+  "details": {
+    "min_rooms": 5,
+    "max_rooms": 5,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 183,
+    "max_surface": 188,
+    "min_price": 560000,
+    "max_price": 585000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b31ed4f9-f402-49bd-9bc5-75bd51d908ee?rule=original",
+    "https://static.fotocasa.es/images/ads/da773743-74c3-4bf4-a01d-cc7043f9d8b5?rule=original",
+    "https://static.fotocasa.es/images/ads/deb86da9-784d-4843-9197-6473fd5eae20?rule=original",
+    "https://static.fotocasa.es/images/ads/3981b4f8-5901-4c04-986e-f02bd78770a7?rule=original",
+    "https://static.fotocasa.es/images/ads/07fe5702-9318-49fd-bde0-d76145402496?rule=original",
+    "https://static.fotocasa.es/images/ads/4826c624-6e28-45af-a08b-93c77861c0bf?rule=original",
+    "https://static.fotocasa.es/images/ads/24904759-e59e-41c1-812c-d9eeac2f205b?rule=original",
+    "https://static.fotocasa.es/images/ads/9fc3a2c4-3ec3-47ea-a065-38b9c948a083?rule=original",
+    "https://static.fotocasa.es/images/ads/dcbefe3d-78d2-40c8-b889-06361d0c7909?rule=original",
+    "https://static.fotocasa.es/images/ads/b953fa4a-abcc-4ee4-a753-3b64baf6aa4f?rule=original",
+    "https://static.fotocasa.es/images/ads/dd048a63-4e55-4ec6-a406-d8ef28d460ca?rule=original",
+    "https://static.fotocasa.es/images/ads/2bcce98f-32ca-49a0-ba19-3db97f093dfa?rule=original",
+    "https://static.fotocasa.es/images/ads/13eca580-d346-461b-a664-8f4eb0f4cddf?rule=original"
+  ],
+  "videos": []
+}

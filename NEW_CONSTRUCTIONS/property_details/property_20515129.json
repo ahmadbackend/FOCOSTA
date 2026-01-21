@@ -1,0 +1,43 @@
+{
+  "property_id": "20515129",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/basauri/20515129",
+  "scrape_date": "2026-01-21T04:39:54Z",
+  "title": "Goizargi Residencial",
+  "description": "Goizargi Residencial es un proyecto de nueva construcción que constará de 33 viviendas de 1, 2 y 3 dormitorios con distribuciones óptimas, atractivas terrazas y solariums de uso privativo en la azotea.\n\n \n\nA un paso del centro del centro de Basauri, con garajes y trasteros, las viviendas contarán con amplios espacios y diseños «open concept». Desde las terrazas – en lo alto del edificio y desde algunos ventanales- podrán disfrutarse de fantásticas vistas del río Nervión y el paisaje montañoso de la zona.\n\n \n\nUna oferta residencial atractiva para satisfacer las exigencias de aquellos que buscan estrenar una vivienda cerca de todo y con todas las ventajas una construcción actual, pensada para el bienestar y la eficiencia energética.\n\n \n\nGoizargi Residencial se localiza en la zona de Kareaga Goikoa, junto a las zonas verdes de El Kalero y muy cerca de los servicios, varios centros educativos y colegios, así como accesos a los medios de transporte público y principales redes de carreteras para desplazarse hasta Bilbao u otros municipios. Sin duda, un emplazamiento ideal para crear un hogar en el que disfrutar.  Toda la manzana va a sufrir un gran cambio estructural, dado que las antiguas viviendas serán derribadas, según el plan de urbanismo, creando un nuevo entorno residencial.\n\n \n\nDistribuciones diseñadas para la optimización del espacio, luminosidad y funcionalidad. Posibilidad de viviendas con distribuciones “open-concept”.\n\nCada una de las viviendas contará con parcela de garaje y trastero de acceso directo.\n\nSolariums privativos en la azotea con fantásticas vistas del valle.\n\n \n\nLos precios no incluyen IVA o tasas aplicables.",
+  "contact_info": {
+    "phone_number": "944680264",
+    "advertiser_name": "GESTION INMOBILIARIA QUORUM BASAURI, SL",
+    "client_id": 9202750757472
+  },
+  "location": {
+    "city": "Basauri ",
+    "province": "Bizkaia",
+    "region": "País Vasco",
+    "country": "España",
+    "latitude": 43.23897933959961,
+    "longitude": -2.8985230922698975
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 40,
+    "max_surface": 79,
+    "min_price": 179000,
+    "max_price": 319000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/c620f451-97fa-496a-ac7d-f4cb59752e2e?rule=original",
+    "https://static.fotocasa.es/images/ads/714c1a47-e77b-4da3-9ba2-43b1d531fd34?rule=original",
+    "https://static.fotocasa.es/images/ads/8bd75c8c-8fcd-477e-b02c-9161d0b4abb9?rule=original",
+    "https://static.fotocasa.es/images/ads/45865195-6775-4742-b1f5-8811cc4d525c?rule=original",
+    "https://static.fotocasa.es/images/ads/c31e426b-a514-48c9-b51a-b94f48850943?rule=original",
+    "https://static.fotocasa.es/images/ads/e513884f-7c48-4ad5-9594-d9412c8c596f?rule=original",
+    "https://static.fotocasa.es/images/ads/ccbe4e2e-39a9-4eea-b769-fef7b4c26594?rule=original",
+    "https://static.fotocasa.es/images/ads/e5d17f19-c18e-47e8-abcf-2b2012c572bc?rule=original",
+    "https://static.fotocasa.es/images/ads/01ca7dc9-3aee-4524-9332-a33052b22094?rule=original",
+    "https://static.fotocasa.es/images/ads/6971d1e1-a4c6-4b66-8f95-79b695dd97f9?rule=original"
+  ],
+  "videos": []
+}

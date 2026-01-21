@@ -1,0 +1,57 @@
+{
+  "property_id": "20611191",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-roca-del-valles/20611191",
+  "scrape_date": "2026-01-21T02:45:25Z",
+  "title": "CULMIA La Roca Natura",
+  "description": "Culmia La Roca Natura está formada por 2 edificios residenciales con zona comunitaria compartida, que incluyen un total de 46 viviendas de 1, 2, 3 y 4 dormitorios, con plantas bajas con terrazas privadas para disfrutar del aire libre. Las viviendas cuentan con plazas de garaje y trasteros.\n\nLa promoción dispone de piscina comunitaria y solárium para disfrutar de los días de más calor.\n- Viviendas de 1 a 4 dormitorios.\n- Calificación Energética B.\n- Espacio Cardioprotegido y Espacio Smart Box.\n\nAdemás, ponemos a tu disposición la aplicación Culmia Home donde podrás abrir las puertas comunitarias del residencial en un solo clic o gestionar los buzones inteligentes.\n\nLa promoción se ubica en el municipio de La Roca del Vallès, a tan solo 30 minutos de Barcelona. Un entorno natural que invita a la calma, rodeado de parques y rutas ideales para desconectar y disfrutar al aire libre. Al mismo tiempo, contarás con todos los servicios necesarios para tu día a día: colegios, centros de salud, una amplia oferta gastronómica y zonas comerciales como La Roca Village.\n\nAdemás, estarás perfectamente conectado gracias a las vías AP-7, C-60 y C-35, que enlazan de forma rápida con Barcelona, Granollers, Mataró o Girona. Y en menos de 20 minutos en coche, podrás escaparte a la Costa del Maresme, con todo el encanto del Mediterráneo y sus playas para relajarte.\n\n*Plaza de garaje y trastero no incluidos en el precio. Precios sujetos a disponibilidad. Impuestos no incluidos. Consulta más viviendas disponibles en nuestro punto de venta.",
+  "contact_info": {
+    "phone_number": "910752063",
+    "advertiser_name": "Culmia",
+    "client_id": 9202774844777
+  },
+  "location": {
+    "city": "La Roca del Vallès",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.5914192199707,
+    "longitude": 2.3252735137939453
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 99,
+    "max_surface": 119,
+    "min_price": 292000,
+    "max_price": 358000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/5aacc935-ac8c-4fe3-81b5-f33321987c1e?rule=original",
+    "https://static.fotocasa.es/images/ads/4e8aacdc-0891-410b-9679-97ab7af8205b?rule=original",
+    "https://static.fotocasa.es/images/ads/2e5d21e6-8c99-4523-9617-062c0c0e23b9?rule=original",
+    "https://static.fotocasa.es/images/ads/b92ade88-7fd2-4275-bf3b-2ba1b39eb64b?rule=original",
+    "https://static.fotocasa.es/images/ads/303ea60f-a675-4fc9-ac47-c8d71894f681?rule=original",
+    "https://static.fotocasa.es/images/ads/ac76f173-b6bb-4966-a75e-2e85b3418fbc?rule=original",
+    "https://static.fotocasa.es/images/ads/d2c67d49-4efa-4f16-9c96-f2669c877508?rule=original",
+    "https://static.fotocasa.es/images/ads/ad2bd60f-b977-494d-b109-1cedfb071915?rule=original",
+    "https://static.fotocasa.es/images/ads/cc85b2bd-b0fc-490b-836c-ef531390083f?rule=original",
+    "https://static.fotocasa.es/images/ads/a2cdb653-7bb6-40ce-abc1-c90924be1c2f?rule=original",
+    "https://static.fotocasa.es/images/ads/7dea4192-52ab-44e1-925e-5bb4ab9092df?rule=original",
+    "https://static.fotocasa.es/images/ads/3fd0e613-94c1-4dd9-bb91-ec7602f89b3f?rule=original",
+    "https://static.fotocasa.es/images/ads/4776d9df-98b6-48f2-b9cf-e882cf090eb8?rule=original",
+    "https://static.fotocasa.es/images/ads/e9784da0-8810-48d6-88b2-cd4bbdc64903?rule=original",
+    "https://static.fotocasa.es/images/ads/b5f31a08-ddd4-49b4-aaa7-01f404484248?rule=original",
+    "https://static.fotocasa.es/images/ads/35873abf-3638-4c09-ad27-8aca8b651472?rule=original",
+    "https://static.fotocasa.es/images/ads/6298699c-d4a5-443b-b628-a52d15f6b3ba?rule=original",
+    "https://static.fotocasa.es/images/ads/b527ff65-b20f-4722-bf08-6270fa88c6d4?rule=original",
+    "https://static.fotocasa.es/images/ads/c77d9287-8ecc-4243-bdad-a0e9a38e2e4a?rule=original",
+    "https://static.fotocasa.es/images/ads/36ee5a17-72d0-4919-b20f-327a59a2f2ac?rule=original",
+    "https://static.fotocasa.es/images/ads/d9302826-4aa1-4e3c-b1e4-15638ffa2d66?rule=original",
+    "https://static.fotocasa.es/images/ads/bc4846a8-57c8-439a-b4f7-bb55911aa4ff?rule=original",
+    "https://static.fotocasa.es/images/ads/c3775be6-192f-422a-b2f9-583b589df585?rule=original",
+    "https://static.fotocasa.es/images/ads/bda7bb3a-a91c-4bc7-a9de-476130ee864b?rule=original"
+  ],
+  "videos": []
+}

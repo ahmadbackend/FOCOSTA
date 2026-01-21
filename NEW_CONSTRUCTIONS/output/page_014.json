@@ -1,0 +1,217 @@
+{
+  "page": 14,
+  "url": "https://www.fotocasa.es/es/promociones-obra-nueva/comprar/viviendas/espana/todas-las-zonas/l/14",
+  "count": 30,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/manilva/20525106",
+      "id": 0,
+      "price": null,
+      "location": "BAHIA LAS ROCAS P, Chullera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20525092",
+      "id": 0,
+      "price": null,
+      "location": "Mesena, 80, Pinar del Rey",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20553244",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de Fernando Pessoa, 20, Sant Andreu de Palomar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/pulianas/20595264",
+      "id": 0,
+      "price": null,
+      "location": "Avenida Alcalde Francisco García Lara, Pulianas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20509426",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de Magallanes, 40, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/segovia-capital/20553415",
+      "id": 0,
+      "price": null,
+      "location": "Calle los Procuradores de la Tierra, Sector Plaza de Toros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20530292",
+      "id": 0,
+      "price": null,
+      "location": "Sagrada Família",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-union/20593265",
+      "id": 0,
+      "price": null,
+      "location": "Plaza Arquitectos Cerdán y Beltri, 15, La Unión ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/felanitx/20593803",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de la Gavina, Portocolom",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/huelva-capital/20508948",
+      "id": 0,
+      "price": null,
+      "location": "Calle Doctor Pedro Azcárate, 9, La Hispanidad - Verdeluz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20518963",
+      "id": 0,
+      "price": null,
+      "location": "Carrer dels Garrofers, 44, Porta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20518869",
+      "id": 0,
+      "price": null,
+      "location": "Calle Blas Ortega, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/mataro/20518949",
+      "id": 0,
+      "price": null,
+      "location": "Passeig de Marina, El Rengle",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/terrassa/20518868",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda de Jacquard, 73, Vallparadís - Antic Poble de Sant Pere",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/salou/20555795",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda del Pla de Maset, Pla de Maset - Cap de Salou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/gijon/20532308",
+      "id": 0,
+      "price": null,
+      "location": "Camino Arbeyal, 8, El Natahoyo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/el-puerto-de-santa-maria/20582372",
+      "id": 0,
+      "price": null,
+      "location": "Calle Cielo, 16, Barrio del Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/arganda-del-rey/20582434",
+      "id": 0,
+      "price": null,
+      "location": "Avenida de Europa, 2, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/torrevieja/20540985",
+      "id": 0,
+      "price": null,
+      "location": "Los Balcones - Los Altos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/begues/20509523",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Camp dels Prats, 17, Begues",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/canet-de-mar/20580288",
+      "id": 0,
+      "price": null,
+      "location": "Canet de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/albacete-capital/20526710",
+      "id": 0,
+      "price": null,
+      "location": "Calle Obispo Tagaste, 48, Industria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/castelldefels/20579468",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda 308, Montmar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/vic/20578792",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda dels Països Catalans, 86, Estadi - Santa Anna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20565166",
+      "id": 0,
+      "price": null,
+      "location": "Rodas, 11, Palmas Altas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/arico/20552920",
+      "id": 0,
+      "price": null,
+      "location": "Resistiré  Parcela L  PP Caleta Mª Luisa, Arico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/pulpi/20534007",
+      "id": 0,
+      "price": null,
+      "location": "Parcela RP Pulpí Almería, Mundo Aguilón Golf, San Juan de los Terreros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20526966",
+      "id": 0,
+      "price": null,
+      "location": "PADRE LUIS GARCIA CEREZO, Cancelada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/malaga-capital/20525107",
+      "id": 0,
+      "price": null,
+      "location": "José Ortega y Gasset, Cruz del Humilladero, , Málaga, Distrito Zeta - Recinto Ferial Cortijo de Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/terrassa/20525102",
+      "id": 0,
+      "price": null,
+      "location": "Gasómetro, Roger de Llúria, Gibert y Pare Font, Segle XX",
+      "type": "realEstate"
+    }
+  ]
+}

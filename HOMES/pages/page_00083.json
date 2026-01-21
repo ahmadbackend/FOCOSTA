@@ -1,0 +1,225 @@
+{
+  "page": 83,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/83",
+  "scrape_date": "2026-01-21T04:20:01.148703",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-ascensor/185611636/d",
+      "id": 185611636,
+      "price": 280000,
+      "location": "Santa Catalina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tarragona-capital/ascensor/188377274/d",
+      "id": 188377274,
+      "price": 195000,
+      "location": "Calle Pere Martell, Nou Eixample Sud",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salamanca-capital/calefaccion-ascensor/186015656/d",
+      "id": 186015656,
+      "price": 95000,
+      "location": "Rollo - Puente Ladrillo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-calefaccion-parking-trastero-ascensor-piscina-no-amueblado/188527365/d",
+      "id": 188527365,
+      "price": 270000,
+      "location": "Parque Sensal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/186991538/d",
+      "id": 186991538,
+      "price": 498000,
+      "location": "Calle Bisbe Sivilla, Sant Gervasi i la Bonanova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/calefaccion-parking-jardin-terraza-trastero-amueblado/188523170/d",
+      "id": 188523170,
+      "price": 550000,
+      "location": "Camiño Soutoliño, Comesaña - Matamá",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor-no-amueblado/187658142/d",
+      "id": 187658142,
+      "price": 530000,
+      "location": "Delicias",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almeria-capital/ascensor-patio/187899801/d",
+      "id": 187899801,
+      "price": 180000,
+      "location": "Avenida PABLO IGLESIAS, Plaza de Toros - Santa Rita",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/ascensor-amueblado/188515290/d",
+      "id": 188515290,
+      "price": 258000,
+      "location": "Rontegui - Pormetxeta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-terraza-ascensor-no-amueblado/188514982/d",
+      "id": 188514982,
+      "price": 550000,
+      "location": "Prosperidad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burjassot/terraza/187524556/d",
+      "id": 187524556,
+      "price": 209900,
+      "location": "Zona Campus Universitario",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/calefaccion-ascensor/188512503/d",
+      "id": 188512503,
+      "price": 250000,
+      "location": "Gorg",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20507668/188512389",
+      "id": 188512389,
+      "price": 270000,
+      "location": "Calle Lumbreras, 35, San Lorenzo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/ascensor-no-amueblado/187357271/d",
+      "id": 187357271,
+      "price": 820000,
+      "location": "Matia Kalea, Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/aire-acondicionado-calefaccion-terraza-ascensor/188416046/d",
+      "id": 188416046,
+      "price": 350000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor/188488018/d",
+      "id": 188488018,
+      "price": 325000,
+      "location": "VIRGEN DE BELEN, La Luz - El Torcal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-calefaccion-piscina-no-amueblado/187131827/d",
+      "id": 187131827,
+      "price": 339000,
+      "location": "De Francisco De Cossío, Los Guindos - Parque Mediterráneo - Santa Paula",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roses/terraza/188376606/d",
+      "id": 188376606,
+      "price": 240000,
+      "location": "Carrer DEL MONTCLAR, Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/montijo/montijo/188485287/d",
+      "id": 188485287,
+      "price": 16000,
+      "location": "Toledo, Montijo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-ascensor/186669822/d",
+      "id": 186669822,
+      "price": 570000,
+      "location": "Calle Indústria, El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arucas/no-amueblado/188480726/d",
+      "id": 188480726,
+      "price": 210000,
+      "location": "Alfredo Martín Reyes, La Montañeta - La Goleta - El Cerrillo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badajoz-capital/parking-ascensor-no-amueblado/188277489/d",
+      "id": 188277489,
+      "price": 379900,
+      "location": "Avenida Sinforiano Madroñero, Valdepasillas - La Paz - Huerta Rosales",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/aire-acondicionado-calefaccion-parking-trastero-ascensor/188382882/d",
+      "id": 188382882,
+      "price": 220000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lardero/calefaccion-parking-trastero-ascensor/188123043/d",
+      "id": 188123043,
+      "price": 180000,
+      "location": "Lardero",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor/187796916/d",
+      "id": 187796916,
+      "price": 269000,
+      "location": "Paseo de las Delicias, Palos de Moguer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-vicente-de-la-barquera/amueblado/188409767/d",
+      "id": 188409767,
+      "price": 125000,
+      "location": "Calle Mercado, San Vicente de la Barquera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bormujos/aire-acondicionado-parking-patio/188394419/d",
+      "id": 188394419,
+      "price": 220000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granollers/trastero-ascensor/187534703/d",
+      "id": 187534703,
+      "price": 224000,
+      "location": "Granollers Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-rozas-de-madrid/aire-acondicionado-calefaccion-parking-jardin-zona-comunitaria-piscina/188216498/d",
+      "id": 188216498,
+      "price": 875000,
+      "location": "El Pinar - Punta Galea",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vila-seca/aire-acondicionado-calefaccion-terraza/188324243/d",
+      "id": 188324243,
+      "price": 131000,
+      "location": "La Pineda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/armilla/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor/188006728/d",
+      "id": 188006728,
+      "price": 349900,
+      "location": "San Miguel",
+      "type": "realEstate"
+    }
+  ]
+}

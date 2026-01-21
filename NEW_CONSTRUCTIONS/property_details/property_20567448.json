@@ -1,0 +1,37 @@
+{
+  "property_id": "20567448",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20567448",
+  "scrape_date": "2026-01-21T03:30:26Z",
+  "title": "CENTRAL PARK GARDEN",
+  "description": "Frente al futuro Parque Central de Valencia, en la C/ Dr. Domagk 5, nace una promoción única en una de las zonas  con mayor proyección de la ciudad. CENTRAL PARK GARDEN ofrece viviendas modernas, funcionales y eficientes. Situado junto al barrio de Ruzafa, y a un paso del centro de de Valencia, con una excelente conexión y todos los servicios al alcance.\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nCENTRAL PARK GARDEN, tu casa en el nuevo epicentro de Valencia y junto a Parque Central, que será uno de los grandes pulmones urbanos de Europa",
+  "contact_info": {
+    "phone_number": "962471435",
+    "advertiser_name": "MOMENTUM REAL ESTATE",
+    "client_id": 9202775086227
+  },
+  "location": {
+    "city": " Valencia Capital",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.45701599121094,
+    "longitude": -0.37708988785743713
+  },
+  "details": {
+    "min_rooms": 0,
+    "max_rooms": 0,
+    "min_bathrooms": 1,
+    "max_bathrooms": 1,
+    "min_surface": 57,
+    "max_surface": 60,
+    "min_price": 209000,
+    "max_price": 268000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/49cdd6c0-2156-41f8-8b05-cb92a39f1299?rule=original",
+    "https://static.fotocasa.es/images/ads/e888e495-611f-48f9-afa3-0bdbb340d68f?rule=original",
+    "https://static.fotocasa.es/images/ads/30522aa3-80b1-4950-acac-1ad9b5e6c71d?rule=original",
+    "https://static.fotocasa.es/images/ads/9eddb0b2-8aa4-4da2-83c9-52965286cae0?rule=original"
+  ],
+  "videos": []
+}

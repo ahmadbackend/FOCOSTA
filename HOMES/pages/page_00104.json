@@ -1,0 +1,225 @@
+{
+  "page": 104,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/104",
+  "scrape_date": "2026-01-21T04:20:29.012785",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor-amueblado/186680164/d",
+      "id": 186680164,
+      "price": 345000,
+      "location": "Calle Pinos, La Victoria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sitges/calefaccion-ascensor-piscina/188210441/d",
+      "id": 188210441,
+      "price": 525000,
+      "location": "Josep Irla, Can Pei",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-trastero-zona-comunitaria-ascensor-piscina-piscina/187993479/d",
+      "id": 187993479,
+      "price": 553500,
+      "location": "Alava, Ventas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188548461/d",
+      "id": 188548461,
+      "price": 525000,
+      "location": "Chopera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-trastero/188206370/d",
+      "id": 188206370,
+      "price": 295000,
+      "location": "Churriana - El Pizarrillo - La Noria-Guadalsol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lliria/aire-acondicionado-parking-jardin/188396575/d",
+      "id": 188396575,
+      "price": 198000,
+      "location": "Urbanizaciones  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albolote/ascensor/188358122/d",
+      "id": 188358122,
+      "price": 115000,
+      "location": "C/ Torreón, Albolote",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/reus/ascensor/188202898/d",
+      "id": 188202898,
+      "price": 134900,
+      "location": " ASTORGA, Migjorn",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/molina-de-segura/centro/185916863/d",
+      "id": 185916863,
+      "price": 40000,
+      "location": "Avenida De La Industria, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/caldes-de-malavella/parking-jardin-terraza-piscina/179192312/d",
+      "id": 179192312,
+      "price": 595000,
+      "location": "Caldes de Malavella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/corvera-de-asturias/calefaccion-parking-terraza-piscina-no-amueblado/187784238/d",
+      "id": 187784238,
+      "price": null,
+      "location": "Corvera de Asturias - CALLE PELAYO, Corvera de Asturias",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pielagos/calefaccion-parking-jardin-terraza-trastero-no-amueblado/188288896/d",
+      "id": 188288896,
+      "price": 189000,
+      "location": "Oruña - San Juan, Oruña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/calefaccion-parking-jardin-trastero-piscina/186763752/d",
+      "id": 186763752,
+      "price": 1350000,
+      "location": "C. Playa de Corcubión, Bonanza",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/ascensor-no-amueblado/188382454/d",
+      "id": 188382454,
+      "price": 209000,
+      "location": "Arrancapins",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/caceres-capital/aire-acondicionado-terraza/182584419/d",
+      "id": 182584419,
+      "price": 101000,
+      "location": "Nuevo Cáceres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-ascensor/188550469/d",
+      "id": 188550469,
+      "price": 225000,
+      "location": "Sant Isidre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/galdar/no-amueblado/188549795/d",
+      "id": 188549795,
+      "price": 220000,
+      "location": "Párroco Hernández Benítez, Barrial - San Isidro - Marmolejos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llica-de-vall/calefaccion-parking-jardin-terraza-trastero-zona-comunitaria-patio-piscina-amueblado-internet/186367502/d",
+      "id": 186367502,
+      "price": 685000,
+      "location": "Lliçà de Vall",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/terraza-no-amueblado/188179136/d",
+      "id": 188179136,
+      "price": 280000,
+      "location": "De Talisio, Quintana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/eivissa/aire-acondicionado-terraza-trastero/188498283/d",
+      "id": 188498283,
+      "price": 465000,
+      "location": "S'Eixample - Can Misses",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-cristobal-de-la-laguna/no-amueblado/187972614/d",
+      "id": 187972614,
+      "price": 285000,
+      "location": "Arguijón, La Cuesta -Finca España",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-coloma-de-cervello/jardin-terraza/188418725/d",
+      "id": 188418725,
+      "price": 829000,
+      "location": "Santa Coloma de Cervelló",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tordera/terrabrava-tordera-parc/188496572/d",
+      "id": 188496572,
+      "price": 145000,
+      "location": "Terrabrava - Tordera Parc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pineda-de-mar/no-amueblado/188495589/d",
+      "id": 188495589,
+      "price": 133000,
+      "location": "Avenida Mediterrani, Poblenou  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aguilas/aire-acondicionado-terraza-patio/188399860/d",
+      "id": 188399860,
+      "price": 157900,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canet-de-mar/aire-acondicionado-terraza-trastero-ascensor-no-amueblado/188525313/d",
+      "id": 188525313,
+      "price": 280000,
+      "location": "Canet de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcazar-de-san-juan/calefaccion/187670934/d",
+      "id": 187670934,
+      "price": 79000,
+      "location": "Alcázar de San Juan",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/galapagar/calefaccion-no-amueblado/188513900/d",
+      "id": 188513900,
+      "price": 460000,
+      "location": "El Guijo - Colonia España",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/parking-terraza-ascensor-amueblado-piscina/188343115/d",
+      "id": 188343115,
+      "price": 285000,
+      "location": "Vall De Ribes, Port d'Aro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pozuelo-de-alarcon/aire-acondicionado-calefaccion-no-amueblado/187750063/d",
+      "id": 187750063,
+      "price": 345000,
+      "location": "Pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mijas/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina/182484313/d",
+      "id": 182484313,
+      "price": 1148000,
+      "location": "La Cala Golf - Lagar Martell",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "page": 142,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/142",
+  "scrape_date": "2026-01-21T04:21:11.650741",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-calefaccion-terraza-ascensor/187102921/d",
+      "id": 187102921,
+      "price": 475000,
+      "location": "Encarnación - Regina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188105262/d",
+      "id": 188105262,
+      "price": 475000,
+      "location": "Passeig de Maragall, Navas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vitoria-gasteiz/calefaccion-parking-jardin-terraza-trastero/188560266/d",
+      "id": 188560266,
+      "price": 685000,
+      "location": "Ilustrazioaren Hiribidea, Zabalgana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-cruz-de-bezana/no-amueblado/188538393/d",
+      "id": 188538393,
+      "price": 280000,
+      "location": "Soto de la Marina - La Calleja, Soto de la Marina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/188290940/d",
+      "id": 188290940,
+      "price": 410000,
+      "location": "Plaça de Celestina Vigneaux i Cibils, Eixample Sud – Migdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/calefaccion-parking-terraza-trastero-no-amueblado/187736614/d",
+      "id": 187736614,
+      "price": 870000,
+      "location": "DE SANT NARCÍS, Fenals",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sevilla-capital/20507668/185658047",
+      "id": 185658047,
+      "price": 580000,
+      "location": "Calle Lumbreras, 35, San Lorenzo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chillaron-de-cuenca/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina/184853667/d",
+      "id": 184853667,
+      "price": 1150000,
+      "location": "Chillarón de Cuenca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcala-de-guadaira/no-amueblado/188477493/d",
+      "id": 188477493,
+      "price": 134000,
+      "location": "La Paz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/campo-de-criptana/calefaccion-parking/184998973/d",
+      "id": 184998973,
+      "price": 40000,
+      "location": "REPÚBLICA DE CHILE, Campo de Criptana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tiana/calefaccion-parking-jardin-terraza-trastero-piscina/188358093/d",
+      "id": 188358093,
+      "price": 2300000,
+      "location": "Tiana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-parking-terraza-piscina-no-amueblado/186636211/d",
+      "id": 186636211,
+      "price": 20000000,
+      "location": "Pedralbes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/villaviciosa-de-odon/20509505/185699273",
+      "id": 185699273,
+      "price": 920000,
+      "location": "Calle Praga, El Bosque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/utrera/estacion-la-fontanilla-el-tinte/188437466/d",
+      "id": 188437466,
+      "price": 27000,
+      "location": "Barriada Los Remedios 1, Utrera, Estación - La Fontanilla - El Tinte  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-casar/calefaccion-jardin/188202250/d",
+      "id": 188202250,
+      "price": 260000,
+      "location": "RIO JARAMA, El Casar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/hazas-de-cesto/calefaccion-parking-jardin-terraza-trastero/184999763/d",
+      "id": 184999763,
+      "price": 238000,
+      "location": "La Revilla, Hazas de Cesto",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/terraza-ascensor-no-amueblado/185849155/d",
+      "id": 185849155,
+      "price": 264000,
+      "location": "Calle Sor Ángela de la Cruz, 20, Santa Rosa - Valdeolleros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villalbilla/calefaccion-parking-jardin-terraza-piscina-no-amueblado/178489560/d",
+      "id": 178489560,
+      "price": 1050000,
+      "location": "Almería, Peñas Albas - Zulema",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/nuez-de-ebro/calefaccion-parking-jardin-trastero/188154264/d",
+      "id": 188154264,
+      "price": 341900,
+      "location": "huesca, Nuez de Ebro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/boadilla-del-monte/20560277/187698115",
+      "id": 187698115,
+      "price": 1240000,
+      "location": "Calle Cabo de Plata, El Olivar de Mirabal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-moraleja/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-piscina/188121143/d",
+      "id": 188121143,
+      "price": 945000,
+      "location": "Calle de Cuesta Blanca, El Soto de la Moraleja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/marbella/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina-internet/188119681/d",
+      "id": 188119681,
+      "price": 20000000,
+      "location": "Los Monteros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/albocasser/20609912/187921810",
+      "id": 187921810,
+      "price": 75000,
+      "location": "Calle en Proyecto K, 10, Albocàsser",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-palmas-de-gran-canaria/parking-terraza-patio-amueblado/183475332/d",
+      "id": 183475332,
+      "price": 680000,
+      "location": "Ciudad Jardín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/murcia-capital/20508744/185684370",
+      "id": 185684370,
+      "price": 325000,
+      "location": "Calle Rosendos, La Flota",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cerdanyola-del-valles/20560515/188555563",
+      "id": 188555563,
+      "price": 459000,
+      "location": "Serraparera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almaluez/parking-trastero/187451176/d",
+      "id": 187451176,
+      "price": 36000,
+      "location": "aguaviva de la vega, Almaluez",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pozuelo-de-alarcon/calefaccion-parking-jardin-piscina-no-amueblado/187038152/d",
+      "id": 187038152,
+      "price": 2100000,
+      "location": "Montealina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrefarrera/calefaccion-parking-ascensor-amueblado-television/188517747/d",
+      "id": 188517747,
+      "price": 220000,
+      "location": "Torrefarrera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tortosa/urbanitzacions/188456735/d",
+      "id": 188456735,
+      "price": 45000,
+      "location": "Urbanitzacions",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/campo-de-criptana/parking-jardin/184998974/d",
+      "id": 184998974,
+      "price": 40000,
+      "location": "REPÚBLICA DE CHILE, Campo de Criptana",
+      "type": "realEstate"
+    }
+  ]
+}

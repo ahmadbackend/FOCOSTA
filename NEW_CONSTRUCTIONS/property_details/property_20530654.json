@@ -1,0 +1,47 @@
+{
+  "property_id": "20530654",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/gava/20530654",
+  "scrape_date": "2026-01-21T03:41:01Z",
+  "title": "D-000MJ9 Exclusiva promoción en Gavà Mar",
+  "description": "La promoción cuenta con 8 viviendas de diferentes dimensiones. \n\nPodemos encontrar desde viviendas ideales para invertir, como un dúplex de 55 m² con 70 m² de terraza privada ideal para pilotos de aerolíneas, por ejemplo, hasta pisos ubicados en la tercera planta con vistas sobre toda la Pineda de Gavà, lo que permite el lujo de disfrutar de una tranquilidad y amplitud de luz en la vivienda. \n\nEn total hay dos viviendas en la planta piso, tres dúplex y tres áticos, uno de ellos con un solárium privado de unos 50 m².\n\nLa finca contará con ascensor para acceder a todas las viviendas y dispondrá de dos zonas comunes de ocio: una en el exterior, con un amplio espacio destinado a piscina y jardín comunitario, y otra en la cubierta superior del edificio, donde encontramos un solárium muy amplio con jacuzzi y hamacas, ideal para disfrutar del verano con más privacidad.\n\nLa promoción se localiza en la demandada zona residencial situada en pleno corazón de Gavà Mar, entre la autovía de Castelldefels y la calle del Llevant.\n\nLa promoción se desarrolla sobre una parcela de 2.610 m2 conformando un edificio de uso residencial privado, con locales comerciales, aparcamiento y zona ajardinada con piscina.8 viviendas de 1,2 y 3 dormitorios en un bloque de 4 plantas sobre rasante.\n\nTodas las viviendas son exteriores con fachadas a calle y a zona ajardinada interior. Las viviendas de planta primera disponen de balcones y terrazas con acceso desde los salones y/o habitaciones. La mayoría de las viviendas tienen ventilación cruzada.\n\nSistema de ACS y calefacción por aerotermia, con emisión calorífica por radiadores mono tubulares de baja temperatura.\nSistema de aire acondicionado individual, frío y calor con distribución por conductos o Split, según tipología de vivienda.",
+  "contact_info": {
+    "phone_number": "930441963",
+    "advertiser_name": "EV MMC SPAIN ,S.L.U",
+    "client_id": 9202758116439
+  },
+  "location": {
+    "city": "Gavà",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.27103042602539,
+    "longitude": 2.0006256103515625
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 3,
+    "min_surface": 64,
+    "max_surface": 113,
+    "min_price": 399000,
+    "max_price": 749000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b3d34453-1246-446c-8584-0596f3827736?rule=original",
+    "https://static.fotocasa.es/images/ads/2b853f0b-c9ce-40a0-bae3-cd3edfe53c0d?rule=original",
+    "https://static.fotocasa.es/images/ads/b1ecd05d-2abd-44a0-8150-fc80adab4509?rule=original",
+    "https://static.fotocasa.es/images/ads/739d912a-48f3-4147-8193-e0552cf6e239?rule=original",
+    "https://static.fotocasa.es/images/ads/47e131da-1026-44d5-91cd-45506a4a8b42?rule=original",
+    "https://static.fotocasa.es/images/ads/d2640ea8-b8eb-420b-b061-c2252c38b13c?rule=original",
+    "https://static.fotocasa.es/images/ads/c711a2d1-874d-41ab-8472-e3c0168f7499?rule=original",
+    "https://static.fotocasa.es/images/ads/b46c34d3-1e90-4172-b29d-0e293c6497ca?rule=original",
+    "https://static.fotocasa.es/images/ads/9c8d45c1-3f4f-4d28-9782-7719ded5bc9b?rule=original",
+    "https://static.fotocasa.es/images/ads/6bddd7f8-9935-41e8-a887-193e75ac4868?rule=original",
+    "https://static.fotocasa.es/images/ads/b45c87d6-3ce0-4cb9-9a1e-a8e6aa6baae9?rule=original",
+    "https://static.fotocasa.es/images/ads/a6b8d99c-f5e4-41d5-af0b-2840cfbe23b5?rule=original",
+    "https://static.fotocasa.es/images/ads/36704c5c-c1d2-49bc-bc0b-072831cdca36?rule=original",
+    "https://static.fotocasa.es/images/ads/6ede5afc-4bcf-47d7-abfc-17a449f404bd?rule=original"
+  ],
+  "videos": []
+}

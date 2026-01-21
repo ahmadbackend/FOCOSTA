@@ -1,0 +1,39 @@
+{
+  "property_id": "20508744",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/murcia-capital/20508744",
+  "scrape_date": "2026-01-21T03:43:19Z",
+  "title": "EDIFICIO ALVARO DE BAZAN",
+  "description": "Se trata de un proyecto innovador y contemporáneo, ubicado en la NUEVA FLOTA, zona en desarrollo y con gran potencial urbanístico. Con todas las comunicaciones y servicios a tu alcance centros de salud, áreas comerciales y de ocio, instalaciones deportivas y una gran oferta educativa. Todo esto, a un paso del centro de Murcia y sin renunciar al placer de tener una gran terraza y piscina. \n\nEDIFICIO ALVARO DE BAZAN consta de 24 viviendas con PISCINA, garaje, trastero y con grandes TERRAZAS.\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nCaracterísticas principales:\n•viviendas de 4 dormitorios\n•puertas acorazadas\n•preinstalacion a/a,\n•puertas de roble o blancas,\n•armarios forrados,\n•cerramientos pvc,\n•tarima,\n•sanitarios roca o similar,\n•mueble de lavabo con dos cajones,\n•plato de ducha de resina, etc*.\n•Videoportero\n•Garaje\n•Trastero\n*según muestrario de la promotora\n\n¡Tu nuevo hogar te espera en la nueva flota!",
+  "contact_info": {
+    "phone_number": "968911737",
+    "advertiser_name": "SARCEMA",
+    "client_id": 9202773778104
+  },
+  "location": {
+    "city": " Murcia Capital",
+    "province": "Murcia",
+    "region": "Región de Murcia",
+    "country": "España",
+    "latitude": 37.99830627441406,
+    "longitude": -1.1205121278762817
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 119,
+    "max_surface": 127,
+    "min_price": 325000,
+    "max_price": 340000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/ae8743e3-90aa-42ea-b6cd-3d963a483f58?rule=original",
+    "https://static.fotocasa.es/images/ads/c0b47fc0-9baa-42dd-8465-f2277d429e27?rule=original",
+    "https://static.fotocasa.es/images/ads/c8a43954-017e-4828-ad6e-5485b8e9b05e?rule=original",
+    "https://static.fotocasa.es/images/ads/cb54e6e0-7fe8-4f35-8a33-bd67978f5d60?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/eos7tOstKjM"
+  ]
+}

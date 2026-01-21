@@ -1,0 +1,42 @@
+{
+  "property_id": "20617808",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/aspe/20617808",
+  "scrape_date": "2026-01-21T02:56:16Z",
+  "title": "Residencial Plaza Andalucía",
+  "description": "DESCUBRE TU HOGAR IDEAL EN ASPE, ALICANTE\n\nBienvenido a Residencial Plaza Andalucía de Aspe, una nueva promoción inmobiliaria situada en el corazón del encantador municipio de Aspe, en el interior de Alicante. Aquí encontrarás el equilibrio perfecto entre tranquilidad, naturaleza y cercanía a la costa mediterránea.\n\nLa ubicación privilegiada de nuestra promoción te permite disfrutar de lo mejor de ambos mundos: la calma y autenticidad de la vida en Aspe.\n\t\t\t\t\t\nRodeada de paisajes naturales, viñedos y tradiciones, junto con la comodidad de estar a solo unos minutos de Elche y a menos de media hora de las playas de la Costa Blanca.\n\nEn Residencial Plaza Andalucía de Aspe descubrirás un entorno acogedor, con todos los servicios a tu alcance —colegios, comercios, restaurantes y zonas verdes— para disfrutar de una vida plena en un entorno tranquilo y seguro.\n\n¿Preparado para comenzar una nueva etapa en un hogar lleno de luz, naturaleza y bienestar en Aspe?",
+  "contact_info": {
+    "phone_number": "+34645334628",
+    "advertiser_name": "Ragomi Promociones",
+    "client_id": 9202775783884
+  },
+  "location": {
+    "city": "Aspe",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.34422302246094,
+    "longitude": -0.7623094916343689
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 4,
+    "min_surface": 87,
+    "max_surface": 244,
+    "min_price": 178450,
+    "max_price": 371950
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/5eaa75b5-9ab4-4e66-97e7-41f437f6e82f?rule=original",
+    "https://static.fotocasa.es/images/ads/39ed7e4f-4b44-4534-a105-e12af1ad4927?rule=original",
+    "https://static.fotocasa.es/images/ads/73ba6926-2f66-42e6-b441-b1eb338fbbb5?rule=original",
+    "https://static.fotocasa.es/images/ads/563284ba-946b-4ed6-9c5d-f92a2504e645?rule=original",
+    "https://static.fotocasa.es/images/ads/35c99076-7785-42ab-a206-211ea8519dca?rule=original",
+    "https://static.fotocasa.es/images/ads/17ad79bb-0dfe-43bb-9992-bc4de16b3e49?rule=original",
+    "https://static.fotocasa.es/images/ads/0fd1e1bc-96f1-42b5-b524-8782667bfa69?rule=original",
+    "https://static.fotocasa.es/images/ads/af1990f7-a0d7-4d4f-8850-d116d9944683?rule=original",
+    "https://static.fotocasa.es/images/ads/97ecc1ca-a9af-47a1-af0b-98dec7c10bb3?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,57 @@
+{
+  "property_id": "20530524",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/caceres-capital/20530524",
+  "scrape_date": "2026-01-21T03:06:14Z",
+  "title": "EDIFICIO BELOMASAN",
+  "description": "EDIFICIO BELOMASAN: Un proyecto inigualable en Cáceres.\n\nViviendas únicas y novedosas de 1,2, 3 y 4 dormitorios, contando todas ellas con garaje y trastero, además de unas zonas comunes del más alto nivel: Piscina, Gimnasio, Sauna y un excelente Solarium.\n\nSu ubicación privilegiada en NUEVA CIUDAD, una zona en pleno desarrollo, con amplias zonas verdes, excelentes conexiones y todos los servicios a su alcance,  junto con su exquisito diseño y sus magníficas terrazas, convierten al EDIFICIO BELOMASAN en un espacio único e ideal para disfrutar sus vistas al aire libre.\n\nVolcado con la eficiencia energética y la sostenibilidad, el proyecto Edificio Belomasan cuenta con los mejores sistemas de calefacción y climatización, mediante suelo radiante y aerotermia. Además, gracias a la instalación fotovoltaica comunitaria, todas y cada una de las viviendas cuentan con calificación energética tipo \"A\", lo que repercute en un consumo mínimo para los vecinos.\n\nEl Edificio Belomasan cuenta con amplias zonas verdes a sus pies, donde podrá pasear, descansar o jugar con los más pequeños. Un pulmón verde frente al edificio que evita la construcción de otros nuevos, garantizando de por vida una iluminación óptima y unas vistas envidiables. Sin duda, una oportunidad inigualable para iniciar un nuevo proyecto de vida.\n\n¡No dude en contactar con nosotros para no perderse esta ocasión!\n\nMás información:\n\n https://www.multigex.com/edificio-belomasan\n\n* Las visitas virtuales son una simulación que pretende ilustrar de una manera general al cliente sobre la distribución de cada tipología de las viviendas ofertadas, no teniendo por qué corresponderse de manera exacta a la realidad de todas y cada una de las viviendas. Se informa también de que los muebles no están incluidos. La superficie construida de las viviendas se expresa con repercusión de las zonas comunes.*",
+  "contact_info": {
+    "phone_number": "927921098",
+    "advertiser_name": "MULTIGESTIÓN EXTREMEÑA, S.L.",
+    "client_id": 9202752075759
+  },
+  "location": {
+    "city": "Cáceres Capital",
+    "province": "Cáceres",
+    "region": "Extremadura",
+    "country": "España",
+    "latitude": 39.4913215637207,
+    "longitude": -6.354259967803955
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 146,
+    "max_surface": 212,
+    "min_price": 170000,
+    "max_price": 335000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/e6e7125a-5743-4d35-851c-74a9fe4dd5ac?rule=original",
+    "https://static.fotocasa.es/images/ads/45769184-8095-489a-8d7b-9d0285a231ed?rule=original",
+    "https://static.fotocasa.es/images/ads/75998527-83ae-49fe-9517-7983dd1a7673?rule=original",
+    "https://static.fotocasa.es/images/ads/f9d9028d-594a-4b41-ab8d-333dfb629cbd?rule=original",
+    "https://static.fotocasa.es/images/ads/1e5e0e98-d1d6-4e4e-b474-9e9a58c626a0?rule=original",
+    "https://static.fotocasa.es/images/ads/6c134d3f-2481-49de-a424-3cc03899293e?rule=original",
+    "https://static.fotocasa.es/images/ads/a346524f-70ae-4c81-934e-25f26aeb02e3?rule=original",
+    "https://static.fotocasa.es/images/ads/41bc44ef-eee5-4d2e-91bd-430d2360dfab?rule=original",
+    "https://static.fotocasa.es/images/ads/52651630-08e8-46a8-9736-7f18f4eab1b9?rule=original",
+    "https://static.fotocasa.es/images/ads/a78da188-5889-4f45-98ed-43967c17338d?rule=original",
+    "https://static.fotocasa.es/images/ads/6ca7e100-27bd-4deb-b483-a54726f03d50?rule=original",
+    "https://static.fotocasa.es/images/ads/0e832396-9445-4189-959e-0f6acfbf32d6?rule=original",
+    "https://static.fotocasa.es/images/ads/35a57643-39ab-4a4c-919b-7fcd004c620a?rule=original",
+    "https://static.fotocasa.es/images/ads/739f4e78-9523-4ab0-b1dc-98507587f22a?rule=original",
+    "https://static.fotocasa.es/images/ads/3dd4028e-69d4-4566-8a4f-e95099c26de4?rule=original",
+    "https://static.fotocasa.es/images/ads/bb4ae4c0-4670-4133-85d7-7f24f00c81be?rule=original",
+    "https://static.fotocasa.es/images/ads/0e2e46e9-bfc2-43eb-a395-638d90a14431?rule=original",
+    "https://static.fotocasa.es/images/ads/ce32e10e-f8d1-4989-b707-f12c85a3fd44?rule=original",
+    "https://static.fotocasa.es/images/ads/6763324e-5ed2-43c8-9593-7fb322696210?rule=original",
+    "https://static.fotocasa.es/images/ads/3608acf8-853e-4f88-b449-f7beb45ab860?rule=original",
+    "https://static.fotocasa.es/images/ads/9ebe87d6-e3e4-4060-a761-97ca73972863?rule=original",
+    "https://static.fotocasa.es/images/ads/db53d327-d8dd-4e02-8d29-d4c177f3eb31?rule=original"
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=Y08e2RD72Qw"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "page": 66,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/66",
+  "scrape_date": "2026-01-21T04:19:37.604751",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/terraza-ascensor/188087635/d",
+      "id": 188087635,
+      "price": 580000,
+      "location": "Plaza PZ TETUAN, 36, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oropesa-del-mar-orpesa/aire-acondicionado-calefaccion-parking-terraza-ascensor-piscina-amueblado/182657757/d",
+      "id": 182657757,
+      "price": 249000,
+      "location": "Vista Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-patio-amueblado/182656548/d",
+      "id": 182656548,
+      "price": 4700000,
+      "location": "La Xerea",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sitges/20509571/185699540",
+      "id": 185699540,
+      "price": 739000,
+      "location": "Carrer Alta del Vinyet, 2, Can Pei",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/salt/20511128/185760357",
+      "id": 185760357,
+      "price": 520000,
+      "location": "Carrer del Pla de Salt, Barri dels Escriptors",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/denia/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-no-amueblado/182657169/d",
+      "id": 182657169,
+      "price": 640000,
+      "location": "La Pedrera - Vessanes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-amueblado/185843142/d",
+      "id": 185843142,
+      "price": 620000,
+      "location": "Calle de Ilustración, Argüelles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/salou/20509461/185698570",
+      "id": 185698570,
+      "price": null,
+      "location": "Carrer de Francesc Ferrer i Guàrdia, 7, Barenys",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/linyola/aire-acondicionado-calefaccion-parking-terraza-trastero/182978401/d",
+      "id": 182978401,
+      "price": null,
+      "location": "PAU CLARIS, 46, Linyola",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-vicenc-dels-horts/ascensor/188013149/d",
+      "id": 188013149,
+      "price": 185000,
+      "location": "Calle Agricultura, Sant Vicenç Dels Horts",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/montcada-i-reixac/aire-acondicionado-ascensor-amueblado/188502359/d",
+      "id": 188502359,
+      "price": 159000,
+      "location": "Montcada Centre - La Ribera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pajara/terraza/188508588/d",
+      "id": 188508588,
+      "price": 199500,
+      "location": "Hapag Lloyd, Costa Calma",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/matadepera/aire-acondicionado-calefaccion-jardin-terraza/187650433/d",
+      "id": 187650433,
+      "price": 625000,
+      "location": "Carretera Terrassa, Matadepera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/inca/terraza/188598039/d",
+      "id": 188598039,
+      "price": 330000,
+      "location": "Es Blanquer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/leon-capital/calefaccion-parking-terraza-ascensor-no-amueblado/187675437/d",
+      "id": 187675437,
+      "price": 245000,
+      "location": "Federico Echevarria, Centro Ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-hospitalet-de-llobregat/ascensor/186892136/d",
+      "id": 186892136,
+      "price": 165000,
+      "location": "Avenida MASNOU, La Florida",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188587005/d",
+      "id": 188587005,
+      "price": 450000,
+      "location": "Barri del Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/olesa-de-montserrat/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor/188573095/d",
+      "id": 188573095,
+      "price": 259075,
+      "location": "Olesa de Montserrat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina/187057350/d",
+      "id": 187057350,
+      "price": 1895000,
+      "location": "Costillares",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor/185910595/d",
+      "id": 185910595,
+      "price": 1790000,
+      "location": "Almagro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/l-hospitalet-de-llobregat/20643685/188554051",
+      "id": 188554051,
+      "price": 455000,
+      "location": "Carrer Santa Eulàlia, Santa Eulàlia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/guadalajara-capital/20522176/188048364",
+      "id": 188048364,
+      "price": 206590,
+      "location": " Concepción Arenal, 63, Las Cañas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/aire-acondicionado-parking-jardin-terraza-trastero-patio/188571955/d",
+      "id": 188571955,
+      "price": 249900,
+      "location": "Los Dolores",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/parking-terraza-ascensor/187655726/d",
+      "id": 187655726,
+      "price": 295000,
+      "location": "Pajaritos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor-no-amueblado/188560320/d",
+      "id": 188560320,
+      "price": 600000,
+      "location": "Jericó, Niño Jesús",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/petrer/terraza-ascensor/187027239/d",
+      "id": 187027239,
+      "price": 126900,
+      "location": "Petrer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/parking-trastero-ascensor/188559324/d",
+      "id": 188559324,
+      "price": 289000,
+      "location": "Creu Alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/calefaccion-parking-terraza-trastero-ascensor/187605028/d",
+      "id": 187605028,
+      "price": 560000,
+      "location": "Avenida Ángel, Santa María de Getxo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gelida/jardin-terraza-patio-amueblado/188557897/d",
+      "id": 188557897,
+      "price": 77000,
+      "location": "Camí del Maset, Gelida",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/l-hospitalet-de-llobregat/20643685/188554026",
+      "id": 188554026,
+      "price": 329000,
+      "location": "Carrer Santa Eulàlia, Santa Eulàlia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado/188491247/d",
+      "id": 188491247,
+      "price": 168000,
+      "location": "Casco Histórico  - Ribera - San Basilio ",
+      "type": "realEstate"
+    }
+  ]
+}

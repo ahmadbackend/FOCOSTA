@@ -1,0 +1,38 @@
+{
+  "property_id": "20559709",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/terrassa/20559709",
+  "scrape_date": "2026-01-21T02:57:27Z",
+  "title": "RESIDENCIAL SOMIA HOMES",
+  "description": "Residencial Somia Terrassa és una nova promoció d’habitatges moderns i funcionals a Terrassa (Barcelona), desde 217.195€, ubicada en una zona privilegiada amb accés directe a l’autopista i a només 20 minuts de Barcelona.\n\nAquest exclusiu complex residencial compta amb una piscina comunitària, zona de solàrium, garatge i traster. A més, tindràs l’oportunitat de personalitzar el teu habitatge perquè s’adapti perfectament a les teves necessitats.",
+  "contact_info": {
+    "phone_number": "930443519",
+    "advertiser_name": "ALBALUZ DESARROLLOS URBANOS",
+    "client_id": 9202774350585
+  },
+  "location": {
+    "city": "Terrassa",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.55312728881836,
+    "longitude": 2.0087227821350098
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 75,
+    "max_surface": 100,
+    "min_price": 217195,
+    "max_price": 298770
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/07766937-cc29-402a-848e-82ee14850c80?rule=original",
+    "https://static.fotocasa.es/images/ads/9be819e9-10db-49a4-8a1b-f52af129fba4?rule=original",
+    "https://static.fotocasa.es/images/ads/28e2c79c-77b1-4318-a517-138233595480?rule=original",
+    "https://static.fotocasa.es/images/ads/1a84486e-49e0-4c85-9238-7282521727fc?rule=original",
+    "https://static.fotocasa.es/images/ads/b213f262-6bc0-4d4d-afdd-79353a5feb5f?rule=original"
+  ],
+  "videos": []
+}

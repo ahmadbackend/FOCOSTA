@@ -1,0 +1,225 @@
+{
+  "page": 257,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/257",
+  "scrape_date": "2026-01-21T04:23:10.289870",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188201776/d",
+      "id": 188201776,
+      "price": 370000,
+      "location": "Carrer NAPOLS, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/estepona/ascensor/187896399/d",
+      "id": 187896399,
+      "price": 549000,
+      "location": "Benatalaya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salamanca-capital/calefaccion-ascensor-no-amueblado/188000717/d",
+      "id": 188000717,
+      "price": 199900,
+      "location": "Garrido Sur",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/ascensor/185292024/d",
+      "id": 185292024,
+      "price": 530000,
+      "location": "Centro Histórico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-puerto-de-santa-maria/aire-acondicionado-parking-jardin-terraza-trastero-piscina/187910600/d",
+      "id": 187910600,
+      "price": 3000000,
+      "location": "Vistahermosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/collbato/calefaccion-jardin-terraza-trastero-patio/187778532/d",
+      "id": 187778532,
+      "price": 484200,
+      "location": "Collbató",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelavega/ascensor/187729247/d",
+      "id": 187729247,
+      "price": 149900,
+      "location": "Inmobiliaria - Barreda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/parking-ascensor-no-amueblado/187892725/d",
+      "id": 187892725,
+      "price": 280000,
+      "location": "N/A, Los Pinos - Politur",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mentrida/calefaccion-terraza-piscina-no-amueblado/187843946/d",
+      "id": 187843946,
+      "price": 285000,
+      "location": "Croacia, Méntrida",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecans/aire-acondicionado-calefaccion-terraza/187637403/d",
+      "id": 187637403,
+      "price": 320000,
+      "location": "La Roureda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-jardin-piscina-no-amueblado/187648581/d",
+      "id": 187648581,
+      "price": 1045000,
+      "location": "Canillejas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/parking-jardin-terraza-patio-no-amueblado/187659466/d",
+      "id": 187659466,
+      "price": 600000,
+      "location": "Carrer de Santa Magdalena, Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/durango/ascensor/181420403/d",
+      "id": 181420403,
+      "price": 175000,
+      "location": "Durango",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almeria-capital/ascensor-piscina/186159288/d",
+      "id": 186159288,
+      "price": 180000,
+      "location": "Cruz de Martos, La Cañada de San Urbano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roda-de-bera/aire-acondicionado-jardin-terraza-trastero-no-amueblado/186384984/d",
+      "id": 186384984,
+      "price": 395000,
+      "location": "Carrer Mas Garbí, Roda de Berà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/escalona/calefaccion-terraza-piscina-no-amueblado/187542442/d",
+      "id": 187542442,
+      "price": 300000,
+      "location": "Pueblanueva Sa, Escalona",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calonge-i-sant-antoni/aire-acondicionado-calefaccion-parking-jardin-terraza-zona-comunitaria-no-amueblado/187473202/d",
+      "id": 187473202,
+      "price": 425000,
+      "location": "doctor josep trueta, Poble",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-antonio-de-benageber/aire-acondicionado-calefaccion-parking-terraza/184495009/d",
+      "id": 184495009,
+      "price": 550000,
+      "location": "San Antonio de Benagéber",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcobendas/ascensor-piscina-no-amueblado/185926306/d",
+      "id": 185926306,
+      "price": 150000,
+      "location": "PINTOR MURILLO, Ensanche",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calonge-i-sant-antoni/calefaccion-parking-jardin-terraza-piscina/187269572/d",
+      "id": 187269572,
+      "price": 760000,
+      "location": "Avet, Mas Pere - Río de Oro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/terraza-ascensor-no-amueblado/187129259/d",
+      "id": 187129259,
+      "price": 215000,
+      "location": "Carrer de Pau Piferrer, La Salut",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guadarrama/aire-acondicionado-calefaccion-parking-jardin-piscina-no-amueblado/186607068/d",
+      "id": 186607068,
+      "price": 795000,
+      "location": "Guadarrama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/ascensor-no-amueblado/186540520/d",
+      "id": 186540520,
+      "price": 180000,
+      "location": "Rúa de Aragón, Travesía de Vigo - San Xoán",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/aire-acondicionado-parking-jardin-terraza-trastero-zona-comunitaria-patio-piscina-amueblado-internet/185925269/d",
+      "id": 185925269,
+      "price": 350000,
+      "location": "Pedanías - Extrarradio ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salvaterra-de-mino/calefaccion-jardin-terraza-trastero-no-amueblado/186296483/d",
+      "id": 186296483,
+      "price": 175000,
+      "location": "Salvaterra de Miño",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/aire-acondicionado-calefaccion-parking-terraza-no-amueblado/186386108/d",
+      "id": 186386108,
+      "price": 125000,
+      "location": "Campo Verde",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valdemorillo/calefaccion-parking-jardin-terraza-no-amueblado/184824830/d",
+      "id": 184824830,
+      "price": 585000,
+      "location": "Cerro Alarcón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/santiago-de-compostela/20508757/184966146",
+      "id": 184966146,
+      "price": 319000,
+      "location": "Rúa do Morcego, Castiñeiriño - Cruceiro de Sar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/manresa/ascensor/187056980/d",
+      "id": 187056980,
+      "price": 259000,
+      "location": "Centre - Passeig i Rodalies",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/velez-malaga/aire-acondicionado-calefaccion-jardin-trastero-piscina/186903252/d",
+      "id": 186903252,
+      "price": 1495000,
+      "location": "Camino Algarrobo - Las Arenas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/calefaccion-parking-ascensor-no-amueblado/188334878/d",
+      "id": 188334878,
+      "price": 365000,
+      "location": "La Llàntia",
+      "type": "realEstate"
+    }
+  ]
+}

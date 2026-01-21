@@ -1,0 +1,60 @@
+{
+  "property_id": "20631529",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/alcala-de-henares/20631529",
+  "scrape_date": "2026-01-21T02:40:24Z",
+  "title": "RESIDENCIAL ALCALÁ",
+  "description": "Nueva promoción ubicada en Las Sedas, una zona con una amplia gama de servicios, zonas verdes, centros deportivos y excelentes conexiones, para ofrecer una calidad de vida excepcional.\n\n\nCaracterísticas:\n- Viviendas de 2, 3 y 4 dormitorios \n- 2 baños \n- Plantas bajas con terraza \n– Aerotermia \n- Suelo radiante \n- Zona comunitaria \n- Piscina comunitaria \n- Garaje incluido en precio \n- Trastero incluido en precio",
+  "contact_info": {
+    "phone_number": "930442286",
+    "advertiser_name": "LA LLAVE DE ORO",
+    "client_id": 9202768808135
+  },
+  "location": {
+    "city": "Alcalá de Henares",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.50556945800781,
+    "longitude": -3.3825154304504395
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 80,
+    "max_surface": 116,
+    "min_price": 284500,
+    "max_price": 451000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2bc8ba56-7336-4ecb-920d-92dd90d766f2?rule=original",
+    "https://static.fotocasa.es/images/ads/8722c45f-d038-42ab-9e04-f17cd0967704?rule=original",
+    "https://static.fotocasa.es/images/ads/bd57e05b-783e-4243-85d8-2e620926222f?rule=original",
+    "https://static.fotocasa.es/images/ads/3876e7be-1033-4e81-bf2f-7b237960ef5b?rule=original",
+    "https://static.fotocasa.es/images/ads/c4314ebd-0be0-4806-b01d-17c07f47f226?rule=original",
+    "https://static.fotocasa.es/images/ads/9b8dc1e2-87e7-4ab7-b230-6de287c7c480?rule=original",
+    "https://static.fotocasa.es/images/ads/6f66af35-309e-4519-94bb-f2954b350f2f?rule=original",
+    "https://static.fotocasa.es/images/ads/8121d223-f13f-43a6-bff7-c26dc8373169?rule=original",
+    "https://static.fotocasa.es/images/ads/772eb50e-64fb-4bc5-8935-262914b96c87?rule=original",
+    "https://static.fotocasa.es/images/ads/ecea0293-6d91-4550-86c8-0bb5090ff328?rule=original",
+    "https://static.fotocasa.es/images/ads/c5406e1d-2d3a-4767-b27d-c00990a9ea0f?rule=original",
+    "https://static.fotocasa.es/images/ads/ed46a1d8-808e-4478-abf9-52449d4d7508?rule=original",
+    "https://static.fotocasa.es/images/ads/8ef39312-d6e8-4694-a1a4-bf12fb14d6c1?rule=original",
+    "https://static.fotocasa.es/images/ads/12f84b3e-4e5e-441f-a4f5-3637b24e3928?rule=original",
+    "https://static.fotocasa.es/images/ads/dbbb5862-2934-4d59-826b-fc5c3e8f3820?rule=original",
+    "https://static.fotocasa.es/images/ads/d4effdbb-a9b0-45be-992f-87488466a1ed?rule=original",
+    "https://static.fotocasa.es/images/ads/405341fd-75bf-4b60-85b6-53ae0d752b12?rule=original",
+    "https://static.fotocasa.es/images/ads/cbb390d0-e31e-4af8-92ce-2984e7b8a61d?rule=original",
+    "https://static.fotocasa.es/images/ads/1b45de07-f8f6-4090-a252-e23527861600?rule=original",
+    "https://static.fotocasa.es/images/ads/24bb3ac4-d0e8-4b9b-891d-365cd721e59b?rule=original",
+    "https://static.fotocasa.es/images/ads/5c192f4c-a868-42b0-9924-fafe74bca04a?rule=original",
+    "https://static.fotocasa.es/images/ads/0f213932-62df-4da6-a789-a377200cc70f?rule=original",
+    "https://static.fotocasa.es/images/ads/309aea93-acff-4bdd-9bc1-270242558236?rule=original",
+    "https://static.fotocasa.es/images/ads/43bce3a4-3c18-492e-90d9-227babafdf55?rule=original",
+    "https://static.fotocasa.es/images/ads/1ac3c1e2-7a24-4ffd-b1db-bbd096b78dd8?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/yBaA5Eq62Xs"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "property_id": "20525100",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/lleida-capital/20525100",
+  "scrape_date": "2026-01-21T02:51:38Z",
+  "title": "Iconic",
+  "description": "En construcción. ¡Entrega en verano de 2026!\nConoce cómo avanzan las obras del proyecto ICONIC en Lleida, próximo al Parc de l'Aigua. \nICÒNIC es un proyecto residencial de 45 viviendas de 2, 3 y 4 dormitorios distribuidos en 4 escaleras, que cuenta con zona comunitaria interior con piscina y zona de juegos infantiles.\n\nEncontrarás áticos de 3 dormitorios con grandes terrazas, y plantas bajas de 2, 3 y 4 dormitorios con terraza privada y acceso directo a la zona comunitaria para disfrutar dentro y fuera de tu hogar.\n\nEl conjunto residencial tiene su entrada principal desde la calle Sant Paulí de Nola, y da acceso a los vestíbulos de las 4 escaleras a través de la zona comunitaria interior.\n\nEl conjunto residencial cuenta con garaje comunitario para plazas de parking y trasteros, con entrada desde la calle Carrasco i Formiguera.\n\n\nEs tu vida, elige dónde vivirla.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": " Lleida Capital",
+    "province": "Lleida",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.60422897338867,
+    "longitude": 0.6378049850463867
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 81,
+    "max_surface": 191,
+    "min_price": 181000,
+    "max_price": 284000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b22ab03a-045b-4381-9aec-0cb2230ee504?rule=original",
+    "https://static.fotocasa.es/images/ads/87a2bcef-f942-489b-b82d-cb35cd49476b?rule=original",
+    "https://static.fotocasa.es/images/ads/a9c2598e-19e4-44a3-b8d0-a3c55d23bb1e?rule=original",
+    "https://static.fotocasa.es/images/ads/5849e083-f041-4c5d-9bb1-0abcad8d489b?rule=original",
+    "https://static.fotocasa.es/images/ads/d4a8a252-2c47-40df-9d1e-0b6dc8b901f1?rule=original",
+    "https://static.fotocasa.es/images/ads/6a3a79f3-9d3a-4e4e-a83d-1edb45c0b772?rule=original",
+    "https://static.fotocasa.es/images/ads/db044add-8c70-413e-bd36-54c127bbbfec?rule=original",
+    "https://static.fotocasa.es/images/ads/f68deb49-44c8-47cb-aeb9-0da8d2421bc1?rule=original",
+    "https://static.fotocasa.es/images/ads/ca5eb915-ed07-4283-9a1b-c628df571c8c?rule=original",
+    "https://static.fotocasa.es/images/ads/71551c5e-d40a-4457-bc2e-75887f7c7642?rule=original",
+    "https://static.fotocasa.es/images/ads/1b601a5d-3cff-441a-835a-8bdff4a2254e?rule=original",
+    "https://static.fotocasa.es/images/ads/4d3cdfcd-fc39-4bc1-ac58-7f75c1a97e21?rule=original",
+    "https://static.fotocasa.es/images/ads/3537de20-b30d-4fe3-aec1-1202836aefe1?rule=original",
+    "https://static.fotocasa.es/images/ads/b8ad85b1-528f-4ec7-bcf2-afb0cd324723?rule=original",
+    "https://static.fotocasa.es/images/ads/4d1b28ff-518b-4703-b407-b845bf6d0a1b?rule=original",
+    "https://static.fotocasa.es/images/ads/225a2cfa-454c-4143-a6a8-b8f18bc25806?rule=original",
+    "https://static.fotocasa.es/images/ads/23950238-c400-4610-adbe-e55a9c4220b9?rule=original"
+  ],
+  "videos": []
+}

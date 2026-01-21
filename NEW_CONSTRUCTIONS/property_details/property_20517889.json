@@ -1,0 +1,38 @@
+{
+  "property_id": "20517889",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/vallirana/20517889",
+  "scrape_date": "2026-01-21T03:11:14Z",
+  "title": "CARRER MAJOR 490 VALLIRANA",
+  "description": "EL LUJO DE VIVIR EN EL CENTRO! \nDesde 62 m2. \nEntrega prevista 1º semestre 2026. \nExclusiva promoción de 24 viviendas, 1 local comercial, plazas de aparcamiento y trasteros. \nEn pleno centro de la población y a un paso de todos los servicios: CAP, Escuela, Guarderia, Instalaciónes deportivas, Transporte Público, supermercados. \nTan sólo a 23 km. de Barcelona y a 2 min. de la A2. \nViviendas de 2, 3 o 4 habitaciones en su mayoría con terraza o balcón. \nGran luminosidad en todos sus espacios\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\nPosibilidad de elección en varios acabados. \nCEE nivel A. \nZona de día orientada al Sur. \nPlazas de parquing y trasteros opcionales, no incluidos en el precio. \n***Imágenes sin valor contractual. El mobiliario se ha utilizado a modo de decoración virtual como mera sugerencia. En ningún caso está incluido en el precio.\n\nImpuestos y gastos derivados de la compra no incluidos. \n\nInicio previsto de las obras: 3r trimestre 2024.",
+  "contact_info": {
+    "phone_number": "+34934636009",
+    "advertiser_name": "Drassanes 30",
+    "client_id": 9202769342933
+  },
+  "location": {
+    "city": "Vallirana",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.38483428955078,
+    "longitude": 1.9315521717071533
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 62,
+    "max_surface": 110,
+    "min_price": 193493,
+    "max_price": 398947
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/fdd315ff-3755-4dc6-8a97-fe5fa7fbd35f?rule=original",
+    "https://static.fotocasa.es/images/ads/6a58082c-df91-43cd-b03f-5a80866708c0?rule=original",
+    "https://static.fotocasa.es/images/ads/315d6f67-2d31-4b69-8839-e9cca1683805?rule=original",
+    "https://static.fotocasa.es/images/ads/042251f2-c51a-4f68-8bca-10d0a7a7db95?rule=original",
+    "https://static.fotocasa.es/images/ads/1c027b14-2ceb-4083-bcc0-ab71c3c07ff9?rule=original"
+  ],
+  "videos": []
+}

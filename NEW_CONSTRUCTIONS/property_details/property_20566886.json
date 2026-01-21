@@ -1,0 +1,49 @@
+{
+  "property_id": "20566886",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cambrils/20566886",
+  "scrape_date": "2026-01-21T03:31:13Z",
+  "title": "ONE RESIDENCIAL CAMBRILS",
+  "description": "GRUPO COSEHISA presenta ONE Residencial Cambrils, un proyecto de villas exclusivas en primera línea de mar, en una de las zonas más bonitas de la Costa Dorada.\n\nSu ubicación privilegiada ofrece kilómetros de playas, calas tranquilas, naturaleza mediterránea y una excelente oferta gastronómica, cultural y comercial.\n\nUn equipo de interioristas ha desarrollado este proyecto de diseño que combina elegancia, confort y funcionalidad. Cada detalle ha sido cuidadosamente estudiado, seleccionando materiales de alta gama para crear ambientes cálidos, sofisticados y atemporales. \n\nLas villas destacan por su amplitud excepcional, con espacios generosos, luminosos y diseñados para vivir con total comodidad.\n\nCada vivienda cuenta con una amplia terraza, jardín y piscina privada en la planta baja, ideales para descansar y disfrutar del sol y la brisa marina.\n\nEn la primera planta, una gran terraza ofrece vistas abiertas e integradas de forma natural con el interior.\n\nEn la planta superior, el solárium se convierte en un espacio exclusivo con vistas panorámicas al mar.\n\nCada villa dispone además de un box privado en el sótano, conectado mediante ascensor con el resto de las plantas, ofreciendo así la máxima comodidad.\n\nEl proyecto permite amplias opciones de personalización, desde la elección de materiales hasta la adaptación de la distribución interior, permitiendo crear un hogar verdaderamente a medida.\n\nEl proyecto consta de tres fases. La FASE 1 se encuentra totalmente vendida. Actualmente está disponible para la venta la FASE 2. El inicio de obras está previsto para septiembre de 2025 y la entrega de llaves está estimada para el verano de 2027.\n\nDescubra una propuesta única: nuestro equipo le ofrecerá una atención totalmente personalizada para acompañarle en cada paso.\n\nhttps://www.onecambrils.com/",
+  "contact_info": {
+    "phone_number": "977937043",
+    "advertiser_name": "COSEHISA INMOBILIARIA, S.L.U.",
+    "client_id": 9202754259305
+  },
+  "location": {
+    "city": "Cambrils",
+    "province": "Tarragona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.062679290771484,
+    "longitude": 1.0410776138305664
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 4,
+    "max_bathrooms": 4,
+    "min_surface": 322,
+    "max_surface": 338,
+    "min_price": 2350000,
+    "max_price": 2350000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/100ac950-ef38-422e-820c-e95ca9672565?rule=original",
+    "https://static.fotocasa.es/images/ads/a22ddf39-997e-4e8f-bcc3-b8e082a33038?rule=original",
+    "https://static.fotocasa.es/images/ads/c1daf0c7-2970-4833-bcc9-713fd7322a78?rule=original",
+    "https://static.fotocasa.es/images/ads/5ac5c5ef-3f19-41e9-989a-6ba34b3c01d6?rule=original",
+    "https://static.fotocasa.es/images/ads/716c18d2-7b63-47ff-88b3-c82829e2fe3d?rule=original",
+    "https://static.fotocasa.es/images/ads/1fd597f8-5111-4e72-a212-835ed26c10f8?rule=original",
+    "https://static.fotocasa.es/images/ads/d98491c4-8707-4d85-ac56-4844794f8e9a?rule=original",
+    "https://static.fotocasa.es/images/ads/c4c09300-c7cc-4e4c-94a0-2d12d7416fda?rule=original",
+    "https://static.fotocasa.es/images/ads/043d3f46-b5d4-4b25-9324-dab38d505c81?rule=original",
+    "https://static.fotocasa.es/images/ads/798d1ad6-1d27-4691-b339-a2a652be9ca0?rule=original",
+    "https://static.fotocasa.es/images/ads/4fb7e739-4883-4a43-a017-b6907a7277c6?rule=original",
+    "https://static.fotocasa.es/images/ads/25d7a77e-195c-4e14-8774-9dd0ab36ff88?rule=original",
+    "https://static.fotocasa.es/images/ads/afe741bd-3eb8-4761-a711-e929228f7af8?rule=original",
+    "https://static.fotocasa.es/images/ads/9339acf8-d697-4556-9807-de57c9e93758?rule=original"
+  ],
+  "videos": [
+    "https://vimeo.com/1101699715"
+  ]
+}

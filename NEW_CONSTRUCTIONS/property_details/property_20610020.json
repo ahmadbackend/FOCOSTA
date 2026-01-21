@@ -1,0 +1,48 @@
+{
+  "property_id": "20610020",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sesena/20610020",
+  "scrape_date": "2026-01-21T02:50:09Z",
+  "title": "NOVASEÑA SINGLE FLOOR",
+  "description": "La línea de viviendas de Novaseña ,  Single Floor nace como resultado de un concepto de vivienda eficiente distribuida en una sola planta. La planta única facilita una vida más funcional y cómoda,  optimiza la superficie útil y proporciona una mayor sensación de cercanía garantizando lo más importante en una casa: la calidad de vida. Cuentan con un amplio salón con acceso al jardín privado, espacio  cocina moderna y funcional, y tres dormitorios que se adaptan a diferentes necesidades y estilos de vida. CERTIFICACIÓN ENERGÉTICA A.   FASE 18  últimas unidades -  A LA VENTA FASE 19",
+  "contact_info": {
+    "phone_number": "925661024",
+    "advertiser_name": "Egido Modern Home, S.L.",
+    "client_id": 9202752400329
+  },
+  "location": {
+    "city": "Seseña",
+    "province": "Toledo",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.11176300048828,
+    "longitude": -3.6608431339263916
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 91,
+    "max_surface": 91,
+    "min_price": 245000,
+    "max_price": 245000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/fb196274-18b1-4adc-a3b1-1456c797ac67?rule=original",
+    "https://static.fotocasa.es/images/ads/a62a88bc-39fb-4e6e-9686-cb330b6db53c?rule=original",
+    "https://static.fotocasa.es/images/ads/609063b4-fee0-4e98-8aec-d37623dac16b?rule=original",
+    "https://static.fotocasa.es/images/ads/269ec945-5493-4f43-988d-b488597403ed?rule=original",
+    "https://static.fotocasa.es/images/ads/434c8102-792f-48a9-9882-52f89df3eca6?rule=original",
+    "https://static.fotocasa.es/images/ads/143d9113-2197-4687-bf3e-002b1374cf98?rule=original",
+    "https://static.fotocasa.es/images/ads/a0a39fe2-dd5a-46e7-954a-22aa74bedb10?rule=original",
+    "https://static.fotocasa.es/images/ads/f909683c-dc1d-4bc8-ac0a-ba259a6f4fc0?rule=original",
+    "https://static.fotocasa.es/images/ads/160ca5ab-013d-4948-abe4-a3e34212cde5?rule=original",
+    "https://static.fotocasa.es/images/ads/fc28a793-b47c-4d9b-a9df-fdd64412e05e?rule=original",
+    "https://static.fotocasa.es/images/ads/6e32637b-1a2c-46b7-8196-94253d843740?rule=original",
+    "https://static.fotocasa.es/images/ads/3a439945-c51a-443d-ae94-02a93d73cdf7?rule=original",
+    "https://static.fotocasa.es/images/ads/a2a2caf0-5f3a-49b4-962d-2a367578bedf?rule=original",
+    "https://static.fotocasa.es/images/ads/70e5a74b-16db-40d0-8e47-c7cefa4568f6?rule=original",
+    "https://static.fotocasa.es/images/ads/c7945a28-d334-4b37-a0a6-56086f3eef3b?rule=original"
+  ],
+  "videos": []
+}

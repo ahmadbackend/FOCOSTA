@@ -1,0 +1,225 @@
+{
+  "page": 82,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/82",
+  "scrape_date": "2026-01-21T04:20:01.291834",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-trastero-ascensor/188269927/d",
+      "id": 188269927,
+      "price": 440000,
+      "location": "San Lorenzo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chipiona/parking-terraza-no-amueblado/188479959/d",
+      "id": 188479959,
+      "price": 250000,
+      "location": "Veintiocho De Febrero, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cabrils/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-no-amueblado/185974918/d",
+      "id": 185974918,
+      "price": 830000,
+      "location": "Carrer Barcelona, Cabrils",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/calefaccion-ascensor-no-amueblado/188501453/d",
+      "id": 188501453,
+      "price": 190000,
+      "location": "La Serreta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cerdanyola-del-valles/20518774/188534532",
+      "id": 188534532,
+      "price": 301000,
+      "location": "Passeig del Pont, Catalunya - Fontetes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-jardin-terraza-trastero/188585702/d",
+      "id": 188585702,
+      "price": 285000,
+      "location": "Carrer Carrer del Penyal, 21, La Font d'en Fargues",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/manilva/aire-acondicionado-calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-piscina-no-amueblado/187521985/d",
+      "id": 187521985,
+      "price": 515000,
+      "location": "San Luis de Sabinillas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mont-roig-del-camp/aire-acondicionado-terraza-ascensor/187520254/d",
+      "id": 187520254,
+      "price": 321000,
+      "location": "Passeig Marítim",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-amueblado/188184605/d",
+      "id": 188184605,
+      "price": 930000,
+      "location": "Gaztambide",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-palmas-de-gran-canaria/parking-ascensor/188066693/d",
+      "id": 188066693,
+      "price": 180000,
+      "location": "Calle de Isidro Gómez Titiritero, Tamaraceite",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/terraza/188387478/d",
+      "id": 188387478,
+      "price": 180000,
+      "location": "Plaza Plaza del Boquerón, 2, Centro - Sagrario ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-parking-jardin-piscina-no-amueblado/188513892/d",
+      "id": 188513892,
+      "price": 1690000,
+      "location": "Mirasierra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/valencia-capital/20643452/188547703",
+      "id": 188547703,
+      "price": 419000,
+      "location": "Carrer de Manuel Melià i Fuster, Nou Benicalap",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/valencia-capital/20643452/188547684",
+      "id": 188547684,
+      "price": 393000,
+      "location": "Carrer de Manuel Melià i Fuster, Nou Benicalap",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/valencia-capital/20643452/188547609",
+      "id": 188547609,
+      "price": 313000,
+      "location": "Carrer de Manuel Melià i Fuster, Nou Benicalap",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/valencia-capital/20643452/188547603",
+      "id": 188547603,
+      "price": 257000,
+      "location": "Carrer de Manuel Melià i Fuster, Nou Benicalap",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/terraza-ascensor/188036637/d",
+      "id": 188036637,
+      "price": 959000,
+      "location": "Son Espanyolet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cogollos-de-la-vega/aire-acondicionado-jardin-terraza-trastero-patio-piscina/165166634/d",
+      "id": 165166634,
+      "price": 139900,
+      "location": " la charca, Cogollos de la Vega",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina-no-amueblado/187634964/d",
+      "id": 187634964,
+      "price": 1250000,
+      "location": "Valdebebas - Valdefuentes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/parking-terraza-trastero-ascensor/187866249/d",
+      "id": 187866249,
+      "price": 349000,
+      "location": "Pont Major - Pedret - Campdorà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/calefaccion-parking-trastero-internet-no-amueblado/188336562/d",
+      "id": 188336562,
+      "price": 145000,
+      "location": "Carrer de Zamora, Ca n'Oriol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-terraza/188268332/d",
+      "id": 188268332,
+      "price": 145000,
+      "location": "Calle ROSALES, Barrio de Benicalap",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benidorm/aire-acondicionado-terraza-ascensor/187615847/d",
+      "id": 187615847,
+      "price": 225000,
+      "location": "Playa Levante",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-ascensor/188495362/d",
+      "id": 188495362,
+      "price": 690000,
+      "location": "Pacífico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-astillero/calefaccion/188543611/d",
+      "id": 188543611,
+      "price": 165000,
+      "location": "El Astillero  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/masquefa/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina-internet-no-amueblado/188394588/d",
+      "id": 188394588,
+      "price": 340000,
+      "location": "Masquefa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion-no-amueblado/188535124/d",
+      "id": 188535124,
+      "price": 99500,
+      "location": "Tahonas, Los Vadillos - R. Sanitaria - Pozanos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mazarron/jardin-terraza-piscina/188329812/d",
+      "id": 188329812,
+      "price": 125000,
+      "location": "Calle Sierra de las Moreras, Bahia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badia-del-valles/aire-acondicionado-ascensor/188002447/d",
+      "id": 188002447,
+      "price": 194900,
+      "location": "Badia del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion/188180407/d",
+      "id": 188180407,
+      "price": 445000,
+      "location": "C. de Loreto y Chicote, Universidad - Malasaña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado/188197310/d",
+      "id": 188197310,
+      "price": 120000,
+      "location": "Cruz Roja",
+      "type": "realEstate"
+    }
+  ]
+}

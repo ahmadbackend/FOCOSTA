@@ -1,0 +1,39 @@
+{
+  "property_id": "20521617",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-seu-d-urgell/20521617",
+  "scrape_date": "2026-01-21T03:44:05Z",
+  "title": "CLOS LA SEU",
+  "description": "CLOS LA SEU, un residencial exclusivo de diseño y arquitectura distintiva. 40 viviendas con selección de acabados y calidades de alta gama con marcas como Porcelanosa Grupo, Grato y Hönnun. Gozarán de comodidades personalizadas y de una calidad excepcional en la construcción. La eficiencia energética y la integración de sistemas de tecnología domótica avanzada Smart Living complementan su atractivo. \t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\nViviendas de 1, 2, 3 y 4 dormitorios diseñados para la manera de vivir de cada familia. Áticos Dúplex que se despliegan estratégicamente para captar cada rayo de sol. Con amplias terrazas, opción de chimenea y cubierta inclinada interior de madera siguiendo la estética de una auténtica casa de montaña. Plazas de aparcamiento y trasteros en el mismo edificio.",
+  "contact_info": {
+    "phone_number": "973811534",
+    "advertiser_name": "ALTERRA HOMES",
+    "client_id": 9202774608528
+  },
+  "location": {
+    "city": "La Seu d'Urgell",
+    "province": "Lleida",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 42.360435485839844,
+    "longitude": 1.4604065418243408
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 3,
+    "min_surface": 53,
+    "max_surface": 128,
+    "min_price": 185000,
+    "max_price": 415000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/eb382e60-5015-439a-857d-c1afed3ba6d7?rule=original",
+    "https://static.fotocasa.es/images/ads/13517016-5da4-4941-8a37-f3f23b3ea079?rule=original",
+    "https://static.fotocasa.es/images/ads/10e0b76b-c36b-4f23-a4b1-99d6aa573e9e?rule=original",
+    "https://static.fotocasa.es/images/ads/42b6e368-2879-4700-8609-9868e3765311?rule=original",
+    "https://static.fotocasa.es/images/ads/09db4237-275e-46a2-bad9-f3d9aeb08ca4?rule=original",
+    "https://static.fotocasa.es/images/ads/c8c043d5-3f9e-4f3c-9671-d1aae12af3f8?rule=original"
+  ],
+  "videos": []
+}

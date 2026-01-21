@@ -1,0 +1,47 @@
+{
+  "property_id": "20534245",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cordoba-capital/20534245",
+  "scrape_date": "2026-01-21T04:33:13Z",
+  "title": "PONIENTE SUR",
+  "description": "Célere Poniente Sur es un conjunto residencial único, diseñado para tu comodidad y la de los tuyos, donde cada día puede ser mejor que el anterior.\nEl complejo residencial está compuesto por 110 viviendas de 1, 2, 3 y 4 dormitorios, plazas de aparcamiento y trasteros, y bajos con amplias terrazas y magníficos áticos.\nLas zonas comunes son espacios pensados para disfrutar del ocio y del deporte, optimizando al máximo tu tiempo libre en un entorno tranquilo.\n\nCélere Poniente Sur cuenta con la exclusividad de zonas verdes ajardinadas, piscina, gimnasio, parque infantil y sala social-gourmet.\nHemos cuidado cada detalle para convertir esta promoción en tu futuro hogar. Por ello, te ofrecemos unas viviendas que destacan por su excelente diseño de calidad moderno y funcional.\n*Las imágenes de la promoción son orientativas y no definitivas.\n\n** Las viviendas anteriormente identificadas y sus condiciones económicas y comerciales están sujetas a disponibilidad y a variaciones por motivos administrativos o comerciales. Consulte con la oficina de ventas.",
+  "contact_info": {
+    "phone_number": "910752145",
+    "advertiser_name": "VIA CELERE DESARROLLOS INMOBILIARIOS SA",
+    "client_id": 9202769700480
+  },
+  "location": {
+    "city": " Córdoba Capital",
+    "province": "Córdoba",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.87626647949219,
+    "longitude": -4.800261497497559
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 1,
+    "min_bathrooms": 0,
+    "max_bathrooms": 1,
+    "min_surface": 50,
+    "max_surface": 60,
+    "min_price": 75800,
+    "max_price": 180300
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/7da56ad8-f2bd-4c85-be4e-dfb08a4d70a4?rule=original",
+    "https://static.fotocasa.es/images/ads/7b7fba36-6da1-4d2c-b8df-7557c0be1d64?rule=original",
+    "https://static.fotocasa.es/images/ads/a5f2c083-d1d5-4ced-90e1-6ce35bfdbbee?rule=original",
+    "https://static.fotocasa.es/images/ads/bd8d9b34-8f5e-4225-9e71-444493e1c465?rule=original",
+    "https://static.fotocasa.es/images/ads/0c514411-c54b-4388-8534-ea1686a9cc8c?rule=original",
+    "https://static.fotocasa.es/images/ads/646fe287-bf35-40d4-b107-06bafae586ca?rule=original",
+    "https://static.fotocasa.es/images/ads/fe8e0cd1-5157-418c-9473-d47f0a5263b1?rule=original",
+    "https://static.fotocasa.es/images/ads/abf9e43f-f0af-4704-b143-95ec3f3cc3be?rule=original",
+    "https://static.fotocasa.es/images/ads/9cc00006-79e7-45f9-aed5-6db10f205fdb?rule=original",
+    "https://static.fotocasa.es/images/ads/bbbb681d-90e6-4c97-a19b-29f73ff8356c?rule=original",
+    "https://static.fotocasa.es/images/ads/835f3bc7-db51-416c-8a12-57eef530357c?rule=original",
+    "https://static.fotocasa.es/images/ads/71982412-8a1f-4fee-8f40-4a0f7bb3c5c8?rule=original",
+    "https://static.fotocasa.es/images/ads/0077ed61-5823-46a1-adeb-72d594a23a7e?rule=original",
+    "https://static.fotocasa.es/images/ads/2c632764-66cd-44d7-b323-c0ff450960ef?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,48 @@
+{
+  "property_id": "20528019",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/terrassa/20528019",
+  "scrape_date": "2026-01-21T03:42:39Z",
+  "title": "Can Colomer 3",
+  "description": "Promoción de obra nueva en Terrassa en un entorno natural con alma urbana.\n \nExclusiva promoción de obra nueva en Carretera de Rellinars 531, Terrassa. Situada en una zona en plena expansión, rodeada de naturaleza y grandes zonas verdes.\nEn nuestra tercera fase ofrecemos 160 viviendas de 1, 2 y 3 dormitorios concebidas para quienes buscan calidad, confort y una excelente ubicación.\nCada vivienda destaca por sus acabados, cuentan con cocinas equipadas con electrodomésticos Siemens, armarios empotrados en dormitorios suite, Aerotermia para el clima frio/calor  y agua sanitaria, cerramientos de aluminio con rotura de puente térmico, doble acristalamiento y persianas motorizadas, todo pensado para ofrecer el máximo aislamiento, eficiencia y comodidad.\nEl conjunto residencial dispone de una espectacular zona comunitaria con piscina, gimnasio equipado con maquinaria, zona de calistenia,  zona de juegos infantiles y espacio de coworking, diseñada para enriquecer la vida diaria de sus residentes.\nTodas las viviendas incluyen plaza de aparcamiento y trastero, y ofrecen la posibilidad de personalizarla con diferentes acabados para adaptarse a los gustos de cada comprador.\nUn hogar que combina diseño contemporáneo, entorno natural y todas las comodidades que hacen la vida más sencilla.",
+  "contact_info": {
+    "phone_number": "930441798",
+    "advertiser_name": "SR Inmuebles",
+    "client_id": 9202774418012
+  },
+  "location": {
+    "city": "Terrassa",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.581809997558594,
+    "longitude": 1.9968199729919434
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 71,
+    "max_surface": 111,
+    "min_price": 220000,
+    "max_price": 308500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/bbc7a1cf-c3bf-4b96-ac70-db1816fec20e?rule=original",
+    "https://static.fotocasa.es/images/ads/996b969c-fa11-4386-9b12-3c918c0721df?rule=original",
+    "https://static.fotocasa.es/images/ads/c890e9f2-0b09-4f0e-88a0-62bbb24e418f?rule=original",
+    "https://static.fotocasa.es/images/ads/a6016206-bed9-43a6-b0e3-ca5d29726d90?rule=original",
+    "https://static.fotocasa.es/images/ads/f75b7593-c540-4513-882c-924414830b83?rule=original",
+    "https://static.fotocasa.es/images/ads/685bf2cc-9167-4203-926d-ff00f66b8514?rule=original",
+    "https://static.fotocasa.es/images/ads/e467dd92-9945-4812-ba6d-dab8055802bd?rule=original",
+    "https://static.fotocasa.es/images/ads/5d52f961-de2c-4f84-9dac-ec9c29bf5229?rule=original",
+    "https://static.fotocasa.es/images/ads/11d2d2ca-aa09-449c-80e2-99c99a2de9fe?rule=original",
+    "https://static.fotocasa.es/images/ads/58e02193-2fd8-4250-ba4e-173f65f4e2d6?rule=original",
+    "https://static.fotocasa.es/images/ads/63b97796-8a61-4b46-8d63-21f071b83716?rule=original",
+    "https://static.fotocasa.es/images/ads/e1664ae9-5624-4fdd-8e76-60184daab6b2?rule=original",
+    "https://static.fotocasa.es/images/ads/30496fc9-9a93-43ee-9abb-f6bb2dc2deda?rule=original",
+    "https://static.fotocasa.es/images/ads/d9ffb09f-a092-43c1-94c9-14f36f18313c?rule=original",
+    "https://static.fotocasa.es/images/ads/09a2da5e-6752-4f12-b8e2-0d56925ee81c?rule=original"
+  ],
+  "videos": []
+}

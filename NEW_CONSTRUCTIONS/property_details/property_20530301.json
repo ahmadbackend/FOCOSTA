@@ -1,0 +1,41 @@
+{
+  "property_id": "20530301",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/canyelles/20530301",
+  "scrape_date": "2026-01-21T03:41:28Z",
+  "title": "D-000L2U PROMOCION GARRAF PARK",
+  "description": "Promoción de 20 viviendas unifamiliares de alto standing en Canyelles, con orientación sr-oeste, ubicadas en ´Urbanización Cogullada 2´, urbanización que posee todos los servicios (energía eléctrica, agua, telefonía, internet, calles pavimentadas, alumbrado publico nocturno, boca antiincendios, alcantarillado) y tiene una ubicación privilegiada rodeada de zonas verdes, viñedos y bosque Mediterráneo, a 12km de Sitges, 9km de Vilanova y la Geltru, 12km de Vilafranca del Penedes y 35 minutos de Barcelona.\n\nParcela de 600m2 con jardín y piscina (opcional) privado. Casa de 140m2 con tres habitaciones y dos baños. Vivienda respetuosa con el medioambiente, eficiencia energética, climatización mediante canalización por tubos, acabados con gres porcelanico Town y suelos de parket laminado AC5 de 8mm con acabado roble. Puertas macizas lacadas en blanco y armarios empotrados.",
+  "contact_info": {
+    "phone_number": "930441963",
+    "advertiser_name": "EV MMC SPAIN ,S.L.U",
+    "client_id": 9202758116439
+  },
+  "location": {
+    "city": "Canyelles",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.295555114746094,
+    "longitude": 1.7118052244186401
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 104,
+    "max_surface": 104,
+    "min_price": 375000,
+    "max_price": 375000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2ca2a1e7-31e0-436d-bd62-f31cd9633f65?rule=original",
+    "https://static.fotocasa.es/images/ads/7d1dc3c4-7841-4e85-95da-ac6cefcbf5b2?rule=original",
+    "https://static.fotocasa.es/images/ads/bf0f48cb-0d79-4194-ab77-5f3558839ee8?rule=original",
+    "https://static.fotocasa.es/images/ads/ee0f8fc9-0939-414a-905c-aa79cdd6dfc7?rule=original",
+    "https://static.fotocasa.es/images/ads/3b4abbda-46fe-46e8-b453-73e90aa692f0?rule=original",
+    "https://static.fotocasa.es/images/ads/b82d78b6-649d-46ee-8e83-a90393e6fc22?rule=original",
+    "https://static.fotocasa.es/images/ads/32071e4e-e774-4e60-b2b7-389d289d4803?rule=original",
+    "https://static.fotocasa.es/images/ads/54239be8-7405-4320-9371-6a785f2f8b2a?rule=original"
+  ],
+  "videos": []
+}

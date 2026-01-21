@@ -1,0 +1,225 @@
+{
+  "page": 100,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/100",
+  "scrape_date": "2026-01-21T04:20:00.912867",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-terraza-ascensor/188087607/d",
+      "id": 188087607,
+      "price": 420000,
+      "location": " CL DIPUTACIO, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calpe-calp/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina-internet-no-amueblado/186646431/d",
+      "id": 186646431,
+      "price": 335000,
+      "location": "Puerto",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bunyola/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-amueblado/184873227/d",
+      "id": 184873227,
+      "price": 790000,
+      "location": "Bunyola",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/reus/calefaccion-ascensor/184823360/d",
+      "id": 184823360,
+      "price": 205000,
+      "location": "del Doctor Jaume Peyrí, Ponent",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/begur/amueblado/184285080/d",
+      "id": 184285080,
+      "price": 300000,
+      "location": "Sa Riera - Sa Fontansa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-maria-de-miralles/jardin/188539681/d",
+      "id": 188539681,
+      "price": 150000,
+      "location": "Santa Maria de Miralles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcoy-alcoi/calefaccion-ascensor/182795651/d",
+      "id": 182795651,
+      "price": 84000,
+      "location": "Centre - Zona Alta  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/amueblado/188322714/d",
+      "id": 188322714,
+      "price": 220000,
+      "location": "PALOMERAS, Portazgo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-terraza-ascensor-no-amueblado/188482885/d",
+      "id": 188482885,
+      "price": 539000,
+      "location": "Carrer de València, L'Antiga Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/caceres-capital/centro/188531539/d",
+      "id": 188531539,
+      "price": 147000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-cugat-del-valles/aire-acondicionado-parking-jardin/187909236/d",
+      "id": 187909236,
+      "price": 1030000,
+      "location": "Sant Domènec",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-patio/188443769/d",
+      "id": 188443769,
+      "price": 160000,
+      "location": "Casco Histórico  - Ribera - San Basilio ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bonastre/aire-acondicionado-calefaccion-parking-jardin-terraza/188496828/d",
+      "id": 188496828,
+      "price": 139000,
+      "location": "Bonastre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bardallur/calefaccion-jardin-terraza/187401309/d",
+      "id": 187401309,
+      "price": 70000,
+      "location": "diseminados, Bardallur",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/ascensor-patio/188297112/d",
+      "id": 188297112,
+      "price": 140000,
+      "location": "Plaza de Vicente Ros ( ZONA CENIT), Ensanche",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/parking-ascensor-no-amueblado/187892681/d",
+      "id": 187892681,
+      "price": 435000,
+      "location": "Avenida Verona I Terol, Port d'Aro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/premia-de-mar/parking-ascensor-no-amueblado/188419777/d",
+      "id": 188419777,
+      "price": 395000,
+      "location": "Can Farrerons",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/laredo/no-amueblado/188527439/d",
+      "id": 188527439,
+      "price": 187000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/barcelona-capital/20531676/186447065",
+      "id": 186447065,
+      "price": 625000,
+      "location": "Carrer de Pàdua, El Putget i el Farró",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcala-de-guadaira/parking-terraza/188447283/d",
+      "id": 188447283,
+      "price": 118000,
+      "location": "Nueva Alcalá",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-trastero-no-amueblado/188545498/d",
+      "id": 188545498,
+      "price": 135000,
+      "location": "Juan XXIII - Rochelambert",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/parla/aire-acondicionado-no-amueblado/188546739/d",
+      "id": 188546739,
+      "price": 164500,
+      "location": "Calle Pinto - San Roque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-pedro-del-pinatar/ascensor-patio/187411285/d",
+      "id": 187411285,
+      "price": 124000,
+      "location": "Ingeniero Lorenzo Morales, San Pedro del Pinatar ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burriana-borriana/amueblado/188243217/d",
+      "id": 188243217,
+      "price": 90000,
+      "location": "Soledat, Llombai",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/puigpunyent/calefaccion-terraza/187274350/d",
+      "id": 187274350,
+      "price": 365000,
+      "location": "Puigpunyent",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/serra/no-amueblado/188529639/d",
+      "id": 188529639,
+      "price": 86500,
+      "location": "Serra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/calefaccion-terraza/188529149/d",
+      "id": 188529149,
+      "price": 225000,
+      "location": "Molí de Vent - La Sauleda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/olias/188397717/d",
+      "id": 188397717,
+      "price": 86000,
+      "location": "Camino altos de jaboneros s/n, Olías",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado/188514709/d",
+      "id": 188514709,
+      "price": 139000,
+      "location": "El Grao",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion/188523121/d",
+      "id": 188523121,
+      "price": 246000,
+      "location": "Aluche",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alberic/aire-acondicionado/188347382/d",
+      "id": 188347382,
+      "price": 134999,
+      "location": "Conquita Piquer, Alberic",
+      "type": "realEstate"
+    }
+  ]
+}

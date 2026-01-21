@@ -1,0 +1,47 @@
+{
+  "property_id": "20623287",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/molina-de-segura/20623287",
+  "scrape_date": "2026-01-21T04:12:04Z",
+  "title": "landCo Altorreal Golf",
+  "description": "NUEVA PROMOCIÓN DE OBRA NUEVA | LandCo Altorreal Golf, Murcia.\n\nImagina vivir en una de las zonas más exclusivas de Murcia, junto al prestigioso club de Golf Altorreal. Te presentamos dos promociones de obra nueva:\n\n- landCo Altorreal Golf 1: 25 viviendas, incluyendo 5 unifamiliares privadas y 20 pareadas.\n- landCo Altorreal Golf 2: 12 viviendas unifamiliares adosadas.\n\nCada vivienda cuenta con:\n* 4 dormitorios luminosos \n* Terraza en el dormitorio principal \n* Parcela privada con jardín \n\nDiseñadas para maximizar la luz y la conexión con la naturaleza, estas casas ofrecen un estilo moderno y contemporáneo. Los espacios están cuidadosamente distribuidos, creando ambientes ideales para el descanso y el disfrute.\n\nEl exterior se convierte en una extensión de tu hogar, perfecto para disfrutar de agradables momentos al aire libre, ya sea como salón de verano o fresco comedor.\n\nLas cocinas están equipadas con los principales electrodomésticos, listas para que empieces a vivir.\n\nUbicación inmejorable: Altorreal es una urbanización consolidada, con fácil acceso a la A-30 y a solo 5 minutos de Molina de Segura y 10 de Murcia. Disfruta de servicios como centros comerciales, colegios y transporte público, incluyendo las líneas de bus que conectan con Molina y Murcia.\n\nVen a vivir a landCo Altorreal Golf, donde la exclusividad y la comodidad se unen en un entorno natural incomparable.",
+  "contact_info": {
+    "phone_number": "968912248",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "Molina de Segura",
+    "province": "Murcia",
+    "region": "Región de Murcia",
+    "country": "España",
+    "latitude": 38.070953369140625,
+    "longitude": -1.1864757537841797
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 136,
+    "max_surface": 159,
+    "min_price": 275000,
+    "max_price": 359000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/e377f7ae-c114-4188-b92c-f5086e0f0fa3?rule=original",
+    "https://static.fotocasa.es/images/ads/fce91b6b-5b39-4a50-8589-78a2c93ddf47?rule=original",
+    "https://static.fotocasa.es/images/ads/7b5c7fef-975f-4136-ae01-2c628a603bb5?rule=original",
+    "https://static.fotocasa.es/images/ads/d9c3a6bd-df47-4aaf-a227-64ebd76d565f?rule=original",
+    "https://static.fotocasa.es/images/ads/bb607145-68ef-44ee-ad99-40714fe0e6a8?rule=original",
+    "https://static.fotocasa.es/images/ads/5fc9b4f7-f150-452f-a87e-266996f89acb?rule=original",
+    "https://static.fotocasa.es/images/ads/e15e970d-eae1-4b5d-abca-773146e1bfcb?rule=original",
+    "https://static.fotocasa.es/images/ads/7b3d4079-069d-4f12-8a6c-cf394c517d51?rule=original",
+    "https://static.fotocasa.es/images/ads/a6b0287c-7129-4537-98db-40a9bcb17489?rule=original",
+    "https://static.fotocasa.es/images/ads/b795d032-4059-40dd-b0a6-61d6e8820bf0?rule=original",
+    "https://static.fotocasa.es/images/ads/a98351fb-7d25-499b-b885-7acaad4bec37?rule=original",
+    "https://static.fotocasa.es/images/ads/f260331a-1031-4cda-90d2-9f853c0bc7d2?rule=original",
+    "https://static.fotocasa.es/images/ads/53f5eb0d-085a-473f-bfed-acc0ff3c6040?rule=original",
+    "https://static.fotocasa.es/images/ads/5f01c72e-c749-4945-a15b-d827da05674a?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,54 @@
+{
+  "property_id": "20516289",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20516289",
+  "scrape_date": "2026-01-21T02:37:26Z",
+  "title": "Azure Homes",
+  "description": "Viviendas protegidas en Guadalajara\nObras iniciadas. Últimas viviendas disponibles.\n\nAzure Homes es un exclusivo conjunto residencial formado por 154 viviendas en bloque de precio tasado, con opciones de 2, 3 y 4 dormitorios. Se ubica dentro de una urbanización privada que ofrece tranquilidad y seguridad, rodeada de un entorno consolidado de gran valor natural como es Aguas Vivas, un espacio que combina naturaleza y ciudad para disfrutar de lo mejor de ambos mundos.\n\nTu nuevo hogar en Guadalajara\nDescubre viviendas de obra nueva que reúnen todo lo que necesitas para tu día a día. El complejo cuenta con una amplia zona común diseñada para el disfrute de toda la familia: espacios verdes para relajarse, piscina para refrescarse en verano, área infantil para los más pequeños, gimnasio para mantenerte activo y una elegante sala gourmet pensada para reuniones y celebraciones. Todo ello dentro de un entorno seguro y privado.\n\nArquitectura moderna y sostenible\nLa arquitectura de Azure Homes combina una estética cálida y contemporánea con el uso de materiales sostenibles que favorecen el ahorro energético y reducen el impacto ambiental. Cada detalle ha sido pensado para ofrecer un equilibrio entre diseño y funcionalidad, con acabados de alta calidad que garantizan bienestar, confort y durabilidad. Es un proyecto que apuesta por la innovación sin renunciar a la calidez de un hogar.\n\nEspacios luminosos y acogedores\nLas viviendas destacan por una distribución óptima que aprovecha al máximo cada metro cuadrado. El diseño interior cuida cada espacio para potenciar la luminosidad natural, creando ambientes cálidos y agradables que invitan a disfrutar de la vida en casa. La combinación de amplitud, luz y confort convierte cada vivienda en un lugar único donde relajarse y compartir momentos.\n\nComodidad incluida\nTodas las viviendas disponen de plaza de garaje y trastero incluidos en el precio, lo que aporta comodidad y seguridad en tu día a día. Además, existe la posibilidad de adquirir una segunda plaza de garaje para quienes necesiten mayor flexibilidad. Es un valor añadido que asegura practicidad y tranquilidad para toda la familia.\n\nServicios a tu alcance\nDentro del complejo también se integran locales comerciales, pensados para cubrir necesidades cotidianas sin tener que salir de la urbanización. Esta cercanía a servicios básicos aporta un plus de comodidad y convierte a Azure Homes en un espacio residencial completo, donde todo lo que necesitas está al alcance de tu mano.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": "Guadalajara Capital",
+    "province": "Guadalajara",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.643436431884766,
+    "longitude": -3.1660261154174805
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 110,
+    "max_surface": 125,
+    "min_price": 242270,
+    "max_price": 250059
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2dc49bf9-c586-4896-8dc4-2dc4a4540e5d?rule=original",
+    "https://static.fotocasa.es/images/ads/9c958973-8eda-4230-9b0d-d662efc68e42?rule=original",
+    "https://static.fotocasa.es/images/ads/1f8a9efe-4ead-4dd7-9d4c-0aefcb545854?rule=original",
+    "https://static.fotocasa.es/images/ads/0338d077-2bee-448a-8574-d11854921da6?rule=original",
+    "https://static.fotocasa.es/images/ads/5b55a0a6-99be-45a0-bb65-01bc43f3e5ed?rule=original",
+    "https://static.fotocasa.es/images/ads/142aec52-9671-4bf3-9016-458268bdb48f?rule=original",
+    "https://static.fotocasa.es/images/ads/35a636cd-97b7-42fd-b753-725c96b51dd7?rule=original",
+    "https://static.fotocasa.es/images/ads/7274a1e8-3345-46d2-ae44-044787effd89?rule=original",
+    "https://static.fotocasa.es/images/ads/b5617e07-c767-4871-80eb-cfa1a47b1a4f?rule=original",
+    "https://static.fotocasa.es/images/ads/5cbaac32-944d-495f-9da3-ca6ec70900b6?rule=original",
+    "https://static.fotocasa.es/images/ads/6f373618-a6df-42c1-a18d-bec273853d00?rule=original",
+    "https://static.fotocasa.es/images/ads/35d34f5a-0fca-47ff-8e0b-bddc7bbebefb?rule=original",
+    "https://static.fotocasa.es/images/ads/6f3fa713-b4df-44c5-8bef-c83ac99fa66d?rule=original",
+    "https://static.fotocasa.es/images/ads/cc775fa7-6d62-4ed0-991e-89350ee7144d?rule=original",
+    "https://static.fotocasa.es/images/ads/2591787b-6c0c-4078-b48f-e1433d61b669?rule=original",
+    "https://static.fotocasa.es/images/ads/69035da0-0d57-49e6-bc3d-f04f594f8a24?rule=original",
+    "https://static.fotocasa.es/images/ads/c8a45e9f-fcd1-487e-bc1a-463c98f319c8?rule=original",
+    "https://static.fotocasa.es/images/ads/f9713605-2b5b-4e96-a8f5-2875de81c8a0?rule=original",
+    "https://static.fotocasa.es/images/ads/84986dd4-496d-4744-84fc-4b1569dad754?rule=original",
+    "https://static.fotocasa.es/images/ads/6ee812a5-251e-486f-a96d-11c881ee8031?rule=original",
+    "https://static.fotocasa.es/images/ads/4b070b5b-6690-4ac2-b05e-5207599b652f?rule=original"
+  ],
+  "videos": []
+}

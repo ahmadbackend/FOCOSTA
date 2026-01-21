@@ -1,0 +1,46 @@
+{
+  "property_id": "20518694",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/elche-elx/20518694",
+  "scrape_date": "2026-01-21T03:45:11Z",
+  "title": "RESIDENCIAL BAOBAB",
+  "description": "?? ¡Descubre el paraíso en Residencial Baobab, tu hogar de ensueño en Elche! ??\n\nSumérgete en el oasis de tranquilidad que ofrece Residencial Baobab, un lugar donde la elegancia se combina con la comodidad para brindarte la experiencia de vida que siempre has deseado.\n\nUbicado en el corazón de Elche, Residencial Baobab te invita a disfrutar de la vida al máximo. Con una arquitectura moderna y sofisticada, este complejo residencial ofrece una amplia variedad de espacios diseñados para satisfacer todas tus necesidades y deseos.\n\nImagina despertar cada mañana con la suave brisa mediterránea acariciando tu rostro, mientras disfrutas de las vistas panorámicas desde tu terraza privada. Con amplias zonas verdes, piscina comunitaria y áreas recreativas, Residencial Baobab te ofrece un estilo de vida relajado y lleno de comodidades.\n\nAdemás, su excelente ubicación te permite acceder fácilmente a una amplia gama de servicios, desde tiendas y restaurantes hasta parques y colegios, garantizando que tanto tú como tu familia disfruten de una vida cómoda y conveniente.\n\nNo esperes más para hacer realidad tus sueños de un hogar perfecto. ¡Únete a la comunidad de Residencial Baobab y comienza a vivir la vida que te mereces!\n\nContáctanos hoy para obtener más información y descubre por qué Residencial Baobab es el lugar ideal para llamar hogar en Elche.\n\n?? ¡Llama ahora para reservar tu visita y dar el primer paso hacia tu nuevo hogar!",
+  "contact_info": {
+    "phone_number": "965093215",
+    "advertiser_name": "PISO JOVEN",
+    "client_id": 9202767577376
+  },
+  "location": {
+    "city": "Elche / Elx",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.264347076416016,
+    "longitude": -0.6785175800323486
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 73,
+    "max_surface": 93,
+    "min_price": 175900,
+    "max_price": 259900
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/c78a14c0-c4db-4c16-914f-14ac16760f37?rule=original",
+    "https://static.fotocasa.es/images/ads/c740ffde-8cf2-46e9-8cbe-7a72393d958b?rule=original",
+    "https://static.fotocasa.es/images/ads/182c155d-339e-44c7-b014-74599dba3cfd?rule=original",
+    "https://static.fotocasa.es/images/ads/fef02ad2-312a-4e39-9687-2f11d08ded12?rule=original",
+    "https://static.fotocasa.es/images/ads/78889a3e-7993-470b-9cdd-75b188fb4ff0?rule=original",
+    "https://static.fotocasa.es/images/ads/ecd0cd7b-dc42-405e-80da-42de32a7b488?rule=original",
+    "https://static.fotocasa.es/images/ads/b8a121d5-3a6b-4dfb-a111-a7fe9393e235?rule=original",
+    "https://static.fotocasa.es/images/ads/6d4af50f-a280-439f-bf26-0331fb645841?rule=original",
+    "https://static.fotocasa.es/images/ads/71a6cd1e-7c9d-4da1-af03-8ffa0ff17455?rule=original",
+    "https://static.fotocasa.es/images/ads/305b8f89-8dbd-4006-a0a3-94503574869f?rule=original",
+    "https://static.fotocasa.es/images/ads/e69e6ba3-0acc-4d6c-a23f-a8559fe08232?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/810278f8-7f1b-4592-8182-48ac948ff462"
+  ]
+}

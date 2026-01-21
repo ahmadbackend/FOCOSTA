@@ -1,0 +1,217 @@
+{
+  "page": 29,
+  "url": "https://www.fotocasa.es/es/promociones-obra-nueva/comprar/viviendas/espana/todas-las-zonas/l/29",
+  "count": 30,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-pere-de-vilamajor/20622948",
+      "id": 0,
+      "price": null,
+      "location": "Avinguda de la Llum, 3, Sant Pere de Vilamajor",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/vic/20627422",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de la Indústria, 7, Caputxins - Ambulatori",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-fost-de-campsentelles/20625064",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Verge de Núria, Sant Fost de Campsentelles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/getafe/20626942",
+      "id": 0,
+      "price": null,
+      "location": "Calle de los Depósitos, 13, Universidad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/nijar/20625490",
+      "id": 0,
+      "price": null,
+      "location": "Calle Bajel, San José",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/alhaurin-de-la-torre/20624399",
+      "id": 0,
+      "price": null,
+      "location": "Avenida de La Calera, Jardines de Alhaurín - Huerta Alta - Fuensanguínea",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/tuineje/20625167",
+      "id": 0,
+      "price": null,
+      "location": "Calle Fula, Gran Tarajal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-oliva/20624923",
+      "id": 0,
+      "price": null,
+      "location": "Corralejo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-oliva/20624877",
+      "id": 0,
+      "price": null,
+      "location": "Calle Alcaudón, 12, Corralejo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-oliva/20624798",
+      "id": 0,
+      "price": null,
+      "location": "Calle Alcaudón, Corralejo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/cartaya/20624190",
+      "id": 0,
+      "price": null,
+      "location": "Cartaya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/bermeo/20606038",
+      "id": 0,
+      "price": null,
+      "location": "Almike Kalea, 2, Bermeo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/roquetas-de-mar/20513220",
+      "id": 0,
+      "price": null,
+      "location": "Calle Haza del Lino, El Parador de las Hortichuelas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/burjassot/20621890",
+      "id": 0,
+      "price": null,
+      "location": "Carrer del General Prim, 4, Zona Campus Universitario",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/teia/20623227",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Santa Rosalia, 10, Teià",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/albacete-capital/20509459",
+      "id": 0,
+      "price": null,
+      "location": "Calle Madame Bovary, Imaginalia - Llanos del Águila",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/torrefarrera/20552145",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Alzinar, 22, Torrefarrera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/murcia-capital/20619012",
+      "id": 0,
+      "price": null,
+      "location": "Calle Torre de Romo, 15, El Carmen",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/velez-malaga/20621266",
+      "id": 0,
+      "price": null,
+      "location": "Calle Faro Nuevo, Poniente - Faro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/cabo-de-gata/20621265",
+      "id": 0,
+      "price": null,
+      "location": "Carretera Cabo de Gata, Cabo de Gata",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/calella/20621145",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de les Ànimes, 102, Calella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/vic/20531561",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Nou, 37, Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/castellgali/20610177",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Bages, 58, Castellgalí",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/salamanca-capital/20617004",
+      "id": 0,
+      "price": null,
+      "location": "Avenida Reina Berenguela, 7, Rollo - Puente Ladrillo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/badalona/20620256",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de Pi i Margall, Port",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/palamos/20509080",
+      "id": 0,
+      "price": null,
+      "location": "Camí del Pla del Llop, 9, Sant Joan - Vilarromà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/vilanova-i-la-geltru/20607200",
+      "id": 0,
+      "price": null,
+      "location": "Carrer de Josep Anselm Clavé, 51, Sant Joan",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/palamos/20509481",
+      "id": 0,
+      "price": null,
+      "location": "Carrer President Macià, 116, Platja Gran",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/canet-de-mar/20620001",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Balmes, 19, Canet de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/obra-nueva/arenys-de-mar/20515001",
+      "id": 0,
+      "price": null,
+      "location": "Carrer Jaume Balmes, Zona alta",
+      "type": "realEstate"
+    }
+  ]
+}

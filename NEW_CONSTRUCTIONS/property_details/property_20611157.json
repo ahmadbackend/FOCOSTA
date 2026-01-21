@@ -1,0 +1,34 @@
+{
+  "property_id": "20611157",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/miraflores-de-la-sierra/20611157",
+  "scrape_date": "2026-01-21T03:04:52Z",
+  "title": "La Finca de Los Pinarejos | Independientes Fase 2",
+  "description": "Tras el éxito de la primera fase, llega la Fase 2 de esta exclusiva promoción en la sierra norte de Madrid: nuevas viviendas unifamiliares independientes diseñadas para quienes buscan calidad de vida, privacidad y conexión con la naturaleza sin renunciar a la cercanía de la ciudad.\n\nEsta nueva fase presenta una cuidada selección de viviendas independientes con un diseño contemporáneo, espacios amplios y una orientación pensada para aprovechar al máximo la luz natural.\n\nCada vivienda cuenta con:\n\n4 dormitorios\n\n3 baños\n\nCocina completamente equipada\n\nSistema de aerotermia\n\nJardín privado\n\nOpción de incorporar piscina\n\nUna oportunidad única para disfrutar de un hogar eficiente, cómodo y moderno, en un entorno natural privilegiado y con excelentes comunicaciones con Madrid.",
+  "contact_info": {
+    "phone_number": "910753928",
+    "advertiser_name": "BROSH",
+    "client_id": 9202775718177
+  },
+  "location": {
+    "city": "Miraflores de la Sierra",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.7587776184082,
+    "longitude": -3.7442381381988525
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 4,
+    "min_surface": 268,
+    "max_surface": 272,
+    "min_price": 628000,
+    "max_price": 678000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/c2d0e582-a93f-4489-add4-1e6201f24704?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,68 @@
+{
+  "property_id": "20561325",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/murcia-capital/20561325",
+  "scrape_date": "2026-01-21T04:17:54Z",
+  "title": "GAUDIA",
+  "description": "Gaudia, una nueva forma de vivir en Murcia\n\nDescubre Gaudia, una exclusiva promoción de obra nueva con 196 viviendas de 1, 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos en el precio. Ubicada en una de las zonas de mayor proyección de Murcia, disfrutarás de una excelente conexión por carretera y de todos los servicios que necesitas a solo unos pasos: supermercados, colegios, parques, centros de ocio y mucho más.\n\nEn Gaudia no solo compras una vivienda, sino un estilo de vida. Sus zonas comunes, únicas en la zona norte de la ciudad, han sido diseñadas para ofrecer experiencias exclusivas:\n- Dos piscinas: una en planta baja y otra en la azotea, perfecta para relajarte mientras contemplas el skyline de Murcia.\n- Zona lounge con cocina al aire libre, ideal para compartir momentos especiales.\n- Espacio de coworking, para trabajar desde casa sin renunciar a la productividad.\n- Spa, gimnasio totalmente equipado y club social, pensados para tu bienestar y el de tu familia.\n\n\nGaudia es tu nuevo hogar. Moderno, conectado y con todo lo que importa.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": " Murcia Capital",
+    "province": "Murcia",
+    "region": "Región de Murcia",
+    "country": "España",
+    "latitude": 38.004634857177734,
+    "longitude": -1.1379914283752441
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 66,
+    "max_surface": 147,
+    "min_price": 254500,
+    "max_price": 445500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1db5608e-75a4-47e5-97f1-1461d9508edc?rule=original",
+    "https://static.fotocasa.es/images/ads/a332cb4c-6d9b-4424-a128-5c546685cc01?rule=original",
+    "https://static.fotocasa.es/images/ads/1cf50f1c-60d0-4450-b82c-99ad023d2281?rule=original",
+    "https://static.fotocasa.es/images/ads/7376b715-5a8a-4ebf-a455-294a3e77306d?rule=original",
+    "https://static.fotocasa.es/images/ads/b02fc502-fe27-4b44-81d8-363ff9f307be?rule=original",
+    "https://static.fotocasa.es/images/ads/5540b4aa-2a82-4b77-b2d8-2727a3992f75?rule=original",
+    "https://static.fotocasa.es/images/ads/a27535f0-d84d-49a9-82f3-cadbfe76fcce?rule=original",
+    "https://static.fotocasa.es/images/ads/b781f6fc-a26a-492e-8185-8eefd4760dd0?rule=original",
+    "https://static.fotocasa.es/images/ads/9f65ad02-df3c-44a4-afd6-94087653ca68?rule=original",
+    "https://static.fotocasa.es/images/ads/96464416-afa5-4356-bb0f-eb5ca0465732?rule=original",
+    "https://static.fotocasa.es/images/ads/dff677e7-00bf-4ed1-beb6-2dfd84576e74?rule=original",
+    "https://static.fotocasa.es/images/ads/2f97bf1b-f2a4-4a84-ae30-b6feef226eb1?rule=original",
+    "https://static.fotocasa.es/images/ads/ee4975e4-7254-4eef-a5df-463fc2ccf46d?rule=original",
+    "https://static.fotocasa.es/images/ads/75e9ed0d-1f40-4671-8a6b-478f15befc8d?rule=original",
+    "https://static.fotocasa.es/images/ads/11e41146-08d2-4ad0-9fa9-f50e9611c2e3?rule=original",
+    "https://static.fotocasa.es/images/ads/b9130a5e-265e-41ee-8351-ba71c1a402e6?rule=original",
+    "https://static.fotocasa.es/images/ads/cec175d1-dfe9-4ef2-a50d-466f812db039?rule=original",
+    "https://static.fotocasa.es/images/ads/27d09d69-a6c7-4f52-9e8b-f61e4e3f6840?rule=original",
+    "https://static.fotocasa.es/images/ads/b57f4d02-1992-44e7-9305-93867d82b2fe?rule=original",
+    "https://static.fotocasa.es/images/ads/68d0feb0-6a33-4a42-8b67-cee7916b016b?rule=original",
+    "https://static.fotocasa.es/images/ads/fb77a22d-ac2c-4cc3-9927-e8407244d832?rule=original",
+    "https://static.fotocasa.es/images/ads/97f69c68-89e0-4772-8b91-30c106c54b3c?rule=original",
+    "https://static.fotocasa.es/images/ads/632899d8-4c31-4359-a0f5-beb1bf788b4a?rule=original",
+    "https://static.fotocasa.es/images/ads/926023ab-85ce-4d2f-9c94-198f8663198f?rule=original",
+    "https://static.fotocasa.es/images/ads/7432ce4f-6cd5-4edb-998e-681462333ea4?rule=original",
+    "https://static.fotocasa.es/images/ads/0cafec55-9127-43e4-9535-e359ff4ded94?rule=original",
+    "https://static.fotocasa.es/images/ads/bfebb13e-becd-4ee7-95c6-9d600b788bfa?rule=original",
+    "https://static.fotocasa.es/images/ads/0aca0222-7552-405e-adb3-eede156e24e8?rule=original",
+    "https://static.fotocasa.es/images/ads/3e94b4f0-0e69-4908-871a-bc2a2bc973b1?rule=original",
+    "https://static.fotocasa.es/images/ads/fc248262-fdc5-46b5-ab90-9bb1a369b2c4?rule=original",
+    "https://static.fotocasa.es/images/ads/59e2799c-27a5-4796-ae9a-e6fb2fb37303?rule=original",
+    "https://static.fotocasa.es/images/ads/df69436a-9f83-4fac-ae75-dac4a6a766df?rule=original",
+    "https://static.fotocasa.es/images/ads/1c8370dd-6e43-4f9d-ae3f-c46af17b0417?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/jHCSoIm5mXo"
+  ]
+}

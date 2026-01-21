@@ -1,0 +1,225 @@
+{
+  "page": 168,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/168",
+  "scrape_date": "2026-01-21T04:21:35.579187",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-television/181253748/d",
+      "id": 181253748,
+      "price": 1100000,
+      "location": "Calle del Duque de Sesto, Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-parking-terraza-ascensor-amueblado/186784767/d",
+      "id": 186784767,
+      "price": 450000,
+      "location": "Carrer de Mallorca, Sagrada Família",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion/188103865/d",
+      "id": 188103865,
+      "price": 225000,
+      "location": "Calle Doctor Sapena, Carolinas Bajas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arroyomolinos-(madrid)/calefaccion-jardin-terraza-trastero-piscina/188382694/d",
+      "id": 188382694,
+      "price": 750000,
+      "location": "La Cárcaba - El Encinar - Montemolinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bellvei/aire-acondicionado-calefaccion-patio/188382220/d",
+      "id": 188382220,
+      "price": 129500,
+      "location": "Bellvei",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bigues-i-riells-del-fai/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina-internet/188206665/d",
+      "id": 188206665,
+      "price": 394750,
+      "location": "Carrer de la Perdiu, Bigues i Riells del Fai",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-escala/aire-acondicionado-calefaccion-jardin-terraza-trastero-amueblado/187874303/d",
+      "id": 187874303,
+      "price": 320000,
+      "location": "Ricardell, 27, Riells",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188376967/d",
+      "id": 188376967,
+      "price": 1379000,
+      "location": "C/ del Alcalde Sainz de Baranda, Estrella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/plasencia/calefaccion-ascensor/188361879/d",
+      "id": 188361879,
+      "price": 120000,
+      "location": "Calle CRISTOBAL COLON, Miralvalle - Av. Virgen del Puerto - La Data ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-vendrell/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina/188331970/d",
+      "id": 188331970,
+      "price": 1300000,
+      "location": "Bonavista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/terraza-trastero-ascensor-amueblado-piscina/184726285/d",
+      "id": 184726285,
+      "price": 350000,
+      "location": "Calle Periodista Beatriz Cienfuegos, Paseo Marítimo - San José - La Laguna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor/188347965/d",
+      "id": 188347965,
+      "price": 590000,
+      "location": "Carrer d'Aribau, L'Antiga Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benahavis/aire-acondicionado-parking-jardin-terraza-patio-piscina-no-amueblado/187039672/d",
+      "id": 187039672,
+      "price": 1980000,
+      "location": "N/A, -1, La Quinta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oropesa-del-mar-orpesa/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina-amueblado-television/187882152/d",
+      "id": 187882152,
+      "price": 219000,
+      "location": "Carrer de Rafael Alberti, 1, Vista Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-terraza-ascensor-no-amueblado/188175272/d",
+      "id": 188175272,
+      "price": 370000,
+      "location": "Font Honrada, El Poble Sec - Parc de Montjuïc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vic/calefaccion-parking-terraza/187324842/d",
+      "id": 187324842,
+      "price": 375000,
+      "location": "Calle Raval Cortines, Caputxins - Ambulatori  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/calefaccion-trastero-ascensor/188271105/d",
+      "id": 188271105,
+      "price": 225000,
+      "location": "Hospitalet de Llobregat, Pla de Bon Aire",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villanueva-de-la-serena/aire-acondicionado-ascensor-no-amueblado/188296333/d",
+      "id": 188296333,
+      "price": 89900,
+      "location": "Calle San Francisco, 63, Villanueva de la Serena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arroyomolinos-(madrid)/calefaccion-parking-jardin-trastero-patio-no-amueblado/188289303/d",
+      "id": 188289303,
+      "price": 539900,
+      "location": "Avenida del Cantábrico, 198, Las Castañeras - Bulevar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castro-urdiales/calefaccion-jardin-ascensor-piscina-amueblado/187697333/d",
+      "id": 187697333,
+      "price": 279900,
+      "location": "Calle Los Caserios, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartes/calefaccion-parking-terraza-trastero-ascensor/188016075/d",
+      "id": 188016075,
+      "price": 209000,
+      "location": "Calle Calle de la Regata, 13, Cartes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-jardin-no-amueblado/188229870/d",
+      "id": 188229870,
+      "price": 525000,
+      "location": "Calle de María Zayas, Berruguete",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torija/calefaccion-parking-jardin-terraza-amueblado/188041260/d",
+      "id": 188041260,
+      "price": 199500,
+      "location": "Profesor Manuel Criado del Val, Torija",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-patio-amueblado/187761900/d",
+      "id": 187761900,
+      "price": 285000,
+      "location": "Carretera del Carmel, 115, La Salut",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-no-amueblado/188201202/d",
+      "id": 188201202,
+      "price": 1800000,
+      "location": "CORSEGA, Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/ascensor/188183150/d",
+      "id": 188183150,
+      "price": 288500,
+      "location": "Altza Pasealekua, Altza",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-bartolome-de-tirajana/aire-acondicionado-parking-jardin-terraza-piscina/178173163/d",
+      "id": 178173163,
+      "price": 949000,
+      "location": "Calle LISZT, Montaña - La Data",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-bisbal-d-emporda/aire-acondicionado-calefaccion-parking-terraza-trastero-no-amueblado/187964175/d",
+      "id": 187964175,
+      "price": 210000,
+      "location": "Carrer Sardenya, La Bisbal d'Empordà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palafrugell/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-no-amueblado/188070088/d",
+      "id": 188070088,
+      "price": 340000,
+      "location": "Plaça del Mestre Joan Planas, Piverd - Vila-Seca - Bruguerol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aspe/calefaccion-terraza-trastero-patio-television-no-amueblado/187117139/d",
+      "id": 187117139,
+      "price": 79000,
+      "location": "Calle Cuevas Cipreses, 5, Las Fuentes - Los Cipreses",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/aire-acondicionado-calefaccion-ascensor/187670255/d",
+      "id": 187670255,
+      "price": 245000,
+      "location": "Calle ST ISIDRE, Centre",
+      "type": "realEstate"
+    }
+  ]
+}

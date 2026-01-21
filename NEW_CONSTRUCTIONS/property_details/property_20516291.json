@@ -1,0 +1,45 @@
+{
+  "property_id": "20516291",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/guadalajara-capital/20516291",
+  "scrape_date": "2026-01-21T02:37:14Z",
+  "title": "Cálida Homes II",
+  "description": "Cálida Homes II: viviendas de obra nueva en Guadalajara. Obras iniciadas.\n\nTu nuevo hogar te espera en Guadalajara: tranquilidad, excelentes conexiones y naturaleza a tu alrededor.\nImagina vivir en un entorno donde todo está a tu alcance: zonas verdes, amplios bulevares, parques infantiles y carriles bici. Así es Cálida Homes II, una promoción situada en el sector Remate de las Cañas, una de las áreas con más proyección de Guadalajara. Rodeada de espacios para pasear y disfrutar al aire libre, esta ubicación es perfecta para quienes buscan bienestar, tranquilidad y calidad de vida, sin alejarse del centro, a solo 5 minutos.\nDescubre en Guadalajara una vivienda de obra nueva pensada para tu estilo de vida\nTendrás una excelente conexión con la ciudad y las principales vías como la Ronda Norte, con acceso directo a la A-2 y la R-2. La zona está totalmente equipada con servicios, colegios, zonas comerciales y transporte. Ya sea que vivas solo, en pareja o con familia, aquí encontrarás un lugar cómodo, seguro y práctico para tu día a día.\nPisos modernos y funcionales a estrenar en Guadalajara.\nCálida Homes II consta de 66 viviendas de 1 a 4 dormitorios, todas con terraza, garaje y trastero. Se distribuye en 4 portales con planta baja, cinco alturas y áticos, y también contará con locales comerciales en la planta baja.\nViviendas con zonas comunes en Guadalajara.\nCálida Homes II cuenta con piscina comunitaria y solárium, ideales para relajarte en verano y disfrutar del buen tiempo sin salir de casa.\nDiseño y espacio en tu vivienda en Guadalajara.\nLas viviendas destacan por su diseño moderno, con cocinas independientes, salones con salida a la terraza, dormitorios principales tipo suite y armarios empotrados. Además, muchas disfrutan de vistas abiertas a zonas verdes. Todo con materiales de calidad y una distribución que aprovecha al máximo cada metro.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": "Guadalajara Capital",
+    "province": "Guadalajara",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.65061950683594,
+    "longitude": -3.163365602493286
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 73,
+    "max_surface": 131,
+    "min_price": 210000,
+    "max_price": 338500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/034b04b2-ed15-4378-9c78-c7106d23bc9b?rule=original",
+    "https://static.fotocasa.es/images/ads/9d075ac0-07ec-4332-a870-28801b91349a?rule=original",
+    "https://static.fotocasa.es/images/ads/37ae3f10-54fd-47b3-b059-c916df2b7317?rule=original",
+    "https://static.fotocasa.es/images/ads/0b52f79d-87e8-4642-940a-3a079e9405c2?rule=original",
+    "https://static.fotocasa.es/images/ads/d0fc544d-7d4a-4a6b-918f-a49321d96000?rule=original",
+    "https://static.fotocasa.es/images/ads/79fd2604-fe24-4b3c-b7fa-faaca4f52557?rule=original",
+    "https://static.fotocasa.es/images/ads/350c3951-601b-4c7c-a935-f7724229231f?rule=original",
+    "https://static.fotocasa.es/images/ads/58e5bfeb-3c16-4624-a5af-87c996e7db38?rule=original",
+    "https://static.fotocasa.es/images/ads/15e498a1-22ab-4763-9d57-1301ae13fc07?rule=original",
+    "https://static.fotocasa.es/images/ads/fa9f5126-a2ac-4cbf-ba2d-461341d83125?rule=original",
+    "https://static.fotocasa.es/images/ads/f9bd3b5d-72e7-4684-9e15-bcf1647ca734?rule=original",
+    "https://static.fotocasa.es/images/ads/92d7e8df-3ade-4c01-ba19-6941f95a263a?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,47 @@
+{
+  "property_id": "20516299",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20516299",
+  "scrape_date": "2026-01-21T02:35:49Z",
+  "title": "Celestia Homes",
+  "description": "Celestia Homes es un exclusivo conjunto residencial tipo boutique, compuesto por 25 viviendas de 1, 2 y 3 dormitorios, distribuidas en dos edificios. Todas las viviendas están orientadas hacia el mar, lo que te permitirá disfrutar de una luz natural abundante durante todo el día. \n\nEl complejo cuenta con una amplia piscina exterior en su zona central, hermosos jardines y un gimnasio, todos ubicados dentro de la misma urbanización, ofreciendo comodidad y funcionalidad para sus residentes. \n\nLa orientación sur de las viviendas maximiza la entrada de luz natural y permite disfrutar de unas vistas inigualables al espectacular entorno marino de la costa mediterránea. Diseñado por un prestigioso estudio de arquitectura, Celestia Homes refleja un firme compromiso con la sostenibilidad, tanto en las viviendas como en sus espacios comunes. \n\nGaraje y trastero incluidos en el precio.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": "Estepona",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.4081916809082,
+    "longitude": -5.190155029296875
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 134,
+    "max_surface": 166,
+    "min_price": 595000,
+    "max_price": 875000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/dff27805-9d9f-4a18-b230-06403e70fb6e?rule=original",
+    "https://static.fotocasa.es/images/ads/f7907483-3c17-4178-9a87-40ff27b76812?rule=original",
+    "https://static.fotocasa.es/images/ads/1092cced-3f2d-46e4-b6d2-c400f088ec2d?rule=original",
+    "https://static.fotocasa.es/images/ads/1047d5ea-32a7-4a6e-83a7-abe1789f791e?rule=original",
+    "https://static.fotocasa.es/images/ads/330636d8-bb8b-47a9-a4df-39831a78c3eb?rule=original",
+    "https://static.fotocasa.es/images/ads/223be518-1fbc-4ab0-9c29-b9ee4567230a?rule=original",
+    "https://static.fotocasa.es/images/ads/4532ba45-3cb7-49e1-be4d-64391296061f?rule=original",
+    "https://static.fotocasa.es/images/ads/225f9689-e02d-4978-b2ef-0551e732308c?rule=original",
+    "https://static.fotocasa.es/images/ads/ba7931e3-7413-433e-a5de-ee47458eab51?rule=original",
+    "https://static.fotocasa.es/images/ads/3cecc403-1dc0-4b64-9007-48623be5d089?rule=original",
+    "https://static.fotocasa.es/images/ads/34ee28d0-2c1e-4311-b882-f7586ed2aa32?rule=original",
+    "https://static.fotocasa.es/images/ads/50c4cc06-fedd-49e8-a269-5990eef66fc7?rule=original",
+    "https://static.fotocasa.es/images/ads/5fc2f387-0177-4279-8940-6d78198d89f9?rule=original",
+    "https://static.fotocasa.es/images/ads/cf224564-c1b4-4862-87c8-857598cb5c18?rule=original"
+  ],
+  "videos": []
+}

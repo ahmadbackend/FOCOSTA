@@ -1,0 +1,44 @@
+{
+  "property_id": "20525186",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/laguna-de-duero/20525186",
+  "scrape_date": "2026-01-21T04:24:25Z",
+  "title": "LAS VILLAS DEL BOSQUE REAL",
+  "description": "¡Descubre tu hogar soñado en El Bosque Real de Laguna de Duero!\n\nPresentamos una exclusiva promoción de chalets en una ubicación inmejorable, en un entorno natural y con excelente conexión a servicios cercanos. Cada chalet cuenta con una parcela privada desde 1012 m² hasta 2072 m², lo que te ofrece amplios espacios exteriores para disfrutar en familia. Las viviendas desde 184 m², en una sola planta, están diseñadas para ofrecerte comodidad y funcionalidad, con cuatro dormitorios luminosos y dos baños modernos.\nLa urbanización dispone, para su uso, de piscina y una gran diversidad de zonas deportivas (padel, baloncesto y futbol), zonas comunitarias de ocio y club privado, a tan solo 5 minutos de Valladolid.\n\nEl sistema de calefacción por aerotermia, eficiente y ecológico, garantiza un ambiente agradable durante todo el año, mientras que los suelos de gres porcelánico de alta calidad aportan un toque de sofisticación. Además, los chalets cuentan con placas fotovoltaicas, reduciendo el consumo energético y favoreciendo el ahorro en tus facturas de electricidad, a la vez que contribuyes a la sostenibilidad.\n\nTendrás la opción de personalizar la distribución, acabados y colores, para que tu nuevo hogar se adapte completamente a tus gustos y necesidades. Esta es una oportunidad única de vivir en un lugar exclusivo, rodeado de naturaleza y con todas las ventajas de la modernidad y la sostenibilidad.\n\nNo dejes pasar la oportunidad de vivir en El Bosque Real. ¡Contacta con nosotros y haz realidad el hogar que siempre soñaste!",
+  "contact_info": {
+    "phone_number": "983981074",
+    "advertiser_name": "KER 2000, S.L.",
+    "client_id": 9202751184167
+  },
+  "location": {
+    "city": "Laguna de Duero",
+    "province": "Valladolid",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 41.56240463256836,
+    "longitude": -4.721756458282471
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 203,
+    "max_surface": 215,
+    "min_price": 485000,
+    "max_price": 555000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/a340a944-f9e6-43ff-81a6-510b107e1968?rule=original",
+    "https://static.fotocasa.es/images/ads/b8c4a511-0a12-40f7-9805-3cef59da4c64?rule=original",
+    "https://static.fotocasa.es/images/ads/863e3f16-0819-4f23-a88e-0a04856ab3c9?rule=original",
+    "https://static.fotocasa.es/images/ads/b0748593-375d-493a-b44d-644497066423?rule=original",
+    "https://static.fotocasa.es/images/ads/367057fc-a24c-4112-9873-ad65e6d3cbec?rule=original",
+    "https://static.fotocasa.es/images/ads/5b6dbca4-b2e5-4155-b620-b585eede67af?rule=original",
+    "https://static.fotocasa.es/images/ads/01913263-d6cf-41b3-abc4-615240dd3cec?rule=original",
+    "https://static.fotocasa.es/images/ads/99c5e8e9-6e47-4146-87a3-702e868bbb08?rule=original",
+    "https://static.fotocasa.es/images/ads/ff49f0e0-3c7b-4fe5-9211-0d917cb7663b?rule=original",
+    "https://static.fotocasa.es/images/ads/b5b1bd41-8ff1-49d1-b5c9-ccaa405fc8bf?rule=original",
+    "https://static.fotocasa.es/images/ads/b1128a3f-caf1-4624-9f79-6492b050505d?rule=original"
+  ],
+  "videos": []
+}

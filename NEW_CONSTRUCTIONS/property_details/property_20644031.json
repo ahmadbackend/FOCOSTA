@@ -1,0 +1,40 @@
+{
+  "property_id": "20644031",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/malaga-capital/20644031",
+  "scrape_date": "2026-01-21T03:58:51Z",
+  "title": "Jardines de Segovia",
+  "description": "ardines de Segovia es un complejo situado en Campanillas, en la ciudad de Málaga. Este recinto cerrado dispone de piscina comunitaria y amplios jardines que hacen que el entorno sea bastante agradable para que los niños puedan disfrutar al aire libre. Cada vivienda cuenta con trastero y la posibilidad de un garaje (opcional).\n\nSituado a escasos pasos del supermercado Mercadona, del centro de Salud, de una farmacia, de varios centros educativos, y de diversos bares y restaurantes. Las viviendas se encuentran muy cercanas a Málaga Capital, a apenas 10 minutos de Teatinos. Están muy bien comunicadas con la A-357 y tienen una gran proximidad con el Parque Tecnológico.\n\nLas viviendas son de 1, 2 y 3 dormitorios y tienen hasta 2 cuartos de baño. Disponen de áticos con solárium, casas con amplias terrazas y jardines privados en la planta baja. Posee grandes ventanales, los cuales crean una atmósfera maravillosa, que iluminan con luz natural tanto el salón como la cocina.\n\nUn proyecto con una arquitectura moderna y una estudiada distribución para lograr el máximo aprovechamiento del espacio. ¡No pierdas la oportunidad de comprar la casa de tus sueños! Y que mejor lugar que en la provincia de Málaga.",
+  "contact_info": {
+    "phone_number": "951348265",
+    "advertiser_name": "INMOPORSAN",
+    "client_id": 9202774465639
+  },
+  "location": {
+    "city": "Málaga Capital",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.723140716552734,
+    "longitude": -4.542830467224121
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 64,
+    "max_surface": 118,
+    "min_price": 238000,
+    "max_price": 390300
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b50b0978-e28e-40c2-adf9-88b58c76dbfa?rule=original",
+    "https://static.fotocasa.es/images/ads/921e5cb7-3802-4970-8d0d-2e3ef95e5c46?rule=original",
+    "https://static.fotocasa.es/images/ads/1e2a2e93-d81a-4451-bd2e-7c3763458fbe?rule=original",
+    "https://static.fotocasa.es/images/ads/07fe0ed2-ad31-4e5e-9e3f-4d244661dca9?rule=original",
+    "https://static.fotocasa.es/images/ads/f8a3d61f-3dec-4a89-95b5-77e5c5dbad73?rule=original",
+    "https://static.fotocasa.es/images/ads/c1b32912-f9b5-476f-97da-ed7b997008bd?rule=original",
+    "https://static.fotocasa.es/images/ads/fc51d3c3-eda9-4441-9902-d84fcbc4e4f8?rule=original"
+  ],
+  "videos": []
+}

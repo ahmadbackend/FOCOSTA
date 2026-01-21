@@ -1,0 +1,48 @@
+{
+  "property_id": "20516295",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/rubi/20516295",
+  "scrape_date": "2026-01-21T02:36:32Z",
+  "title": "Láctea Homes",
+  "description": "En el marco de un entorno privilegiado, Láctea Homes se erige como un destacado conjunto residencial de casas unifamiliares en hilera moderno y elegante. Repartidas en 7 parcelas, sus 64 impresionantes viviendas de 4 dormitorios y 3 baños han sido diseñadas para ofrecerte el máximo confort y bienestar. Además, incluidas en el precio, tendrás acceso a 2 plazas de aparcamiento privado, ya sea en box en la planta sótano de la vivienda, o bien en sótano comunitario, que te brindarán la comodidad y espacio extra que necesitas. \n\nLas viviendas de Láctea Homes han sido construidas utilizando criterios de sostenibilidad y aprovechamiento máximo del espacio y de la luz solar, lo cual garantiza una vida en armonía con el medio ambiente.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": "Rubí",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.4908447265625,
+    "longitude": 2.042656898498535
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 4,
+    "max_bathrooms": 4,
+    "min_surface": 178,
+    "max_surface": 200,
+    "min_price": 626000,
+    "max_price": 660000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4066415c-2886-47eb-95b5-549502761622?rule=original",
+    "https://static.fotocasa.es/images/ads/87239d7b-2025-418a-9c0a-2b8b0d65e266?rule=original",
+    "https://static.fotocasa.es/images/ads/0b66446c-0f0b-4a06-b52c-64604a13dd37?rule=original",
+    "https://static.fotocasa.es/images/ads/21009b10-b6ea-4f7a-8b09-35c38edf179a?rule=original",
+    "https://static.fotocasa.es/images/ads/7d17ebac-e275-467d-8e8b-b733b0fb4163?rule=original",
+    "https://static.fotocasa.es/images/ads/78cd01bc-fcad-480a-9228-3cb68de2d7d4?rule=original",
+    "https://static.fotocasa.es/images/ads/b1df20b1-2d99-4a07-856a-9268077ce5a1?rule=original",
+    "https://static.fotocasa.es/images/ads/c0cb8425-0189-48f0-9903-97a5973978d0?rule=original",
+    "https://static.fotocasa.es/images/ads/94ab333e-fa76-47ab-8558-d2d23ca95157?rule=original",
+    "https://static.fotocasa.es/images/ads/e0b12d67-8458-4dde-bab5-349094d34576?rule=original",
+    "https://static.fotocasa.es/images/ads/95d8edb6-985e-4eb7-9b73-da1bbf9a6977?rule=original",
+    "https://static.fotocasa.es/images/ads/1787e014-4fcf-44d3-9ea7-2c057de74b84?rule=original",
+    "https://static.fotocasa.es/images/ads/30b4d3ec-753a-4f62-abe1-c2de2b486599?rule=original",
+    "https://static.fotocasa.es/images/ads/8b06cf3f-9456-4be2-9a42-e12a80e4ca66?rule=original",
+    "https://static.fotocasa.es/images/ads/a3970c1d-1718-4cb4-ba0b-9bc92f15563d?rule=original"
+  ],
+  "videos": []
+}

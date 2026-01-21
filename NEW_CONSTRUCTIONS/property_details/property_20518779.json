@@ -1,0 +1,43 @@
+{
+  "property_id": "20518779",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/abrera/20518779",
+  "scrape_date": "2026-01-21T03:58:06Z",
+  "title": "ABRERA PARK B2 - BARCELONA",
+  "description": "Corp Promotores - Viviendas de 1, 2 y 3 habitaciones con terrazas, situadas a 25 mins de Barcelona.\nGastos estimados de comunidad: 1 Habitación 60€, 2 Habitaciones 85€, 3 Habitaciones 110€\n\nImagina despertar cada mañana en un entorno que combina la tranquilidad de la naturaleza con la comodidad de la vida urbana. En Abrera Park, te ofrecemos pisos de obra nueva, diseñados para brindarte el máximo confort y estilo de vida.\n\nAbrera Park no escatima en comodidades. Desde plazas de parking para tu tranquilidad hasta una refrescante piscina para los días soleados, pasando por instalaciones deportivas como pistas de pádel y un gimnasio interior, aquí encontrarás todo lo que necesitas para mantenerte activo y saludable.\n\n¿Necesitas un momento de relax? Disfruta de nuestras áreas verdes y zonas de descanso, donde podrás desconectar del estrés diario y recargar energías.\n\nAdemás, Abrera Park forma parte de \"Comunidad Saludable\", una iniciativa única y pionera enfocada en proporcionar a los residentes las herramientas necesarias para fomentar hábitos de vida saludables y bienestar en las zonas comunes de su propia casa.  Aprovecha todos los servicios que esta promoción ofrece.\nCorp",
+  "contact_info": {
+    "phone_number": "+34934100079",
+    "advertiser_name": "Corp / Becorp Rental House",
+    "client_id": 9202770067285
+  },
+  "location": {
+    "city": "Abrera",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.51942825317383,
+    "longitude": 1.8985024690628052
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 98,
+    "max_surface": 98,
+    "min_price": 395000,
+    "max_price": 395000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b70014fc-9146-4ed0-bd61-ce8576f92901?rule=original",
+    "https://static.fotocasa.es/images/ads/c6601011-7e36-430a-a708-2644b7a6d76a?rule=original",
+    "https://static.fotocasa.es/images/ads/7c84d104-26ac-4154-b39d-ba61fb2627db?rule=original",
+    "https://static.fotocasa.es/images/ads/99fdbd25-dc0c-44de-b2a5-b39c44863a7b?rule=original",
+    "https://static.fotocasa.es/images/ads/b08835e4-4b7c-4b1b-a4a5-c1e23c07afa4?rule=original",
+    "https://static.fotocasa.es/images/ads/2132614b-d84e-47be-a3b7-c56d3de04cc7?rule=original",
+    "https://static.fotocasa.es/images/ads/f33c1777-6149-4c91-9767-177a7f4906c3?rule=original",
+    "https://static.fotocasa.es/images/ads/dcea30f8-964a-47bf-9cc1-93fefcd8c948?rule=original",
+    "https://static.fotocasa.es/images/ads/d32e765e-afa4-4ef1-9c5a-9cc795a32d22?rule=original",
+    "https://static.fotocasa.es/images/ads/338c2b92-a90c-402a-aac6-ee0a00dfc694?rule=original"
+  ],
+  "videos": []
+}

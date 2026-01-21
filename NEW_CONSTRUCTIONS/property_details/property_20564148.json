@@ -1,0 +1,37 @@
+{
+  "property_id": "20564148",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/alhaurin-de-la-torre/20564148",
+  "scrape_date": "2026-01-21T04:27:35Z",
+  "title": "NADIR RESIDENCIAL",
+  "description": "Descubre Nadir Residencial, un exclusivo conjunto de 73 viviendas de 1, 2 y 3 dormitorios, ubicado en una de las zonas con más proyección de Alhaurín de la Torre, en calle La Huertecilla. Enmarcado por un entorno natural privilegiado, con vistas a las colinas y rodeado de tranquilidad.\n\nA tan solo unos minutos a pie del centro urbano y con acceso inmediato a colegios, institutos, centros comerciales, zonas deportivas y una excelente red de transporte. Su estratégica ubicación permite desplazarse fácilmente hacia Alhaurín el Grande, Cártama, Churriana, Torremolinos o Málaga capital.\n\t\t\t\t\nCon una arquitectura moderna y elegante, Nadir Residencial apuesta por un estilo de vida sostenible. El proyecto incluye zonas verdes integradas, materiales eficientes y una orientación que maximiza la luz natural. Además, cuenta con amplias zonas comunes, piscina comunitaria, espacios para el ocio y áreas pensadas para los residentes.\n\nAdemás, se ofrece la posibilidad de adquirir plaza de garaje opcional. También puedes obtener de forma opcional el PACK PREMIUM (consultar memoria de calidades).",
+  "contact_info": {
+    "phone_number": "951348273",
+    "advertiser_name": "INMOPORSAN",
+    "client_id": 9202774465639
+  },
+  "location": {
+    "city": "Alhaurín de la Torre",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.66571807861328,
+    "longitude": -4.565282344818115
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 61,
+    "max_surface": 100,
+    "min_price": 193400,
+    "max_price": 312500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d377a1b9-eac1-4cba-ac03-04efb7b46444?rule=original",
+    "https://static.fotocasa.es/images/ads/a88a33b1-7914-4858-842b-a45ca7888b04?rule=original",
+    "https://static.fotocasa.es/images/ads/1ff4bb8f-e6b2-4390-bbd7-b93d847bfec0?rule=original",
+    "https://static.fotocasa.es/images/ads/eb1fe7da-6b68-4be6-b945-085a79331699?rule=original"
+  ],
+  "videos": []
+}

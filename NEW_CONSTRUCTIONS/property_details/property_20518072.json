@@ -1,0 +1,59 @@
+{
+  "property_id": "20518072",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valladolid-capital/20518072",
+  "scrape_date": "2026-01-21T04:38:15Z",
+  "title": "RESIDENCIAL DON MIGUEL",
+  "description": "¡Tu nuevo hogar te está esperando en Covaresa, Valladolid!\n\nDescubre una promoción única de viviendas de obra nueva con 1 y 2 dormitorios, diseñadas para ofrecerte comodidad, estilo y calidad de vida. Ubicadas en una zona privilegiada de Valladolid, Covaresa, estas viviendas cuentan con  zonas ajardinadas donde podrás disfrutar de la tranquilidad y naturaleza, y una piscina para relajarte y desconectar.\n\n¿Buscas un hogar funcional y moderno? ¡Este es el lugar ideal! Con un diseño contemporáneo y materiales de alta calidad, cada detalle está pensado para tu bienestar. Además, la ubicación es perfecta, con fácil acceso a todos los servicios y transportes, sin renunciar a la calma de un entorno residencial.\n\n¡No dejes pasar esta oportunidad! Haz realidad tu sueño de vivir en un lugar único. Contáctanos y ven a conocer tu futuro hogar.\n\n¡Te esperamos en Residencial Don Miguel!",
+  "contact_info": {
+    "phone_number": "983980178",
+    "advertiser_name": "KER 2000, S.L.",
+    "client_id": 9202751184167
+  },
+  "location": {
+    "city": "Valladolid Capital",
+    "province": "Valladolid",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 41.610347747802734,
+    "longitude": -4.7526350021362305
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 1,
+    "min_bathrooms": 1,
+    "max_bathrooms": 1,
+    "min_surface": 47,
+    "max_surface": 47,
+    "min_price": 190500,
+    "max_price": 194000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/6f30102d-7824-4bb7-8996-ed60ce6a4baa?rule=original",
+    "https://static.fotocasa.es/images/ads/70402735-2a00-4bbf-a187-e147272e792a?rule=original",
+    "https://static.fotocasa.es/images/ads/84e9c8d9-2f04-4947-9124-ffa149f1e37a?rule=original",
+    "https://static.fotocasa.es/images/ads/f936c722-a22d-4937-b458-21db19e5721b?rule=original",
+    "https://static.fotocasa.es/images/ads/6a002996-c508-4981-bf01-ebe6cca8cb26?rule=original",
+    "https://static.fotocasa.es/images/ads/b4df2d50-f931-4cdf-9427-f2f769b7b64c?rule=original",
+    "https://static.fotocasa.es/images/ads/b032901d-ba37-47bc-bbd9-5f488941c51c?rule=original",
+    "https://static.fotocasa.es/images/ads/0485fb66-15a0-4d3c-8cb9-b9fcaff4f8d1?rule=original",
+    "https://static.fotocasa.es/images/ads/bd24e405-f04e-4d70-a2d5-e647c2fcdc71?rule=original",
+    "https://static.fotocasa.es/images/ads/f39b6bfe-397d-4766-b38f-0bb708625a11?rule=original",
+    "https://static.fotocasa.es/images/ads/ebc45270-9117-4489-8bb9-5c974c75f447?rule=original",
+    "https://static.fotocasa.es/images/ads/b3fdd4a8-5294-45a7-a570-a3ca159fac01?rule=original",
+    "https://static.fotocasa.es/images/ads/42839f14-4494-4b7a-a93f-9d4597df87b8?rule=original",
+    "https://static.fotocasa.es/images/ads/c0f29c1c-6c63-4eed-9ac5-e023575bebdb?rule=original",
+    "https://static.fotocasa.es/images/ads/a1ddf698-bb21-4778-b23e-f8a2638e23da?rule=original",
+    "https://static.fotocasa.es/images/ads/febebfbf-f8f5-48a1-8762-40e1874a542b?rule=original",
+    "https://static.fotocasa.es/images/ads/932bd0b5-18ef-4aff-92a0-93365ca0594e?rule=original",
+    "https://static.fotocasa.es/images/ads/64f88291-be5f-4aab-b6b7-10f12c3748a8?rule=original",
+    "https://static.fotocasa.es/images/ads/c5d5e4af-17bb-45a0-b1fa-a7df04d38b9e?rule=original",
+    "https://static.fotocasa.es/images/ads/74b36af7-4398-4c4f-9baa-bb96e312bef5?rule=original",
+    "https://static.fotocasa.es/images/ads/a3ee7a47-5271-4122-b29e-bfc51e019d5e?rule=original",
+    "https://static.fotocasa.es/images/ads/6286467f-22f1-4452-8d1f-558c6a333b72?rule=original",
+    "https://static.fotocasa.es/images/ads/fa73bcb0-4bab-429b-8220-2ceedcc0bc8c?rule=original",
+    "https://static.fotocasa.es/images/ads/59dd5498-3718-4026-9750-aeb16a20892e?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/1bc8b353-150c-4076-9a93-13c9f7df46b9"
+  ]
+}

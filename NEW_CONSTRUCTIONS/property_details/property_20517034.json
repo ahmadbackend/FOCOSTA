@@ -1,0 +1,37 @@
+{
+  "property_id": "20517034",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/santa-coloma-de-gramenet/20517034",
+  "scrape_date": "2026-01-21T04:38:29Z",
+  "title": "PROMOCIÓN Avd. Generalitat",
+  "description": "¡Descubre tu futuro hogar en la Av. de la Generalitat 111 en Santa Coloma de Gramanet! \nNueva promoción de 26 viviendas ubicadas en una de las mejores zonas de la ciudad. Con opciones que van desde los 53 m² hasta los 74 m², nuestra promoción ofrece una excelente conectividad y acceso a una amplia gama de servicios y comercios, con todo lo que necesitas a tu alcance. \n¡Descúbrelo tú mismo! Contáctanos hoy para más información y para programar tu visita. ¡Tú nuevo hogar te está esperando!",
+  "contact_info": {
+    "phone_number": "931321397",
+    "advertiser_name": "WAY HOUSE SL",
+    "client_id": 9202767740481
+  },
+  "location": {
+    "city": "Santa Coloma de Gramenet",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.44347381591797,
+    "longitude": 2.211120128631592
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 53,
+    "max_surface": 89,
+    "min_price": 220000,
+    "max_price": 395000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4fbb96d1-33a7-49c6-b9b6-b5420c434b2f?rule=original",
+    "https://static.fotocasa.es/images/ads/6bc6d41f-929f-4ff7-84e8-9c41f018ddbe?rule=original",
+    "https://static.fotocasa.es/images/ads/d3a21a9a-986c-430b-8d4b-4c411195a8ba?rule=original",
+    "https://static.fotocasa.es/images/ads/fcfdab27-9ee7-45fd-98d2-5c48a0f1e162?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,47 @@
+{
+  "property_id": "20507742",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/oliva/20507742",
+  "scrape_date": "2026-01-21T03:53:14Z",
+  "title": "VILLAS INDIVIDUALES Y PAREADAS",
+  "description": "Villas individuales y pareadas a medida, construidas basándonos en nuestros más de 50 años de experiencia. Situadas junto al campo de golf y cerca de la playa, cada vivienda cuenta con su propia parcela privada y con zona de parking. Ya construidas o para construir a la carta, pudiendo elegir entre diferente modelos, bien sea en una sola planta o tipo dúplex, acabados, situación y orientación dentro del parcelario. Oliva Nova Beach and Golf Resort es un complejo residencial al sur de la provincia de Valencia situado en primera línea de playa, entre Oliva y Denia. Un enclave privilegiado en el que se dan cita el sol, el Mediterráneo y las montañas para generar un microclima extraordinario, con temperaturas suaves durante todo el año. Todo Oliva Nova gira en torno a un magnífico campo de golf de 18 hoyos diseñado por Severiano Ballesteros. Cuenta además con un Centro Ecuestre de nivel internacional, campos de fútbol y rugby para profesionales y amateurs, pistas de tenis, pádel...\n\nMÁS INFORMACIÓN:\nhttps://chg.es/obra-nueva-costa-blanca/villas-apartamentos-de-lujo-costa-blanca",
+  "contact_info": {
+    "phone_number": "961281908",
+    "advertiser_name": "CONSTRUCCIONES HISPANO GERMANAS",
+    "client_id": 9202774350540
+  },
+  "location": {
+    "city": "Oliva",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.89493942260742,
+    "longitude": -0.06440570205450058
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 6,
+    "min_surface": 111,
+    "max_surface": 485,
+    "min_price": 849412,
+    "max_price": 2613287
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/58a36345-07c4-4c96-ac76-ca68a5081f06?rule=original",
+    "https://static.fotocasa.es/images/ads/e6bd0b9f-ff5b-4ddb-8b24-cae4c3fd50fd?rule=original",
+    "https://static.fotocasa.es/images/ads/b185cf05-6164-4843-a4aa-47449d797013?rule=original",
+    "https://static.fotocasa.es/images/ads/c97b14a3-fc16-4b3f-b77b-9be9b33f2209?rule=original",
+    "https://static.fotocasa.es/images/ads/bd7903e1-9824-4155-9878-c77425c4ed81?rule=original",
+    "https://static.fotocasa.es/images/ads/cef794f8-e4d5-44f1-b26e-381ee63e6e40?rule=original",
+    "https://static.fotocasa.es/images/ads/10759db2-5ba5-42fd-ba1a-2b8e29b1617a?rule=original",
+    "https://static.fotocasa.es/images/ads/e0851d0e-f57d-4b46-a88f-13fd8c0606d1?rule=original",
+    "https://static.fotocasa.es/images/ads/18d3dde8-6f68-4a62-b563-0a1a09f868ba?rule=original",
+    "https://static.fotocasa.es/images/ads/a5104e2f-9c88-4964-8768-807e801aa217?rule=original",
+    "https://static.fotocasa.es/images/ads/9f20e4b7-4299-4bd3-964d-c77a8924e98a?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/76e8ba61-6542-40c4-9be8-3859212b8f09",
+    "https://static.fotocasa.es/statics/ads/9381a02c-f69c-462a-9cdd-44cab355eff9"
+  ]
+}

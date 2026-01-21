@@ -1,0 +1,52 @@
+{
+  "property_id": "20525925",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/salou/20525925",
+  "scrape_date": "2026-01-21T03:43:34Z",
+  "title": "Horizons",
+  "description": "Horizons por Walmaria: Vive el Sueño de un Hogar Junto al Mar\n\nSituado en la exclusiva zona de Barenys, en la Avenida Pau Casals de Salou, Horizons es el nuevo proyecto residencial de Walmaria, pensado para quienes buscan confort, diseño y tranquilidad junto al mar. Con vistas sin obstáculos gracias a su ubicación privilegiada, este edificio garantiza privacidad y una experiencia visual inigualable.\n\nEl diseño, a cargo del prestigioso estudio Marball, se caracteriza por su elegancia y funcionalidad. Espacios abiertos, luz natural y materiales de alta calidad son los pilares de este proyecto. La fachada, de porcelánico de gran formato combinado con sistema SATE, refleja un compromiso con la eficiencia energética y la durabilidad.\n\nVivir en Barenys significa estar conectado a todo: colegios, supermercados, centros de salud y transporte, incluyendo la futura parada del tranvía del Camp de Tarragona. Además, la playa de Llevant y el centro de Salou están a pocos minutos a pie, mientras que Tarragona, Reus y los aeropuertos se encuentran a corta distancia en coche.\n\nLas viviendas, de 3 y 4 habitaciones con 2 baños, ofrecen amplitud, iluminación natural y distribuciones pensadas para el bienestar. En la planta baja, en lugar de viviendas, se ubican oficinas, reforzando la exclusividad y tranquilidad del entorno residencial.\n\nHorizons permite personalizar cada hogar en base a tres tipologías: Life, Limitless y Dream Big; cuatro configuraciones de cocina: Free Space, Actual, Mixed y Classic; y cuatro estilos decorativos: Japandi, Nature, Minimal y Cosmopolitan.\n\nLa calidad está presente en cada detalle: porcelánicos TAU, electrodomésticos Bosch, grifería Ramon Soler, sanitarios Roca, carpintería Cortizo, persianas eléctricas, aerotermia Samsung con suelo radiante, placas solares para autoconsumo, mecanismos JUNG, videoportero, puerta automática y buzón inteligente.\n\nCada vivienda incluye preinstalación para carga de vehículos eléctricos. El edificio incorpora placas solares y aislamiento térmico SATE, promoviendo el ahorro energético.\n\nLas zonas comunes ofrecen una piscina con solárium, área infantil y espacio de lectura, diseñados para disfrutar del entorno en armonía.\n\nWalmaria redefine el concepto de hogar. Horizons es más que un edificio: es un estilo de vida pensado para quienes valoran el diseño, la sostenibilidad y el bienestar junto al mar.",
+  "contact_info": {
+    "phone_number": "977937128",
+    "advertiser_name": "Walmaria",
+    "client_id": 9202774693259
+  },
+  "location": {
+    "city": "Salou",
+    "province": "Tarragona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.08595275878906,
+    "longitude": 1.1252461671829224
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 90,
+    "max_surface": 125,
+    "min_price": 300000,
+    "max_price": 406875
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/12a44e84-dcfc-4771-9e1f-51467bf69265?rule=original",
+    "https://static.fotocasa.es/images/ads/d953a5b9-d0e2-410b-ba27-5f66470b25af?rule=original",
+    "https://static.fotocasa.es/images/ads/36f73b99-e583-4d44-af41-1b5be4bf95d4?rule=original",
+    "https://static.fotocasa.es/images/ads/d37d985e-8153-4f10-ab99-4ee0d44db2be?rule=original",
+    "https://static.fotocasa.es/images/ads/241b28ca-5ba3-4c8a-b2ea-3fffdd74f387?rule=original",
+    "https://static.fotocasa.es/images/ads/4536ec41-26d1-4502-8aba-9b75238d468a?rule=original",
+    "https://static.fotocasa.es/images/ads/eb5d8835-1a6a-49ff-8e9b-14786ec114b8?rule=original",
+    "https://static.fotocasa.es/images/ads/8c919eba-c8a4-43ad-845b-1f2ef46d1abd?rule=original",
+    "https://static.fotocasa.es/images/ads/b634308d-3764-4839-875c-8d0e238643f1?rule=original",
+    "https://static.fotocasa.es/images/ads/c7dadf64-346b-4b0b-834a-8ab246c34cba?rule=original",
+    "https://static.fotocasa.es/images/ads/d4a8b51c-7052-4537-959e-1516705bc7d8?rule=original",
+    "https://static.fotocasa.es/images/ads/6468baec-3f58-461d-8fd2-3319d51e915e?rule=original",
+    "https://static.fotocasa.es/images/ads/98544665-c142-40d4-aa05-4b239d0f668e?rule=original",
+    "https://static.fotocasa.es/images/ads/7abd0f7b-57c5-49f7-85c9-f789e06aab05?rule=original",
+    "https://static.fotocasa.es/images/ads/b165d9ab-c482-427b-98b7-cef1c85271df?rule=original",
+    "https://static.fotocasa.es/images/ads/9cdb5412-9bba-400c-88a5-2c6bba404722?rule=original",
+    "https://static.fotocasa.es/images/ads/652a429b-bfe4-4e49-ba56-b22c446d2458?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/9c91ecb4-31e3-4e22-8912-1bbc56ec0bb4"
+  ]
+}

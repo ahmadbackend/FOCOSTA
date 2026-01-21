@@ -1,0 +1,43 @@
+{
+  "property_id": "20567221",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/las-rozas-de-madrid/20567221",
+  "scrape_date": "2026-01-21T04:29:12Z",
+  "title": "CASTILLA PLAZA 2018 S.COOP 41A",
+  "description": "¡OBRA INICIADA DESDE OCTUBRE DE 2024!.\n\nCASTILLA PLAZA 2018 S.COOP.\n40 VIVIENDAS EN RÉGIMEN DE COOPERATIVA.\nLas Rozas, El Cantizal\nViviendas de 2, 3 y 4 dormitorios con terrazas, áticos y bajos con jardín. \nConsiste en un residencial privado con piscina, solárium, zona de juegos infantiles, pádel y un local destinado a distintos usos a definir por los futuros socios. \nLa promoción está situada en Las Rozas, concretamente en el Cantizal, al noreste de Madrid, aproximadamente a 25 km del Centro de la capital. \n\nEs una zona muy consolidada gracias a su gran oferta educativa, comercial y de ocio que te permite tener todo a tu alcance sin renunciar a tu calidad de vida. \nA pocos minutos, encontrarás numerosos centros educativos para todos los niveles como el colegio El Cantizal, Mario Vargas Llosa, la escuela bilingüe infantil Logos Nursery School y la Uned, entre otros.\nCon respecto a los servicios comerciales, cuenta con Las Rozas Village un espacio de más de 100 boutiques de los principales diseñadores del mundo. Además, podrás disfrutar de otros grandes centros comerciales como: The Style Outlets, Heron City, Europolis, BurgoCentro. \n\nSe pretende formar un colectivo de socios para desarrollar el proyecto contando con la profesionalidad del equipo de Prygesa perteneciente al Grupo Pryconsa, el más solvente del país y con más de 50 años de experiencia.\n\nColaborar en un proyecto en cooperativa es la forma de poder participar de manera activa en el diseño de tu futuro hogar. ¿Te vienes a casa?",
+  "contact_info": {
+    "phone_number": "910752594",
+    "advertiser_name": "PRYGESA",
+    "client_id": 9202774904186
+  },
+  "location": {
+    "city": "Las Rozas de Madrid",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.51694107055664,
+    "longitude": -3.924574851989746
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 109,
+    "max_surface": 141,
+    "min_price": 586210,
+    "max_price": 879314
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/689e2c07-1b74-4855-96bf-3d25a89e8426?rule=original",
+    "https://static.fotocasa.es/images/ads/9cd031e1-bb99-4732-a0d5-627cab6221ca?rule=original",
+    "https://static.fotocasa.es/images/ads/de6082d1-703e-4f1f-acdc-cb730c95505d?rule=original",
+    "https://static.fotocasa.es/images/ads/3db78a7c-ada8-4775-b487-083a8cf914c2?rule=original",
+    "https://static.fotocasa.es/images/ads/f2869258-79b3-4fea-b026-b3bfa70e21e5?rule=original",
+    "https://static.fotocasa.es/images/ads/8857a469-a7f3-40e4-a8c1-ead53332b7bd?rule=original",
+    "https://static.fotocasa.es/images/ads/8b041971-a126-4e56-a505-c4c2c1886f9d?rule=original",
+    "https://static.fotocasa.es/images/ads/e870be04-e200-490d-b81a-5a8cdc8f77d3?rule=original",
+    "https://static.fotocasa.es/images/ads/0c22d508-7aea-4f09-b8b5-615cfcd0d239?rule=original",
+    "https://static.fotocasa.es/images/ads/74d2219d-6775-4301-b03d-b4e831d95384?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,53 @@
+{
+  "property_id": "20509525",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valladolid-capital/20509525",
+  "scrape_date": "2026-01-21T04:24:13Z",
+  "title": "RESIDENCIAL TERRAZAS DE LA VICTORIA FASE III",
+  "description": "¡¡ OBRA INICIADA !!  70% VENDIDA !!\n\n“RESIDENCIAL TERRAZAS DE LA VICTORIA. FASE 3” situado en la parcela PR 7 del Sector 5 de la Avenida de Burgos, junto al Parque Jardín Botánico La Victoria en la zona de Puente Jardín, a un paso del centro de la ciudad y en un entorno con todos los servicios, englobado en el barrio de La Victoria, detras de la Mitsubishi, rodeado de amplios espacios verdes y zonas de recreo, un privilegio para los amantes del deporte y la naturaleza, con vistas directas a la zona del canal.\n\nViviendas de 1, 2, 3 dormitorios con espectaculares terrazas y excelentes vistas, preciosa zona privada de unos 4.000 m2, con césped natural, piscina, zona de juegos infantiles, sala comunitaria con zona gourmet, gimnasio, baños adaptados y vestuarios. Un complejo residencial innovador y eficiente, con certificación energética A y acabados de lujo. Calefacción mediante suelo radiante – refrescante (Aerotermia), armarios empotrados revestidos y cocinas totalmente equipadas. Nuestros clientes podrán elegir diferentes tipos de alicatados para baños, color de muebles y de encimeras en las cocinas, diferentes colores de suelos laminados, incluso en algunos casos pequeños cambios en la distribución, sin que ello suponga un aumento de precio.\n\nPara ampliar la información sobre nuestro nuevo proyecto, le atenderemos en nuestra oficina de ventas en C/Fuente el Sol 9 (Barrio de La Victoria) SOLCASA Inmobiliaria. TELF: 9_8_3_3_6_1_2_2_6",
+  "contact_info": {
+    "phone_number": "983980163",
+    "advertiser_name": "ESTUDIO FUENTE EL SOL, S.L.",
+    "client_id": 9202753388192
+  },
+  "location": {
+    "city": "Valladolid Capital",
+    "province": "Valladolid",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 41.67790985107422,
+    "longitude": -4.726959228515625
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 85,
+    "max_surface": 98,
+    "min_price": 194250,
+    "max_price": 250530
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/f64435d5-dab1-4997-a4dc-e2c9c706f1c9?rule=original",
+    "https://static.fotocasa.es/images/ads/e3adb86b-4292-4e29-af94-f5f12fb9b0d3?rule=original",
+    "https://static.fotocasa.es/images/ads/49d96304-cc73-4bc9-b2bd-5470bbff74bc?rule=original",
+    "https://static.fotocasa.es/images/ads/ac2bc2ef-942d-49ae-9496-c6c7cd4baae5?rule=original",
+    "https://static.fotocasa.es/images/ads/733c2596-e618-4fc6-8a99-43f8e9c13000?rule=original",
+    "https://static.fotocasa.es/images/ads/02f45f78-9f34-45ed-82f2-ae7056e8ce5c?rule=original",
+    "https://static.fotocasa.es/images/ads/f5c4aa63-3e11-42e7-8adb-c04dd359abc4?rule=original",
+    "https://static.fotocasa.es/images/ads/42a8ae8c-e56e-4dfb-8dab-5baf3dd9cddc?rule=original",
+    "https://static.fotocasa.es/images/ads/4fab31e1-70c9-4b71-9581-c7e825b7290f?rule=original",
+    "https://static.fotocasa.es/images/ads/37f08b18-aaca-4c65-9ce0-9cf3550b667a?rule=original",
+    "https://static.fotocasa.es/images/ads/330d7c7d-d3bd-440a-9ef7-02386cc3b71a?rule=original",
+    "https://static.fotocasa.es/images/ads/379f9b63-3a80-4712-88de-a2d721bb4bb3?rule=original",
+    "https://static.fotocasa.es/images/ads/9a36145f-37c7-4d7f-8ae7-5ac2673535a5?rule=original",
+    "https://static.fotocasa.es/images/ads/de4a9e53-0d95-4a5a-b52e-aa1bc7aee532?rule=original",
+    "https://static.fotocasa.es/images/ads/4cc07241-41b7-4f8e-bcd2-9242ba5af6f4?rule=original",
+    "https://static.fotocasa.es/images/ads/c6946fec-1974-49cd-be43-85772daf4189?rule=original",
+    "https://static.fotocasa.es/images/ads/6eb97938-f860-49eb-8611-92dbe1808d9a?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/a8e5a9af-df86-40f6-9bca-38241adbf31b",
+    "https://static.fotocasa.es/statics/ads/28f0381c-878f-4dc6-8b09-9d01ba5da963"
+  ]
+}

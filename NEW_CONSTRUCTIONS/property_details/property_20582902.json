@@ -1,0 +1,42 @@
+{
+  "property_id": "20582902",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-just-desvern/20582902",
+  "scrape_date": "2026-01-21T04:42:38Z",
+  "title": "Sant Just Centre",
+  "description": "La nueva promoción de pisos Sant Just Centre, ubicada en la Avenida industria 66 de Sant Just Desvern es un edificio diseñado para ofrecer el máximo confort, con un estilo moderno y en un entorno privilegiado en uno de los municipios mejores valorados del área metropolitana de Barcelona.`\n\nVivir en el corazón de Sant Just, es vivir próximo al parque natural de Collserola, un ambiente tranquilo, donde respirar y gozar de la naturaleza en todo momento. Precisamente, esta ubicación privilegiada permite tener a su alcance todo tipo de servicios, comercios de proximidad así como las mejores escuelas internacionales entre otros.\n\t\t\t\t\t\nConectado a través de las principales carreteras a Barcelona y otras poblaciones de la zona, des de Sant Just podrás también beneficiarte de una gran red de transporte público que te mantendrá continuamente interconectado en pocos minutos a la ciudad y otras zonas del Baix Llobregat como el aeropuerto o la playa.\n\nEl edificio consta de 8 viviendas de 3 dormitorios con unas superfícies comprendidas entre 94 y 134 m2 construidos. Algunos de ellos, amplios dúplex con terrazas privadas. Parking opcional en la misma finca no incluido en el precio. Personalización de los acabados. Entrega prevista para finales de 2026. Vivir en el centro de Sant Just es ganar en calidad de vida, es ganar en tranquilidad, en un entorno inmejorable y cercano a todos los servicios, Sant Just Centre puede ser tu nuevo hogar.",
+  "contact_info": {
+    "phone_number": "931321867",
+    "advertiser_name": "EDIPLA",
+    "client_id": 9202769260886
+  },
+  "location": {
+    "city": "Sant Just Desvern",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.38475799560547,
+    "longitude": 2.0729970932006836
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 94,
+    "max_surface": 132,
+    "min_price": 615000,
+    "max_price": 730000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/9515e56f-0d50-4f66-9f67-45e0792917fd?rule=original",
+    "https://static.fotocasa.es/images/ads/8dd54bfc-4c22-49d1-8b0d-219868b06976?rule=original",
+    "https://static.fotocasa.es/images/ads/02475dd1-548a-4d44-9ab2-61bfbf3fe3a8?rule=original",
+    "https://static.fotocasa.es/images/ads/5c09ebaa-c5dc-4cbe-b431-2c3182ef45fc?rule=original",
+    "https://static.fotocasa.es/images/ads/c57bb199-9e16-4377-8355-4042db94bbfe?rule=original",
+    "https://static.fotocasa.es/images/ads/9e740975-da11-42fb-80b1-f748cc63f7fe?rule=original",
+    "https://static.fotocasa.es/images/ads/09795684-9162-4e7b-8be9-7eaf93ba1b23?rule=original",
+    "https://static.fotocasa.es/images/ads/06698c18-8d50-4d6d-bda3-1886ff16cf47?rule=original",
+    "https://static.fotocasa.es/images/ads/6b964550-3a52-41cf-8777-ccbc73711796?rule=original"
+  ],
+  "videos": []
+}

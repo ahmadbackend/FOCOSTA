@@ -1,0 +1,53 @@
+{
+  "property_id": "20509528",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/argonos/20509528",
+  "scrape_date": "2026-01-21T03:54:08Z",
+  "title": "Argoños",
+  "description": "TRECEHOME INMOBILIARIA ofrece esta promoción de 22 viviendas, garajes y trasteros en el centro de Argoños, a pocos metros de todos los servicios y de las playas de Berria (Santoña) y Helgueras (Noja).\n\nUna urbanización moderna con piscina comunitaria, ascensor desde cota cero adaptado a personas con movilidad reducida y materiales de primera calidad, tanto en interior como en exterior. Dispone de parcelas abiertas de garaje y trasteros desde 12.000 e.\n\nLas superficies reflejadas en los planos de las viviendas son informativas pudiendo experimentar mínimas modificaciones durante el desarrollo de la ejecución de la obra.",
+  "contact_info": {
+    "phone_number": "942382687",
+    "advertiser_name": "Trece Home",
+    "client_id": 9202773265351
+  },
+  "location": {
+    "city": "Argoños ",
+    "province": "Cantabria",
+    "region": "Cantabria",
+    "country": "España",
+    "latitude": 43.45595932006836,
+    "longitude": -3.500188112258911
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 58,
+    "max_surface": 89,
+    "min_price": 168000,
+    "max_price": 217000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8105f92e-d578-4226-92bb-8203a0ba2b45?rule=original",
+    "https://static.fotocasa.es/images/ads/1bbaa7c3-2235-4936-8545-13604431fb8b?rule=original",
+    "https://static.fotocasa.es/images/ads/8d1068f6-9c5a-480a-ba8d-821bbf7af818?rule=original",
+    "https://static.fotocasa.es/images/ads/3eb08c9b-d65b-48f3-a7fd-1551c63679fc?rule=original",
+    "https://static.fotocasa.es/images/ads/dab39794-1cf7-422c-b087-4cf1cf5a31c6?rule=original",
+    "https://static.fotocasa.es/images/ads/4517e952-1865-4e17-b848-5b007417b4e5?rule=original",
+    "https://static.fotocasa.es/images/ads/81625212-f358-4b72-8e84-7563eb367067?rule=original",
+    "https://static.fotocasa.es/images/ads/476b9b26-af84-4a8c-97cc-1443d4f7401e?rule=original",
+    "https://static.fotocasa.es/images/ads/8d40d2f1-239c-4dde-b1ba-4ea6e32b3dc3?rule=original",
+    "https://static.fotocasa.es/images/ads/5721adaf-66cc-4f01-a1c6-2780a4ddcece?rule=original",
+    "https://static.fotocasa.es/images/ads/9646c985-29a1-4aeb-a0c1-1844aea789ce?rule=original",
+    "https://static.fotocasa.es/images/ads/553d9ec3-6226-4def-9d57-b3e1324aef84?rule=original",
+    "https://static.fotocasa.es/images/ads/7f522ffd-4d10-4a4b-bad5-b51585990ac6?rule=original",
+    "https://static.fotocasa.es/images/ads/e5838ba3-8f46-4869-b728-23d336cff8f3?rule=original",
+    "https://static.fotocasa.es/images/ads/14c241ca-8429-4b83-baa6-2c323e49cb0a?rule=original",
+    "https://static.fotocasa.es/images/ads/bebc488d-4e9d-4051-8ebc-5ba6c84cf02d?rule=original",
+    "https://static.fotocasa.es/images/ads/e5b7c385-b079-46d5-8253-42ac2ec3ab19?rule=original",
+    "https://static.fotocasa.es/images/ads/8c78a9e3-76e2-4d76-a4c6-bdc958d42383?rule=original",
+    "https://static.fotocasa.es/images/ads/481f0d8c-88e2-4020-9347-4e6b393583b5?rule=original",
+    "https://static.fotocasa.es/images/ads/45479d3a-7164-47f2-9697-1920687ad2e1?rule=original"
+  ],
+  "videos": []
+}

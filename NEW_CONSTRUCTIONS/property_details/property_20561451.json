@@ -1,0 +1,55 @@
+{
+  "property_id": "20561451",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/alicante-alacant/20561451",
+  "scrape_date": "2026-01-21T04:29:39Z",
+  "title": "JARCIA",
+  "description": "Disfruta de tu nueva casa en un lugar privilegiado, Jarcia. Residencial de 48 viviendas de 1, 2 y 3 dormitorios con garaje y trastero.  La urbanización cuenta con piscina y jardín comunitario. Los precios incluyen una plaza de garaje y un trastero.\n\nLa comunicación con el centro de la ciudad, servicios de todo tipo y centros educativos a poca distancia harán que Jarcia se convierta en la casa que siempre habías soñado.\n\nEn este residencial de diseño contemporáneo, adaptado a la vida de hoy en día, encontrarás funcionabilidad, sostenibilidad y confort. Se ubica en el barrio de San Agustín (junto a Pau II) barrio ya consolidado y con todo tipo de servicios a escasos minutos. Centros deportivos y educativos, comercios y bien conectado con el centro de la ciudad. \n\nSu posición elevada con respecto al resto de edificaciones hará que disfrutes de unas vistas privilegiadas.  \n\n¿¡Ven a descubrir tu nueva casa!",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Alicante / Alacant",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.35906219482422,
+    "longitude": -0.5032647252082825
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 98,
+    "max_surface": 107,
+    "min_price": 405500,
+    "max_price": 454000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/393d3999-6420-46c1-81db-46baa4f7ee1b?rule=original",
+    "https://static.fotocasa.es/images/ads/14461807-07c6-4e0e-b52d-563bed40c0e4?rule=original",
+    "https://static.fotocasa.es/images/ads/18caa40c-94ce-4d5b-9b52-1fdd6a420450?rule=original",
+    "https://static.fotocasa.es/images/ads/1647a573-547b-4176-8621-d42c101cb189?rule=original",
+    "https://static.fotocasa.es/images/ads/ff16b833-4758-4ccd-bfd8-08114d07cf7e?rule=original",
+    "https://static.fotocasa.es/images/ads/7603ea19-de0b-4397-ba3b-542567ad1647?rule=original",
+    "https://static.fotocasa.es/images/ads/21cd6cee-8130-4329-8ea4-8e00c65c42f5?rule=original",
+    "https://static.fotocasa.es/images/ads/6a3d1441-77e4-432f-b8aa-3a076c9db460?rule=original",
+    "https://static.fotocasa.es/images/ads/7f3b83df-d5d2-416b-9d0d-b4a2f91387dc?rule=original",
+    "https://static.fotocasa.es/images/ads/cf843d07-c59e-4e8a-b070-b6b7c9c694b6?rule=original",
+    "https://static.fotocasa.es/images/ads/f58ecfbd-49dd-4fcb-b8a3-e0743fe13110?rule=original",
+    "https://static.fotocasa.es/images/ads/0d3c9d6a-4f09-4c5f-8dbc-117c61ca1ab9?rule=original",
+    "https://static.fotocasa.es/images/ads/dc8459fd-70de-4c73-a042-5a84eab79cd2?rule=original",
+    "https://static.fotocasa.es/images/ads/5ceed75e-0085-4c6d-855b-404bd7d924fa?rule=original",
+    "https://static.fotocasa.es/images/ads/1b5edfb6-aa70-49be-8381-0b2c89e72ba8?rule=original",
+    "https://static.fotocasa.es/images/ads/8750766a-d5ef-4728-a228-8b9ad4332071?rule=original",
+    "https://static.fotocasa.es/images/ads/590eed51-87c7-4cbe-bfc8-22fe38683d13?rule=original",
+    "https://static.fotocasa.es/images/ads/494ece49-e996-4bfd-9331-cdfb7e6d9415?rule=original",
+    "https://static.fotocasa.es/images/ads/c3cebb4f-8a74-48f3-8164-ae96703d53ac?rule=original",
+    "https://static.fotocasa.es/images/ads/b19a2d69-8c96-4ce5-97f8-8ea0945c118b?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/cfk-yxqpFU4"
+  ]
+}

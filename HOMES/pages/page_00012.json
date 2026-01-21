@@ -1,0 +1,225 @@
+{
+  "page": 12,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/12",
+  "scrape_date": "2026-01-21T04:18:25.826425",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-trastero-ascensor/188269927/d",
+      "id": 188269927,
+      "price": 440000,
+      "location": "San Lorenzo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/aire-acondicionado-calefaccion-no-amueblado/188106439/d",
+      "id": 188106439,
+      "price": 310890,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-patio-no-amueblado/188367232/d",
+      "id": 188367232,
+      "price": 495000,
+      "location": "Castillejos - Cuzco",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-llobregat/aire-acondicionado-calefaccion-terraza-no-amueblado/188314674/d",
+      "id": 188314674,
+      "price": 550000,
+      "location": "Centre - Can Nadal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/logrono/calefaccion-terraza-trastero-ascensor-amueblado/187773604/d",
+      "id": 187773604,
+      "price": 205000,
+      "location": "Gran Via",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-ascensor-patio/187461883/d",
+      "id": 187461883,
+      "price": 250000,
+      "location": "Alfalfa - Santa Cruz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-jardin-terraza-trastero-ascensor-piscina/187794922/d",
+      "id": 187794922,
+      "price": 969000,
+      "location": "El Parc i la Llacuna del Poblenou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/igualada/parking-ascensor/188481976/d",
+      "id": 188481976,
+      "price": 240000,
+      "location": "Llevant",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecans/aire-acondicionado-parking-terraza/188500387/d",
+      "id": 188500387,
+      "price": 549000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor-no-amueblado/188486731/d",
+      "id": 188486731,
+      "price": 395000,
+      "location": "VERDI, Vila de Gràcia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/cerdanyola-nord/188533006/d",
+      "id": 188533006,
+      "price": 180000,
+      "location": "Cerdanyola Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-terraza-patio-no-amueblado/187791473/d",
+      "id": 187791473,
+      "price": 299000,
+      "location": "N/A, La Prosperitat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/parking/187923327/d",
+      "id": 187923327,
+      "price": 1080000,
+      "location": "Carrer COPERNIC, Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecans/no-amueblado/188416708/d",
+      "id": 188416708,
+      "price": 299000,
+      "location": "Calle Antonio Machado, Vilamarina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/calefaccion-parking-terraza-ascensor-no-amueblado/188231892/d",
+      "id": 188231892,
+      "price": 340000,
+      "location": "Zona Esportiva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-vendrell/calefaccion-terraza-ascensor/187637863/d",
+      "id": 187637863,
+      "price": 129000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor/187443186/d",
+      "id": 187443186,
+      "price": 390000,
+      "location": "Calle Relatores, Embajadores - Lavapiés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/aire-acondicionado-calefaccion-parking-ascensor-piscina-no-amueblado/187660520/d",
+      "id": 187660520,
+      "price": 420000,
+      "location": "Sol i Padris - Sant Oleguer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor-patio-no-amueblado/187424462/d",
+      "id": 187424462,
+      "price": 698000,
+      "location": "Cuatro Caminos - Azca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/artigues/188590486/d",
+      "id": 188590486,
+      "price": 210000,
+      "location": "Artigues",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-no-amueblado/187679060/d",
+      "id": 187679060,
+      "price": 410000,
+      "location": "Valdeacederas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malgrat-de-mar/aire-acondicionado-calefaccion-no-amueblado/188382412/d",
+      "id": 188382412,
+      "price": 192000,
+      "location": "Carrer de la Llibertat, Malgrat de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/la-salut/187199109/d",
+      "id": 187199109,
+      "price": 135000,
+      "location": "Napoles, La Salut",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188275201/d",
+      "id": 188275201,
+      "price": 260000,
+      "location": "Gran Via de les Corts Catalanes, La Verneda i la Pau",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/parking-terraza-zona-comunitaria-piscina-no-amueblado/187568463/d",
+      "id": 187568463,
+      "price": 449000,
+      "location": "Montmar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-trastero-ascensor-piscina-no-amueblado/186597822/d",
+      "id": 186597822,
+      "price": 525000,
+      "location": "San Pascual",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albolote/albolote/188157375/d",
+      "id": 188157375,
+      "price": 175000,
+      "location": "Albolote",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calafell/jardin-terraza-patio/187909022/d",
+      "id": 187909022,
+      "price": 245000,
+      "location": "Segur de Calafell",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canet-d-en-berenguer/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina-no-amueblado/182650029/d",
+      "id": 182650029,
+      "price": 800000,
+      "location": "Canet d'En Berenguer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/dos-hermanas/aire-acondicionado-terraza/188559384/d",
+      "id": 188559384,
+      "price": 105000,
+      "location": "Vista Azul - Consolación ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion/188033328/d",
+      "id": 188033328,
+      "price": 920000,
+      "location": "Calle de las Minas, Universidad - Malasaña",
+      "type": "realEstate"
+    }
+  ]
+}

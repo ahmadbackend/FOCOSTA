@@ -1,0 +1,55 @@
+{
+  "property_id": "20593232",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/palma-de-mallorca/20593232",
+  "scrape_date": "2026-01-21T02:46:50Z",
+  "title": "Aire de Llevant",
+  "description": "¡En fase de construcción, estructura iniciada!\nAire de Llevant, obra nueva en Palma de Mallorca. \n\nEl complejo residencial \"Aire de Llevant\" se encuentra situado a escasos 10 minutos caminando del Puerto Náutico, del Paseo Marítimo y de la Playa del Portixol. Consta de 99 pisos de 1, 2, 3 y 4 dormitorios, diseñados con los mejores materiales para disfrutar de una gran calidad de vida al lado de todos los servicios. Y muy buen comunicada con el centro de Palma, así como del aeropuerto.\n\nToda la edificación ha sido pensada teniendo en cuenta las necesidades de nuestros clientes, respetando la personalidad mallorquina, y poniendo énfasis en la sostenibilidad y el diseño. El edificio cuenta con una piscina amplias áreas ajardinadas comunitarias. Asimismo, se han tenido en cuenta todas las mejoras tecnológicas por tal de hacer viviendas sostenibles con certificación energética \"A\". Los interiores son amplios y modernos, con grandes ventanales para permitir la entrada de luz natural. Todo esto hará de Aire de Llevant una opción perfecta para vivir.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": " Palma de Mallorca",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.56770706176758,
+    "longitude": 2.6735100746154785
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 0,
+    "max_bathrooms": 2,
+    "min_surface": 64,
+    "max_surface": 148,
+    "min_price": 268000,
+    "max_price": 449000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4052f58f-829a-49d0-addc-9176404b255e?rule=original",
+    "https://static.fotocasa.es/images/ads/d762bbaf-c435-496a-b106-202f03618a7b?rule=original",
+    "https://static.fotocasa.es/images/ads/a3166e5c-020f-4a66-9cdd-c280131b8ce3?rule=original",
+    "https://static.fotocasa.es/images/ads/0e7b3e0f-372c-4b9c-8f1d-185f41dccc28?rule=original",
+    "https://static.fotocasa.es/images/ads/5037e7f5-b231-47ec-a046-6b1410970cf1?rule=original",
+    "https://static.fotocasa.es/images/ads/5e9f2a1e-11d0-43e0-a0d6-920e548ab62a?rule=original",
+    "https://static.fotocasa.es/images/ads/1e8145fa-71df-453b-b015-db517865b17f?rule=original",
+    "https://static.fotocasa.es/images/ads/7b7fc3fe-a9c8-43d9-a464-ae6c9385a96e?rule=original",
+    "https://static.fotocasa.es/images/ads/e0bad46a-2242-4122-8cec-406012f0fec9?rule=original",
+    "https://static.fotocasa.es/images/ads/b8f7dc87-5612-4f5b-afa5-3baf9c1eae6a?rule=original",
+    "https://static.fotocasa.es/images/ads/66804e58-dd29-4bed-a415-ed64b3251b94?rule=original",
+    "https://static.fotocasa.es/images/ads/5457e849-5f3c-4f15-95b9-047458473026?rule=original",
+    "https://static.fotocasa.es/images/ads/1758f0a4-227b-471e-b359-b89717aee939?rule=original",
+    "https://static.fotocasa.es/images/ads/27c43eff-3c49-467c-9741-7854bee7942d?rule=original",
+    "https://static.fotocasa.es/images/ads/a588cb69-9c46-4d88-809e-7c564d4af5ab?rule=original",
+    "https://static.fotocasa.es/images/ads/5590207a-5bf8-48bd-994b-60e56564c87d?rule=original",
+    "https://static.fotocasa.es/images/ads/911ec9ae-a733-47f6-8fa1-78d04929fc02?rule=original",
+    "https://static.fotocasa.es/images/ads/43f165dc-b7cd-4b52-baf5-e2d844a0b1a9?rule=original",
+    "https://static.fotocasa.es/images/ads/991f2e50-835e-44f6-908c-edfff28983ee?rule=original",
+    "https://static.fotocasa.es/images/ads/1f12c2e8-f8e9-48b0-8c1b-a7c211fd0110?rule=original"
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/UvQSs9eX_uo"
+  ]
+}

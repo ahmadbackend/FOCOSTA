@@ -1,0 +1,37 @@
+{
+  "property_id": "20567832",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/ponferrada/20567832",
+  "scrape_date": "2026-01-21T04:28:13Z",
+  "title": "Edificio Eladia Baylina Ponferrada",
+  "description": "La nueva promoción de viviendas en la travesía Eladia Baylina goza de una ubicación privilegiada en el centro de Ponferrada. A pocos minutos se encuentra el emblemático Castillo de los Templarios, la Basílica de Nuestra Señora de la Encina y el casco antiguo. La zona ofrece una combinación ideal de historia, cultura y comodidad, con acceso a comercios, restaurantes y espacios culturales. Vivirás con todas las ventajas de la ciudad y además disfrutarás de la tranquilidad de entorno. \t\t\t\t\t\n\t\t\t\t\t\nEl edificio te ofrece todo lo que esperas de tu nuevo hogar: Calidades exclusivas, diseño moderno, espacio adaptado a tu familia y una ubicación privilegiada.\n\nLas imágenes aquí mostradas no son vinculantes para la ejecución final de la obra.\n\nTodas las viviendas disponen de plaza de garaje y trastero incluidos en el precio con acceso directo por ascensor desde el portal.\nSegunda plaza de garaje opcional por orden de reserva.\n\nNota: a los precios anteriores hay que añadirles el IVA correspondiente.\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nQueremos destacar que tenemos ventajas exclusivas al comprar sobre plano. Pueden ahorrar hasta un 17% del precio de la vivienda o no pagar el IVA de la misma (nosotros nos hacemos cargo). \nTodo esto antes de que se empiece a construir, una vez comience la obra estas promociones iniciales desaparecen.",
+  "contact_info": {
+    "phone_number": "987321783",
+    "advertiser_name": "Promotorres",
+    "client_id": 9202775281134
+  },
+  "location": {
+    "city": "Ponferrada",
+    "province": "León",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 42.5460090637207,
+    "longitude": -6.598110198974609
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 72,
+    "max_surface": 114,
+    "min_price": 110000,
+    "max_price": 315000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/0a2dd245-c3b1-4da1-9b78-867b82ec29a0?rule=original",
+    "https://static.fotocasa.es/images/ads/b03d6767-888c-4b63-8937-1ed42435360e?rule=original",
+    "https://static.fotocasa.es/images/ads/3b1a6763-88c0-4d17-a069-49d2127b02e0?rule=original",
+    "https://static.fotocasa.es/images/ads/c5769e7b-c190-47c1-82ef-5b3eabd5f29c?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,43 @@
+{
+  "property_id": "20509508",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/polinya/20509508",
+  "scrape_date": "2026-01-21T03:51:59Z",
+  "title": "IDÍL.LIC CAN ROVIRA",
+  "description": "¿Estás buscando una vivienda espaciosa y lujosa? Permíteme presentarte nuestras casas de dos plantas con todas las comodidades que deseas. Con 4 o 5 habitaciones, ofreciendo un amplio espacio para toda tu familia y posibles visitas. Disfruta de tu propio jardín privado con una zona de barbacoa, perfecta para reuniones familiares y momentos de relax al aire libre.\t\n\nAcabados de primera calidad, consultad nuestra memoria de calidades.\t\n\t\t\t\t\t\nSumérgete en la piscina comunitaria y aprovecha los días soleados para refrescarte y pasar momentos divertidos con tus vecinos. Nuestro equipo de arquitectos ha diseñado estas casas con atención al detalle, combinando estilo contemporáneo con funcionalidad para brindarte una experiencia de vida excepcional. Estamos seguros de que nuestras casas cumplirán con tus expectativas y se convertirán en el hogar ideal para ti y tu familia. ¡No pierdas esta oportunidad!\" \n\nObra en curso - Entrega inico 2027",
+  "contact_info": {
+    "phone_number": "+34618609060",
+    "advertiser_name": "Nou Castellar Residencial, Sl",
+    "client_id": 9202770520545
+  },
+  "location": {
+    "city": "Polinyà",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.55524444580078,
+    "longitude": 2.1518678665161133
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 194,
+    "max_surface": 198,
+    "min_price": 480000,
+    "max_price": 510000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d19519e9-3113-414a-a1b9-093d9acb7663?rule=original",
+    "https://static.fotocasa.es/images/ads/12ca0de4-93e7-4a84-90a2-f1e0e68e46b5?rule=original",
+    "https://static.fotocasa.es/images/ads/b016db2f-e278-45d1-ad82-a3662d1ebd52?rule=original",
+    "https://static.fotocasa.es/images/ads/f4817419-10d8-423c-adea-f52de61d7927?rule=original",
+    "https://static.fotocasa.es/images/ads/1ef779f5-3170-4d88-b701-33851d45856f?rule=original",
+    "https://static.fotocasa.es/images/ads/c95414cc-7f08-498b-8f08-ca35189c3313?rule=original",
+    "https://static.fotocasa.es/images/ads/9f89cb3e-a2c1-4b27-bf7f-a1d48deb719c?rule=original",
+    "https://static.fotocasa.es/images/ads/86916d11-8c82-4bf9-b6cf-fe4c840bb5a8?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/db8a2983-5752-44a5-829f-4b65b904343d"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "property_id": "20509607",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/oliva/20509607",
+  "scrape_date": "2026-01-21T02:55:37Z",
+  "title": "Parquemar X",
+  "description": "Complejo Residencial de Apartamentos en construcción, ´Parquemar X´, en la playa de Oliva (Terranova), acceso al mar a 50 metros, Nuevo desarrollo urbanístico, Primera planta y áticos con vistas al Mar y solárium, 2 y 3 dormitorios, amplias terrazas, aislamiento térmico y acústico según CTE, Aerotermia, carpintería exterior de PVC oscilo batiente con micro ventilación, barandilla de cristal de seguridad sin perfilería, carpintería interior lacada en blanco, armarios empotrados vestidos, puerta Acorazada, Suelo Porcelánico, baños con columnas de ducha y platos de carga mineral, Cocina abierta con encimera de Quarzo o Porcelánico, muebles con uñero, Cocheras cerradas con patio incluida en el precio, piscina con iluminación nocturna, zonas comunes ajardinadas y solárium, ascensor con eficiencia energética, todos los servicios a nuestro alcance, Club Náutico en la misma urbanización, Campo de Golf cercano.\t\t\t\t\t\n\t\t\t\t\t\nEntrega de Llaves Junio de 2025\t\t\t\t\t\nFinanciación Personalizada \nVENTA DIRECTA",
+  "contact_info": {
+    "phone_number": "961281508",
+    "advertiser_name": "IMLEVA SL",
+    "client_id": 9202761867920
+  },
+  "location": {
+    "city": "Oliva",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.93988037109375,
+    "longitude": -0.10700120031833649
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 159,
+    "max_surface": 159,
+    "min_price": 425000,
+    "max_price": 425000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/0b5d7871-2ae7-4f36-949f-0faf8bfca026?rule=original",
+    "https://static.fotocasa.es/images/ads/d7b0cd9a-0fd6-45b2-88ef-fc40f4b4e31b?rule=original",
+    "https://static.fotocasa.es/images/ads/12024ef3-739e-4ece-884c-557be092eb23?rule=original",
+    "https://static.fotocasa.es/images/ads/afe58b51-a552-472a-b30d-8d6af24e5c1c?rule=original",
+    "https://static.fotocasa.es/images/ads/abb4646d-b7d7-4416-a390-aec4fed3c80a?rule=original",
+    "https://static.fotocasa.es/images/ads/fce6f874-4550-4367-9b09-7d5030f3ab88?rule=original",
+    "https://static.fotocasa.es/images/ads/5a9955ad-9d58-4a26-a595-74facd7b2ca5?rule=original",
+    "https://static.fotocasa.es/images/ads/24960ffc-da21-4d69-a252-f4c5a1842046?rule=original",
+    "https://static.fotocasa.es/images/ads/a6f37fa6-b0b4-448b-9c69-1ef2971c3b44?rule=original",
+    "https://static.fotocasa.es/images/ads/70007c58-e91e-4d60-8791-d224383de09b?rule=original",
+    "https://static.fotocasa.es/images/ads/c45bf382-f4f4-408c-8cda-0542646d7468?rule=original",
+    "https://static.fotocasa.es/images/ads/88969aff-8552-4825-8dce-859cd969523f?rule=original",
+    "https://static.fotocasa.es/images/ads/7e70a89d-1156-49e8-a70b-b2cf1b76d0e7?rule=original",
+    "https://static.fotocasa.es/images/ads/f3afe2c0-6822-4d11-ae2d-c705b42b736f?rule=original",
+    "https://static.fotocasa.es/images/ads/a9c7ea9a-5509-4787-b65e-a73ba8cdf818?rule=original",
+    "https://static.fotocasa.es/images/ads/e86dc271-a020-43d3-90b2-02da2f6b503c?rule=original",
+    "https://static.fotocasa.es/images/ads/3a7df8d6-00d4-4759-a2be-555538acd1f6?rule=original",
+    "https://static.fotocasa.es/images/ads/5eb8b184-876d-4113-9e6d-8ecb3f06213e?rule=original",
+    "https://static.fotocasa.es/images/ads/bf1a2464-5853-44bf-86b2-81dac6e98a20?rule=original",
+    "https://static.fotocasa.es/images/ads/ca14f288-c429-4c2f-8f08-7e8ce3d55a4c?rule=original",
+    "https://static.fotocasa.es/images/ads/6f5a14d0-7397-40b1-ace3-e9fc6e895812?rule=original",
+    "https://static.fotocasa.es/images/ads/6d11cccc-5709-4a0a-a36a-781621704ecd?rule=original",
+    "https://static.fotocasa.es/images/ads/39361d1d-2acd-4992-bf94-4807460e991b?rule=original",
+    "https://static.fotocasa.es/images/ads/ee257fbd-cd8d-4899-97cf-62d11f95c42d?rule=original"
+  ],
+  "videos": []
+}

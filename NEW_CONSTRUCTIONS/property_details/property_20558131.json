@@ -1,0 +1,42 @@
+{
+  "property_id": "20558131",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/galdakao/20558131",
+  "scrape_date": "2026-01-21T04:30:58Z",
+  "title": "GALDAKAO BARRIA",
+  "description": "Viviendas luminosas y con amplias terrazas, en una nueva urbanización concebida en torno a atractivos espacios verdes.\n\n3 habitaciones, garaje y trastero desde 317.000 € + IVA\n\nDisfruta de equipamientos comunes que hacen especial cada día: piscina comunitaria, amplias zonas verdes y de encuentro para disfrutar en familia en un proyecto referente en la comarca del Gran Bilbao.\n\nDescubre los pisos de obra nueva en Galdakao.",
+  "contact_info": {
+    "phone_number": "943912376",
+    "advertiser_name": "Construcciones Sukia Eraikuntzak, S.L",
+    "client_id": 9202752880916
+  },
+  "location": {
+    "city": "Galdakao",
+    "province": "Bizkaia",
+    "region": "País Vasco",
+    "country": "España",
+    "latitude": 43.232784271240234,
+    "longitude": -2.8546571731567383
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 90,
+    "max_surface": 97,
+    "min_price": 317000,
+    "max_price": 347000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/50a4a7a5-1ebf-4218-ab66-2704ec64e7ea?rule=original",
+    "https://static.fotocasa.es/images/ads/0af2a28e-5b0e-470e-a29a-5db722b7f5f2?rule=original",
+    "https://static.fotocasa.es/images/ads/9502db92-1e33-4ca0-84a9-ee8e5b31d113?rule=original",
+    "https://static.fotocasa.es/images/ads/a594548d-f4e1-4a23-af13-56aec379304c?rule=original",
+    "https://static.fotocasa.es/images/ads/45200adc-09ab-4f1d-8985-b90c5c65050a?rule=original",
+    "https://static.fotocasa.es/images/ads/56851ae2-1b4f-4460-a47e-56d4571b77b7?rule=original",
+    "https://static.fotocasa.es/images/ads/6b8a736e-c1fc-42fb-b49a-14087de30cdc?rule=original",
+    "https://static.fotocasa.es/images/ads/f8c91685-ce81-4d6f-9f6c-301426155f68?rule=original",
+    "https://static.fotocasa.es/images/ads/d1322dab-33d9-48ad-b9fe-08e218cec37f?rule=original"
+  ],
+  "videos": []
+}

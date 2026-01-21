@@ -1,0 +1,34 @@
+{
+  "property_id": "20631661",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/badalona/20631661",
+  "scrape_date": "2026-01-21T03:05:17Z",
+  "title": "Living Badalona Torner II",
+  "description": "Vivir cerca de todo y del mar\n\nDescubra Living BadalonaTorner II, un edificio de obra nueva inspirado en el Mediterráneo. Un conjunto residencial de viviendas plurifamiliares con plazas de aparcamiento y trasteros, situado en pleno corazón de Badalona.\n\nEste proyecto de plantas bajas con jardín y dúplex se ubica en una zona privilegiada que combina la autenticidad del centro con todos los servicios de una ciudad moderna y dinámica. A solo 5 minutos a pie del Ayuntamiento y de la playa y rodeado de todos los servicios, como el Mercat de Torner, escuelas, etc.\n\nLa comunicación es inmejorable, con acceso rápido a la B-10 y C-31, a tan solo 15 minutos en coche de Barcelona, y excelentes conexiones en transporte público gracias a la estación de Renfe R1 y la parada de Metro de Pep Ventura (L2), a escasos minutos caminando.\n\nLiving BadalonaTorner II ofrece viviendas de 3 y 4 dormitorios, áticos y dúplex, todas equipadas con aerotermia, suelo radiante, cocina amueblada y baños totalmente equipados. Además, podrá personalizar los acabados para adaptarlos a su estilo.\n\nLa entrega está prevista para mediados de 2028.\n\nUn entorno urbano, moderno y a un paso del Mediterráneo. ¿Te imaginas vivir aquí?",
+  "contact_info": {
+    "phone_number": "931321569",
+    "advertiser_name": "Sacresa",
+    "client_id": 9202774614804
+  },
+  "location": {
+    "city": "Badalona",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.44350814819336,
+    "longitude": 2.2413740158081055
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 122,
+    "max_surface": 187,
+    "min_price": 469700,
+    "max_price": 754600
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/f6e7156a-97b8-4083-a4b6-4c38dd36398e?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,40 @@
+{
+  "property_id": "20531659",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/capdepera/20531659",
+  "scrape_date": "2026-01-21T03:39:37Z",
+  "title": "Villas pareadas en venta en una ubicación privilegiada de la Costa de Mallorca",
+  "description": "Luz de Cala Ratjada es un proyecto residencial de lujo, ubicado en la parte más Oriental de la Isla de Mallorca, en Cala Ratjada (municipio de Capdepera), en un entorno único, rodeado de preciosas calas de aguas turquesa y a tan sólo 600 metros del puerto marítimo de Cala Ratjada.\n\nLa urbanización cuenta con diferentes tipologías de viviendas, adaptándonos así a tus necesidades: Villas pareadas de 3 dormitorios y 3 baños, villas pareadas con sótano de 3 dormitorios y 4 baños. Además, Luz de Cala Ratjada va a contar con increíbles zonas comunes con piscina, jacuzzis y una gran zona de playa de piscina. Todas las viviendas incluyen plaza de aparcamiento y la preinstalación de estación de carga para vehículos eléctricos.\n\n¿Te imaginas viviendo aquí?",
+  "contact_info": {
+    "phone_number": "971083346",
+    "advertiser_name": "Aproperties Mallorca",
+    "client_id": 9202767584364
+  },
+  "location": {
+    "city": "Capdepera",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.71171569824219,
+    "longitude": 3.447770118713379
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 230,
+    "max_surface": 263,
+    "min_price": 895000,
+    "max_price": 1100000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/51756ab4-99c7-4fc6-b701-c340851b96e3?rule=original",
+    "https://static.fotocasa.es/images/ads/2115b069-6470-4282-8e6a-c4d8a31d2cdc?rule=original",
+    "https://static.fotocasa.es/images/ads/984d3cc5-2346-44f8-b3ae-c3dd70ad1082?rule=original",
+    "https://static.fotocasa.es/images/ads/1be6f720-7df7-41a6-ab15-365d9491e446?rule=original",
+    "https://static.fotocasa.es/images/ads/d452fd29-d3c0-4d73-ab3a-10d153a0b1f2?rule=original",
+    "https://static.fotocasa.es/images/ads/a47116e9-9887-4da3-96a4-1a30e0241acd?rule=original",
+    "https://static.fotocasa.es/images/ads/1133751d-fabd-4cb7-8abe-ceefd4292038?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,47 @@
+{
+  "property_id": "20533783",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/lleida-capital/20533783",
+  "scrape_date": "2026-01-21T02:53:10Z",
+  "title": "LIVING",
+  "description": "Living es la nueva promoción residencial que el Grupo Cosehisa traslada a Cap Pont.\n\nEl conjunto está formado por dos bloques que comparten una gran zona ajardinada con piscina.\n\nEncontramos pisos de 2, 3 y 4 habitaciones distribuidos en plantas bajas con grandes terrazas, pisos con fantásticas vistas a la Seu Vella y áticos donde poder disfrutar de la tranquilidad de la zona.\n\nAsí pues, Cosehisa traslada el encanto de sus promociones de Ciutat Jardí al barrio de Cap Pont, dotándola de un complejo inmobiliario de alto standing y con una gran proximidad al corazón de la ciudad de Lleida.",
+  "contact_info": {
+    "phone_number": "973811542",
+    "advertiser_name": "Farre Lleida Consulting Immobiliari, S.L.",
+    "client_id": 9202752559899
+  },
+  "location": {
+    "city": " Lleida Capital",
+    "province": "Lleida",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.615211486816406,
+    "longitude": 0.6380693912506104
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 72,
+    "max_surface": 163,
+    "min_price": 190000,
+    "max_price": 405000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/07672947-eec4-42ba-a07d-b7891a70496f?rule=original",
+    "https://static.fotocasa.es/images/ads/20d5c839-3ee2-4cf7-9b6b-88b6308f9f28?rule=original",
+    "https://static.fotocasa.es/images/ads/8ffff812-ae4e-42a2-99ff-ed93af67548b?rule=original",
+    "https://static.fotocasa.es/images/ads/84a21f32-0929-4583-b9f2-64578d711dc7?rule=original",
+    "https://static.fotocasa.es/images/ads/0873bfad-23d5-40a9-bd7d-11d9b960e087?rule=original",
+    "https://static.fotocasa.es/images/ads/d2ef56d2-4347-4f7d-9c1d-b6ce5ee0b470?rule=original",
+    "https://static.fotocasa.es/images/ads/6f7a1d4b-260a-4b3f-9962-fddee5d5f750?rule=original",
+    "https://static.fotocasa.es/images/ads/26018bcd-d57d-4f20-b8af-1dbc47bbf642?rule=original",
+    "https://static.fotocasa.es/images/ads/e8b3e958-029c-4f27-9da0-2f8ad6b9b52f?rule=original",
+    "https://static.fotocasa.es/images/ads/444fa82e-3db1-473d-a9ed-82c6bc5b6f9c?rule=original",
+    "https://static.fotocasa.es/images/ads/12f9adaf-65e3-4e15-af15-4911b8b46318?rule=original"
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=_Hf12J_y2CU",
+    "https://www.youtube.com/watch?v=cWPPL3fzhAs"
+  ]
+}

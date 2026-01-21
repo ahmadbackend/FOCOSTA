@@ -1,0 +1,49 @@
+{
+  "property_id": "20518136",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/zahara-de-los-atunes/20518136",
+  "scrape_date": "2026-01-21T04:38:03Z",
+  "title": "ZAHARA LUXURY PARADISE",
+  "description": "Licencia de obra concedida! Magnífica promoción de Obra nueva en Zahara de los Atunes (Cádiz)\n\nZahara Luxury Paradise es un exclusivo residencial de obra nueva, de 165 unidades, varias medidas y alturas. Situado en el centro del encantador pueblo de Zahara de los Atunes, compuesto por viviendas de lujo de dos y tres dormitorios con amplios jardines y áticos con espectaculares terrazas.\n\nLa promoción Zahara Luxury Paradise cuenta con viviendas exclusivas diseñadas para ofrecer el máximo bienestar y una alta calidad, a partir de materiales y acabados premium, en una ubicación privilegiada situada a tan solo 200 metros de la playa, en un entorno tranquilo que cuenta con todas las comodidades con las que puedas soñar con facilidad de desplazamiento, y sin necesidad de coger coche ni transporte.\n\nCabe destacar las peculiaridades de sus zonas comunes de disfrute compuestas por piscina exterior en cubierta, solárium, zona chill out y complejo deportivo, así como viviendas con diseños innovadores, alta calidad de los materiales y personalización en sus terminaciones.\n\nTodas las viviendas presentan una distribución interior excepcional, que permite aprovechar la luz al máximo. Los áticos contarán con magníficas terrazas y las viviendas con amplios jardines.\n\nHay 2 tipos y tamaños de pisos: Dúplex con magníficas terrazas y jardín y Áticos con amplias terrazas. Consúltenos disponibilidad, tamaños, precios y opciones. \n\n¡Última oportunidad para adquirir una vivienda de obra nueva en el centro de Zahara de los Atunes! Si deseas formar parte de la lista de interesados, contáctanos.",
+  "contact_info": {
+    "phone_number": "958910981",
+    "advertiser_name": "GRUPO GS",
+    "client_id": 9202774544332
+  },
+  "location": {
+    "city": "Zahara de los Atunes",
+    "province": "Cádiz",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.133056640625,
+    "longitude": -5.842197895050049
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 3,
+    "min_surface": 90,
+    "max_surface": 160,
+    "min_price": 390000,
+    "max_price": 990000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/6b33131e-7e85-4f7a-8349-ebab32b9f181?rule=original",
+    "https://static.fotocasa.es/images/ads/25f284e4-3ea8-451d-9344-9bb2fb23eff9?rule=original",
+    "https://static.fotocasa.es/images/ads/226135ed-1f8d-40fc-bdd3-cef6c3552d3f?rule=original",
+    "https://static.fotocasa.es/images/ads/9e2f104d-d4d5-44c1-902f-11b3b0798fe2?rule=original",
+    "https://static.fotocasa.es/images/ads/cffe906d-383c-4f51-8737-2c32bae239ba?rule=original",
+    "https://static.fotocasa.es/images/ads/e3705788-796b-4fe1-868e-87fdcb257d25?rule=original",
+    "https://static.fotocasa.es/images/ads/6b02f626-7180-4fad-91dd-db37598f57f3?rule=original",
+    "https://static.fotocasa.es/images/ads/0e3df64d-daf6-4944-833a-37f16bc8d27f?rule=original",
+    "https://static.fotocasa.es/images/ads/673e6fac-d8ad-40d5-a1d8-151f49fa70d8?rule=original",
+    "https://static.fotocasa.es/images/ads/afc0115c-ee31-497a-b595-4397a6d31a1d?rule=original",
+    "https://static.fotocasa.es/images/ads/39e5c69d-55e2-45ae-88cc-990d7bff56e3?rule=original",
+    "https://static.fotocasa.es/images/ads/f3b0b8c5-5e4c-4a79-881c-b93b454280e8?rule=original",
+    "https://static.fotocasa.es/images/ads/be6b3dc7-75ce-45db-be96-91eccf952521?rule=original",
+    "https://static.fotocasa.es/images/ads/0b2e20d1-c784-4abb-a87e-d2e1fddfdaab?rule=original",
+    "https://static.fotocasa.es/images/ads/2bd57c6b-68e0-4aa4-9b37-201e30848d34?rule=original",
+    "https://static.fotocasa.es/images/ads/e0b198b4-fdd3-4461-badd-08bdab684bb3?rule=original"
+  ],
+  "videos": []
+}

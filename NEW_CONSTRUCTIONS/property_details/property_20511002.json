@@ -1,0 +1,56 @@
+{
+  "property_id": "20511002",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/burgos-capital/20511002",
+  "scrape_date": "2026-01-21T04:41:32Z",
+  "title": "TERRAZAS DE PARQUE EUROPA",
+  "description": "TERRAZAS DE PARQUE EUROPA - COMIENZA A COMERCIALIZARSE FASE III\nURBANIZACIÓN PRIVADA CON PISCINA Y ZONA INFANTIL\n\n¿Te gustaría relajarte en tu terraza después de un largo día de trabajo? Si buscas un hogar con estilo, calidad y confort, tienes que venir a conocer TERRAZAS DE PARQUE EUROPA, donde encontrarás el piso ideal para ti.\n\n74 Viviendas disponibles de 1, 2 y 3 dormitorios. Todas con amplias Terrazas espaciosas y con una vistas impresionantes de la toda la ciudad. Espacios amplios y confortables, con abundante luz natural, con materiales de primera calidad.\n\nCocinas Amuebladas y Equipadas que incluyen electrodomésticos modernos y funcionales.\n\nSuelo radiante, que garantiza un confort térmico óptimo en todas las estaciones.\n\nArmarios Empotrados en todos los dormitorios, ofreciendo soluciones de almacenamiento prácticas y elegantes.\n\nPlaza de Garaje y trastero incluidos, con la opción de adquirir una segunda plaza de garaje si así lo necesitas.\n\nTodo esto en una urbanización privada de lujo, con zonas comunes ajardinadas, parque infantil y dos piscinas.\n\nEsta última fase sobrepasa al resto de la promoción en altura, garantizando una panorámica impresionante y unas vistas espectaculares de toda la ciudad, desde donde disfrutar de puntos de interés como el castillo, la Catedral de Burgos y hasta de la Cartuja de Miraflores, si tu vivienda es de las que mira hacia el este.\n\nNo Pierdas la Oportunidad La promoción ya está en marcha. No dejes pasar la oportunidad de vivir en un entorno único, con todas las comodidades y la calidad que mereces.",
+  "contact_info": {
+    "phone_number": "947940364",
+    "advertiser_name": "INMOBILIARIA AVDA.DEL CID 66 S.L",
+    "client_id": 9202750707442
+  },
+  "location": {
+    "city": "Burgos Capital",
+    "province": "Burgos",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 42.32573699951172,
+    "longitude": -3.700936794281006
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 192,
+    "max_surface": 231,
+    "min_price": 345000,
+    "max_price": 375500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/66ee4f20-5a2a-4b86-a3d6-e2df47e288c1?rule=original",
+    "https://static.fotocasa.es/images/ads/26b26259-9345-451f-abf0-768fe2c7a0d9?rule=original",
+    "https://static.fotocasa.es/images/ads/fdbe9ff2-cd55-43eb-b565-96311e3d708a?rule=original",
+    "https://static.fotocasa.es/images/ads/4988b259-3b27-4b27-86f6-cd3ce30e5f70?rule=original",
+    "https://static.fotocasa.es/images/ads/f73e0cc6-a564-4367-89db-a10f84d4dbb8?rule=original",
+    "https://static.fotocasa.es/images/ads/424cffe5-584a-4e18-9ac8-a08ceffcd3c4?rule=original",
+    "https://static.fotocasa.es/images/ads/d6c9a3b9-727f-4fad-a54c-56fe7f282389?rule=original",
+    "https://static.fotocasa.es/images/ads/dd85e7bb-9892-41ef-9d5b-5b6e6f1062e2?rule=original",
+    "https://static.fotocasa.es/images/ads/63f9b531-7b21-46cb-b709-1b73010e61c4?rule=original",
+    "https://static.fotocasa.es/images/ads/57deaead-90ad-4888-8556-ef2d9518e315?rule=original",
+    "https://static.fotocasa.es/images/ads/a204504a-b669-47b0-800e-244959c1e75f?rule=original",
+    "https://static.fotocasa.es/images/ads/33d1d9c2-d6e8-40f6-934d-c8a9aea576b0?rule=original",
+    "https://static.fotocasa.es/images/ads/c6b50ae2-32f7-419c-9cd3-c02051f2d05f?rule=original",
+    "https://static.fotocasa.es/images/ads/7e140cf3-327b-4908-9123-18986c33a0da?rule=original",
+    "https://static.fotocasa.es/images/ads/f7ace173-a1b2-4687-b1ba-b30e91a4af7c?rule=original",
+    "https://static.fotocasa.es/images/ads/9ab8d5ab-4257-4a3a-9b06-7fc42fc574cf?rule=original",
+    "https://static.fotocasa.es/images/ads/cee46592-c280-455b-89af-8115e0cc4b30?rule=original",
+    "https://static.fotocasa.es/images/ads/5b0b7a77-42f1-4008-bd67-9d59eb5f81a7?rule=original",
+    "https://static.fotocasa.es/images/ads/58885586-f3eb-406f-9db9-0ffb782627af?rule=original",
+    "https://static.fotocasa.es/images/ads/fd7b3334-b27a-40a4-a254-c13b04b0b3fc?rule=original",
+    "https://static.fotocasa.es/images/ads/734b46a0-2690-4734-bb3f-47bf85cbd433?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/ff1d0ea7-4922-4dd7-9f08-15685e30a850"
+  ]
+}

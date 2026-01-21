@@ -1,0 +1,225 @@
+{
+  "page": 25,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/25",
+  "scrape_date": "2026-01-21T04:18:49.903005",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/el-molinillo-capuchinos/182257549/d",
+      "id": 182257549,
+      "price": 169000,
+      "location": "Calle Duque de Rivas, El Molinillo - Capuchinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/begur/calefaccion-parking-jardin-terraza-trastero-piscina/186506451/d",
+      "id": 186506451,
+      "price": 2675000,
+      "location": "Sa Riera - Sa Fontansa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/denia/aire-acondicionado-calefaccion-jardin-terraza-piscina-no-amueblado/182659890/d",
+      "id": 182659890,
+      "price": 1895000,
+      "location": "L'Almadrava - L'Estanyó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mazarron/patio-no-amueblado/187697980/d",
+      "id": 187697980,
+      "price": 155000,
+      "location": "Bahia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/calefaccion-parking-terraza-no-amueblado/188500174/d",
+      "id": 188500174,
+      "price": 399000,
+      "location": "Les Arenes - La Grípia  Can Montllor",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/terraza-ascensor-no-amueblado/188341313/d",
+      "id": 188341313,
+      "price": 167900,
+      "location": "Cerdanyola Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecans/parking-no-amueblado/188125441/d",
+      "id": 188125441,
+      "price": 466900,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/artes/20633013/188329429",
+      "id": 188329429,
+      "price": null,
+      "location": "Artés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/algeciras/jardin-piscina/188085574/d",
+      "id": 188085574,
+      "price": 295000,
+      "location": "San García",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pineda-de-mar/aire-acondicionado-calefaccion-amueblado/186985874/d",
+      "id": 186985874,
+      "price": 259000,
+      "location": "CARRER ESGLESIA (A) Es: Pl: Pt:\r\n PINEDA DE MAR (B, Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-hospitalet-de-llobregat/ascensor-amueblado/187866371/d",
+      "id": 187866371,
+      "price": 150000,
+      "location": "Carrer del Patronat, Santa Eulàlia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellar-del-valles/calefaccion-jardin/188182594/d",
+      "id": 188182594,
+      "price": 320000,
+      "location": "Eixample - Can Bogunyà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/calefaccion-parking-ascensor-no-amueblado/188359510/d",
+      "id": 188359510,
+      "price": 240000,
+      "location": "Creu Alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-ascensor-no-amueblado/188297018/d",
+      "id": 188297018,
+      "price": 1280000,
+      "location": "Eixample Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrevieja/terraza-trastero-piscina/188299426/d",
+      "id": 188299426,
+      "price": 280000,
+      "location": "Zona Carrefour - Urbanizaciones",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/no-amueblado/183315780/d",
+      "id": 183315780,
+      "price": 165000,
+      "location": "El Carmel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/terraza-piscina-no-amueblado/187149487/d",
+      "id": 187149487,
+      "price": 670000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-ascensor-no-amueblado/187908054/d",
+      "id": 187908054,
+      "price": 790000,
+      "location": "Prosperidad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-trastero-ascensor-patio-no-amueblado/186751518/d",
+      "id": 186751518,
+      "price": 3150000,
+      "location": "Calle Mayor, 16, Sol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/aire-acondicionado-patio-no-amueblado/187942729/d",
+      "id": 187942729,
+      "price": 330000,
+      "location": "Astilleros - La Paz  - Loreto - El Corte Inglés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cornella-de-llobregat/aire-acondicionado-calefaccion-no-amueblado/188023197/d",
+      "id": 188023197,
+      "price": 320000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-trastero-ascensor-piscina-no-amueblado/187944194/d",
+      "id": 187944194,
+      "price": 180000,
+      "location": "Butarque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malgrat-de-mar/calefaccion-terraza-no-amueblado/187966683/d",
+      "id": 187966683,
+      "price": 300000,
+      "location": "Malgrat de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calonge-i-sant-antoni/terraza/187547810/d",
+      "id": 187547810,
+      "price": 240000,
+      "location": "Sant Antoni de Calonge",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-parking-ascensor-no-amueblado/188157192/d",
+      "id": 188157192,
+      "price": 238500,
+      "location": "Zona Esportiva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/trinitat-vella/187136818/d",
+      "id": 187136818,
+      "price": null,
+      "location": "Trinitat Vella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/parking-jardin/187664617/d",
+      "id": 187664617,
+      "price": 1280000,
+      "location": "Montmar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/calefaccion-parking-terraza-no-amueblado/188176784/d",
+      "id": 188176784,
+      "price": 474900,
+      "location": "Zona Esportiva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/terraza-no-amueblado/188172890/d",
+      "id": 188172890,
+      "price": 198000,
+      "location": "Can Boada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cardedeu/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-no-amueblado/186081377/d",
+      "id": 186081377,
+      "price": 2950000,
+      "location": "Avinguda Rei en Jaume, 160, Cardedeu",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/el-camp-d-en-grassot-i-gracia-nova/187136601/d",
+      "id": 187136601,
+      "price": null,
+      "location": "El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "property_id": "20530640",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sitges/20530640",
+  "scrape_date": "2026-01-21T04:34:36Z",
+  "title": "Promoción alto standing en Sitges",
+  "description": "Promoción de obra nueva en Sitges, ubicada en la prestigiosa zona de Vallpineda. Este exclusivo proyecto residencial consta de 29 viviendas construidas bajo la certificación Passive House, garantizando un alto nivel de eficiencia energética y confort para sus residentes.\n\nLas viviendas se caracterizan por sus espacios amplios, diseño contemporáneo, equipamientos de alta gama y amplias terrazas y jardines privativos.\n\nEl complejo residencial cuenta con zona comunitaria con piscina y disponibilidad de parkings y trasteros en planta sótano. Una plaza de parking y un trastero incluido en el precio\n\nCada edificio ofrece además una experiencia única en su azotea, con una terraza comunitaria solárium chill out de 300 m2 y una lámina de agua de 100 m2 que brindan un ambiente de relajación y sofisticación, siendo el lugar perfecto para contemplar los atardeceres y vistas panorámicas del mar.\n\nLa promoción cuenta en sus alrededores con colegios internacionales, equipamientos deportivos y zonas comerciales, así como rápido acceso a las principales vías de comunicación.\n\n¡Contáctenos hoy para conocer cuál será su futuro hogar!",
+  "contact_info": {
+    "phone_number": "930441963",
+    "advertiser_name": "EV MMC SPAIN ,S.L.U",
+    "client_id": 9202758116439
+  },
+  "location": {
+    "city": "Sitges",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.2476921081543,
+    "longitude": 1.8080419301986694
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 98,
+    "max_surface": 141,
+    "min_price": 741000,
+    "max_price": 1110000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4e9e0904-a4c8-42b4-97f4-4ebbcf9c8553?rule=original",
+    "https://static.fotocasa.es/images/ads/e3acaccf-84eb-4a7d-ba92-5595d0efa27d?rule=original",
+    "https://static.fotocasa.es/images/ads/eeaa5385-3553-4222-83ac-be01b3f81105?rule=original",
+    "https://static.fotocasa.es/images/ads/c180e9ba-542f-4477-8647-fbfa3cf0633d?rule=original",
+    "https://static.fotocasa.es/images/ads/b09f7d40-4ecb-4b8e-a4c2-f06224cbe4e2?rule=original",
+    "https://static.fotocasa.es/images/ads/996f9799-b1c8-4993-a67e-2d9b5c931a05?rule=original",
+    "https://static.fotocasa.es/images/ads/4521aba1-5238-437b-807d-1b30fb892b6f?rule=original",
+    "https://static.fotocasa.es/images/ads/25237721-1d6e-472d-8534-22ddc96c3eac?rule=original",
+    "https://static.fotocasa.es/images/ads/11bfc38f-e17a-40aa-80ea-d1f598f787f9?rule=original"
+  ],
+  "videos": []
+}

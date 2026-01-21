@@ -1,0 +1,225 @@
+{
+  "page": 2,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/2",
+  "scrape_date": "2026-01-21T04:18:26.343170",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-trastero-ascensor/188089973/d",
+      "id": 188089973,
+      "price": 890000,
+      "location": "Guindalera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-terraza/188316630/d",
+      "id": 188316630,
+      "price": 415000,
+      "location": "Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/calefaccion-jardin-terraza-trastero-patio/188292017/d",
+      "id": 188292017,
+      "price": 230000,
+      "location": "Vallirana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor-amueblado/186968618/d",
+      "id": 186968618,
+      "price": 2795000,
+      "location": "Carrer de la Diputació, Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/terraza-trastero/187717192/d",
+      "id": 187717192,
+      "price": 398000,
+      "location": "Vallirana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/abrera/aire-acondicionado-calefaccion-parking-terraza-patio-internet-no-amueblado/187046324/d",
+      "id": 187046324,
+      "price": 320000,
+      "location": "Carrer Josep Pla, 8, Abrera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/186718766/d",
+      "id": 186718766,
+      "price": 940000,
+      "location": "Carrer de Casp, Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/188481660/d",
+      "id": 188481660,
+      "price": 1450000,
+      "location": "Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/abrera/aire-acondicionado-calefaccion-parking-terraza-trastero-patio/188126943/d",
+      "id": 188126943,
+      "price": 320000,
+      "location": "Abrera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-ascensor/182657295/d",
+      "id": 182657295,
+      "price": 620000,
+      "location": "Carrer Carrer de Casanova, L'Antiga Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-vicenc-dels-horts/aire-acondicionado-calefaccion/188056450/d",
+      "id": 188056450,
+      "price": 176800,
+      "location": "Sant Vicenç Dels Horts",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/corbera-de-llobregat/parking-jardin-terraza/164143859/d",
+      "id": 164143859,
+      "price": 360000,
+      "location": "Carretera San Andreu de la Barca, 36, Corbera de Llobregat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-jardin-ascensor-patio-piscina-no-amueblado/188105814/d",
+      "id": 188105814,
+      "price": 850000,
+      "location": "El Poblenou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-ascensor-no-amueblado/188103008/d",
+      "id": 188103008,
+      "price": 559000,
+      "location": "DE BALMES, Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/aire-acondicionado-parking-jardin-terraza-trastero/188491012/d",
+      "id": 188491012,
+      "price": 400000,
+      "location": "Vallirana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188296750/d",
+      "id": 188296750,
+      "price": 2200000,
+      "location": "Carrer de Girona, Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/calefaccion-terraza-trastero-piscina/188200314/d",
+      "id": 188200314,
+      "price": 420000,
+      "location": "Vallirana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-patio/188028866/d",
+      "id": 188028866,
+      "price": 470000,
+      "location": "Carrer Carrer de Lepant, Sagrada Família",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/barri-gotic/188518358/d",
+      "id": 188518358,
+      "price": 595000,
+      "location": "d'Avinyó, Barri Gòtic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/186469907/d",
+      "id": 186469907,
+      "price": 510000,
+      "location": "Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-ascensor/183092566/d",
+      "id": 183092566,
+      "price": 650000,
+      "location": "Carrer de Pàdua, El Putget i el Farró",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/barrio-de-zaidin/188481306/d",
+      "id": 188481306,
+      "price": 169900,
+      "location": "Barrio de Zaidín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/terraza/187640376/d",
+      "id": 187640376,
+      "price": 220000,
+      "location": "Barrio de Zaidín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/187096239/d",
+      "id": 187096239,
+      "price": 995000,
+      "location": "Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-terraza-ascensor-amueblado/188560201/d",
+      "id": 188560201,
+      "price": 550000,
+      "location": "Carrer d'Alí Bei, Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188597593/d",
+      "id": 188597593,
+      "price": 540000,
+      "location": "La Nova Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188263317/d",
+      "id": 188263317,
+      "price": 960000,
+      "location": "Carrer de Calàbria, La Nova Esquerra de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/188249720/d",
+      "id": 188249720,
+      "price": 725000,
+      "location": "La Barceloneta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-terraza/185419279/d",
+      "id": 185419279,
+      "price": 199900,
+      "location": "d'Espinoi, El Putget i el Farró",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-trastero-ascensor-no-amueblado/188208471/d",
+      "id": 188208471,
+      "price": 595000,
+      "location": "BALMES, Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor/188363128/d",
+      "id": 188363128,
+      "price": 348000,
+      "location": "Avenida DIAGONAL, 223, Fort Pienc",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "property_id": "20509430",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/alcala-de-xivert/20509430",
+  "scrape_date": "2026-01-21T03:52:15Z",
+  "title": "THE EDGE",
+  "description": "Espectacular conjunto residencial en una ubicación privilegiada de Alcossebre, entre dos de las mejores playas de su entorno y donde la piscina se funde con el mar en una misma línea armónica.\n\nCon tan solo 29 exclusivas viviendas, su diseño respeta los actuales modelos vanguardistas y la arquitectura sostenible en cada uno de sus detalles además de concederle una valoración óptima entre nuestros clientes; lo que nos permite presumir de él allí donde vamos. Nuestro proyecto The Edge goza de una situación privilegiada en primera línea del litoral, junto a uno de los puntales de roca más característicos de la localidad, la Punta del Cargador. Este conjunto residencial abarca una superficial total de 4.500 metros cuadrados y está compuesto por un total de 29 viviendas exclusivas distribuidas entre planta baja, primera y segunda.\n\nLa promoción incluye también un total de 29 cuartos trasteros, 39 plazas de aparcamiento en planta semisótano y zonas comunitarias con gimnasio, gourmet-hospitality, piscina infinity y amplias zonas verdes.\n\nThe Edge significa límite o borde y hemos nombrado así a nuestro proyecto como una manera de definir su situación entre el mar y la tierra.\n\nPensando en nuestros clientes y respetando siempre nuestra identidad de \"\"espacios para vivir y casas para disfrutar\"\". Hemos diseñado estas viviendas con las últimas novedades en cuanto a instalaciones y tecnología. Además, todo el proyecto cuenta con unas calidades inmejorables gracias a los materiales de la firma Porcelanosa, los cuales cuentan con la calificación Ecologic",
+  "contact_info": {
+    "phone_number": "964931628",
+    "advertiser_name": "PORTA MEDITERRANEA HOMES",
+    "client_id": 9202774127250
+  },
+  "location": {
+    "city": "Alcalà de Xivert",
+    "province": "Castellón",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 40.24908447265625,
+    "longitude": 0.2855316996574402
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 76,
+    "max_surface": 91,
+    "min_price": 435000,
+    "max_price": 450000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/386a1182-2931-442b-a43e-300dd183771b?rule=original",
+    "https://static.fotocasa.es/images/ads/5301b6fe-ba72-4562-b719-3d915f491e82?rule=original",
+    "https://static.fotocasa.es/images/ads/ef6af657-1ed2-4370-ada9-bf12ce181623?rule=original",
+    "https://static.fotocasa.es/images/ads/18ecd50b-f633-477f-86bf-99663ebb27ee?rule=original",
+    "https://static.fotocasa.es/images/ads/57a50a72-96af-4a34-876f-c72ba29f9856?rule=original",
+    "https://static.fotocasa.es/images/ads/7e6e3cc7-54ac-4bb3-bf42-10718b65edd7?rule=original",
+    "https://static.fotocasa.es/images/ads/65a8f0e4-f643-4aaf-ba36-d965db3a24d9?rule=original",
+    "https://static.fotocasa.es/images/ads/47f06051-2be3-4cd8-bb51-06086222b926?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/cf88a58a-8e4a-4d4c-9baf-371c73d6b506",
+    "https://www.youtube.com/watch?v=5SQPccXL2WM"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "property_id": "20509178",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/salou/20509178",
+  "scrape_date": "2026-01-21T02:38:20Z",
+  "title": "AVDA. SALVADOR DE VILASECA, 1 (SALOU)",
+  "description": "Descubre estos pisos de obra nueva en Salou, zona Emprius, diseñado para ofrecer confort, funcionalidad y una excelente calidad de vida, tanto como vivienda habitual, segunda residencia o inversión.\n\nLas viviendas destacan por su diseño moderno, una distribución muy bien aprovechada, gran luminosidad y acabados de alta calidad.\n\nLa promoción ofrece diferentes tipologías para adaptarse a distintas necesidades:\n\nPlantas bajas con jardín, disponibles en 2 y 3 dormitorios\n\nViviendas en plantas primera a tercera, con 3 dormitorios\n\nUbicada en una de las zonas más valoradas de Salou, con fácil acceso a servicios, zonas verdes y principales vías de comunicación.\n\nEstas espectaculares viviendas ofrecen diferentes tipologías: cocina abierta al salón para disfrutar de un diseño moderno y espacioso donde el salón se integra armoniosamente con una cocina abierta. Esta distribución crea un ambiente acogedor y social, ideal para momentos de convivencia con familiares y amigos. La fluidez entre el salón y la cocina permite una experiencia visualmente amplia y conectada. \n\nCocina Conectada al Salón Mediante Puerta Corredera: Para mantener la flexibilidad entre la cocina y el salón, una puerta corredera permite ajustar la separación según las necesidades. Cerrar la puerta para tener la privacidad de una cocina independiente o abrirla para integrar ambos espacios, creando un ambiente más amplio y sociable.\n\nContacta con nosotros para más información o para concertar una visita personalizada.",
+  "contact_info": {
+    "phone_number": "931321259",
+    "advertiser_name": "QOL22, S.L.",
+    "client_id": 9202774333914
+  },
+  "location": {
+    "city": "Salou",
+    "province": "Tarragona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.081321716308594,
+    "longitude": 1.1387699842453003
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 88,
+    "max_surface": 115,
+    "min_price": 282000,
+    "max_price": 322000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8905b036-4905-4509-b08b-94bc4e4730f3?rule=original",
+    "https://static.fotocasa.es/images/ads/8a2bbc29-df53-4fa1-bdec-13ed492bac45?rule=original",
+    "https://static.fotocasa.es/images/ads/08da76b0-67ee-4a3c-84ef-7204db441591?rule=original",
+    "https://static.fotocasa.es/images/ads/5edca523-2cb1-44a7-8a05-2472c1b94175?rule=original",
+    "https://static.fotocasa.es/images/ads/4dbd9cd2-f90f-4a66-94eb-10545a5e333c?rule=original",
+    "https://static.fotocasa.es/images/ads/10c26117-1948-4a3d-8811-5780acbefb14?rule=original",
+    "https://static.fotocasa.es/images/ads/98ca8fcd-9366-45ae-acc2-17dcf1fc0ac2?rule=original",
+    "https://static.fotocasa.es/images/ads/3737ac60-310b-4192-8841-46b867dbd5b1?rule=original",
+    "https://static.fotocasa.es/images/ads/a805acea-bf25-472e-bbd6-7a09b7214705?rule=original",
+    "https://static.fotocasa.es/images/ads/a06f1c8c-8b6c-451c-a071-6658ad3cabf6?rule=original",
+    "https://static.fotocasa.es/images/ads/126827bf-4c90-46c3-b4a3-a77bb633aadc?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/QcqOPNA5rn8?si=bzfjmoHYb_qA4Hlq",
+    "https://youtu.be/8aShM0xU3U4?si=0Xa5OQ79lsaJUQEO"
+  ]
+}

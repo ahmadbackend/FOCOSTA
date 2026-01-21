@@ -1,0 +1,39 @@
+{
+  "property_id": "20633211",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20633211",
+  "scrape_date": "2026-01-21T03:01:19Z",
+  "title": "Nuestra Señora de Valverde 16",
+  "description": "Viviendas en promoción de obra nueva situadas en Nuestra Señora de Valverde 16, en el corazón del barrio Fuencarral, zona residencial tranquila con todos los servicios a tu alcance. \n\nZona bien comunicada con las estaciones de metro Tres Olivos, Fuencarral y de cercanías RENFE Fuencarral, además de varias líneas de autobuses, así como fácil conexión con M30, M607, A1 y M40.\u000bActualmente, la promoción se halla en fase de construcción y su finalización está prevista para el último trimestre del año 2025. \t\t\t\n\t\t\t\t\t\nLa promoción se ha proyectado con excelentes calidades, habiendo sido la sostenibilidad y la eficiencia energética criterios de diseño primordial. A su vez, el proyecto queda integrado en el entorno histórico, continuando con la belleza y el carácter del barrio. \n\nLas viviendas, todas exteriores, se distribuyen en planta baja con jardín de un dormitorio, plantas tipo de un dormitorio y tipo estudio y áticos dúplex de uno y dos dormitorios. \"",
+  "contact_info": {
+    "phone_number": "+34665253940",
+    "advertiser_name": "ProAdvisers",
+    "client_id": 9202775937396
+  },
+  "location": {
+    "city": " Madrid Capital",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.49361801147461,
+    "longitude": -3.6870155334472656
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 66,
+    "max_surface": 88,
+    "min_price": 329000,
+    "max_price": 449000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/fc900b35-113b-4bf7-b4cb-420eb5c0e977?rule=original",
+    "https://static.fotocasa.es/images/ads/90449651-801a-4f47-87bf-f1c5008da604?rule=original",
+    "https://static.fotocasa.es/images/ads/d8de1a45-2333-48ec-8804-31e4d33f5983?rule=original",
+    "https://static.fotocasa.es/images/ads/d7e71aca-a11b-4079-883f-82a4ef922eb1?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/57c1d71f-ffeb-4229-b467-0290eafd8721"
+  ]
+}

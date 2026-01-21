@@ -1,0 +1,37 @@
+{
+  "property_id": "20517032",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/mollet-del-valles/20517032",
+  "scrape_date": "2026-01-21T04:38:44Z",
+  "title": "PROMOCION AVD. ANTONI GAUDI, 15",
+  "description": "¡Descubre la nueva promoción de pisos en la avenida Antoni Gaudí, 15 de Mollet del Vallès!\nPromoción formada por 26 viviendas de 2, 3 y 4 habitaciones, diseñados para proporcionar espacios amplios y luminosos. En un barrio donde encontrarás una diversa oferta de servicios, desde restaurantes y tiendas exclusivas, hasta parques y zonas verdes para disfrutar de momentos de tranquilidad.\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nExcelente conexión con el transporte público que te permitirá desplazarte fácilmente por la ciudad y sus alrededores. Así como a vias de comunicación como la AP-7",
+  "contact_info": {
+    "phone_number": "931321397",
+    "advertiser_name": "WAY HOUSE SL",
+    "client_id": 9202767740481
+  },
+  "location": {
+    "city": "Mollet del Vallès",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.54528045654297,
+    "longitude": 2.217679977416992
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 97,
+    "max_surface": 101,
+    "min_price": 290000,
+    "max_price": 320000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/a4a7f19e-54d4-4baf-a57d-e1e4a0150353?rule=original",
+    "https://static.fotocasa.es/images/ads/64747afd-4cb0-4d76-886b-fe4763fc1987?rule=original",
+    "https://static.fotocasa.es/images/ads/6daef66b-0803-4243-ba29-989ae439038c?rule=original",
+    "https://static.fotocasa.es/images/ads/2b594698-8e5d-48ae-a3c1-bcac660f8e9b?rule=original"
+  ],
+  "videos": []
+}

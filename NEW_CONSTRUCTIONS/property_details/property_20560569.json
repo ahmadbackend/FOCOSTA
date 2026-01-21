@@ -1,0 +1,57 @@
+{
+  "property_id": "20560569",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20560569",
+  "scrape_date": "2026-01-21T04:16:19Z",
+  "title": "LEBLICH",
+  "description": "¡En construcción!\n\nNueva promoción de obra nueva en Barcelona, pisos de 2, 3 y 4 habitaciones con amplias terrazas, calificación energética A y vista al futuro parque de la Sagrera, la zona verde más amplia de Barcelona.\nTu nueva casa estará ubicada en la nueva diagonal verde de Barcelona, de 4 km de longitud y 40 hectáreas de superficie, se construirá sobre la cobertura de las vías del tren, formando un gran corredor de entrada a la ciudad.\n\nUbicación excelente, junto a la nueva estación de alta velocidad, con buenas comunicaciones a las rondas, autopista y trasporte público (metro línea 1 Torras i Bages).\n\nNo pierdas la oportunidad de vivir al lado del mejor proyecto de paisajismo de la cuidad.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": " Barcelona Capital",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.441673278808594,
+    "longitude": 2.1941089630126953
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 80,
+    "max_surface": 148,
+    "min_price": 480000,
+    "max_price": 862000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/33244983-4b21-41f2-b277-57766f40d929?rule=original",
+    "https://static.fotocasa.es/images/ads/c64eb808-6782-4c54-b734-eed14b941ca7?rule=original",
+    "https://static.fotocasa.es/images/ads/927a117a-2400-4e68-bbf8-bd214631ff4b?rule=original",
+    "https://static.fotocasa.es/images/ads/9fdc2493-3722-4389-8a84-7bc04f8f3147?rule=original",
+    "https://static.fotocasa.es/images/ads/2297579a-9420-4322-9c93-39c181a00b42?rule=original",
+    "https://static.fotocasa.es/images/ads/ff67508d-5d10-4b3a-8f4b-105433bc6910?rule=original",
+    "https://static.fotocasa.es/images/ads/9dab481b-b98c-4acd-b5de-3947960caa15?rule=original",
+    "https://static.fotocasa.es/images/ads/a75c1dfa-3ce6-455a-9c8c-598d6ffe7fec?rule=original",
+    "https://static.fotocasa.es/images/ads/bf9ba4c5-c2c6-4626-9910-52c59a01b8cb?rule=original",
+    "https://static.fotocasa.es/images/ads/cea18743-2e7b-451b-9b63-7c7e1d812701?rule=original",
+    "https://static.fotocasa.es/images/ads/f5a3eaed-6cee-40d9-b7a7-4f7f554dff82?rule=original",
+    "https://static.fotocasa.es/images/ads/10107402-fa1b-4b2a-adfe-4b688035dbac?rule=original",
+    "https://static.fotocasa.es/images/ads/2e992a12-6ef1-4fd7-9b43-3c9e2804682f?rule=original",
+    "https://static.fotocasa.es/images/ads/23e2e497-9a07-4fec-9523-31dd81f81b75?rule=original",
+    "https://static.fotocasa.es/images/ads/3d8853a6-d1eb-41cb-8209-9423f1636036?rule=original",
+    "https://static.fotocasa.es/images/ads/b4c46205-7bba-49d2-8aea-ea8dedaaeb73?rule=original",
+    "https://static.fotocasa.es/images/ads/749c9e98-9e13-4503-b5c4-7cdac37a00ca?rule=original",
+    "https://static.fotocasa.es/images/ads/b58f60f3-8b0f-48b3-85b3-23164a2136f7?rule=original",
+    "https://static.fotocasa.es/images/ads/e5f8a25e-eebc-45bd-beb1-e564b57dd208?rule=original",
+    "https://static.fotocasa.es/images/ads/f7cd10b8-3e40-4433-8867-f3c60e48fbc7?rule=original",
+    "https://static.fotocasa.es/images/ads/e648e023-5cf1-4618-a9e6-cc4e6c5e82d8?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/Dvm_h5Dd6H0",
+    "https://youtu.be/eLLB9YLHVDY"
+  ]
+}

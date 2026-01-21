@@ -1,0 +1,52 @@
+{
+  "property_id": "20512558",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/tiana/20512558",
+  "scrape_date": "2026-01-21T03:08:23Z",
+  "title": "Les Brises",
+  "description": "OBRA INICIADA\nLes Brises es una promoción de obra nueva ubicada en Tiana, en la comarca del Maresme, formada por 41 viviendas de 2, 3 y 4 dormitorios, zona comunitaria con piscina, garaje y trasteros.\nTodas las viviendas contarán con espacios amplios, abundante luz natural y distribución funcional.\nDestacan las viviendas en planta baja y los áticos con amplias terrazas a pie de salón y espectaculares vistas al mar y al Parque Natural de la Serralada de la Marina.\n\nUna ubicación privilegiada, rodeada de naturaleza y cerca de la ciudad\nLes Brises se encuentra en un entorno privilegiado y es el lugar ideal para quienes buscan un estilo de vida en contacto con la naturaleza, cerca del mar, con todos los servicios, a tan solo 15 km del centro de Barcelona y con excelentes comunicaciones con la ciudad y otras localidades cercanas. (Acceso directo a la C-32 y B-20, autobuses y estación de cercanías Renfe Montgat).\n\nViviendas eficientes y sostenibles\nLes Brises contará con un alto nivel de calificación energética, lo que permitirá beneficiarse de:\nMayor ahorro en las facturas de suministros gracias a un menor consumo y mantenimiento.\nMayor confort térmico, acústico y luminoso gracias al buen aislamiento térmico que evita la entrada de calor en verano y de frío en invierno.\nGrandes ventanas herméticas que permiten el paso de luz natural.\nMenores emisiones de CO2 para proteger nuestro planeta.\n \nPersonaliza tu vivienda\nEn Les Brises, puedes crear una vivienda personalizada según tus gustos y necesidades, eligiendo diferentes acabados, materiales y accesorios opcionales. Es el momento de tener una vivienda justo como siempre has soñado.",
+  "contact_info": {
+    "phone_number": "930440695",
+    "advertiser_name": "SALAS PLUSHABIT SL.",
+    "client_id": 9202755593723
+  },
+  "location": {
+    "city": "Tiana",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.482112884521484,
+    "longitude": 2.2652320861816406
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 68,
+    "max_surface": 112,
+    "min_price": 347000,
+    "max_price": 633000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d37d1d28-0c8a-4c5b-9527-e2b450f8eceb?rule=original",
+    "https://static.fotocasa.es/images/ads/3100121f-c2f2-4945-97bd-d0d33eb8e8b6?rule=original",
+    "https://static.fotocasa.es/images/ads/4d731b25-aa2c-4ba6-9c86-7e63b3733ee9?rule=original",
+    "https://static.fotocasa.es/images/ads/a4e79289-77ca-4e81-a629-f6a5e5071d90?rule=original",
+    "https://static.fotocasa.es/images/ads/a3a5df0c-7558-48aa-beba-22a365add155?rule=original",
+    "https://static.fotocasa.es/images/ads/7e3f8a18-2240-4386-b870-644776fe282f?rule=original",
+    "https://static.fotocasa.es/images/ads/1e0978bd-6235-46e2-90c7-a927c397cea8?rule=original",
+    "https://static.fotocasa.es/images/ads/fc2c4dff-a573-4e9f-80f5-f7b0cd0c3f3c?rule=original",
+    "https://static.fotocasa.es/images/ads/5d27c220-85a8-48ce-9015-cbc648ee95ab?rule=original",
+    "https://static.fotocasa.es/images/ads/af6a3ed7-3c99-40eb-91a9-11a5183f15a4?rule=original",
+    "https://static.fotocasa.es/images/ads/71e0acdd-0468-42dd-a8e6-6359a3891742?rule=original",
+    "https://static.fotocasa.es/images/ads/6bad813b-eda1-4465-bd5e-7f57fe7f7016?rule=original",
+    "https://static.fotocasa.es/images/ads/705df110-fe27-481d-81e2-06fef27d39e9?rule=original",
+    "https://static.fotocasa.es/images/ads/50530a3a-1b0c-464e-8539-51c73e65f124?rule=original",
+    "https://static.fotocasa.es/images/ads/34cbc248-4667-44ca-8ccf-59db80b59cc9?rule=original",
+    "https://static.fotocasa.es/images/ads/2bf474cd-16e4-451f-879d-7277f8d6bfa4?rule=original",
+    "https://static.fotocasa.es/images/ads/b2007f40-0a06-470d-b61d-7eb9eff5a713?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/e481812b-b4f6-4aa9-b418-af5929d6ecfb"
+  ]
+}

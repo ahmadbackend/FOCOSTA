@@ -1,0 +1,43 @@
+{
+  "property_id": "20561183",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/dos-hermanas/20561183",
+  "scrape_date": "2026-01-21T04:02:16Z",
+  "title": "ELVENIA",
+  "description": "Sabemos que la casa que buscas lo debe tener todo, personalidad, ubicación, servicios cercanos, buenas comunicaciones y un toque de singularidad. Por eso, desde AEDAS Homes te ofrecemos un exclusivo\nconjunto de 107 viviendas de 2, 3 y 4 dormitorios en la mejor zona de Entrenúcleos, junto a Montequinto. En Elvenia disfrutarás de la tranquilidad que supone vivir en un municipio como Dos Hermanas a solo 10 minutos de Sevilla capital y del centro de Dos Hermanas.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nElvenia plantea un conjunto de tres edificios y un sótano común donde todas las viviendas cuentan con amplias terrazas y dos orientaciones distintas, disfrutando de las mejores vistas de todo Entrenúcleos.\nLas espectaculares zonas comunes incluyen grandes espacios ajardinados, un área de piscinas ubicada en el amplio espacio central, una sala comunitaria multiusos y un recinto de juegos infantiles con amplio equipamiento para los más pequeños de la casa\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Dos Hermanas",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.31857681274414,
+    "longitude": -5.936595439910889
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 76,
+    "max_surface": 111,
+    "min_price": 224800,
+    "max_price": 367460
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4fd1b58b-6de1-4ec3-a72d-c978f57491dd?rule=original",
+    "https://static.fotocasa.es/images/ads/bfe3a00b-c84e-43e7-b124-3c1b73f13dc1?rule=original",
+    "https://static.fotocasa.es/images/ads/419655ef-0899-4e18-85bc-ed3517407458?rule=original",
+    "https://static.fotocasa.es/images/ads/153b82a2-f890-4908-a349-08374669abf1?rule=original",
+    "https://static.fotocasa.es/images/ads/bf938185-000b-4b4b-86bf-6d536fdb2f23?rule=original",
+    "https://static.fotocasa.es/images/ads/f355e0bb-019e-4392-ae65-c13c6380b7b1?rule=original",
+    "https://static.fotocasa.es/images/ads/60b97694-5618-4817-84bb-d3cd5f4e1633?rule=original",
+    "https://static.fotocasa.es/images/ads/9ccc906b-6446-4cc4-bce0-5bbfc1d4380e?rule=original",
+    "https://static.fotocasa.es/images/ads/ca308165-d29e-49b7-803a-c398f1da4f8c?rule=original",
+    "https://static.fotocasa.es/images/ads/909baea3-4bd3-4a2f-ad3a-f80c86b02614?rule=original"
+  ],
+  "videos": []
+}

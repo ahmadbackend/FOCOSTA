@@ -1,0 +1,40 @@
+{
+  "property_id": "20510331",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/badajoz-capital/20510331",
+  "scrape_date": "2026-01-21T03:50:59Z",
+  "title": "RESIDENCIAL PUERTA LA PILARA (Fase I - II)",
+  "description": "PROMOCIÓN RESIDENCIAL PUERTA LA PILARA ¡EL MEJOR PRECIO!\n\nEs el momento de conseguir tu nueva vivienda en el Residencial Puerta La Pilara. Tenemos para ti, pisos de 3 dormitorios con amplias terrazas y buenísima distribución. \n\n¡PLAZAS DE GARAJES Y TRASTEROS INCLUIDOS!\n\nTu nuevo hogar se encontrará en una maravillosa urbanización con ZONAS AJARDINADAS, PISCINA COMUNITARIA Y PISTAS DE PÁDEL ACRISTALADAS en la Pilara, zona tranquila y familiar de Badajoz, cerca de parques, zonas infantiles, árboles y supermercados.\n\n¡DESCUBRE TU NUEVA VIVIENDA! ¡Nosotros te acompañamos!\n\n**VPO (Régimen Especial y General)\n***TODAS LAS VIVIENDAS DE FASE I; NO TIENEN TRASTERO INCLUIDO",
+  "contact_info": {
+    "phone_number": "924926243",
+    "advertiser_name": "INVERSIONES POCOSTALES MOLEON",
+    "client_id": 9202751559548
+  },
+  "location": {
+    "city": "Badajoz Capital",
+    "province": "Badajoz",
+    "region": "Extremadura",
+    "country": "España",
+    "latitude": 38.878929138183594,
+    "longitude": -6.934622287750244
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 99,
+    "max_surface": 99,
+    "min_price": 160407,
+    "max_price": 160407
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d2a7b9cb-89e1-4220-9e47-00ebac8bc402?rule=original",
+    "https://static.fotocasa.es/images/ads/a1d69e26-c8d3-4655-9455-7142268edc27?rule=original",
+    "https://static.fotocasa.es/images/ads/f54dec47-517a-499e-ad87-d78d62baff32?rule=original",
+    "https://static.fotocasa.es/images/ads/2dc238b1-29d8-4335-b9dd-8b77f7afe6f6?rule=original",
+    "https://static.fotocasa.es/images/ads/0b37245b-f84b-466a-b78c-d3f3ea6b558d?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/e76e9e87-d972-4ee5-baa9-33dda2dc98b6"
+  ]
+}

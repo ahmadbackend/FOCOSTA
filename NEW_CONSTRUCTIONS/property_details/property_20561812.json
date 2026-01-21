@@ -1,0 +1,58 @@
+{
+  "property_id": "20561812",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/las-palmas-de-gran-canaria/20561812",
+  "scrape_date": "2026-01-21T04:15:34Z",
+  "title": "SINGULARE- LAS PALMAS",
+  "description": "Ven a conocer Singulare, una promoción residencial de 33 viviendas unifamliares de 3 dormitorios, con jardines y piscinas privadas, cuenta con una urbanización privada con control de accesos que, gracias a la amplitud de sus espacios interiores, de sus jardines y terrazas y de la independencia y privacidad que ofrece un unifamiliar, proporciona el entorno ideal para vivir con tranquilidad y bienestar.\n\nEn una ubicación privilegiada, junto al Hospital Doctor Negrín, a 10 minutos de la Playa de las Canteras y rodeada de todos los servicios, como supermercados, colegios, centros comerciales, …\n\nDispone además de unas excelentes comunicaciones gracias a rápidas conexiones por carretera y múltiples líneas de autobuses.\n\nDescubre Singulare\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Las Palmas de Gran Canaria",
+    "province": "Las Palmas",
+    "region": "Canarias",
+    "country": "España",
+    "latitude": 28.117618560791016,
+    "longitude": -15.444622039794922
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 3,
+    "max_bathrooms": 4,
+    "min_surface": 240,
+    "max_surface": 333,
+    "min_price": 998000,
+    "max_price": 1480000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2bad6f13-fdc1-439a-89b9-5fabdb7f21d6?rule=original",
+    "https://static.fotocasa.es/images/ads/47ca230a-dae8-4686-95b4-b685797c2e96?rule=original",
+    "https://static.fotocasa.es/images/ads/4798ff0a-7e7f-46dd-b5ed-1ff2f2567680?rule=original",
+    "https://static.fotocasa.es/images/ads/08227313-b3a6-464a-8009-76c67f1df74d?rule=original",
+    "https://static.fotocasa.es/images/ads/bfa81011-7149-4836-864f-80874968076a?rule=original",
+    "https://static.fotocasa.es/images/ads/c1ef5c82-31c4-435d-84d6-92d841ad8d18?rule=original",
+    "https://static.fotocasa.es/images/ads/73dc5039-12f9-4ab6-8e3a-435e4399865f?rule=original",
+    "https://static.fotocasa.es/images/ads/f289d849-1542-43ae-9b5e-c7ecf1d38ec8?rule=original",
+    "https://static.fotocasa.es/images/ads/0111d56f-f365-4c83-97d4-2a810bea949d?rule=original",
+    "https://static.fotocasa.es/images/ads/a42f6e90-de9b-468b-a810-14185d1b42e3?rule=original",
+    "https://static.fotocasa.es/images/ads/55685c97-660b-4c50-89a4-8fd12ca93754?rule=original",
+    "https://static.fotocasa.es/images/ads/9eef652a-19c6-4726-b1aa-b96c5708cf35?rule=original",
+    "https://static.fotocasa.es/images/ads/4ae8dfbe-6a5b-4003-a5dd-accbab86e971?rule=original",
+    "https://static.fotocasa.es/images/ads/0b29cd01-8baa-4354-b364-b1f385558ba1?rule=original",
+    "https://static.fotocasa.es/images/ads/a45cc145-7707-4818-9f76-891443cd8c8c?rule=original",
+    "https://static.fotocasa.es/images/ads/94f1fb98-36ae-41bf-a1f1-4c5906e77ea2?rule=original",
+    "https://static.fotocasa.es/images/ads/6b8aadb0-7823-4d3f-9110-c3baabff2c69?rule=original",
+    "https://static.fotocasa.es/images/ads/24035b85-128f-4bad-bf33-19744056f141?rule=original",
+    "https://static.fotocasa.es/images/ads/7c9db06d-d5bf-415b-bf99-ce10420296a8?rule=original",
+    "https://static.fotocasa.es/images/ads/e7bc82f0-6225-4e3a-a679-94378617f570?rule=original",
+    "https://static.fotocasa.es/images/ads/1f8c3ca6-178c-45e1-ada1-3a9ac6cb912b?rule=original",
+    "https://static.fotocasa.es/images/ads/7b1a0b95-5ff2-4c43-9e2d-ce96d3245bc8?rule=original",
+    "https://static.fotocasa.es/images/ads/d145d3ff-679f-4e3e-bdee-e9691ae371ec?rule=original",
+    "https://static.fotocasa.es/images/ads/3d4848e0-75a2-4629-b8db-61d8d4f3763c?rule=original",
+    "https://static.fotocasa.es/images/ads/8b161029-326f-40a1-a06b-84e278a8c17c?rule=original"
+  ],
+  "videos": []
+}

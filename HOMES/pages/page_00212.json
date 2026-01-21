@@ -1,0 +1,225 @@
+{
+  "page": 212,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/212",
+  "scrape_date": "2026-01-21T04:22:19.128098",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/gibralfaro/185592001/d",
+      "id": 185592001,
+      "price": 170000,
+      "location": "Calle Pinosol, Gibralfaro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-gregori/aire-acondicionado-calefaccion-parking-jardin-terraza/187966955/d",
+      "id": 187966955,
+      "price": 490000,
+      "location": "Calle Mas Simó, Sant Gregori",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/telde/parking-trastero-no-amueblado/188529984/d",
+      "id": 188529984,
+      "price": 175000,
+      "location": "Picachos, San Gregorio",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/carlet/aire-acondicionado-parking-trastero-ascensor/188044256/d",
+      "id": 188044256,
+      "price": 150000,
+      "location": "Carlet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-piscina/188585094/d",
+      "id": 188585094,
+      "price": 530000,
+      "location": "Progrés - Pep Ventura",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badajoz-capital/aire-acondicionado-parking-ascensor/187167264/d",
+      "id": 187167264,
+      "price": 169000,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/caldes-de-malavella/parking-no-amueblado/188566088/d",
+      "id": 188566088,
+      "price": 430000,
+      "location": "Calle General, De La, Caldes de Malavella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/orihuela/ascensor/188562976/d",
+      "id": 188562976,
+      "price": 125900,
+      "location": "Orihuela ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/huelva-capital/terraza-ascensor/187400819/d",
+      "id": 187400819,
+      "price": 209900,
+      "location": "Calle Calle de la Palma, 7, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/fuensanta-arcangel/188413102/d",
+      "id": 188413102,
+      "price": 129900,
+      "location": "Fuensanta- Arcángel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-amueblado/188557620/d",
+      "id": 188557620,
+      "price": 149000,
+      "location": "Carolinas Altas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-fernando/ascensor/188169297/d",
+      "id": 188169297,
+      "price": 189000,
+      "location": "El Cristo - Cayetano Roldán",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-trastero-patio-no-amueblado/187554811/d",
+      "id": 187554811,
+      "price": 440000,
+      "location": "Divino Vallés, Chopera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/calefaccion-no-amueblado/186308927/d",
+      "id": 186308927,
+      "price": 165000,
+      "location": "Numancia - San Fernando",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/teia/calefaccion-parking-jardin-amueblado/188299587/d",
+      "id": 188299587,
+      "price": 795000,
+      "location": "Teià",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-calefaccion-trastero-ascensor/188547441/d",
+      "id": 188547441,
+      "price": 250000,
+      "location": "ENMEDIO, Casco Histórico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-trastero/187678017/d",
+      "id": 187678017,
+      "price": 197000,
+      "location": "Calle Zarco, Sta. Marina - San Andrés - San Pablo - San Lorenzo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/el-carmel/188532434/d",
+      "id": 188532434,
+      "price": 150000,
+      "location": "El Carmel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-ascensor/188389980/d",
+      "id": 188389980,
+      "price": 1850000,
+      "location": "Barrio del Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ciudad-real-capital/aire-acondicionado-parking-jardin-terraza-trastero-patio-piscina/183421358/d",
+      "id": 183421358,
+      "price": 194999,
+      "location": "Carretera Carretera de Carrión, El Torreón - Los Ángeles - El Pilar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bescano/calefaccion-no-amueblado/188494188/d",
+      "id": 188494188,
+      "price": 290000,
+      "location": "Carrer Vidal i Barraquer, Bescanó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor-patio/186996930/d",
+      "id": 186996930,
+      "price": 540000,
+      "location": "Calle Aribau , Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sentmenat/aire-acondicionado-parking-jardin-piscina/188497101/d",
+      "id": 188497101,
+      "price": 360000,
+      "location": "Calle CAN CLAPERS JUSSA, Sentmenat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alella/aire-acondicionado-calefaccion-jardin-trastero-piscina/187805332/d",
+      "id": 187805332,
+      "price": 1980000,
+      "location": "Alella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/aire-acondicionado-terraza-ascensor/187580444/d",
+      "id": 187580444,
+      "price": 319900,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/carreno/jardin-ascensor/188126213/d",
+      "id": 188126213,
+      "price": 159000,
+      "location": "Calle Armando Palacio Valdés, Carreño",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-terraza-ascensor-no-amueblado/188163642/d",
+      "id": 188163642,
+      "price": 280000,
+      "location": "De Algodre, Vista Alegre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/ascensor-no-amueblado/188517572/d",
+      "id": 188517572,
+      "price": 269000,
+      "location": "Mangas Verdes - Las Flores - Parque del Sur",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cenes-de-la-vega/ascensor/188539237/d",
+      "id": 188539237,
+      "price": 125000,
+      "location": "Cenes de la Vega",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ribadesella/parking-jardin-terraza-trastero/188535301/d",
+      "id": 188535301,
+      "price": 700000,
+      "location": "Sebreño, Ribadesella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/ciudad-jardin-zoco/188479075/d",
+      "id": 188479075,
+      "price": 96500,
+      "location": "Ciudad Jardín - Zoco",
+      "type": "realEstate"
+    }
+  ]
+}

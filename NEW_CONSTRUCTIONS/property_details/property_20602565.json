@@ -1,0 +1,49 @@
+{
+  "property_id": "20602565",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20602565",
+  "scrape_date": "2026-01-21T03:15:10Z",
+  "title": "Boho 96",
+  "description": "Promoción exclusiva en el corazón de Almagro que combina la elegancia de una fachada histórica con un diseño interior moderno y funcional.\n\nLas viviendas de 1 y 2 dormitorios, parten desde 54 m² hasta 98 m² y el  ático dúplex cuenta con terraza y piscina privada.\n\nEl proyecto cuenta con amenities como gimnasio, zona común tipo lounge/business center, y eficiencia energética .\n\nLos precios parten desde 579.000 € hasta 1,8 M€.\n\t\t\t\t\nUna propuesta para quienes buscan vivir o invertir en una de las zonas más exclusivas de Madrid, con alta revalorización y estilo de vida premium.",
+  "contact_info": {
+    "phone_number": "910751436",
+    "advertiser_name": "Olisson Club",
+    "client_id": 9202762059565
+  },
+  "location": {
+    "city": " Madrid Capital",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.43812561035156,
+    "longitude": -3.69980788230896
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 65,
+    "max_surface": 175,
+    "min_price": 620000,
+    "max_price": 1899000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/210e7cd3-e24d-4de7-b046-f85ea0abb480?rule=original",
+    "https://static.fotocasa.es/images/ads/01803259-7ece-4c00-9d20-addb96caac5b?rule=original",
+    "https://static.fotocasa.es/images/ads/db3e87fa-e2bc-4f47-8156-ddc6c3056ca6?rule=original",
+    "https://static.fotocasa.es/images/ads/21975b7a-7f0e-4817-87bc-1a1aecf59e20?rule=original",
+    "https://static.fotocasa.es/images/ads/901a24ba-034f-4a1c-ba21-d411136955d1?rule=original",
+    "https://static.fotocasa.es/images/ads/56d426f9-7685-45b3-bf8d-4d627942382f?rule=original",
+    "https://static.fotocasa.es/images/ads/bb9162e1-dc80-4793-8343-31b0ee1094b9?rule=original",
+    "https://static.fotocasa.es/images/ads/e0db0462-4c44-4f8d-a22d-7488b0dd7a43?rule=original",
+    "https://static.fotocasa.es/images/ads/10d4e283-b62a-4a97-b172-85bd97886f01?rule=original",
+    "https://static.fotocasa.es/images/ads/b1f8b272-487a-4632-87e0-fedc80b2162f?rule=original",
+    "https://static.fotocasa.es/images/ads/c7647b5f-087b-4bd7-868c-29995301f239?rule=original",
+    "https://static.fotocasa.es/images/ads/4633ac1a-26ee-49b1-ab0c-e1167147eee6?rule=original",
+    "https://static.fotocasa.es/images/ads/f893eb75-6754-49d1-a5d3-12e1a266467e?rule=original",
+    "https://static.fotocasa.es/images/ads/3bf8579b-c199-4252-897c-1ed8a9f8969d?rule=original",
+    "https://static.fotocasa.es/images/ads/496ee011-b2c8-4e84-a629-d7fde5c0ad70?rule=original",
+    "https://static.fotocasa.es/images/ads/93342b94-afae-40d3-8d80-6f7ef49cd96c?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,49 @@
+{
+  "property_id": "20540634",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20540634",
+  "scrape_date": "2026-01-21T03:29:28Z",
+  "title": "RESIDENCIAL \"TORRE R02\"",
+  "description": "RESIDENCIAL LA TORRE R02.   \n\nDescubre tu nuevo hogar en Valencia: un exclusivo edificio de viviendas de PROTEGIDAS que combina confort, calidad y modernidad. Este complejo ofrece viviendas de 1 a 4 dormitorios. Todas ellas cuentan con amplias terrazas creando un hogar acogedor y cálido.\t\t\t\t\t\n\t\t\t\t\t\nEn la planta tercera podrás disfurtar de una zona común excepcional. Relajarte en el solarium y las piscinas, perfectas tanto para adultos como para niños y dónde los más pequeños podrán disfrutar de una zona de juegos.",
+  "contact_info": {
+    "phone_number": "961280746",
+    "advertiser_name": "PROARA",
+    "client_id": 9202774093929
+  },
+  "location": {
+    "city": " Valencia Capital",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.4349365234375,
+    "longitude": -0.3925412893295288
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 63,
+    "max_surface": 114,
+    "min_price": 172050,
+    "max_price": 295300
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/a47baf68-1dd3-49a6-b4ad-36d17a292de0?rule=original",
+    "https://static.fotocasa.es/images/ads/ccb9b767-edac-4af4-b895-a7782558debd?rule=original",
+    "https://static.fotocasa.es/images/ads/5ca2855c-972e-4596-a138-d99e72da1f20?rule=original",
+    "https://static.fotocasa.es/images/ads/0d1c992f-97c0-42e8-af56-2c0201b58812?rule=original",
+    "https://static.fotocasa.es/images/ads/384a277f-515b-450c-855e-f838367a52b7?rule=original",
+    "https://static.fotocasa.es/images/ads/504b4841-68b2-47e4-a91e-ef84fd538c03?rule=original",
+    "https://static.fotocasa.es/images/ads/66e08a80-f2ac-4a71-9e03-4d214e98ddea?rule=original",
+    "https://static.fotocasa.es/images/ads/9c66b54f-a9c0-44c7-b055-81018940fc2a?rule=original",
+    "https://static.fotocasa.es/images/ads/e6767cfe-e717-43b7-8664-5d9fb8946c3a?rule=original",
+    "https://static.fotocasa.es/images/ads/ff2ccb70-00f1-4910-bf74-752506e67b72?rule=original",
+    "https://static.fotocasa.es/images/ads/f1229d6f-e8be-40c5-aa6e-f4a58bffd88e?rule=original",
+    "https://static.fotocasa.es/images/ads/fbcf749a-1451-4af4-b0d3-9877a0070f0f?rule=original",
+    "https://static.fotocasa.es/images/ads/f53e3fc9-98af-4150-9d46-4b110ad93a9c?rule=original",
+    "https://static.fotocasa.es/images/ads/f1179ece-5ce6-4ee7-b64f-9869c03fca6d?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/d98290bc-a74e-4acf-a125-3f83adb0cd3c"
+  ]
+}

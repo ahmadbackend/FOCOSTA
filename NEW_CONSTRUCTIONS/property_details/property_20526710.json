@@ -1,0 +1,39 @@
+{
+  "property_id": "20526710",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/albacete-capital/20526710",
+  "scrape_date": "2026-01-21T03:24:33Z",
+  "title": "Passiv Tagaste",
+  "description": "9 VIVIENDAS PASIVAS EN BLOQUE CON PISCINA Y ZONAS COMUNES.Situadas en el barrio Industria, junto al Parque Lineal. Descubre una nueva forma de vivir con esta promoción única de viviendas pasivas de construcción industrializada, diseñadas para el máximo confort, eficiencia energética y sostenibilidad. Viviendas construídas bajo el estandard Passivhaus certificadas.  Zonas comunes con piscina. Con plaza de garaje y trastero incluido (22.000 €+ 8.000€)\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nCombinan un diseño moderno con materiales sostenibles y tecnología avanzada para garantizar un hogar saludable y respetuoso con el medio ambiente. Todas las viviendas cuentan con terrazas, 3 amplios dormitorios, 2 baños con acabados de alta calidad, cocina integrada en el espacio de vida. Salón- comedor espacioso y con grandes ventanales de triple vidrio que optimizan la luz natural y el aislamiento. Ambiente saludable gracias a la ventilación con recuperador de calor.",
+  "contact_info": {
+    "phone_number": "967650261",
+    "advertiser_name": "NIDO ZERO",
+    "client_id": 9202774594475
+  },
+  "location": {
+    "city": " Albacete Capital",
+    "province": "Albacete",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 39.004024505615234,
+    "longitude": -1.859772801399231
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 83,
+    "max_surface": 110,
+    "min_price": 280000,
+    "max_price": 310000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8abfb2fa-ccf3-4ffb-ba4e-bc250326d4d5?rule=original",
+    "https://static.fotocasa.es/images/ads/7a18c8b0-ee8b-4303-ae34-8379ae9f1d34?rule=original",
+    "https://static.fotocasa.es/images/ads/b65fdd66-7654-4d69-b155-2e27c249ceb2?rule=original",
+    "https://static.fotocasa.es/images/ads/4d181161-095c-438b-9762-cc7a8e463a55?rule=original",
+    "https://static.fotocasa.es/images/ads/271f740a-9670-4d81-9eb6-f352dc69cce8?rule=original",
+    "https://static.fotocasa.es/images/ads/5d7a7b23-b595-4691-83b0-37dc28a1f47f?rule=original"
+  ],
+  "videos": []
+}

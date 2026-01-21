@@ -1,0 +1,36 @@
+{
+  "property_id": "20610592",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/getafe/20610592",
+  "scrape_date": "2026-01-21T03:01:31Z",
+  "title": "Suite Los Molinos",
+  "description": "¡Obras iniciadas!\n\n \n\nDescubre Suite Los Molinos, una exclusiva promoción de obra nueva en una de las zonas con mayor proyección de Getafe: el barrio de Los Molinos. Viviendas diseñadas para ofrecerte calidad de vida, confort y todos los servicios que tú y tu familia necesitáis, a solo unos minutos de casa.\n\n \n\nElige entre modernas viviendas de 2 y 3 dormitorios, amplias, luminosas y con una distribución funcional. Todas cuentan con excelentes calidades, garaje y trastero incluidos, sistema de aerotermia y otros equipamientos.\n\n \n\nMuy pronto, podrás disfrutar de zonas comunes pensadas para tu bienestar, ideales para relajarte, compartir momentos y disfrutar sin salir de casa.\n\n \n\nSuite Los Molinos destaca por su ubicación privilegiada, en un entorno consolidado con todo lo que necesitas a tu alcance:\n\n \n\n● Centros educativos y guarderías\n\n● Áreas verdes, parques y zonas de paseo\n\n● Transporte público: Cercanías, autobuses y estación de Metro Los Espartales (Línea 3) a pocos minutos\n\n● Supermercados, comercios y servicios de proximidad\n\n● Centros de salud y equipamientos deportivos\n\n \n\nSuite Los Molinos es tu oportunidad de vivir mejor, en una zona en pleno crecimiento y con excelentes comunicaciones.\n\n \n\nContáctanos y reserva ya tu vivienda.",
+  "contact_info": {
+    "phone_number": "910753928",
+    "advertiser_name": "BROSH",
+    "client_id": 9202775718177
+  },
+  "location": {
+    "city": "Getafe",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.317901611328125,
+    "longitude": -3.6960835456848145
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 79,
+    "max_surface": 169,
+    "min_price": 377000,
+    "max_price": 735000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1954b978-d90a-4528-9775-5b7e4a169ada?rule=original",
+    "https://static.fotocasa.es/images/ads/4d8098cc-d708-4e21-b082-40a3a8ae859f?rule=original",
+    "https://static.fotocasa.es/images/ads/9dd2e7a4-be34-4443-9600-f586dd9afed9?rule=original"
+  ],
+  "videos": []
+}

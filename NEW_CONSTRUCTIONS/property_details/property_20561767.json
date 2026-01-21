@@ -1,0 +1,45 @@
+{
+  "property_id": "20561767",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20561767",
+  "scrape_date": "2026-01-21T04:04:46Z",
+  "title": "Talabar",
+  "description": "Descubre  TALABAR, una promoción exclusiva con viviendas de 2, 3 y 4 dormitorios con maravillosas vistas a La Vega de Granada, situadas en La Alquería, un nuevo barrio situado a un paso del centro de la ciudad. Esta zona tiene todos los servicios que necesitas a tu alcance: desde colegios hasta supermercados, pasando por centros deportivos y ofertas de ocio.\n\nLas viviendas de TALABAR están pensadas para que percibas su confort rodeado de primeras calidades. Para que disfrutes del entorno y la tranquilidad de tu nueva casa, AEDAS Homes ha previsto una construcción con ventanales y amplios espacios. Asimismo, todas las viviendas incluyen una plaza de garaje y trastero. Sus zonas comunes cuentan con piscina de adultos, piscina infantil, espacio de solarium, pista multideportiva, sala de comunidad, zona de juegos infantil, espacio para bicicletas y zonas ajardinadas. \n\nTALABAR se ubica a tan sólo 15 minutos del centro de la ciudad y ofrece rápidas conexiones a la autovía A-44.  Además si eres de los que prefiere utilizar el transporte público, a unos 200 metros podrás encontrar varias paradas de autobús.\n\nPunto de venta: Avenida de las Alpujarras, s/n, Granada.\nDe lunes a viernes de 10:00H a 14:00H y de 17:00H a 20:00H\nSábados de 11:00H a 14:00H.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": " Granada Capital",
+    "province": "Granada",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.18669128417969,
+    "longitude": -3.627692699432373
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 132,
+    "max_surface": 133,
+    "min_price": 392000,
+    "max_price": 409000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4c44999b-179f-4bb1-928f-33b731e444d0?rule=original",
+    "https://static.fotocasa.es/images/ads/dd99a3b8-cabe-4479-8501-7f04a201bc23?rule=original",
+    "https://static.fotocasa.es/images/ads/1864a2a6-a95a-4618-8e29-a0deba686f96?rule=original",
+    "https://static.fotocasa.es/images/ads/570b1e25-9e76-4e9b-8edf-726e98180d1a?rule=original",
+    "https://static.fotocasa.es/images/ads/3d6f6fab-66fe-4985-b7c4-b1e2617c2d9f?rule=original",
+    "https://static.fotocasa.es/images/ads/9b4af2a9-e034-4b66-a322-1db58bcb279a?rule=original",
+    "https://static.fotocasa.es/images/ads/cbd979ca-f0af-42e0-bf15-ead00ea2afcf?rule=original",
+    "https://static.fotocasa.es/images/ads/8c211e8a-eb66-42ba-8794-0f2434891a18?rule=original",
+    "https://static.fotocasa.es/images/ads/b0e031c4-3f7d-4971-b92d-9be493f4bbca?rule=original",
+    "https://static.fotocasa.es/images/ads/76fc3fd7-b840-4192-8eef-8899a8590f07?rule=original",
+    "https://static.fotocasa.es/images/ads/534021f2-62c7-4076-baf2-e0d49622ab78?rule=original",
+    "https://static.fotocasa.es/images/ads/d2d9372f-ff6f-47f8-9e52-8f78b5675c89?rule=original"
+  ],
+  "videos": []
+}

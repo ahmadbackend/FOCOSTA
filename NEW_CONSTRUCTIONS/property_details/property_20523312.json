@@ -1,0 +1,42 @@
+{
+  "property_id": "20523312",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/leon-capital/20523312",
+  "scrape_date": "2026-01-21T04:12:17Z",
+  "title": "landCo Golf León",
+  "description": "EN CONSTRUCCIÓN | ENTREGA EN 2026. \n\nOBRAS INICIADAS.\n\nPromoción de Obra Nueva. Exclusivas viviendas de 1-2-3-4-dormitorios en la zona norte de Eras de Renueva, en la ciudad de León, a tan sólo cinco minutos del centro de la ciudad.\n\nlandCo Golf León, promoción inmobiliaria de obra nueva en León, con las mejores vistas al campo de golf. Excepcionales viviendas de 1, 2, 3 y 4 dormitorios con amplias y luminosas terrazas (entre 5 y 12 m2), áticos y plantas bajas con terrazas/jardines (entre 27 y 69 m2).\n\nTanto por su ubicación como por la calidad y características de su diseño, landCo Golf León, es sinónimo de exclusividad, con magníficos espacios y jardines adecuados para el entretenimiento y la diversión.\n\nLa gran mayoría de las viviendas disfrutan de doble orientación este–oeste, e increíbles vistas al campo de golf. El proyecto residencial incluye una amplia variedad de tipologías y distribuciones para adaptarse y satisfacer todas las necesidades y preferencias. Los interiores han sido cuidadosamente diseñados para crear ambientes amplios y luminosos integrando cocinas y salones con accesos directos a las terrazas.\n\nInteriores cuidados y acabados inmejorables, con una memoria de calidades muy completa: certificación energética A, cocinas amuebladas con principales electrodomésticos, armarios empotrados modulares, sistema de aerotermia para la generación de agua caliente sanitaria y calefacción con apoyo de instalación de paneles fotovoltaicos en cubierta, calefacción con suelo radiante y refrescante en toda la vivienda, preinstalación para carga de vehículos eléctricos…\n\nlandCo Golf León se encuentra en la calle Justino Azcárate, 4, en la prolongación del paseo del Río Bernesga, una de las zonas de expansión de la ciudad de León más atractivas.\n\nEl lugar perfecto para vivir y disfrutar de la naturaleza y el deporte con el Parque Monte de San Isidro. Vistas al campo de Golf Club Deportivo Olímpico de León y con amplias zonas peatonales y carriles bici con comunicación directa con el centro de León.\n\nFinanciación del Banco Santander.",
+  "contact_info": {
+    "phone_number": "987321741",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "León Capital ",
+    "province": "León",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 42.62860107421875,
+    "longitude": -5.600470066070557
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 93,
+    "max_surface": 122,
+    "min_price": 196000,
+    "max_price": 246000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/3d23858a-e00b-4f2b-bda7-0873b4eff0a2?rule=original",
+    "https://static.fotocasa.es/images/ads/73ce73ef-0c2e-40e6-8d1d-c44cc17b3777?rule=original",
+    "https://static.fotocasa.es/images/ads/4a83d927-9131-49f7-89ca-3e842e2b0cbc?rule=original",
+    "https://static.fotocasa.es/images/ads/08f51f2e-d473-441f-bba9-5fe3be670028?rule=original",
+    "https://static.fotocasa.es/images/ads/1cb41d57-445a-436d-afc6-838b6bdea48b?rule=original",
+    "https://static.fotocasa.es/images/ads/1ac27760-8dcc-4b74-bcfc-9a5af314306c?rule=original",
+    "https://static.fotocasa.es/images/ads/7d68bd06-5daa-4bef-82d7-0bf4ded04352?rule=original",
+    "https://static.fotocasa.es/images/ads/e59c0309-8b4d-498e-be7c-8656d3cf04b7?rule=original",
+    "https://static.fotocasa.es/images/ads/e59623da-d89b-4e20-acfc-19d03388fbc3?rule=original"
+  ],
+  "videos": []
+}

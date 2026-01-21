@@ -1,0 +1,46 @@
+{
+  "property_id": "20563434",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20563434",
+  "scrape_date": "2026-01-21T03:13:45Z",
+  "title": "COLLADO DE SUEÑOS, S. COOP. MAD",
+  "description": "INGESCASA presenta y gestiona su 2º proyecto en Los Berrocales (Madrid).\n\n\"Collado de Sueños, S. Coop. Mad\", una exclusiva promoción en régimen de cooperativa que ofrece 26 viviendas libres de 1, 2 y 3 dormitorios, todas con terraza y distribuidas en dos portales. Ubicada en el centro de la Etapa III.\n\nEl proyecto incluye espectaculares bajos con jardín y áticos con amplias terrazas, diseñados para ofrecer el máximo confort y calidad de vida. Todas las viviendas contarán con cocina amueblada, plaza de garaje, trastero y acabados de alta calidad, apostando por la eficiencia energética y el bienestar de sus residentes. La climatización se realiza mediante suelo radiante/refrescante por aerotermia, una solución sostenible, moderna y eficiente.\n\nLos Berrocales  es un nuevo barrio conectado y en plena expansión que se consolida como uno de los desarrollos urbanos con mayor proyección de Madrid. Con una ubicación estratégica, permite acceder al centro de la capital en apenas 15 minutos en coche, y se conecta fácilmente con barrios como El Cañaveral, Vallecas o Rivas, gracias a su proximidad con la M-50, A-3 y M-45.\n\nEl entorno ofrece todos los servicios necesarios a pocos minutos: colegios, centros educativos, hospitales, centros comerciales y zonas verdes. Además, Los Berrocales y el Ensanche de Vallecas están unidos por dos nuevos puentes sobre la A-3, que facilitan la movilidad de vehículos, bicicletas y peatones.\n\nCon más de 8,3 millones de metros cuadrados de desarrollo urbanístico y una previsión de 22.285 viviendas, Los Berrocales supera en escala incluso a El Cañaveral y Madrid Nuevo Norte, consolidándose como un polo residencial clave en el crecimiento de la ciudad.\n\nEstás a tiempo de elegir la vivienda que mejor se adapta a tus necesidades y estilo de vida. Participa como Socio desde el inicio en este ilusionante proyecto cooperativo, porque ahora:\n\n¡¡ ES TU MOMENTO !!   ES LA VIVIENDA  NUEVA DE TUS SUEÑOS",
+  "contact_info": {
+    "phone_number": "+34914491590",
+    "advertiser_name": "INGESCASA",
+    "client_id": 9202774328063
+  },
+  "location": {
+    "city": " Madrid Capital",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.37596130371094,
+    "longitude": -3.5711729526519775
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 0,
+    "max_bathrooms": 2,
+    "min_surface": 47,
+    "max_surface": 324,
+    "min_price": 280000,
+    "max_price": 645000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/de040acd-125f-4a7d-b077-b1c6864d5dd9?rule=original",
+    "https://static.fotocasa.es/images/ads/0bee43ef-50b1-461f-acc5-cba8e16ad2c9?rule=original",
+    "https://static.fotocasa.es/images/ads/1aecce49-d6c1-49f9-ae06-8f63630e2422?rule=original",
+    "https://static.fotocasa.es/images/ads/a9c39560-e70e-401f-ae14-63334a58fcc8?rule=original",
+    "https://static.fotocasa.es/images/ads/9a88628f-f67d-4aa1-864e-b8cfc37d8ad3?rule=original",
+    "https://static.fotocasa.es/images/ads/2e2a7549-df07-4992-ace2-87f08be3c18f?rule=original",
+    "https://static.fotocasa.es/images/ads/5ff0f708-f6e1-4ca7-affb-bc0bc545d30e?rule=original",
+    "https://static.fotocasa.es/images/ads/bd6ee7be-0a95-4edc-a8c1-2894825fef3f?rule=original",
+    "https://static.fotocasa.es/images/ads/99bf34bd-3641-4eaf-9cfd-cb44a9aed449?rule=original",
+    "https://static.fotocasa.es/images/ads/6dd7ff3f-6431-4de2-9643-8be80d161eb6?rule=original",
+    "https://static.fotocasa.es/images/ads/1e1984e0-f3cf-4946-9f08-eb5b7536e43c?rule=original",
+    "https://static.fotocasa.es/images/ads/15b8b87a-9244-4de3-814f-0bbc74584b5d?rule=original",
+    "https://static.fotocasa.es/images/ads/4bdc2b50-337c-4bdc-9d1e-aa3963f5968a?rule=original"
+  ],
+  "videos": []
+}

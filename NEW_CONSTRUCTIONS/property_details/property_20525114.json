@@ -1,0 +1,63 @@
+{
+  "property_id": "20525114",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-alcaidesa/20525114",
+  "scrape_date": "2026-01-21T02:46:19Z",
+  "title": "Atria F1",
+  "description": "¡Inicio de construcción!\nATRIA es el nuevo complejo residencial de obra nueva situado en La Alcaidesa, donde encontrarás mucho más que una vivienda. Hallarás un hermoso jardín donde prolongar tu hogar. El conjunto está formado por 144 viviendas plurifamiliares de 2 y 3 dormitorios con plaza de aparcamiento y trastero.  Dentro de las amplias zonas comunes encontramos gran cantidad de especies vegetales que envuelven la piscina, además de gimnasio, zona de meditación al aire libre, spa, sala comunitaria con co-working, pista de voley-playa y zona infantil. \nEl conjunto se divide en dos fases:\nFase 1 compuesta por los bloques 4, 5 y 6 (72 viviendas), piscina, Spa, Coworking, gimnasio, zona infantil, pista deportiva y zona de meditación\nFase 2 compuesta por los bloques 1, 2 y 3 (72 viviendas)",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": "La Alcaidesa",
+    "province": "Cádiz",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.23754119873047,
+    "longitude": -5.330525875091553
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 135,
+    "max_surface": 185,
+    "min_price": 448000,
+    "max_price": 602000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/583717c4-3d93-4126-a139-484143897284?rule=original",
+    "https://static.fotocasa.es/images/ads/14009a95-7440-4ae2-8ebd-a21d90dc5cf9?rule=original",
+    "https://static.fotocasa.es/images/ads/c7c78a31-45a6-4b8c-bb8a-6ada9ea5cd74?rule=original",
+    "https://static.fotocasa.es/images/ads/5b872f44-4d13-4740-a63a-2412b271c472?rule=original",
+    "https://static.fotocasa.es/images/ads/39816b5d-4ee8-4abf-8636-7087a54fa753?rule=original",
+    "https://static.fotocasa.es/images/ads/180844ac-a799-4dd3-938d-c50c1ba6aa8c?rule=original",
+    "https://static.fotocasa.es/images/ads/ea4cc59e-2547-4515-8bb2-2d1c93dcdc3d?rule=original",
+    "https://static.fotocasa.es/images/ads/844a96a6-3324-4a13-9e27-c1845c8affc1?rule=original",
+    "https://static.fotocasa.es/images/ads/7a128435-4e8e-4eff-af5e-04490a04a411?rule=original",
+    "https://static.fotocasa.es/images/ads/7b4eb526-de76-4cd9-bf46-dfe8eae84c6c?rule=original",
+    "https://static.fotocasa.es/images/ads/6a9fd048-181d-47d2-84c3-a6b6be890b6d?rule=original",
+    "https://static.fotocasa.es/images/ads/977d0f51-472c-4352-9c77-3daadd7383b6?rule=original",
+    "https://static.fotocasa.es/images/ads/7d7fe971-2685-4ecd-84fb-ab9e3e9348fa?rule=original",
+    "https://static.fotocasa.es/images/ads/1fda63de-8b58-4560-9d5a-02b534ec48ce?rule=original",
+    "https://static.fotocasa.es/images/ads/1e61b85b-62ad-486e-a6c2-842cc8de0884?rule=original",
+    "https://static.fotocasa.es/images/ads/8935bc8a-f74d-47fa-873d-8483a37831e7?rule=original",
+    "https://static.fotocasa.es/images/ads/c7a58c53-1d64-4c43-8bc5-fa78c97687ea?rule=original",
+    "https://static.fotocasa.es/images/ads/6da26f70-75f5-449c-8682-fc66bb541684?rule=original",
+    "https://static.fotocasa.es/images/ads/1c533168-7197-4ee2-87e8-aa5e5b57afb9?rule=original",
+    "https://static.fotocasa.es/images/ads/6856d48f-73df-40f0-9efa-b55f131b0719?rule=original",
+    "https://static.fotocasa.es/images/ads/4e770025-4d8f-426b-b00d-c520b8b3eef2?rule=original",
+    "https://static.fotocasa.es/images/ads/5ee2b34f-8af6-436b-a791-86fa7717f0d5?rule=original",
+    "https://static.fotocasa.es/images/ads/3deb2ded-86cf-4787-adca-7be3bc707342?rule=original",
+    "https://static.fotocasa.es/images/ads/2baf62e1-7db8-48ad-b531-508f655a07f0?rule=original",
+    "https://static.fotocasa.es/images/ads/2eb1baf2-e41b-42a2-939d-9a6c5cf60f28?rule=original",
+    "https://static.fotocasa.es/images/ads/5bd8d209-3103-41ad-8667-d50cd0a4b92a?rule=original",
+    "https://static.fotocasa.es/images/ads/8f8f297f-6d7f-4b28-b0ce-22b4be4337a9?rule=original",
+    "https://static.fotocasa.es/images/ads/99b05fd1-cceb-4b17-9311-dfda54510ec5?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/cd1e2c2c-f573-4326-a068-5bd3bc31fbae?rule=original"
+  ]
+}

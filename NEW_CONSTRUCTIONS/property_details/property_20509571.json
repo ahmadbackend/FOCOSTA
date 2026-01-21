@@ -1,0 +1,39 @@
+{
+  "property_id": "20509571",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sitges/20509571",
+  "scrape_date": "2026-01-21T03:27:33Z",
+  "title": "ALT VINYET LIVING",
+  "description": "PROMOCIÓN ALT VINYET LIVING en Sitges\n\n¡PRÓXIMA CONSTRUCCIÓN! \nPromoción exclusiva situada en la zona Can Pei de Sitges. \n\nEste proyecto consta de 12 viviendas plurifamiliares distribuidas en 6 plantas bajas de 1 y 2 habitaciones con superficies construidas entre 43,80m2 y 52,45m2, cinco de estas viviendas con entrada directa desde la calle, independiente a la zona comunitaria, 6 áticos-dúplex de 3 y 4 habitaciones con superficies construidas entre 109,8 m2 y 144m2 con solariums y vistas al mar. \n\nLas viviendas cuentan con:\nCocinas equipadas con electrodomésticos de primeras marcas, encimera silestone o similar.\nBaños revestidos con gres porcelánico.\nTecnología de última generación para eficiencia energética.\nAcabados de alta calidad con espacios luminosos.\nPlaza de aparcamiento incluida en el precio .\n\nA 5 minutos en coche de la playa y a 14 minutos caminando.\nAcceso rápido a Barcelona, Tarragona y Vilanova. Aeropuerto de Barcelona a 26 minutos en coche.\n\nFecha estimada de entrega de llaves finales 2025",
+  "contact_info": {
+    "phone_number": "932398278",
+    "advertiser_name": "PROMULER SL.",
+    "client_id": 9202774288685
+  },
+  "location": {
+    "city": "Sitges",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.23573684692383,
+    "longitude": 1.7897695302963257
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 106,
+    "max_surface": 114,
+    "min_price": 739000,
+    "max_price": 789000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/3e378ccc-3e37-478e-ad27-3a58e3635ad3?rule=original",
+    "https://static.fotocasa.es/images/ads/81888616-6a47-41af-88ea-957aad229fcc?rule=original",
+    "https://static.fotocasa.es/images/ads/d9b6db48-8890-461c-a98c-c3786b90a13d?rule=original",
+    "https://static.fotocasa.es/images/ads/df3fad6b-91e8-4430-8762-b922d358a916?rule=original",
+    "https://static.fotocasa.es/images/ads/85729c27-6d73-4655-9bb6-82f3debcefd8?rule=original",
+    "https://static.fotocasa.es/images/ads/b2f975a1-aa23-4368-8037-4ef9eae0691a?rule=original"
+  ],
+  "videos": []
+}

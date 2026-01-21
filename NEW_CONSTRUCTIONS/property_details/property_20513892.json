@@ -1,0 +1,41 @@
+{
+  "property_id": "20513892",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/oviedo/20513892",
+  "scrape_date": "2026-01-21T03:14:54Z",
+  "title": "PL PLAZA DE LA LILA",
+  "description": "Plaza de La Lila es el privilegio de vivir en el corazón de Oviedo, en una ubicación estratégica de la ciudad al lado del Corte Inglés, concretamente en la Calle General Elorza nº 67 con Calle La Lila, a tan solo 5 minutos de la Calle Uría.\n\nUn verdadero oasis de paz y tranquilidad que combina a la perfección el sosiego de Plaza de La Lila con la actividad y servicios de General Elorza.\n\nPlaza de La Lila ofrece pisos y áticos de 2 a 4 dormitorios con plaza de garaje y trastero en el seno de un complejo residencial de arquitectura contemporánea con coworking, sala multiuso y zona comunitaria, en el que la luz es protagonista.\n\nDiseño y luminosidad se dan la mano para crear un nuevo espacio de vida urbano perfectamente integrado en su entorno.\n\nPlaza de La Lila es una elección acertada en valor y en calidad de vida; una apuesta inteligente para una vida cómoda y tranquila sin renunciar a nada.\n\nVen a conocer nuestro piso piloto\n\nA partir del lunes 24 de febrero, podrás conocer a través de una visita guiada el piso piloto de Plaza de la Lila.",
+  "contact_info": {
+    "phone_number": "928190461",
+    "advertiser_name": "AVANTESPACIA INMOBILIARIA SL",
+    "client_id": 9202765409753
+  },
+  "location": {
+    "city": "Oviedo ",
+    "province": "Asturias",
+    "region": "Asturias",
+    "country": "España",
+    "latitude": 43.36677169799805,
+    "longitude": -5.8483452796936035
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 0,
+    "max_bathrooms": 2,
+    "min_surface": 41,
+    "max_surface": 847,
+    "min_price": 240000,
+    "max_price": 645650
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/181725d0-931f-4225-a52b-950549c177cc?rule=original",
+    "https://static.fotocasa.es/images/ads/28c68a6b-238d-4cf7-abb4-f71c2cc50c69?rule=original",
+    "https://static.fotocasa.es/images/ads/f60d5037-b213-492c-b073-84fafa1f7426?rule=original",
+    "https://static.fotocasa.es/images/ads/be44184a-6c2c-409c-beeb-e8b4919654e9?rule=original",
+    "https://static.fotocasa.es/images/ads/be2e8e69-4395-4ce8-922b-c81e258e748c?rule=original",
+    "https://static.fotocasa.es/images/ads/1f836ab0-cfc7-48de-8292-22a840abc325?rule=original",
+    "https://static.fotocasa.es/images/ads/8f2d20ba-76f6-434f-a48a-6b4388d4308d?rule=original",
+    "https://static.fotocasa.es/images/ads/7e885500-e3e5-4fd3-b2dd-30217bfbeda8?rule=original"
+  ],
+  "videos": []
+}

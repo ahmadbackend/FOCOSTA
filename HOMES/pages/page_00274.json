@@ -1,0 +1,225 @@
+{
+  "page": 274,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/274",
+  "scrape_date": "2026-01-21T04:23:32.910819",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor/187977624/d",
+      "id": 187977624,
+      "price": 1165000,
+      "location": "Castellana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/parking-ascensor-no-amueblado/187636041/d",
+      "id": 187636041,
+      "price": 229900,
+      "location": "Les Fonts",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-quirze-del-valles/aire-acondicionado-calefaccion-parking-jardin-terraza/188058356/d",
+      "id": 188058356,
+      "price": 575000,
+      "location": "Sant Quirze Parc- Vallsuau - Castellet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santiago-de-compostela/calefaccion/187425448/d",
+      "id": 187425448,
+      "price": 155000,
+      "location": "San Lázaro - Meixonfrío",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/montornes-del-valles/no-amueblado/187776851/d",
+      "id": 187776851,
+      "price": 620000,
+      "location": "DE PAU CASALS, Montornès del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gelida/calefaccion/187799375/d",
+      "id": 187799375,
+      "price": 185000,
+      "location": "Gelida",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sariegos/calefaccion-parking/188185606/d",
+      "id": 188185606,
+      "price": 595000,
+      "location": "Sariegos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-no-amueblado/188056906/d",
+      "id": 188056906,
+      "price": 350000,
+      "location": "Universidad - Malasaña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bollullos-de-la-mitacion/aire-acondicionado-calefaccion-terraza-no-amueblado/188106814/d",
+      "id": 188106814,
+      "price": 220000,
+      "location": "Bollullos de la Mitación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-sebastian-de-los-reyes/calefaccion-patio/188103383/d",
+      "id": 188103383,
+      "price": 290000,
+      "location": "Centro Urbano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/collado-villalba/calefaccion-jardin-no-amueblado/187529851/d",
+      "id": 187529851,
+      "price": 460000,
+      "location": "Parque de la Coruña - Las Suertes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chipiona/aire-acondicionado-parking-terraza-ascensor-piscina-amueblado/187944246/d",
+      "id": 187944246,
+      "price": 370000,
+      "location": "Las Tres Piedras - Costa Ballena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chipiona/aire-acondicionado-parking-terraza-ascensor-piscina-amueblado/187923321/d",
+      "id": 187923321,
+      "price": 298000,
+      "location": "Las Tres Piedras - Costa Ballena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canet-de-mar/calefaccion-terraza-no-amueblado/187930489/d",
+      "id": 187930489,
+      "price": 370000,
+      "location": "Canet de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lugo-capital/ascensor-no-amueblado/187485330/d",
+      "id": 187485330,
+      "price": 86000,
+      "location": "Paradai",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/olivella/aire-acondicionado-calefaccion-jardin-piscina/187744979/d",
+      "id": 187744979,
+      "price": 630000,
+      "location": "Olivella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fortuna/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina-no-amueblado/187648371/d",
+      "id": 187648371,
+      "price": 499900,
+      "location": "Fortuna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cabrera-de-mar/calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/184394581/d",
+      "id": 184394581,
+      "price": 1460000,
+      "location": "Cabrera de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mijas/parking-terraza-ascensor/184180027/d",
+      "id": 184180027,
+      "price": 360000,
+      "location": "Las Flores",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gandia/calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/184427982/d",
+      "id": 184427982,
+      "price": 350000,
+      "location": "Urbanizaciones",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/aire-acondicionado-calefaccion-jardin-trastero-piscina-no-amueblado/184282503/d",
+      "id": 184282503,
+      "price": 1350000,
+      "location": "Castillo Campodón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-quirze-del-valles/calefaccion-ascensor/187019131/d",
+      "id": 187019131,
+      "price": 215000,
+      "location": "Can Casablanques",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canet-d-en-berenguer/calefaccion-parking-jardin-terraza-patio-no-amueblado/184547366/d",
+      "id": 184547366,
+      "price": 850000,
+      "location": "Canet d'En Berenguer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/parking-jardin-terraza-zona-comunitaria-patio-piscina-piscina-no-amueblado/186296402/d",
+      "id": 186296402,
+      "price": 550000,
+      "location": "Mas Trempat - Sant Amanç - Casa Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/argentona/calefaccion-parking-jardin-terraza-trastero-no-amueblado/182773177/d",
+      "id": 182773177,
+      "price": 569000,
+      "location": "Sud  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/miraflores-de-la-sierra/20509533/185699364",
+      "id": 185699364,
+      "price": 565000,
+      "location": "Miraflores de la Sierra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/velez-malaga/aire-acondicionado-jardin-piscina/187886396/d",
+      "id": 187886396,
+      "price": 455000,
+      "location": "Viña Málaga",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilanova-del-valles/jardin-terraza-trastero-piscina/187986141/d",
+      "id": 187986141,
+      "price": 440000,
+      "location": "Vilanova del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gelida/gelida/187973026/d",
+      "id": 187973026,
+      "price": 159000,
+      "location": "Gelida",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-rinconada/san-jose-de-la-rinconada/188334830/d",
+      "id": 188334830,
+      "price": 250000,
+      "location": "San José de la Rinconada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaluenga-de-la-sagra/jardin-terraza-trastero/187982113/d",
+      "id": 187982113,
+      "price": 230000,
+      "location": "Villaluenga de la Sagra",
+      "type": "realEstate"
+    }
+  ]
+}

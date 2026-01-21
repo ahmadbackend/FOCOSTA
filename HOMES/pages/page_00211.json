@@ -1,0 +1,225 @@
+{
+  "page": 211,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/211",
+  "scrape_date": "2026-01-21T04:22:18.709331",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-amueblado-television-internet/187434072/d",
+      "id": 187434072,
+      "price": 889000,
+      "location": "Conde de Peñalver, Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tossa-de-mar/aire-acondicionado-calefaccion-ascensor/186411341/d",
+      "id": 186411341,
+      "price": 247000,
+      "location": "Tossa de Mar pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/marratxi/aire-acondicionado-calefaccion-jardin-terraza/186052601/d",
+      "id": 186052601,
+      "price": 530000,
+      "location": "Camino Camí de Son Ametler, Son Ametller",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roquetas-de-mar/aire-acondicionado/187292522/d",
+      "id": 187292522,
+      "price": 269000,
+      "location": "Los Limoneros, 6, Aguadulce Sur",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/durango/calefaccion-parking-jardin-terraza-ascensor/182978646/d",
+      "id": 182978646,
+      "price": 295000,
+      "location": "Durango",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/empuriabrava/aire-acondicionado-calefaccion-terraza/186424922/d",
+      "id": 186424922,
+      "price": 449000,
+      "location": "PORT EMPURIES, Port Banyuls - Port Alegre - Port Empordà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pucol/aire-acondicionado-parking-terraza-ascensor-amueblado/187092348/d",
+      "id": 187092348,
+      "price": 179000,
+      "location": "Carrer els Ports, Puçol Ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/segovia-capital/calefaccion-parking-jardin-terraza-ascensor/178370031/d",
+      "id": 178370031,
+      "price": 250000,
+      "location": "El Carmen",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/ascensor-no-amueblado/185578996/d",
+      "id": 185578996,
+      "price": 495000,
+      "location": "Calle Doctor Domagk, 1, Russafa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-pobla-de-farnals/aire-acondicionado-calefaccion-jardin-terraza-ascensor-piscina-amueblado/186712825/d",
+      "id": 186712825,
+      "price": 280000,
+      "location": "Avenida de la Constitució, Platja de la Pobla de Farnals",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/melilla-capital/aire-acondicionado-zona-comunitaria-ascensor-amueblado-piscina/186608122/d",
+      "id": 186608122,
+      "price": 290000,
+      "location": "Calle Marqués de Montemar, 21, El Industrial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/denia/aire-acondicionado-jardin-terraza-piscina-no-amueblado/177439831/d",
+      "id": 177439831,
+      "price": 649000,
+      "location": "Carrer del Nard, El Montgó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/riudoms/jardin-terraza-trastero/182343420/d",
+      "id": 182343420,
+      "price": 875000,
+      "location": "Carretera Riudoms-Vinyols, Riudoms",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-coloma-de-gramenet/aire-acondicionado-terraza-ascensor/185822571/d",
+      "id": 185822571,
+      "price": 199000,
+      "location": "Calle Dalt dels Banús, Santa Rosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-trastero-ascensor/188599148/d",
+      "id": 188599148,
+      "price": 445000,
+      "location": "C/ Dr. Espinosa Orive, Miribilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/terraza/185478459/d",
+      "id": 185478459,
+      "price": 546000,
+      "location": "PROLONGACION SUR ISLA DE ZORROZAURE, -1, San Pedro de Deusto - La Ribera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/terraza/185478462/d",
+      "id": 185478462,
+      "price": 455000,
+      "location": "PROLONGACION SUR ISLA DE ZORROZAURE, -1, San Pedro de Deusto - La Ribera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torremolinos/aire-acondicionado-parking-terraza-ascensor-piscina/188206029/d",
+      "id": 188206029,
+      "price": 499000,
+      "location": "Calle Calle de la Ciudad de Porcuna, La Carihuela - Los Nidos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/parets-del-valles/aire-acondicionado-calefaccion-ascensor/187899375/d",
+      "id": 187899375,
+      "price": 270000,
+      "location": "Parets del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mollet-del-valles/aire-acondicionado-calefaccion-parking-trastero-zona-comunitaria-ascensor-patio/188254971/d",
+      "id": 188254971,
+      "price": 290000,
+      "location": "Can Borrell",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mollet-del-valles/aire-acondicionado-calefaccion-parking-ascensor/188276379/d",
+      "id": 188276379,
+      "price": 199500,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiclana-de-la-frontera/aire-acondicionado-terraza/187917597/d",
+      "id": 187917597,
+      "price": 139000,
+      "location": "La Banda - Campo de Fútbol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-parking-trastero-ascensor/188060735/d",
+      "id": 188060735,
+      "price": 285000,
+      "location": "Ciudad Jardín - Zoco",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/andoain/ascensor/188242316/d",
+      "id": 188242316,
+      "price": 210000,
+      "location": "Andoain",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-torre-de-claramunt/parking-jardin-terraza-trastero-patio/188503989/d",
+      "id": 188503989,
+      "price": 320000,
+      "location": "La Torre de Claramunt",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santiago-de-compostela/calefaccion-parking-ascensor-amueblado/187387514/d",
+      "id": 187387514,
+      "price": 150000,
+      "location": "Travesía do Restollal, 1, Castiñeiriño - Cruceiro de Sar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/la-font-d-en-fargues/188560891/d",
+      "id": 188560891,
+      "price": 285000,
+      "location": "Calle Penyal, La Font d'en Fargues",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-boi-de-llobregat/ascensor-no-amueblado/188336425/d",
+      "id": 188336425,
+      "price": 258000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palamos/calefaccion-zona-comunitaria-ascensor-no-amueblado/186982182/d",
+      "id": 186982182,
+      "price": 205000,
+      "location": "Sant Joan - Vilarromà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-ascensor/188111377/d",
+      "id": 188111377,
+      "price": 375000,
+      "location": "Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torremolinos/aire-acondicionado-parking-terraza-ascensor-piscina/187646243/d",
+      "id": 187646243,
+      "price": 568000,
+      "location": "Playamar - Benyamina",
+      "type": "realEstate"
+    }
+  ]
+}

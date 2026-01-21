@@ -1,0 +1,48 @@
+{
+  "property_id": "20561182",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/rincon-de-la-victoria/20561182",
+  "scrape_date": "2026-01-21T04:20:24Z",
+  "title": "Idilia Aire",
+  "description": "Idilia Aire es una promoción que consta de 55 viviendas distribuidas en 3 bloques de 1, 2 y 3 dormitorios con vistas al mar. Dispone de rápido acceso a la A7 y AP-7, encontrándose a escasos kilometros de Málaga capital y además ubicada a 500 metros de la playa. Estas viviendas cuentan con cocinas abiertas y totalmente equipadas, amplias terrazas, garaje, trastero, pisicina comunitaria y tambien una sala deportiva. \t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nPunto de venta: C/ Miño s/n. 29730 Torre de Benagalbón -R. de la Victoria ( Málaga )                                                                                                                                                                                                                                                                               Horario de atención\nLunes a viernes de 10:00 am a 18:00 pm, sábados de 10:00 am a 14:00 pm\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Rincón de la Victoria",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.71535110473633,
+    "longitude": -4.258628845214844
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 102,
+    "max_surface": 130,
+    "min_price": 430000,
+    "max_price": 750000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4f3a79f8-cf3d-4f87-868d-8f95f22e2302?rule=original",
+    "https://static.fotocasa.es/images/ads/8ff1808a-6b61-4b57-8a78-5b94d70212e1?rule=original",
+    "https://static.fotocasa.es/images/ads/72982281-66b9-45d2-abf8-77c1b221c6e3?rule=original",
+    "https://static.fotocasa.es/images/ads/1d7eeb79-e808-45c8-8d33-caa12bf54ab6?rule=original",
+    "https://static.fotocasa.es/images/ads/d7e72cfd-e50d-478e-be4a-c20f96440a25?rule=original",
+    "https://static.fotocasa.es/images/ads/22f60480-70a6-4925-b910-bc33c62ad1de?rule=original",
+    "https://static.fotocasa.es/images/ads/91aa8d9f-cc17-4a16-8db2-a3c952d6cb0e?rule=original",
+    "https://static.fotocasa.es/images/ads/64999203-cd75-41eb-9e95-58e8d86b6a9d?rule=original",
+    "https://static.fotocasa.es/images/ads/07bc5395-ee8f-4871-a186-a81f099f3c48?rule=original",
+    "https://static.fotocasa.es/images/ads/c08bff41-3958-452c-b1d3-2bae29bb3bbd?rule=original",
+    "https://static.fotocasa.es/images/ads/7bc4d888-c18b-4d16-80c7-a8ac7befc5ac?rule=original",
+    "https://static.fotocasa.es/images/ads/800d163d-1917-48d4-9777-09a2d8ff80e2?rule=original",
+    "https://static.fotocasa.es/images/ads/b4d87682-0957-4def-84f8-f7962c03ed59?rule=original",
+    "https://static.fotocasa.es/images/ads/8c60d58e-5fe4-402d-95fd-161249ca228d?rule=original",
+    "https://static.fotocasa.es/images/ads/f12d5a9a-53fd-45d9-a2b4-cff311fa8695?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,46 @@
+{
+  "property_id": "20564890",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20564890",
+  "scrape_date": "2026-01-21T04:06:46Z",
+  "title": "GRADIA",
+  "description": "Descubre GRADIA, una promoción exclusiva con viviendas de 2, 3 y 4 dormitorios adaptadas a tus necesidades en una de las mejores ubicaciones de Sevilla, en Avda. de Jerez, una zona con todos los servicios a tu alrededor y a 5 minutos del centro.\n\nEn GRADIA encontrarás viviendas exclusivas perfectas tanto para familias en crecimiento como para aquellas ya consolidadas. Todas las opciones cuentan con grandes terrazas y zona comunitaria con piscina. Tu vivienda también cuenta con una o dos plazas de garaje (según el caso) y un generoso trastero donde podrás guardar bicicletas y todo lo que no utilices a diario.\n\nEn GRADIA encontrarás todo lo que necesitas. Disfrutarás de las ventajas que supone vivir en un barrio con todos los servicios,  zonas verdes, espacios deportivos, colegios, zonas de restaurantes y supermercados sin necesidad de coger el coche. Pero si tienes que desplazarte, también podrás hacerlo cómodamente ya que Gradia se encuentra junto a uno de los ejes principales de la ciudad directo al casco historico y una salida facil a la SE-30. Las comunicaciones de GRADIA son inmejorables, tanto si optas por el vehículo privado como por el transporte público. Con acceso directo a la circunvalación, con transporte público a la estación de Santa Justa de AVE y hasta 5 líneas de autobuses urbanos, Estarás a un paso de todo y disfrutarás de los servicios que necesitas en tu día a día.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": " Sevilla Capital",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.34639358520508,
+    "longitude": -5.9745635986328125
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 100,
+    "max_surface": 179,
+    "min_price": 358000,
+    "max_price": 734000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b943b523-12dd-48bb-b5bd-229a5356b186?rule=original",
+    "https://static.fotocasa.es/images/ads/0757e8f9-9ecf-42f1-930c-a9626b785ba2?rule=original",
+    "https://static.fotocasa.es/images/ads/55b8a102-4c8a-400b-9755-eb060acb2e99?rule=original",
+    "https://static.fotocasa.es/images/ads/f90a2fcf-fbea-4b94-a99e-92ce055b4102?rule=original",
+    "https://static.fotocasa.es/images/ads/308211a2-28f5-43bd-838f-3774f019b3ce?rule=original",
+    "https://static.fotocasa.es/images/ads/dd9e8b8a-36f7-4224-a27b-c04e33928ab2?rule=original",
+    "https://static.fotocasa.es/images/ads/1da6ffde-ac3f-44fb-bb3c-0b7c9ce80975?rule=original",
+    "https://static.fotocasa.es/images/ads/4c269a3c-38eb-48bf-9204-480b3ae22f30?rule=original",
+    "https://static.fotocasa.es/images/ads/be80e2f1-e7a6-4e30-8f8d-d408dc417e77?rule=original",
+    "https://static.fotocasa.es/images/ads/ee6aa405-001a-4210-875b-d3da94186cb4?rule=original",
+    "https://static.fotocasa.es/images/ads/80f699ca-4016-4970-a1de-fca10f268bc5?rule=original"
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=vo5aYi99y5o"
+  ]
+}

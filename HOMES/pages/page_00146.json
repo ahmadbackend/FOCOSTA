@@ -1,0 +1,225 @@
+{
+  "page": 146,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/146",
+  "scrape_date": "2026-01-21T04:21:11.027355",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor/187977624/d",
+      "id": 187977624,
+      "price": 1165000,
+      "location": "Castellana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alhabia/alhabia/187136665/d",
+      "id": 187136665,
+      "price": null,
+      "location": "Alhabia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/peniscola-peniscola/aire-acondicionado-calefaccion-parking-terraza-piscina/184648112/d",
+      "id": 184648112,
+      "price": 750000,
+      "location": "Las Atalayas - Urmi - Cerro de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/arganda-del-rey/20582434/187460828",
+      "id": 187460828,
+      "price": 226796,
+      "location": "Avenida de Europa, 2, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/arganda-del-rey/20582434/187460780",
+      "id": 187460780,
+      "price": 223523,
+      "location": "Avenida de Europa, 2, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calamonte/aire-acondicionado-parking/187925422/d",
+      "id": 187925422,
+      "price": 185000,
+      "location": "Calamonte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/remolinos/remolinos/184277516/d",
+      "id": 184277516,
+      "price": 42000,
+      "location": "Remolinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villanueva-de-la-canada/aire-acondicionado-no-amueblado/187645629/d",
+      "id": 187645629,
+      "price": 669900,
+      "location": "Villanueva de la Cañada ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecavalls/aire-acondicionado-trastero-piscina/182381381/d",
+      "id": 182381381,
+      "price": 850000,
+      "location": "Viladecavalls",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/186668532/d",
+      "id": 186668532,
+      "price": 1985000,
+      "location": "Carrer de Mallorca, Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcazar-de-san-juan/terraza/162362301/d",
+      "id": 162362301,
+      "price": 69000,
+      "location": "Alcázar de San Juan",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granadilla-de-abona/charco-del-pino/183197951/d",
+      "id": 183197951,
+      "price": 27350,
+      "location": "Charco del Pino",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-jardin-trastero-piscina/179220737/d",
+      "id": 179220737,
+      "price": 148000,
+      "location": "Alcolea",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-palmas-de-gran-canaria/terraza/188497066/d",
+      "id": 188497066,
+      "price": 86000,
+      "location": "Tenoya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tarrega/ascensor/188588516/d",
+      "id": 188588516,
+      "price": 60000,
+      "location": "Tàrrega",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/talavera-de-la-reina/hospital-nuevo-centro-de-talavera-de-la-reina/188562038/d",
+      "id": 188562038,
+      "price": 66567,
+      "location": "Hospital - Nuevo Centro de Talavera de la Reina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ponferrada/zona-alta/188531930/d",
+      "id": 188531930,
+      "price": 21379,
+      "location": "Zona Alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llucmajor/patio/186694285/d",
+      "id": 186694285,
+      "price": 380000,
+      "location": " SANT ANTONI, Llucmajor pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arta/jardin-terraza-piscina-amueblado/188321860/d",
+      "id": 188321860,
+      "price": 1270000,
+      "location": "Colònia de Sant Pere",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/basauri/calefaccion-parking-terraza-trastero-ascensor/185595610/d",
+      "id": 185595610,
+      "price": 319000,
+      "location": "Kalero - Basozelai",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villanueva-de-azoague/parking-terraza-trastero/163556974/d",
+      "id": 163556974,
+      "price": 45000,
+      "location": "Villanueva de Azoague",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/logrono/san-millan-ayuntamiento/188418065/d",
+      "id": 188418065,
+      "price": 75400,
+      "location": "C/ Caballero de la Rosa, San Millán - Ayuntamiento",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-torres-de-cotillas/no-amueblado/187899158/d",
+      "id": 187899158,
+      "price": 90400,
+      "location": "Avenida Juan Carlos I, Las Torres de Cotillas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pulpi/jardin-amueblado/184975661/d",
+      "id": 184975661,
+      "price": 169000,
+      "location": "San Juan de los Terreros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/parking-terraza/186606656/d",
+      "id": 186606656,
+      "price": 150000,
+      "location": "Lavadores",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jadraque/no-amueblado/163965725/d",
+      "id": 163965725,
+      "price": 28000,
+      "location": "SAN ROQUE, 5, Jadraque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/collado-mediano/no-amueblado/185963023/d",
+      "id": 185963023,
+      "price": 95000,
+      "location": "Callejón del Viento, Collado Mediano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/paracuellos-de-jiloca/paracuellos-de-jiloca/183240302/d",
+      "id": 183240302,
+      "price": null,
+      "location": "Paracuellos de Jiloca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/elgoibar/parking-jardin-terraza-trastero-amueblado/149042377/d",
+      "id": 149042377,
+      "price": 320000,
+      "location": "San Roke Kalea, Elgoibar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pozuelo-de-alarcon/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina-no-amueblado/185727451/d",
+      "id": 185727451,
+      "price": 1430000,
+      "location": "Somosaguas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benilloba/calefaccion-parking/186301113/d",
+      "id": 186301113,
+      "price": 40000,
+      "location": "Benilloba",
+      "type": "realEstate"
+    }
+  ]
+}

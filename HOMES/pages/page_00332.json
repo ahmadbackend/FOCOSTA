@@ -1,0 +1,225 @@
+{
+  "page": 332,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/332",
+  "scrape_date": "2026-01-21T04:24:53.325534",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor-amueblado/187740204/d",
+      "id": 187740204,
+      "price": 260000,
+      "location": "Calle Pinosol, 28, Gibralfaro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-trastero-ascensor-amueblado/188258356/d",
+      "id": 188258356,
+      "price": 1470000,
+      "location": "Carrer de Girona, Dreta de l'Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/can-roses/188005920/d",
+      "id": 188005920,
+      "price": 465000,
+      "location": "Carrer de la Petanca, 13, Rubí, Spain, Can Rosés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guardamar-del-segura/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor/186510203/d",
+      "id": 186510203,
+      "price": 252000,
+      "location": "Calle Puerta de Damasco, 2, Las Viñas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/malaga-capital/20614174/187997548",
+      "id": 187997548,
+      "price": 503000,
+      "location": "Calle Tailandia, 8, Churriana - El Pizarrillo - La Noria-Guadalsol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/calefaccion-parking-jardin-trastero-ascensor-piscina/188230049/d",
+      "id": 188230049,
+      "price": 920000,
+      "location": "Calle del Doctor Diego Madrazo, Valdenoja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chilches-xilxes/aire-acondicionado-calefaccion-ascensor-patio/188137342/d",
+      "id": 188137342,
+      "price": 240000,
+      "location": "Calle Carniceria, Chilches / Xilxes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sierra-nevada/calefaccion-terraza-trastero/188020272/d",
+      "id": 188020272,
+      "price": 630000,
+      "location": "Urbanizacion de Sol y Nieve, 527, Zona alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oliva/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-piscina-amueblado/188187012/d",
+      "id": 188187012,
+      "price": 425000,
+      "location": "Carrer de Roderic de Osona, 166, Oliva Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benidorm/aire-acondicionado-parking-jardin-terraza-trastero-ascensor-piscina-amueblado-internet-piscina/163649714/d",
+      "id": 163649714,
+      "price": 325000,
+      "location": "Presidente Adolfo Suárez, 12, Via Parque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabinanigo/calefaccion-terraza/185274606/d",
+      "id": 185274606,
+      "price": 150500,
+      "location": "Calle SERRABLO, Sabiñánigo Centro - Aurín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/orgiva/aire-acondicionado-parking-jardin-trastero-piscina/188127184/d",
+      "id": 188127184,
+      "price": 450000,
+      "location": "Avenida González Robles, 78, Órgiva, Spain, -1, Órgiva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tossa-de-mar/parking-jardin-terraza-trastero-patio-piscina/181430238/d",
+      "id": 181430238,
+      "price": 500000,
+      "location": "Carrer BOSC DEL, Tossa de Mar pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-llobregat/calefaccion-parking-terraza-trastero-zona-comunitaria-no-amueblado/187965420/d",
+      "id": 187965420,
+      "price": 930000,
+      "location": "DEL COMTE DE VILARDAGA, Roses - Castellbell",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cerdanyola-del-valles/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina/188162931/d",
+      "id": 188162931,
+      "price": 1190000,
+      "location": "Carrer Pin i Soler, Bellaterra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-celoni/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina/187130174/d",
+      "id": 187130174,
+      "price": 670000,
+      "location": "Calle Boscos Montnegre, Sant Celoni",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/aire-acondicionado-parking-ascensor/188159114/d",
+      "id": 188159114,
+      "price": 117000,
+      "location": "Calle RIO GENIL - PLAYA HONDA, Playa Honda - Playa Paraíso",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/motril/aire-acondicionado-parking-jardin-terraza-piscina/186909651/d",
+      "id": 186909651,
+      "price": 215000,
+      "location": "Polígono LOS TABLONES P11, Los Tablones - La Garnatilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcoy-alcoi/aire-acondicionado-calefaccion-trastero-ascensor-no-amueblado/188153992/d",
+      "id": 188153992,
+      "price": 138000,
+      "location": "Carrer Juan Gil Albert, Zona Nord ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ronda/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-television-internet-no-amueblado/188122271/d",
+      "id": 188122271,
+      "price": 440000,
+      "location": "Calle Santiago Apostol, 35, San Rafael",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mutxamel/aire-acondicionado-calefaccion-parking-terraza-piscina/188105986/d",
+      "id": 188105986,
+      "price": 725000,
+      "location": "Calle Calle Avellaner 5, La Huerta  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gandia/aire-acondicionado-parking-terraza-ascensor-piscina-no-amueblado/188130257/d",
+      "id": 188130257,
+      "price": 215000,
+      "location": "Carrer de la Partida Rodona, 17, Grau de Gandia - Venecia - Marenys de Rafalcaid",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salou/parking-trastero-ascensor-piscina-amueblado/187405693/d",
+      "id": 187405693,
+      "price": 215000,
+      "location": "De La Costa, 80, Pla de Maset - Cap de Salou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-pedro-del-pinatar/ascensor-patio-amueblado/188057183/d",
+      "id": 188057183,
+      "price": 140000,
+      "location": "Calle Campoamor, 77, Los Cuarteros  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llanca/parking-terraza-no-amueblado/188088550/d",
+      "id": 188088550,
+      "price": 320000,
+      "location": "Abat Oliva, 33, Cau del Llop - Super Fener - Fener",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-parking-terraza-ascensor-piscina-piscina-no-amueblado/187376660/d",
+      "id": 187376660,
+      "price": 295000,
+      "location": "Avenida Chatellereault, Parque Sensal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torremolinos/aire-acondicionado-calefaccion-terraza-ascensor/187658398/d",
+      "id": 187658398,
+      "price": 218000,
+      "location": "ISABEL MANOJA, 10, Manantiales - Estación de Autobuses",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lloret-de-mar/terraza-zona-comunitaria-ascensor-amueblado-piscina/185196172/d",
+      "id": 185196172,
+      "price": 136000,
+      "location": "Marina, 51, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sierra-nevada/calefaccion-terraza-trastero/184770014/d",
+      "id": 184770014,
+      "price": 590000,
+      "location": " SOLYNIEVE, 527, Zona alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pinto/calefaccion-amueblado-internet/187832498/d",
+      "id": 187832498,
+      "price": 219900,
+      "location": "Calle de la Solana, Zona Centro - Ayuntamiento",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cambrils/aire-acondicionado-parking-terraza/186547902/d",
+      "id": 186547902,
+      "price": 124900,
+      "location": " Avenida DIPUTACIO 75, 75, Vilafortuny Platja",
+      "type": "realEstate"
+    }
+  ]
+}

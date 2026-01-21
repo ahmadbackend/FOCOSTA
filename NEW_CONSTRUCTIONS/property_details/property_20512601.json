@@ -1,0 +1,47 @@
+{
+  "property_id": "20512601",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/palamos/20512601",
+  "scrape_date": "2026-01-21T03:49:16Z",
+  "title": "BARDERA",
+  "description": "Bardera, una promoción de 8 exclusivas viviendas de alto standing que representa la historia viva de Palamós.\n\nLa finca se encuentra en los terrenos que una vez albergaron los jardines del Palacio Real, y catalogada dentro del «Pla especial de protecció de patrimoni de Palamós«, por lo que la rehabilitación de la fachada de Bardera se centra en preservar sus esgrafiados meticulosos y su estilo barroco, elementos clave para conservar su arquitectura única y significativa.\n\nEste emocionante proyecto no solo revitaliza un icono histórico, sino que también lo integra armónicamente con el entorno urbano actual.",
+  "contact_info": {
+    "phone_number": "972084389",
+    "advertiser_name": "Tq Investpro",
+    "client_id": 9202773701070
+  },
+  "location": {
+    "city": "Palamós",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.8463020324707,
+    "longitude": 3.1289076805114746
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 202,
+    "max_surface": 202,
+    "min_price": 1990000,
+    "max_price": 1990000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/91a18fd8-aa5a-4b18-ae2d-b36ad2ce7e80?rule=original",
+    "https://static.fotocasa.es/images/ads/539ed708-ec3b-4cf9-9174-7134e6658b4c?rule=original",
+    "https://static.fotocasa.es/images/ads/653ba95e-234a-4fe4-8677-1595e42fb07d?rule=original",
+    "https://static.fotocasa.es/images/ads/e0baaf69-e5a7-46f9-904b-afe072885211?rule=original",
+    "https://static.fotocasa.es/images/ads/257dd588-358c-4288-94a7-7ef6d2978817?rule=original",
+    "https://static.fotocasa.es/images/ads/50947313-338f-4581-bb14-120fbb554625?rule=original",
+    "https://static.fotocasa.es/images/ads/f2396fcc-1ce7-4266-be40-a10e807b04e6?rule=original",
+    "https://static.fotocasa.es/images/ads/c8b7b53b-ceab-4ba2-b79f-9acb681e6666?rule=original",
+    "https://static.fotocasa.es/images/ads/8892bfd2-e626-4e93-8c55-9e682c323acf?rule=original",
+    "https://static.fotocasa.es/images/ads/a820f832-04a8-41cc-a19c-d0c9fe900d76?rule=original",
+    "https://static.fotocasa.es/images/ads/f002a46b-95af-48c2-b2fd-b8e3ae6706e0?rule=original",
+    "https://static.fotocasa.es/images/ads/2c66f23b-7e0f-448c-ac1c-7e34053ba6a2?rule=original",
+    "https://static.fotocasa.es/images/ads/7290f456-5afd-449e-bfd1-1e552435231f?rule=original",
+    "https://static.fotocasa.es/images/ads/9300dabe-3429-4846-9564-7e1ff11f7983?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,44 @@
+{
+  "property_id": "20563916",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20563916",
+  "scrape_date": "2026-01-21T02:31:13Z",
+  "title": "CASABLAVA",
+  "description": "\"Nueva promoción exclusiva en primera línea de mar en Sant Antoni de Calonge. \nDescubre esta nueva promoción de 10 viviendas únicas, situada frente al mar, en una de las zonas más privilegiadas de la Costa Brava.\n\n\"\t\t\t\t\t\n\t\t\t\t\t\n\"Viviendas amplias, luminosas y modernas, de 2 y 3 dormitorios con 2 baños, pensadas para disfrutar cada día de la tranquilidad y la belleza del Mediterráneo.  \nUna oportunidad ideal tanto para vivir todo el año como para tener una segunda residencia con vistas inmejorables.\n\nLa promoción ofrece opción de plaza de aparcamiento, para mayor comodidad.  \nVive a un paso de la playa, del paseo marítimo y de todos los servicios, en un entorno exclusivo y privilegiado.\"",
+  "contact_info": {
+    "phone_number": "972085721",
+    "advertiser_name": "SERVEIS INTEGRALS COSTA BRAVA S.L.",
+    "client_id": 9202757638806
+  },
+  "location": {
+    "city": "Calonge i Sant Antoni",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.8479118347168,
+    "longitude": 3.1090872287750244
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 68,
+    "max_surface": 108,
+    "min_price": 410000,
+    "max_price": 945000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d17042db-54e7-4e45-8c1d-68e0e564ef7f?rule=original",
+    "https://static.fotocasa.es/images/ads/f07d2cd8-d3d7-4760-829f-feee0627a69d?rule=original",
+    "https://static.fotocasa.es/images/ads/be778a91-f45f-447f-875f-f0a260107692?rule=original",
+    "https://static.fotocasa.es/images/ads/1f1a89f8-ccd8-4428-9379-8f5cc09a5cd8?rule=original",
+    "https://static.fotocasa.es/images/ads/b9d9e308-e631-44a0-9d2f-8277c4784840?rule=original",
+    "https://static.fotocasa.es/images/ads/11f24640-0222-4e27-997c-65f28e64205d?rule=original",
+    "https://static.fotocasa.es/images/ads/a04e5092-af93-413a-885d-a73c5c20b458?rule=original",
+    "https://static.fotocasa.es/images/ads/cfe55682-7033-4fe5-b5f5-ed683656f501?rule=original",
+    "https://static.fotocasa.es/images/ads/2afb9137-4ecb-4b1d-be9f-41d1c66e54f6?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/ca0a46d9-10db-40d2-bb91-a5cab66a0043"
+  ]
+}

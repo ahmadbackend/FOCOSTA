@@ -1,0 +1,225 @@
+{
+  "page": 94,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/94",
+  "scrape_date": "2026-01-21T04:20:00.563263",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/ascensor/185589959/d",
+      "id": 185589959,
+      "price": 325000,
+      "location": "Calle Liberia, El Molinillo - Capuchinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santiago-del-teide/aire-acondicionado-terraza-trastero-amueblado/188217526/d",
+      "id": 188217526,
+      "price": 215000,
+      "location": "Puerto de Santiago",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/188211367/d",
+      "id": 188211367,
+      "price": 1360000,
+      "location": "Montmar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado-internet/185623290/d",
+      "id": 185623290,
+      "price": 470000,
+      "location": "El Raval",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/parking-terraza-ascensor/188060708/d",
+      "id": 188060708,
+      "price": 745000,
+      "location": "Son Armadans",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrejon-de-ardoz/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina-no-amueblado/187599163/d",
+      "id": 187599163,
+      "price": 375000,
+      "location": "De La Solana, Virgen del Rosario",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pasaia/pasaia/187716943/d",
+      "id": 187716943,
+      "price": 180000,
+      "location": "Nafarroa Hiribidea, Pasaia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gava/aire-acondicionado-calefaccion-terraza-no-amueblado/187637345/d",
+      "id": 187637345,
+      "price": 339000,
+      "location": "Can Tintorer - Can Tries",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/a-coruna-capital/calefaccion-terraza-ascensor-no-amueblado/187289161/d",
+      "id": 187289161,
+      "price": 640000,
+      "location": "Monte Alto - Zalaeta - Atocha",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/elche-elx/ascensor-no-amueblado/188039295/d",
+      "id": 188039295,
+      "price": 230000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-terraza-ascensor-no-amueblado/187845448/d",
+      "id": 187845448,
+      "price": 290000,
+      "location": "De Europa, La Luz - El Torcal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oliva/parking-jardin-terraza-piscina-no-amueblado/187753504/d",
+      "id": 187753504,
+      "price": 485000,
+      "location": "Avenida Picasso, Oliva Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/elche-elx/ascensor-patio-no-amueblado/188062853/d",
+      "id": 188062853,
+      "price": 153000,
+      "location": "Plaza Crevillente - Antiguos Juzgados - El Asilo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granadilla-de-abona/terraza-piscina/188119082/d",
+      "id": 188119082,
+      "price": 300000,
+      "location": "San Isidro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrevieja/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/187813138/d",
+      "id": 187813138,
+      "price": 198000,
+      "location": "Las Piscinas Naturales",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/marbella/aire-acondicionado-parking-jardin-terraza-ascensor-piscina-amueblado-piscina/186483678/d",
+      "id": 186483678,
+      "price": 330000,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/terraza-ascensor-no-amueblado/183495512/d",
+      "id": 183495512,
+      "price": 435000,
+      "location": "Calle Cádiz, Centro - Ayuntamiento",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roquetas-de-mar/calefaccion-ascensor/188004804/d",
+      "id": 188004804,
+      "price": 130000,
+      "location": "Pizarro, El Sabinar – Urbanizaciones – Las Marinas – Playa Serena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/requena/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina-amueblado/184278613/d",
+      "id": 184278613,
+      "price": 450000,
+      "location": "Requena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/calefaccion-ascensor/188018244/d",
+      "id": 188018244,
+      "price": 625000,
+      "location": "Gros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-parking-terraza-trastero-ascensor-no-amueblado/187027488/d",
+      "id": 187027488,
+      "price": 120000,
+      "location": "Ensanche - Río Júcar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-palmas-de-gran-canaria/ascensor/187774398/d",
+      "id": 187774398,
+      "price": 162000,
+      "location": "Calle Sir Rabindranath Tagore, Carretera Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-piscina/186653014/d",
+      "id": 186653014,
+      "price": 715000,
+      "location": "Sector B",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-terraza/187084880/d",
+      "id": 187084880,
+      "price": 210000,
+      "location": "Calle San Basilio, Pradolongo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/parking-terraza-trastero-ascensor/183908763/d",
+      "id": 183908763,
+      "price": 295000,
+      "location": "Sanjurjo Badia, Teis",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alzira/ascensor-no-amueblado/187215369/d",
+      "id": 187215369,
+      "price": 140000,
+      "location": "N/A, Pere Crespí",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lloret-de-mar/parking-ascensor-piscina/186839364/d",
+      "id": 186839364,
+      "price": 138000,
+      "location": "Avenida DOCTOR FLEMING, Mas Baell - Can Carbó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-escorial/terraza-ascensor/187836816/d",
+      "id": 187836816,
+      "price": 270000,
+      "location": "Jardín de los Reyes - Parque Real",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion/187535498/d",
+      "id": 187535498,
+      "price": 169000,
+      "location": "Carrer dels Nou Barris, La Trinitat Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado-internet/187775210/d",
+      "id": 187775210,
+      "price": 155000,
+      "location": "Hostafrancs",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-palmas-de-gran-canaria/ascensor/187774166/d",
+      "id": 187774166,
+      "price": 195500,
+      "location": "Calle Pelayo, Guanarteme",
+      "type": "realEstate"
+    }
+  ]
+}

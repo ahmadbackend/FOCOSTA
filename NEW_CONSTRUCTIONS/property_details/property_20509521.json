@@ -1,0 +1,44 @@
+{
+  "property_id": "20509521",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/santa-coloma-de-gramenet/20509521",
+  "scrape_date": "2026-01-21T04:25:20Z",
+  "title": "Obra nueva Santa Coloma de Gramenet",
+  "description": "Edificio de 24 viviendas en C/ Santiago Rusiñol 43-49 de Santa Coloma de Gramanet.\t\n\t\t\t\t\nEsta promoción está rodeada de todos los servicios que necesitas, comercios, escuelas, guarderias, supermecados, mercado y CAP de Singuerlín.\t\t\n\t\t\nJunto a Barcelona, muy bien comunicada por las Rondas, autobuses y metro L9N.\t\t\n\t\nUltimas dos Viviendas de 3 dormitorios.\t\t\t\t\t\t\t\t\t\nPlazas de parking.\t\t\t\t\t\nA partir de 343.000 €",
+  "contact_info": {
+    "phone_number": "932398216",
+    "advertiser_name": "CRIMA",
+    "client_id": 9202774242977
+  },
+  "location": {
+    "city": "Santa Coloma de Gramenet",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.460418701171875,
+    "longitude": 2.2043910026550293
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 73,
+    "max_surface": 77,
+    "min_price": 343000,
+    "max_price": 343000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/5627eec1-71ab-4ebb-a8d8-2b80865b7abf?rule=original",
+    "https://static.fotocasa.es/images/ads/a57289fc-c97c-4143-8d3c-04a36aa663d3?rule=original",
+    "https://static.fotocasa.es/images/ads/bc2e5d34-aee1-4ef2-a82d-afaa2c11e11c?rule=original",
+    "https://static.fotocasa.es/images/ads/a47b7eec-6dd8-48df-987a-84dbe304e38d?rule=original",
+    "https://static.fotocasa.es/images/ads/9eecc82c-d1ec-478e-92d6-822524a09b65?rule=original",
+    "https://static.fotocasa.es/images/ads/379f587f-cb78-43fb-bdab-63255318b2b5?rule=original",
+    "https://static.fotocasa.es/images/ads/a2d8a42d-260a-4052-ad38-d0dc0ebf2e1f?rule=original",
+    "https://static.fotocasa.es/images/ads/e19acb38-bc99-4b23-9b50-18668123dcfe?rule=original",
+    "https://static.fotocasa.es/images/ads/6ac9f21a-6a8e-47b2-a197-fdd0a7074aa1?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/69GUQeLW07I"
+  ]
+}

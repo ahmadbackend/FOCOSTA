@@ -1,0 +1,54 @@
+{
+  "property_id": "20511123",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/pals/20511123",
+  "scrape_date": "2026-01-21T03:10:32Z",
+  "title": "Poble de Pals",
+  "description": "La promoció “Poble de Pals” són uns habitatges situats en un dels pobles més emblemàtics de l’Empordà, pensats per gaudir de totes les comoditats actuals, amb acabats d’alt nivell, en un entorn on es combina la tranquil·litat, la natura, la cultura, la vida rural i l’oci.\nLa promoció consta de 5 cases aïllades i 2 aparellades, totes amb jardí i piscina privats.\n\nLes aïllades consten de planta soterrani, planta baixa i planta pis.\nLa planta soterrani és un espai diàfan al qual s’accedeix per l’escala interior de l’habitatge.\nLes aparellades no tenen soterrani.\nLa planta baixa consta de sala d’estar menjador amb cuina oberta, safareig, bany i garatge.\nLa planta pis està composada per una suite amb vestidor i bany, tres habitacions dobles i un bany compartit.\n\nObertures d\"alumini Technal.\nPortes de fusta semi-massisses de 40mm lacades blanques.\nPaviment amb gres porcellànic de gran format 90*90.\nParquet de roure en planta pis excepte els banys.\nCuina italiana amb portes laminades sense tirador amb gola d\"alumini.\nClimatització d\"aire fred i calent per conductes en cel ras, excepte en banys, safareig i soterrani.\nInstal.lació màquina split fred-calor al soterrani.\nEndoll per a càrrega de cotxe elèctric al garatge.\nInstal.lació de descalcificador.\nPiscina de 6*3m de gresita amb escala d\"obra i equip de filtració amb electròlisi salina.\nInstal.lació de llar de foc al menjador i barbacoa d\"obra al porxo.",
+  "contact_info": {
+    "phone_number": "972084302",
+    "advertiser_name": "Pal Beach",
+    "client_id": 9202774412570
+  },
+  "location": {
+    "city": "Pals",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.968772888183594,
+    "longitude": 3.1513288021087646
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 342,
+    "max_surface": 342,
+    "min_price": 905000,
+    "max_price": 905000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/afe08150-09b3-43d3-a9a8-4758488de88b?rule=original",
+    "https://static.fotocasa.es/images/ads/6c01f613-2fed-4d71-89ad-043ec3cf729c?rule=original",
+    "https://static.fotocasa.es/images/ads/62e9bea5-ae41-4897-9fc3-c3a152ea85d5?rule=original",
+    "https://static.fotocasa.es/images/ads/95d8ee58-810d-4488-8b69-647b626b83a7?rule=original",
+    "https://static.fotocasa.es/images/ads/f328b87b-2dce-43de-8394-3c1e9f669078?rule=original",
+    "https://static.fotocasa.es/images/ads/dc10dbec-7e45-44e4-84ec-eae9539aad51?rule=original",
+    "https://static.fotocasa.es/images/ads/4ff77a87-d9bc-411c-9341-ee63859cd78f?rule=original",
+    "https://static.fotocasa.es/images/ads/8708816a-a0cc-4a0b-81b5-27c049cd8c30?rule=original",
+    "https://static.fotocasa.es/images/ads/aa70be8a-3e66-4358-9f33-519fc23aab4f?rule=original",
+    "https://static.fotocasa.es/images/ads/a5e438b7-83e5-444d-9485-a06ec85ead8c?rule=original",
+    "https://static.fotocasa.es/images/ads/c9eaff72-7c47-48ca-a794-44399c5ce196?rule=original",
+    "https://static.fotocasa.es/images/ads/bf3565e3-9055-4412-824f-7d8602d8d408?rule=original",
+    "https://static.fotocasa.es/images/ads/c70a598e-1a18-41d6-b9b8-21648dc34c50?rule=original",
+    "https://static.fotocasa.es/images/ads/c38fc86b-e38a-4072-b3b0-45da67f882c1?rule=original",
+    "https://static.fotocasa.es/images/ads/95c7c59f-4bfb-4441-8e85-c14bb7421f58?rule=original",
+    "https://static.fotocasa.es/images/ads/c2e6dc09-41f4-46d1-bca7-12dccca0d151?rule=original",
+    "https://static.fotocasa.es/images/ads/282d5a24-e10b-49b6-bae7-14b641a71baf?rule=original",
+    "https://static.fotocasa.es/images/ads/6774e7d0-e767-4ff1-97c0-64d20d5d4aea?rule=original",
+    "https://static.fotocasa.es/images/ads/7f997616-ef91-40b7-8b1b-f973e5c23387?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/Og7rto9O9-Y"
+  ]
+}

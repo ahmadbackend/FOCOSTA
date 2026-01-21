@@ -1,0 +1,225 @@
+{
+  "page": 15,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/15",
+  "scrape_date": "2026-01-21T04:18:29.251009",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/el-molinillo-capuchinos/182257549/d",
+      "id": 182257549,
+      "price": 169000,
+      "location": "Calle Duque de Rivas, El Molinillo - Capuchinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/187867797/d",
+      "id": 187867797,
+      "price": 510000,
+      "location": "Calle Morera, 5, San Nicolás",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-palma-de-cervello/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina/163393710/d",
+      "id": 163393710,
+      "price": 595000,
+      "location": "Calle Montnegre, 2, La Palma de Cervelló",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-calefaccion-parking-jardin-trastero-zona-comunitaria-ascensor-piscina-piscina-no-amueblado/188559112/d",
+      "id": 188559112,
+      "price": 660000,
+      "location": "Carrer de la Marina Baixa, Sant Pau",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/reus/terraza-ascensor/188555370/d",
+      "id": 188555370,
+      "price": 220000,
+      "location": "Calle MARE MOLAS, Ponent",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-parking-terraza/186017183/d",
+      "id": 186017183,
+      "price": 355000,
+      "location": "Calle Burgos, 36, Torre-Sana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/dos-hermanas/aire-acondicionado-calefaccion-trastero-ascensor-patio/188513340/d",
+      "id": 188513340,
+      "price": 180000,
+      "location": "Calle Canónigo, 50, Arenal - La Pólvora",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/aire-acondicionado-calefaccion-parking-trastero-zona-comunitaria-ascensor-no-amueblado/188325875/d",
+      "id": 188325875,
+      "price": 188000,
+      "location": "Camino a La Escuela, 38, Santa Lucía",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/calefaccion-ascensor-no-amueblado/188070915/d",
+      "id": 188070915,
+      "price": 280000,
+      "location": "Carrer de Santiago, 28, Eixample Sud – Migdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-no-amueblado/187821111/d",
+      "id": 187821111,
+      "price": 610000,
+      "location": "d'Ègara, Barri del Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cervello/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-internet-no-amueblado/188402021/d",
+      "id": 188402021,
+      "price": 540000,
+      "location": "Carrer la Font de Can Esteve, 15, Cervelló",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roses/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-internet/186558579/d",
+      "id": 186558579,
+      "price": 315000,
+      "location": "Carrer del Cap Norfeu, 59, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188107550/d",
+      "id": 188107550,
+      "price": 490000,
+      "location": "Calle de Antonia Ruiz Soro, Guindalera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mollet-del-valles/aire-acondicionado-calefaccion-ascensor/187987358/d",
+      "id": 187987358,
+      "price": 311000,
+      "location": "Avenida de la Llibertat, Estació de França",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-ascensor-no-amueblado/188541720/d",
+      "id": 188541720,
+      "price": 225000,
+      "location": "Carretera de Montcada, 522, Can Palet  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sabadell/20530852/186418601",
+      "id": 186418601,
+      "price": 436000,
+      "location": "Carretera de Prats de Lluçanès, 158, Creu Alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sabadell/20530852/186418592",
+      "id": 186418592,
+      "price": 564000,
+      "location": "Carretera de Prats de Lluçanès, 158, Creu Alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/corbera-de-llobregat/calefaccion-parking-jardin-terraza-piscina-internet-no-amueblado/187923568/d",
+      "id": 187923568,
+      "price": 369000,
+      "location": "Carrer del Maresme, 5, Corbera de Llobregat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/aire-acondicionado-terraza-ascensor-no-amueblado/188329834/d",
+      "id": 188329834,
+      "price": 750000,
+      "location": "GRAN VIA, 2, Centro - Sagrario ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/calefaccion-terraza-ascensor-amueblado/188152620/d",
+      "id": 188152620,
+      "price": 195000,
+      "location": "Altillo de las Eras, 1, Plaza de Toros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/parking-terraza-trastero-zona-comunitaria-ascensor-no-amueblado/187695112/d",
+      "id": 187695112,
+      "price": 350000,
+      "location": "Carrer Lleida, 43, Centre - Platja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/no-amueblado/187602695/d",
+      "id": 187602695,
+      "price": 270000,
+      "location": "Carrer de la Mediterrània, 10, La Barceloneta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/aire-acondicionado-parking-terraza-ascensor/188560397/d",
+      "id": 188560397,
+      "price": 269700,
+      "location": "Creu de Barberà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/terraza-ascensor-no-amueblado/188560719/d",
+      "id": 188560719,
+      "price": 272000,
+      "location": "Calle Campotéjar, Orcasur - 12 de Octubre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/calefaccion-parking-terraza-ascensor/188558667/d",
+      "id": 188558667,
+      "price": 390000,
+      "location": "Les Arenes - La Grípia  Can Montllor",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cassa-de-la-selva/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor/188546922/d",
+      "id": 188546922,
+      "price": 239000,
+      "location": "Cassà de la Selva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/reus/ascensor/188525357/d",
+      "id": 188525357,
+      "price": 159900,
+      "location": " CARRILET, 30, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/calefaccion-terraza-no-amueblado/188490951/d",
+      "id": 188490951,
+      "price": 230000,
+      "location": "Carrer Francesc Layret, Creu Alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/aire-acondicionado-calefaccion-terraza-amueblado/188286442/d",
+      "id": 188286442,
+      "price": 348000,
+      "location": "Carrer d'Hernán Cortés, 61, Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188347930/d",
+      "id": 188347930,
+      "price": 579000,
+      "location": "Carrer de Montmany, Vila de Gràcia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albolote/aire-acondicionado-terraza-zona-comunitaria-ascensor-no-amueblado/188545402/d",
+      "id": 188545402,
+      "price": 172000,
+      "location": "Puerto Rico, 8, Albolote",
+      "type": "realEstate"
+    }
+  ]
+}

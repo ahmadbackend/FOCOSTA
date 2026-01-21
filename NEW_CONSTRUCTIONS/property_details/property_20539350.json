@@ -1,0 +1,40 @@
+{
+  "property_id": "20539350",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/jaca/20539350",
+  "scrape_date": "2026-01-21T04:31:49Z",
+  "title": "MAYOR 3",
+  "description": "A tan solo 100 m de la Ciudadela y de la Catedral está promoción se ubica en un entorno privilegiado característico por sus calles históricas, sus comercios y su restauración. \n\nPisos de 1 y 2 dormitorios y dúplex de 3 dormitorios.\n\nLa aerotermia individual, suelos radiantes – refrescantes y sistema de ventilación con recuperación del calor, junto con el sistema SATE en fachada y carpinterís exterior de PVC o aluminio dota a las viviendas de una gran aislamiento térmico y acústico. \n\nTotalmente equipadas: \n\nCocinas con muebles altos y bajos de diseño, encimeras y frente porcelánico y electrodomésticos BALAY o similar a juego con las griferías en acero inoxidable.\n\nBaños con sanitarios blancos en porcelana, bañera acrílica y/o plato de ducha extraplano con textura pizarra y mueble de lavabo y espejo.\n\nTerrazas con gres porcelánico antideslizante, iluminación exterior, toma de TV y enchufes. \n\nCon disponibilidad de garaje preinstalación de toma de carga de vehículo eléctrico y trastero.",
+  "contact_info": {
+    "phone_number": "974191078",
+    "advertiser_name": "GARLAN GESTION INTEGRAL DE BIENES INMUEBLES YCP SL",
+    "client_id": 9202768304567
+  },
+  "location": {
+    "city": "Jaca",
+    "province": "Huesca",
+    "region": "Aragón",
+    "country": "España",
+    "latitude": 42.569889068603516,
+    "longitude": -0.551116406917572
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 0,
+    "max_bathrooms": 2,
+    "min_surface": 66,
+    "max_surface": 77,
+    "min_price": 220000,
+    "max_price": 400000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d704a032-b9ae-428b-8ad8-33fc590bce37?rule=original",
+    "https://static.fotocasa.es/images/ads/6bea7ebe-4622-4409-962e-543934b9ab4b?rule=original",
+    "https://static.fotocasa.es/images/ads/28982d9c-5fa2-4d38-bfe0-713eb2896e8b?rule=original",
+    "https://static.fotocasa.es/images/ads/8dd99e1f-a906-47e1-9a77-28fb14e32813?rule=original",
+    "https://static.fotocasa.es/images/ads/9ce2296c-60f7-4fbd-95eb-a0c974cd4ec4?rule=original",
+    "https://static.fotocasa.es/images/ads/0b542d11-eace-4926-b490-69484557969b?rule=original",
+    "https://static.fotocasa.es/images/ads/9bc86b32-728c-4394-85c3-1511aaef8ad8?rule=original"
+  ],
+  "videos": []
+}

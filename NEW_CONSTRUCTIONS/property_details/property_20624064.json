@@ -1,0 +1,53 @@
+{
+  "property_id": "20624064",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20624064",
+  "scrape_date": "2026-01-21T04:11:49Z",
+  "title": "THERA",
+  "description": "Thera se ubica junto al Parque Selwo, en una de las mejores zonas de Estepona, a pocos minutos de la playa y con excelentes comunicaciones. \n\nCompuesta por 42 exclusivas viviendas plurifamiliares de  2, 3 y 4 dormitorios y dúplex de 3 dormitorios. Todas ellas pasantes, con amplias estancias, que se caracterizan por una distribución óptima que permite diferenciar la zona de día de la zona de noche. Además, cuentan con amplias terrazas con unas excelentes vistas al mar.\t\t\t\n\t\t\t\t\t\t\t\nGracias a su excelente conexión con la A7, estarás a pocos minutos de lugares emblemáticos como Puerto Banús y Sotogrande, lo que convierte a Thera en una opción ideal para quienes buscan calidad de vida sin renunciar a la cercanía con el mar y los principales puntos de interés de la Costa del Sol.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Estepona",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.45920181274414,
+    "longitude": -5.083819389343262
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 0,
+    "max_bathrooms": 0,
+    "min_surface": 0,
+    "max_surface": 0,
+    "min_price": 0,
+    "max_price": 0
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d0231cef-6aa8-4f7f-9b5e-8a3f04a4f0a0?rule=original",
+    "https://static.fotocasa.es/images/ads/b58defe1-000c-4223-aa91-43f29c2fab84?rule=original",
+    "https://static.fotocasa.es/images/ads/7061ba8a-80f5-4603-9c38-83c704837b64?rule=original",
+    "https://static.fotocasa.es/images/ads/97c1f11c-3404-44b4-ab98-8b1374e75085?rule=original",
+    "https://static.fotocasa.es/images/ads/bac385f6-bef5-4f06-b5fe-68d983287808?rule=original",
+    "https://static.fotocasa.es/images/ads/93b4b08c-280c-42e3-b10c-48cbe0f15843?rule=original",
+    "https://static.fotocasa.es/images/ads/2841cbef-936b-4d68-8f26-f6f004326846?rule=original",
+    "https://static.fotocasa.es/images/ads/5aea3c01-9a03-4a12-ae2a-10d6c69338bf?rule=original",
+    "https://static.fotocasa.es/images/ads/65752e34-f714-4401-a754-070ee9b4919a?rule=original",
+    "https://static.fotocasa.es/images/ads/601984f0-7222-4512-88f7-fc0a0c126233?rule=original",
+    "https://static.fotocasa.es/images/ads/7b1c3e01-5edf-476d-8556-3be9b61a5f49?rule=original",
+    "https://static.fotocasa.es/images/ads/067c0257-6fc2-4f86-ab4a-25d12d9b17b9?rule=original",
+    "https://static.fotocasa.es/images/ads/023bc0cc-b417-4cc2-90b8-d8f24bcafd6b?rule=original",
+    "https://static.fotocasa.es/images/ads/1c476cf1-8abe-4081-bedc-1675ea259197?rule=original",
+    "https://static.fotocasa.es/images/ads/f6267df4-5742-4ff7-9758-86717c0e26c8?rule=original",
+    "https://static.fotocasa.es/images/ads/9581f170-f78f-447e-b4f3-ecedd384b0a3?rule=original",
+    "https://static.fotocasa.es/images/ads/908efe2b-f410-46ae-ac1d-5c97af641fba?rule=original",
+    "https://static.fotocasa.es/images/ads/a18af89b-6d70-4985-b917-1d0447052520?rule=original",
+    "https://static.fotocasa.es/images/ads/d2181851-d513-4843-a019-8b5e4c6241dd?rule=original",
+    "https://static.fotocasa.es/images/ads/4c47e246-0a44-4220-a74e-c61907f80402?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,225 @@
+{
+  "page": 293,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/293",
+  "scrape_date": "2026-01-21T04:24:05.977405",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor/187977624/d",
+      "id": 187977624,
+      "price": 1165000,
+      "location": "Castellana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/selva/parking/188497180/d",
+      "id": 188497180,
+      "price": 545000,
+      "location": "Selva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lleida-capital/calefaccion-ascensor/188387120/d",
+      "id": 188387120,
+      "price": 122000,
+      "location": "Gran Passeig de Ronda, Instituts - Universitat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellbell-i-el-vilar/jardin-no-amueblado/186556102/d",
+      "id": 186556102,
+      "price": 800000,
+      "location": "Castellbell i el Vilar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/aire-acondicionado-calefaccion-parking-jardin-piscina/187396051/d",
+      "id": 187396051,
+      "price": 1495000,
+      "location": "Calle Calle La Valeta, El Bosque",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mairena-del-alcor/aire-acondicionado/187755221/d",
+      "id": 187755221,
+      "price": 339900,
+      "location": "Mairena del Alcor",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/domingo-perez/domingo-perez/184660544/d",
+      "id": 184660544,
+      "price": 88000,
+      "location": "Domingo Pérez",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-calefaccion-parking-jardin-piscina/185326743/d",
+      "id": 185326743,
+      "price": 339000,
+      "location": "El Cónsul - Ciudad Universitaria - El Romeral",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valle-de-mena/valle-de-mena/184509180/d",
+      "id": 184509180,
+      "price": 75000,
+      "location": "Valle de Mena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/parking-terraza-ascensor-amueblado/186844332/d",
+      "id": 186844332,
+      "price": 399000,
+      "location": "Lekueder, Artatza - Pinueta - Pinosolo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almeria-capital/barrio-alto-san-felix/187007783/d",
+      "id": 187007783,
+      "price": 159900,
+      "location": "C. Béjar, Barrio Alto - San Félix",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jijona-xixona/jijona-xixona/186188814/d",
+      "id": 186188814,
+      "price": 70000,
+      "location": "Jijona / Xixona",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mollerussa/aire-acondicionado-calefaccion/184223316/d",
+      "id": 184223316,
+      "price": null,
+      "location": "Manel Bertran, Mollerussa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ingenio/carrizal/188065522/d",
+      "id": 188065522,
+      "price": 130000,
+      "location": "Calle  Historiador Agustín Millares Torres, Carrizal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-andres-del-rabanedo/calefaccion-parking-piscina/187998752/d",
+      "id": 187998752,
+      "price": 499000,
+      "location": "San Andrés del Rabanedo pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/jardin-no-amueblado/188394878/d",
+      "id": 188394878,
+      "price": 420000,
+      "location": "Pedregalejo - Morlaco",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ribadumia/parking/188366474/d",
+      "id": 188366474,
+      "price": 200000,
+      "location": "Ribadumia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/la-pobla-de-vallbona/20559157/186901561",
+      "id": 186901561,
+      "price": 229000,
+      "location": "Avinguda de los Tulipans, Núcleo Urbano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/187774050/d",
+      "id": 187774050,
+      "price": 815000,
+      "location": "Sants ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/o-castro/185953966/d",
+      "id": 185953966,
+      "price": 463951,
+      "location": "O Castro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/begur/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/184211514/d",
+      "id": 184211514,
+      "price": 2600000,
+      "location": "Sa Riera - Sa Fontansa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arroyomolinos-(madrid)/aire-acondicionado-calefaccion-jardin-patio-no-amueblado/187925877/d",
+      "id": 187925877,
+      "price": 550000,
+      "location": "Las Castañeras - Bulevar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/traspinedo/parking-jardin-terraza-trastero-patio-no-amueblado/178451702/d",
+      "id": 178451702,
+      "price": 43700,
+      "location": "Traspinedo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/calefaccion-parking-zona-comunitaria-ascensor-piscina/186315728/d",
+      "id": 186315728,
+      "price": 290000,
+      "location": "de Gravina, Tueda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion-parking-jardin-terraza-no-amueblado/162432806/d",
+      "id": 162432806,
+      "price": 262500,
+      "location": "N/A, Barriada Yagüe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/irun/ascensor-no-amueblado/188365525/d",
+      "id": 188365525,
+      "price": 415000,
+      "location": "Centro - Mendibil - Santiago",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/marroquina/188542755/d",
+      "id": 188542755,
+      "price": 139900,
+      "location": "Marroquina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/godella/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina-amueblado/182653036/d",
+      "id": 182653036,
+      "price": 3600000,
+      "location": "Campolivar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-parking-ascensor/153601739/d",
+      "id": 153601739,
+      "price": 320000,
+      "location": "Zona Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/ascensor/187982470/d",
+      "id": 187982470,
+      "price": 205000,
+      "location": "La Caleta - La Viña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/otxarkoaga/187295955/d",
+      "id": 187295955,
+      "price": 370000,
+      "location": "Azkaraibidea, Otxarkoaga",
+      "type": "realEstate"
+    }
+  ]
+}

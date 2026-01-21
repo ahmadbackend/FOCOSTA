@@ -1,0 +1,45 @@
+{
+  "property_id": "20564126",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/murcia-capital/20564126",
+  "scrape_date": "2026-01-21T04:08:36Z",
+  "title": "SATIA",
+  "description": "Ven a conocer tu nueva casa en Satia, promoción con viviendas de 1, 2 y 3 dormitorios. Su localización destaca por estar ubicada en una de las mejores zonas de Murcia, en pleno auge y crecimiento. Perfectamente comunicada con el centro de la ciudad. \n\nSatia contará con piscina comunitaria en cubierta, local social, coworking y zona de ejercicio exterior. El precio incluye una plaza de garaje en sótano. Trastero opcional.\n\nEn Satia tendrás la casa en la que quieres vivir y a la que desearas volver cada día para disfrutar en familia o con amigos.\n\n¡No lo sueñes, vívelo!\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": " Murcia Capital",
+    "province": "Murcia",
+    "region": "Región de Murcia",
+    "country": "España",
+    "latitude": 38.004085540771484,
+    "longitude": -1.137105107307434
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 46,
+    "max_surface": 90,
+    "min_price": 169000,
+    "max_price": 300500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/434ef014-4a2f-4770-84fe-e74a9c430bba?rule=original",
+    "https://static.fotocasa.es/images/ads/930bda03-0f30-4edf-a12a-7335bed268e8?rule=original",
+    "https://static.fotocasa.es/images/ads/bfc7eefb-f7cf-45b2-856b-20f5e75ee104?rule=original",
+    "https://static.fotocasa.es/images/ads/2109b4f0-cda4-46d8-bef3-aeb4cfbdb56c?rule=original",
+    "https://static.fotocasa.es/images/ads/cad6ad32-df00-4db1-b345-b75feed001e4?rule=original",
+    "https://static.fotocasa.es/images/ads/20b842f4-86c8-4e5c-a23e-f5239d674646?rule=original",
+    "https://static.fotocasa.es/images/ads/5c20ad8f-7e87-4208-a584-4b6a38f4770c?rule=original",
+    "https://static.fotocasa.es/images/ads/d7b4afba-0436-4bf5-923d-18d7de83d713?rule=original",
+    "https://static.fotocasa.es/images/ads/0dd2a118-d8ff-48d6-8752-52c39d5faa39?rule=original",
+    "https://static.fotocasa.es/images/ads/c4e9a636-dbbb-44e8-b663-4dc4e8c9a905?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/eMFWVlVMTsY"
+  ]
+}

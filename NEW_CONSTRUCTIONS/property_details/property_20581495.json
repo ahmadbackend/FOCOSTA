@@ -1,0 +1,38 @@
+{
+  "property_id": "20581495",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/llinars-del-valles/20581495",
+  "scrape_date": "2026-01-21T03:55:02Z",
+  "title": "Residencial Auditori",
+  "description": "RESIDENCIAL AUDITORI VPO\n\nPróxima construcción de VPO en Llinars del Vallés excepcionalmente ubicadas en el nuevo y consolidado barrio de Can Marqués, rodeado de zonas verdes, y con fantásticas vistas al Montseny.\n\nViviendas, con garaje y trastero incluido, 2 habitaciones desde 165.000 € + IVA y 3 habitaciones desde 195.000 € + IVA.\n\nCITAS AGOTADAS TEMPORALMENTE\n\nIniciada la adjudicación y venta de las 75 viviendas HPO, garajes y trasteros.",
+  "contact_info": {
+    "phone_number": "943914258",
+    "advertiser_name": "URBEMAR",
+    "client_id": 9202774589055
+  },
+  "location": {
+    "city": "Llinars del Vallès",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.646907806396484,
+    "longitude": 2.405832290649414
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 56,
+    "max_surface": 89,
+    "min_price": 165000,
+    "max_price": 258000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/db60273a-3ae5-4702-a6aa-9f403d931bd9?rule=original",
+    "https://static.fotocasa.es/images/ads/9104f620-2a0c-4166-8073-3a3d7281e44a?rule=original",
+    "https://static.fotocasa.es/images/ads/c17c7a32-1841-4fc4-a4f4-2b92ad3a16da?rule=original",
+    "https://static.fotocasa.es/images/ads/1853e0c4-0c1b-4575-a7a1-7d696f88439d?rule=original",
+    "https://static.fotocasa.es/images/ads/276d5a1e-8ef4-44f0-8eab-f821b7addc62?rule=original"
+  ],
+  "videos": []
+}

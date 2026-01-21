@@ -1,0 +1,49 @@
+{
+  "property_id": "20562106",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/godella/20562106",
+  "scrape_date": "2026-01-21T04:29:27Z",
+  "title": "ALSOS",
+  "description": "Alsos, significa ‘arboleda’ en griego. Es una alusión directa a las zonas verdes que se disfrutarán en Virentia. La promoción se compone de 17 viviendas adosadas con zona común ajardinada y piscina.\n\nVirentia es un barrio con personalidad propia. Está conectado a una red de comunicaciones que lo hacen único, en los alrededores aparecen todo tipo de servicios para tu comodidad.\n\nEn las proximidades encontrarás un gran centro comercial, supermercados, centros médicos, superficies deportivas, restaurantes, el Parque Tecnológico de Paterna y un amplio abanico de servicios.\n\nEspecialmente destacable es la cercanía de entornos educativos de gran prestigio: desde centros de preescolar hasta el Campus de Burjassot de la Universidad de Valencia.\n\nLa cercanía a las vías de comunicación que conectan tu nueva casa con Valencia y las localidades aledañas permite que para tus desplazamientos solo necesites unos minutos. La estación del metro/tranvía y las paradas de autobuses urbanos, a un paso, hacen que el transporte público surja entre tus opciones para moverte cuidando el medio ambiente. El rápido acceso a la autopista A-7 y al aeropuerto de Manises logran que la conectividad de Virentia sea única.\n\nEl sector residencial más prestigioso, de Godella, y de toda Valencia, es Campolivar. Construido alrededor de la Masía de San Fernando (1864) y, lindando con las urbanizaciones de La Cruz de Gracia y Santa Bárbara, se ha convertido en el barrio más destacado por ser un lugar apacible, hermoso y lleno de encanto. Virentia se alza colindante con la parte norte de Campolivar y sobre un terreno elevado que aún conserva la vegetación y el relieve original de esta parte de la vega valenciana.\n\nCaracterísticas básicas:\n\nChalet adosado\n2 plantas\n4 habitaciones\n3 baños\nSuelo radiante\nPlacas fotovoltaicas\nPersianas motorizadas en dormitorios\nCocina equipada Bosch\nInodoro suspendido en baño principal\nTerraza\nPlaza de garaje incluida en el precio\nJardín\nPiscina comun",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Godella",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.529762268066406,
+    "longitude": -0.4275995194911957
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 138,
+    "max_surface": 138,
+    "min_price": 625000,
+    "max_price": 625000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/83b91a35-cc91-45d7-b209-fe832319378b?rule=original",
+    "https://static.fotocasa.es/images/ads/bc07aa99-0a8d-49d1-aa4f-8c198be69a7d?rule=original",
+    "https://static.fotocasa.es/images/ads/cfc3b48b-d273-4dc8-83b7-d57f39bf12ad?rule=original",
+    "https://static.fotocasa.es/images/ads/76472951-0171-454b-a518-c3362d3b4dad?rule=original",
+    "https://static.fotocasa.es/images/ads/591eaf36-8e57-481a-bfe6-80f053c08503?rule=original",
+    "https://static.fotocasa.es/images/ads/93778ae1-c510-48fb-990f-2dde9025e1f9?rule=original",
+    "https://static.fotocasa.es/images/ads/4c7e76e7-08c7-4298-8702-ee071bcd287f?rule=original",
+    "https://static.fotocasa.es/images/ads/1bb5f233-1f76-4400-b8eb-59b623306afc?rule=original",
+    "https://static.fotocasa.es/images/ads/684f406b-6ce5-4f2a-947d-7cbe7d0916c7?rule=original",
+    "https://static.fotocasa.es/images/ads/7950c4df-31a7-473d-afd4-6f56936c3c64?rule=original",
+    "https://static.fotocasa.es/images/ads/0a358c18-0d85-40b8-908f-5ab5f6df5d73?rule=original",
+    "https://static.fotocasa.es/images/ads/d1c7f678-e0f4-4f0d-9138-0bc6caae035e?rule=original",
+    "https://static.fotocasa.es/images/ads/ac650112-8949-4ad8-84b2-e1a541392ae6?rule=original",
+    "https://static.fotocasa.es/images/ads/fac6ca05-12e0-4d80-b494-f5ad4ef23842?rule=original",
+    "https://static.fotocasa.es/images/ads/94b5679a-6f9b-4b4d-bc51-6e00502f93b0?rule=original",
+    "https://static.fotocasa.es/images/ads/6096359d-ad88-4a49-9603-08ccd38632bb?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,65 @@
+{
+  "property_id": "20532991",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20532991",
+  "scrape_date": "2026-01-21T03:13:29Z",
+  "title": "Santaló, 143",
+  "description": "Nueva promoción de lujo en la exclusiva zona de Sant Gervasi-Galvany. \n\nUbicada estratégicamente en uno de los barrios con mayor calidad de vida de la ciudad, cuenta con todos los servicios a pocos pasos, así como excelentes conexiones tanto en vehículo privado como en transporte público.\nPisos de 3 y 4 habitaciones.",
+  "contact_info": {
+    "phone_number": "930442286",
+    "advertiser_name": "LA LLAVE DE ORO",
+    "client_id": 9202768808135
+  },
+  "location": {
+    "city": " Barcelona Capital",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.40004348754883,
+    "longitude": 2.1399478912353516
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 200,
+    "max_surface": 200,
+    "min_price": 1726000,
+    "max_price": 1773000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/418962bd-5f65-40ad-8047-0c6edd5ce788?rule=original",
+    "https://static.fotocasa.es/images/ads/cdc69cde-34ef-40eb-8bd3-856a0064c718?rule=original",
+    "https://static.fotocasa.es/images/ads/478bc217-497f-443e-8df0-6aef7b393494?rule=original",
+    "https://static.fotocasa.es/images/ads/fa4aeb29-2c81-4ab4-9fdf-c4f4241b31d9?rule=original",
+    "https://static.fotocasa.es/images/ads/5e9bae84-e50d-4382-a1cb-44124bc2f8a1?rule=original",
+    "https://static.fotocasa.es/images/ads/6b005a74-5439-491b-b12a-576a4c389a3d?rule=original",
+    "https://static.fotocasa.es/images/ads/e6a945bb-da3e-4780-bdb4-e1fb0e9639f2?rule=original",
+    "https://static.fotocasa.es/images/ads/ce637f06-eb4e-4344-adab-0e65c801f92c?rule=original",
+    "https://static.fotocasa.es/images/ads/7a158896-eae1-4c66-b7be-abc972fd8d61?rule=original",
+    "https://static.fotocasa.es/images/ads/8004dab9-14fc-4de4-94a9-6d9dd39a2749?rule=original",
+    "https://static.fotocasa.es/images/ads/f3ef05b6-02ab-43db-96c8-59acdfc2afaf?rule=original",
+    "https://static.fotocasa.es/images/ads/88818db1-641d-4884-8098-294d8e7d54d4?rule=original",
+    "https://static.fotocasa.es/images/ads/6f6acc13-1695-4f5c-8836-c1c009ce4436?rule=original",
+    "https://static.fotocasa.es/images/ads/ad50e87f-0c51-434f-bdd7-f6d014ca5fd3?rule=original",
+    "https://static.fotocasa.es/images/ads/9485847b-f943-4652-a3fb-9c5a6f37c78f?rule=original",
+    "https://static.fotocasa.es/images/ads/354ceda1-1bb2-4031-b412-8c08dfd9476f?rule=original",
+    "https://static.fotocasa.es/images/ads/2df2d2cc-0e6c-4c32-ad61-5ff15f28df5b?rule=original",
+    "https://static.fotocasa.es/images/ads/873abb88-58d8-4789-893c-8e49ea841d1a?rule=original",
+    "https://static.fotocasa.es/images/ads/a7e31a6b-813d-422b-b9b8-6f60d4880006?rule=original",
+    "https://static.fotocasa.es/images/ads/b99205f5-2f1a-402d-b4a4-6c5012993481?rule=original",
+    "https://static.fotocasa.es/images/ads/d40c858d-c6c9-4166-8c9b-7d2d68ec5ff2?rule=original",
+    "https://static.fotocasa.es/images/ads/3ed74eba-487d-469c-be40-e33ad091cbf4?rule=original",
+    "https://static.fotocasa.es/images/ads/33c5f42c-6bab-42a8-a169-5f583ebe5d0f?rule=original",
+    "https://static.fotocasa.es/images/ads/a86fa75f-dd5d-4594-89ba-01a6c4cc249d?rule=original",
+    "https://static.fotocasa.es/images/ads/676e2d33-3eb8-4574-b39d-5a5f45626810?rule=original",
+    "https://static.fotocasa.es/images/ads/dd851c68-67d0-414c-8f87-d29141d307ab?rule=original",
+    "https://static.fotocasa.es/images/ads/83c1dec9-6a1b-45bf-be9e-ac9a08626fa6?rule=original",
+    "https://static.fotocasa.es/images/ads/72af2e17-685e-4f92-90bb-4d5e273ce09b?rule=original",
+    "https://static.fotocasa.es/images/ads/21949b5d-70c2-4060-bc9a-c2885ab701ad?rule=original",
+    "https://static.fotocasa.es/images/ads/d0383d5c-d497-4113-bf2e-fe0aca26e1b0?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/25878cb3-2ee9-406d-bcf1-7be623fd8eab"
+  ]
+}

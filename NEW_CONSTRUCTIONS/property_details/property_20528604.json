@@ -1,0 +1,50 @@
+{
+  "property_id": "20528604",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20528604",
+  "scrape_date": "2026-01-21T04:35:12Z",
+  "title": "LandCo Vallecas",
+  "description": "NUEVA PROMOCIÓN DE OBRA NUEVA | LandCo Vallecas, Madrid | desde 290.000€\n \nAhora sabes lo que es ‘vivir mejor’ en LandCo Vallecas, una exclusiva promoción de viviendas de obra nueva en un entorno privilegiado.\n\nDescubre nuestras luminosas viviendas de 1 y 2 dormitorios, diseñadas para ofrecerte confort y bienestar, donde cada estancia habla de ti y de tu estilo de vida.\n\nCada hogar cuenta con amplias terrazas que se convierten en pequeños ecosistemas, ideales para disfrutar del aire y la luz natural. Además, podrás relajarte en espacios bien distribuidos y funcionales, perfectos para descansar o teletrabajar con total privacidad. Las viviendas incluyen garaje, trastero y están equipadas con cocinas amuebladas con los principales electrodomésticos, así como un sistema de aerotermia que garantiza calefacción eficiente y agua caliente sanitaria.\n\nLa promoción se encuentra ubicada en Avenida de la Democracia 28, en una zona de influencia de Madrid que ofrece la comodidad de vivir en un entorno tranquilo con más de 12.500 metros cuadrados de zonas verdes.\n\nExcelentes comunicaciones por carretera a través de la M-40 y la A-3, y mediante transporte público con estaciones de metro de Vallecas y Sierra de Guadalupe, la estación de cercanías de Santa Eugenia, y estaciones de BiciMAD. Aquí podrás disfrutar de un estilo de vida excepcional rodeado de servicios e infraestructuras que facilitan tu día a día.\n\n \n\nCaracterísticas destacadas:\n- 44 viviendas exclusivas\n- 1-2 dormitorios\n- Amplias terrazas luminosas\n- Suelo radiante y refrescante\n- Aerotermia: ACS y calefacción\n- Preinstalación de aire acondicionado\n- Alta eficiencia energética\n- Magníficos espacios comunes con piscina\n- Áreas ajardinadas\n- Zona de juegos infantiles\n- Gastroteca\n\n\nVive en landCo Vallecas y haz de tu hogar un lugar donde puedas ser tú mismo, rodeado de todas las comodidades que necesitas. ¡Tu nuevo hogar te espera!",
+  "contact_info": {
+    "phone_number": "910751968",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": " Madrid Capital",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.389347076416016,
+    "longitude": -3.6223549842834473
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 58,
+    "max_surface": 126,
+    "min_price": 310000,
+    "max_price": 442000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/28da840c-6262-427f-a9b8-6d23cacb4fbe?rule=original",
+    "https://static.fotocasa.es/images/ads/91dc436f-4484-4088-9e2f-663f801a1f6a?rule=original",
+    "https://static.fotocasa.es/images/ads/5d8ddf92-ef7b-42de-b327-613d22e60244?rule=original",
+    "https://static.fotocasa.es/images/ads/ab6bc0da-a7ed-4bfa-b967-eb246d3a5c43?rule=original",
+    "https://static.fotocasa.es/images/ads/ca2d92eb-8336-49ff-8b77-985b91657fe6?rule=original",
+    "https://static.fotocasa.es/images/ads/2e8a24b2-f19f-40ff-a64d-4e751a3fe4e4?rule=original",
+    "https://static.fotocasa.es/images/ads/c294c307-9b63-46b4-9275-d8b3b8b8f963?rule=original",
+    "https://static.fotocasa.es/images/ads/4cad9611-b4e5-4eb2-8664-53690ae7ddbf?rule=original",
+    "https://static.fotocasa.es/images/ads/3b66d03f-2b3b-47e0-a12f-6a26892118e6?rule=original",
+    "https://static.fotocasa.es/images/ads/f348bf13-62f3-423c-919f-dc18cadbda35?rule=original",
+    "https://static.fotocasa.es/images/ads/f0918ac6-590f-48ee-a6ee-f76d5d410337?rule=original",
+    "https://static.fotocasa.es/images/ads/215f6461-18c7-41dc-ba5d-86114b812a89?rule=original",
+    "https://static.fotocasa.es/images/ads/dbe9fe24-2f1d-46a1-954a-38d8f880d892?rule=original",
+    "https://static.fotocasa.es/images/ads/23a7c9bd-1223-468e-a9b4-5dc931d891fa?rule=original",
+    "https://static.fotocasa.es/images/ads/bd7448a7-3b27-4d7f-8651-e4e0122ddcb3?rule=original",
+    "https://static.fotocasa.es/images/ads/f97a3851-6a49-489a-8268-2da32af61a8b?rule=original",
+    "https://static.fotocasa.es/images/ads/a179f3c2-bf92-4b36-8720-8ab7b0f8583e?rule=original"
+  ],
+  "videos": []
+}

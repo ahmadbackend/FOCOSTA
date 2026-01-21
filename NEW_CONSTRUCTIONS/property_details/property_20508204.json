@@ -1,0 +1,49 @@
+{
+  "property_id": "20508204",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/mataro/20508204",
+  "scrape_date": "2026-01-21T02:49:37Z",
+  "title": "TORRE BARCELÓ LIVING",
+  "description": "Ubicada en una de las mejores zonas de Mataró, en el barrio de l’Eixample y frente al puerto deportivo, Torre Barceló Living combina estilo, confort y una ubicación inmejorable. Disfruta de un entorno privilegiado donde las vistas al mar, los amplios espacios verdes y las áreas exclusivas para peatones se integran con la vitalidad de la ciudad.\n\nA menos de 10 minutos a pie del centro de la ciudad, con cercanía a la estación de tren RENFE asegura una rápida conexión con Barcelona y otras localidades vecinas.\n\nEste exclusivo edificio consta de 192 viviendas distribuidas en 25 plantas, convirtiéndolo en el más alto de la zona del Maresme, un verdadero icono arquitectónico de la región. El proyecto destaca por los exclusivos servicios comunitarios, como la piscina infinity y los espacios de co-living y co-working. Además, cuenta con hasta doce tipologías de viviendas de 1, 2 y 3 dormitorios que están distribuidas en distintas plantas del conjunto residencial.\n\nLas viviendas sobresalen por su diseño moderno, luminosidad y por sus espectaculares terrazas con vistas al mar o la montaña. Todas las estancias son amplias y diáfanas, con acabados de alta calidad. Las cocinas están completamente equipadas con electrodomésticos de última generación y el sistema de climatización de frío y calor utiliza el innovador sistema Tub Verd de Mataró. La promoción cuenta con una calificación energética AA y con el certificado de sostenibilidad BREEAM, que garantiza un hogar eficiente y respetuoso con el medio ambiente.\nImagina despertar cada mañana y disfrutar de la brisa marina desde tu terraza, no dejes pasar la oportunidad de formar parte de esta exclusiva comunidad.\n\n¡Te invitamos a conocer nuestro piso piloto en Torre Barceló Living! Descubre de primera mano cada detalle de tu futuro hogar y experimenta la calidad que ofrecemos. Contáctanos para agendar tu visita y enamórate de tu próximo espacio.\n\nEste contenido es de carácter informativo y no constituye una oferta vinculante. Las características, condiciones económicas y comerciales pueden estar sujetas a modificaciones por necesidades del proyecto o decisiones administrativas.\nPlaza de aparcamiento incluida en el precio.\n\nTodas las imágenes presentadas en este anuncio son fotos reales del estado actual del edificio.",
+  "contact_info": {
+    "phone_number": "910751473",
+    "advertiser_name": "DOMUS RESIDENTIAL SERVICES",
+    "client_id": 9202768567062
+  },
+  "location": {
+    "city": "Mataró",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.5323371887207,
+    "longitude": 2.4425086975097656
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 89,
+    "max_surface": 95,
+    "min_price": 350000,
+    "max_price": 585000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/f0bdbb53-c479-4765-9309-c5c4616d52e2?rule=original",
+    "https://static.fotocasa.es/images/ads/9ee51fe9-dd33-4794-bbef-0d275dfab767?rule=original",
+    "https://static.fotocasa.es/images/ads/3ae8f364-7c56-4386-ada1-aefb88c0068a?rule=original",
+    "https://static.fotocasa.es/images/ads/c399d45b-130a-47f6-9b8b-0decf91dad42?rule=original",
+    "https://static.fotocasa.es/images/ads/8e05ca1c-0eaa-4858-881b-8a843d17b4e9?rule=original",
+    "https://static.fotocasa.es/images/ads/c8b79791-0e6d-4e6e-97ff-40db06fca7a9?rule=original",
+    "https://static.fotocasa.es/images/ads/0df09300-0785-48be-a163-cdb009fd1b7d?rule=original",
+    "https://static.fotocasa.es/images/ads/a0d5094d-ca47-43ce-8cdb-b2a991f0c9b4?rule=original",
+    "https://static.fotocasa.es/images/ads/17c2be70-51ee-47da-aea8-80379dbc519a?rule=original",
+    "https://static.fotocasa.es/images/ads/3d059a34-6992-4171-96dc-30548d9fca50?rule=original",
+    "https://static.fotocasa.es/images/ads/4cd44457-bcb4-4cd8-b2d1-30f33d22c8c9?rule=original",
+    "https://static.fotocasa.es/images/ads/3a5b5f13-34f1-4a29-85f6-348136298565?rule=original",
+    "https://static.fotocasa.es/images/ads/0feb8eff-4464-4a11-9401-15f41371747e?rule=original",
+    "https://static.fotocasa.es/images/ads/7de60fcd-65b8-43d2-b735-db59fa3c6d94?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/fe06068e-3a2d-4aa7-be00-77722de0ec08"
+  ]
+}

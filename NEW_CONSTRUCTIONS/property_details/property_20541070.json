@@ -1,0 +1,58 @@
+{
+  "property_id": "20541070",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/mijas/20541070",
+  "scrape_date": "2026-01-21T03:35:16Z",
+  "title": "Promocion de Obra Nueva en El Chaparral",
+  "description": "Rayos del Sol es un complejo residencial cómodo ubicado en un lugar hermoso en Mijas, España. El complejo cuenta con solo 36 apartamentos, lo que garantiza la máxima privacidad y tranquilidad. Todos los apartamentos ofrecen unas maravillosas vistas al mar. La infraestructura de Rayos del Sol incluye todo lo necesario para una vida cómoda: una zona segura, paisajismo natural y de diseño, piscinas para adultos y niños, un gimnasio, un campo de golf y una pista de petanca. El complejo está situado a solo 700 metros de la costa, cerca del paseo marítimo y de una gran cantidad de restaurantes y centros comerciales. Un atractivo adicional son los 320 días de sol al año, lo que proporciona a Mijas un clima maravilloso con una temperatura media de 24℃ (75,2 °F).\n\n¿Te imaginas vivir aquí?",
+  "contact_info": {
+    "phone_number": "914890879",
+    "advertiser_name": "APROPERTIES REAL ESTATE ASSETS SPAIN SL.",
+    "client_id": 9202756368671
+  },
+  "location": {
+    "city": "Mijas",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.510929107666016,
+    "longitude": -4.654339790344238
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 62,
+    "max_surface": 158,
+    "min_price": 510000,
+    "max_price": 880000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/2d58db66-843d-40d6-bb04-eaad7159115f?rule=original",
+    "https://static.fotocasa.es/images/ads/4702e350-ecbd-4d5b-9f2b-5a59bb0eac1f?rule=original",
+    "https://static.fotocasa.es/images/ads/95ebdf80-64db-48a5-a80d-262302ba5398?rule=original",
+    "https://static.fotocasa.es/images/ads/7ec4af3a-b242-4e09-aed3-52c7e0522d36?rule=original",
+    "https://static.fotocasa.es/images/ads/ccb022bf-5da8-4fdf-9e3a-c1784b0ced4e?rule=original",
+    "https://static.fotocasa.es/images/ads/f75db953-639d-4d6d-a555-3e8887f5189b?rule=original",
+    "https://static.fotocasa.es/images/ads/665f574e-9e73-4ae2-9167-c8e78b5aba9c?rule=original",
+    "https://static.fotocasa.es/images/ads/86cba6db-4d59-4d2a-95db-a9c2e365bded?rule=original",
+    "https://static.fotocasa.es/images/ads/889aa59a-2ed2-4431-88d1-9e714018825e?rule=original",
+    "https://static.fotocasa.es/images/ads/c5bd0079-696c-4329-bef9-cfc369b40c5f?rule=original",
+    "https://static.fotocasa.es/images/ads/990892e0-de38-42e7-8ae4-fa10109d93f1?rule=original",
+    "https://static.fotocasa.es/images/ads/6a1d8229-56f3-4fc0-9f37-978f9e9dbed5?rule=original",
+    "https://static.fotocasa.es/images/ads/a62edf8a-0cf2-471d-882d-ad1543473d5b?rule=original",
+    "https://static.fotocasa.es/images/ads/90335f9c-1baa-40b3-8803-21864b7de3d1?rule=original",
+    "https://static.fotocasa.es/images/ads/cde66d52-dc7b-41e0-a3d3-ec05c60d6a61?rule=original",
+    "https://static.fotocasa.es/images/ads/4bb640da-6881-45c0-abd5-524feb9d76a5?rule=original",
+    "https://static.fotocasa.es/images/ads/9f560699-d679-4efe-86b8-d0b5e48c3dff?rule=original",
+    "https://static.fotocasa.es/images/ads/bb47fa64-dbb9-47d9-bba6-b396c58ad40e?rule=original",
+    "https://static.fotocasa.es/images/ads/66e6c8bb-318e-4d63-82c7-6806de52568e?rule=original",
+    "https://static.fotocasa.es/images/ads/f1a7832f-8585-4585-97d7-ffd0a4976d34?rule=original",
+    "https://static.fotocasa.es/images/ads/aa121433-b6ee-48df-91c1-365642a17884?rule=original",
+    "https://static.fotocasa.es/images/ads/e371d5f1-ead2-4980-9ea1-170e97a13ded?rule=original",
+    "https://static.fotocasa.es/images/ads/9729c9ff-70cb-4b5a-9314-1bfaf258c7ab?rule=original",
+    "https://static.fotocasa.es/images/ads/2b760c45-2a20-49ae-b023-b0a57ade72be?rule=original",
+    "https://static.fotocasa.es/images/ads/aed7a978-3e09-4f40-8cd3-2b97aa245079?rule=original"
+  ],
+  "videos": []
+}

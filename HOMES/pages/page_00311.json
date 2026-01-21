@@ -1,0 +1,225 @@
+{
+  "page": 311,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/311",
+  "scrape_date": "2026-01-21T04:24:28.434252",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor-amueblado/186680164/d",
+      "id": 186680164,
+      "price": 345000,
+      "location": "Calle Pinos, La Victoria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-calefaccion-trastero-ascensor-patio-no-amueblado/187155842/d",
+      "id": 187155842,
+      "price": 148000,
+      "location": "Carrer del Cronista Rocafort, 32, Plaza Donoso Cortés - Avenida Magdalena",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-no-amueblado/187776312/d",
+      "id": 187776312,
+      "price": 800000,
+      "location": "Luis Santangel, Russafa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cuzcurrita-de-rio-tiron/calefaccion-terraza-zona-comunitaria-ascensor-amueblado-piscina/188107126/d",
+      "id": 188107126,
+      "price": 90000,
+      "location": "Calle Travesía de la Posada, 3, Cuzcurrita de Río Tirón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/aire-acondicionado-calefaccion-terraza/188062809/d",
+      "id": 188062809,
+      "price": 469000,
+      "location": "Calle San Pedro Mártir, 8, San Matías - Realejo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guardamar-del-segura/parking-terraza-trastero-ascensor/187087727/d",
+      "id": 187087727,
+      "price": 299900,
+      "location": "Calle Dolores Viudes Blasco, 14, Las Viñas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/badajoz-capital/20617042/188030831",
+      "id": 188030831,
+      "price": 345000,
+      "location": "Calle Fernando Sánchez Sampedro, 41, Pardaleras",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-ascensor/186979094/d",
+      "id": 186979094,
+      "price": 949000,
+      "location": "Calle de Francisco Silvela, Guindalera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/telde/aire-acondicionado-parking-terraza-trastero-no-amueblado/187975495/d",
+      "id": 187975495,
+      "price": 330000,
+      "location": "Calle Roble, 4, Caserones - La Higuera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roses/aire-acondicionado-calefaccion-parking-terraza-amueblado-television/187295433/d",
+      "id": 187295433,
+      "price": 399000,
+      "location": "Diaz Pacheco, 88, Almadrava - Canyelles - Puig-Rom",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cuarte-de-huerva/calefaccion-parking-terraza-trastero-ascensor-piscina/187821698/d",
+      "id": 187821698,
+      "price": 250000,
+      "location": "Calle de Ronda, 6, Cuarte de Huerva",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/panticosa/calefaccion-jardin-terraza-trastero-ascensor-piscina/183813303/d",
+      "id": 183813303,
+      "price": 280000,
+      "location": "Camino SARAS, 44, Panticosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lleida-capital/aire-acondicionado-calefaccion-ascensor-amueblado/187781327/d",
+      "id": 187781327,
+      "price": 350000,
+      "location": "Avinguda Prat de la Riba, 3, Príncep de Viana - Clot -Xalets Humbert Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-escorial/calefaccion-parking-terraza-trastero-ascensor-amueblado-internet-piscina/187934071/d",
+      "id": 187934071,
+      "price": 330000,
+      "location": "Calle Seis, Navalquejigo - Los Arroyos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/guardamar-del-segura/calefaccion-terraza-trastero-ascensor/185774905/d",
+      "id": 185774905,
+      "price": 339500,
+      "location": "Calle Miguel Hernández, 102, Pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/navalcarnero/aire-acondicionado-calefaccion-parking-trastero-zona-comunitaria-ascensor-internet-piscina/187898837/d",
+      "id": 187898837,
+      "price": 329900,
+      "location": "Calle del Labrador, 8, La Dehesa - El Pinar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valladolid-capital/aire-acondicionado-calefaccion-ascensor-amueblado-television-internet/187485470/d",
+      "id": 187485470,
+      "price": 198900,
+      "location": "Calle de Panaderos, 66, Caño Argales ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelavega/calefaccion-ascensor-amueblado/186743127/d",
+      "id": 186743127,
+      "price": 185000,
+      "location": "Calle Augusto González Linares, 21, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/aire-acondicionado-calefaccion-ascensor/186738729/d",
+      "id": 186738729,
+      "price": 890000,
+      "location": "San Martin Kalea, 25, Área Romántica",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-ampolla/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor/186393315/d",
+      "id": 186393315,
+      "price": 389000,
+      "location": "Ronda de Mar, 16, L'Ampolla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cerdanyola-del-valles/calefaccion-ascensor-amueblado/183812088/d",
+      "id": 183812088,
+      "price": 290000,
+      "location": "Plaça Goya, 8, Catalunya - Fontetes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aranda-de-duero/calefaccion-ascensor/187063580/d",
+      "id": 187063580,
+      "price": 210000,
+      "location": "Calle SAN FRANCISCO, 21, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cambrils/aire-acondicionado-calefaccion-parking-terraza-zona-comunitaria-ascensor-piscina-no-amueblado/187617039/d",
+      "id": 187617039,
+      "price": 275000,
+      "location": "Carrer Llobregat, 9, Els Esquirols",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-terraza-ascensor-amueblado-television-internet/178622296/d",
+      "id": 178622296,
+      "price": 435000,
+      "location": "N/A, Palacio",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/aire-acondicionado-calefaccion-parking-trastero-ascensor-amueblado-internet/186668159/d",
+      "id": 186668159,
+      "price": 495000,
+      "location": "Avinguda del Maresme, 457, Havana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valladolid-capital/calefaccion-parking-trastero-ascensor/186736452/d",
+      "id": 186736452,
+      "price": 228000,
+      "location": "Plaza SALVADOR DALI, 1, La Farola",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/culleredo/calefaccion-parking-trastero-ascensor/186433246/d",
+      "id": 186433246,
+      "price": 250000,
+      "location": "Rúa Irmáns Suárez Ferrín, 4, Portádego - Vilaboa Norte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/moana/calefaccion-parking-zona-comunitaria-ascensor-no-amueblado/187337104/d",
+      "id": 187337104,
+      "price": 245000,
+      "location": "Rúa de Fragata Navas de Tolosa, 12, Moaña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/haro/calefaccion-parking-terraza-trastero-ascensor-piscina/185959137/d",
+      "id": 185959137,
+      "price": 198000,
+      "location": "Calle Julián Fernández Ollero, 48, Haro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/186814295/d",
+      "id": 186814295,
+      "price": 425000,
+      "location": "Carrer de Juan Ramon Jiménez, 26, Mercat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/calefaccion-parking-jardin-terraza-television-internet-no-amueblado/184529197/d",
+      "id": 184529197,
+      "price": 555000,
+      "location": "Carrer Major, 499, Vallirana",
+      "type": "realEstate"
+    }
+  ]
+}

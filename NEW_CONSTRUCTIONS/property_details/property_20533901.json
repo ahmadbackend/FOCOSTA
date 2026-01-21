@@ -1,0 +1,54 @@
+{
+  "property_id": "20533901",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-boi-de-llobregat/20533901",
+  "scrape_date": "2026-01-21T03:18:32Z",
+  "title": "CERDANYA",
+  "description": "Promoción Cerdanya en Sant Boi - Obra Nueva Exclusiva\n\nestrenus en colaboración con Grohabitat (promotora) os presenta esta obra nueva ubicada en Sant Boi, Barcelona. Revestida con un elegante exterior de ladrillo y cerámica en la planta baja, ha sido diseñada para ofrecer confort y estilo en cada uno de sus detalles.\n\nEl edificio cuenta con un total de 7 pisos, 6 plazas de parking y 2 trasteros, proporcionando diversas opciones habitacionales que se ajustan a diferentes necesidades. Parkings y trasteros opcionales no incluidos en el precio de la vivienda.\n\nCaracterísticas Exteriores:\nPortal de la finca con pavimento antideslizante de alta resistencia.\nVideoportero para mayor seguridad.\nCarpintería exterior de aluminio con doble vidrio y cámara de aire, garantizando aislamiento térmico y acústico.\n\nCaracterísticas Interiores:\nSuelo laminado de madera de roble, altamente resistente al agua.\nPuertas interiores macizas para una mayor durabilidad y estilo.\nBaño equipado con sanitarios y mobiliario de alta calidad.\nCocina de diseño ergonómico, completamente equipada con electrodomésticos, incluyendo lavavajillas.\nAire acondicionado por conducto, con sistema de aerotermia para una eficiencia energética superior.\n\nComodidades Adicionales: \nEl edificio cuenta con 6 plazas de parking, con superficies que varían entre 12,50 m² y 17,10 m², asegurando espacio suficiente para tu vehículo. Además, dispone de 2 trasteros de 4,15 m² y 8,50 m², ideales para el almacenamiento extra que puedas necesitar.\n\n\nImágenes sin valor contractual. Contenido y mobiliario visualizados constituyen una sugerencia de decoración y no están incluidos en la oferta",
+  "contact_info": {
+    "phone_number": "932398291",
+    "advertiser_name": "grohábitat ",
+    "client_id": 9202759005206
+  },
+  "location": {
+    "city": "Sant Boi de Llobregat",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.34125518798828,
+    "longitude": 2.0400173664093018
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 67,
+    "max_surface": 87,
+    "min_price": 258000,
+    "max_price": 372000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/6192f9d6-7b39-4770-8a46-fef8e2460a37?rule=original",
+    "https://static.fotocasa.es/images/ads/9b5d04bb-6fd4-4de8-b0a1-9bbf910e0498?rule=original",
+    "https://static.fotocasa.es/images/ads/ca2d3670-cdfb-4661-9974-2d62cde05c00?rule=original",
+    "https://static.fotocasa.es/images/ads/6ad6864c-5a56-4de8-a9dd-3c0dabc4f2c3?rule=original",
+    "https://static.fotocasa.es/images/ads/8a9cf2b6-71a1-46f1-907b-2007c5275e1a?rule=original",
+    "https://static.fotocasa.es/images/ads/debc8b49-850a-41df-9e80-b3cea5610721?rule=original",
+    "https://static.fotocasa.es/images/ads/7fa7fbf1-0f94-4725-ac4b-a2a17b376f09?rule=original",
+    "https://static.fotocasa.es/images/ads/ca5c3571-a6c1-40c2-960c-9ce2c6d4133d?rule=original",
+    "https://static.fotocasa.es/images/ads/0413d08a-d7ad-4819-8544-ea6bcdf3ab41?rule=original",
+    "https://static.fotocasa.es/images/ads/33b62757-d9d7-43b5-a979-62773bfa72f0?rule=original",
+    "https://static.fotocasa.es/images/ads/1a653e24-e1fd-4727-a6a5-bce95c968391?rule=original",
+    "https://static.fotocasa.es/images/ads/751c958d-afa9-4c9d-9b8a-b4e62415853e?rule=original",
+    "https://static.fotocasa.es/images/ads/e5c0424d-db49-462b-a573-86a3d98001a7?rule=original",
+    "https://static.fotocasa.es/images/ads/7cd5ce92-a90c-4ce7-9d06-7ed6cb340169?rule=original",
+    "https://static.fotocasa.es/images/ads/ff4131e4-e112-4360-b1ba-a2e43a5c56c4?rule=original",
+    "https://static.fotocasa.es/images/ads/733ac166-d62b-4ebb-8522-85012e3efb19?rule=original",
+    "https://static.fotocasa.es/images/ads/9be7d931-b8c5-45b2-918d-749fe9c120a2?rule=original",
+    "https://static.fotocasa.es/images/ads/c57b8873-42c7-43fa-b83d-30feedbff364?rule=original",
+    "https://static.fotocasa.es/images/ads/0e98d491-0ba7-4634-8a2b-199f75e09d08?rule=original",
+    "https://static.fotocasa.es/images/ads/92483da5-2f01-430e-83eb-ef7433bb1432?rule=original",
+    "https://static.fotocasa.es/images/ads/ea7f6f6f-85a3-4b46-87bc-d44929b5e793?rule=original"
+  ],
+  "videos": []
+}

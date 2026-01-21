@@ -1,0 +1,42 @@
+{
+  "property_id": "20561581",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/mairena-del-aljarafe/20561581",
+  "scrape_date": "2026-01-21T04:05:00Z",
+  "title": "ALIAGA",
+  "description": "Descubre Aliaga,  viviendas 3 y 4 dormitorios pensadas para satisfascer todas tus necesidades. Tú decides cuál es la vivienda que más se adapta a tí. Puedes optar por vivir en un amplio piso con terraza o en un ático con increibles vistas. Además, por comprar tu vivienda en ALIAGA, tendrás acceso a LAELIA CLUB, un entorno exclusivo para los propietarios de las promociones de AEDAS Homes en el sector. \t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nLAELIA CLUB cuenta con piscinas, pistas de pádel, pistas multideporte, gimnasio, áreas dedicadas a la práctica de yoga, sala multiusos y servicio de restauración. Además, el complejo en el que se engloba ALIAGA, dispone de amplias zonas comunes exclusivas en las que disfrutar con los tuyos. No lo dudes más y solicita información en nuestra oficina de ventas, situada en al Avda. de las Civilizaciones esquina Crta- Mairena-Palomares, donde estaremos encantados de atenderte.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Mairena del Aljarafe",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.33710861206055,
+    "longitude": -6.064608097076416
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 89,
+    "max_surface": 112,
+    "min_price": 285000,
+    "max_price": 392000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/b2c96131-c9dd-442f-9487-8abf55cb29b0?rule=original",
+    "https://static.fotocasa.es/images/ads/2b4d0431-8675-4f03-ab0a-772effb8d9a5?rule=original",
+    "https://static.fotocasa.es/images/ads/86b8a5a4-bad7-4413-8068-7de01e488ed9?rule=original",
+    "https://static.fotocasa.es/images/ads/c99c758c-a8b2-40d5-bb07-bae7d630b201?rule=original",
+    "https://static.fotocasa.es/images/ads/7d8a4e96-bbee-47ef-bc08-8e64cb10ab74?rule=original",
+    "https://static.fotocasa.es/images/ads/f27a12c5-8892-4c69-8d56-044cfa40a533?rule=original",
+    "https://static.fotocasa.es/images/ads/e28c31d6-98a0-4d72-a229-09f029566891?rule=original",
+    "https://static.fotocasa.es/images/ads/5cd54785-02bd-477a-b329-e2898504f198?rule=original",
+    "https://static.fotocasa.es/images/ads/6d7c0081-d798-4401-9a66-bbe475a517db?rule=original"
+  ],
+  "videos": []
+}

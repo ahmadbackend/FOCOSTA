@@ -1,0 +1,42 @@
+{
+  "property_id": "20512584",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/calonge-i-sant-antoni/20512584",
+  "scrape_date": "2026-01-21T02:50:39Z",
+  "title": "CASERNES",
+  "description": "CASERNES\nVive mirando al mar\n\nCasernes es una exclusiva promoción de obra nueva en la Costa Brava, diseñada para quienes buscan vivir con vistas al mar. Esta promoción, situada en una ubicación privilegiada, consta de dos edificios con 11 y 16 viviendas. \nDestaca por sus acabados de alto standing, con un punto de modernidad y diseño que les proporciona calidez y luminosidad. Te permitirá de disfrutar de la biodiversidad del macizo de las Gavarres, de los vestigios históricos alrededor del castillo medieval de Calonge y de la belleza del litoral a través del camino de ronda.´\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n. Viviendas de 1, 2 y 3 habitaciones\n. Todas las viviendas disponen de terraza o jardín\n. Piscina comunitaria\n. Zonas comunes ajardinadas\n. Acabados de alto standing \n. Posibilidad de trastero y de aparcamiento\n. Vistas al mar",
+  "contact_info": {
+    "phone_number": "972084389",
+    "advertiser_name": "Tq Investpro",
+    "client_id": 9202773701070
+  },
+  "location": {
+    "city": "Calonge i Sant Antoni",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.82630157470703,
+    "longitude": 3.080554962158203
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 57,
+    "max_surface": 111,
+    "min_price": 325000,
+    "max_price": 995000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4dce1917-cb9a-4769-92a6-6294bcb5cd01?rule=original",
+    "https://static.fotocasa.es/images/ads/768e194b-bd6d-4570-9ec1-9c7729b9af14?rule=original",
+    "https://static.fotocasa.es/images/ads/5e977691-68ec-491a-b2de-16b79d516a16?rule=original",
+    "https://static.fotocasa.es/images/ads/adaa3bf5-9d9f-4fe9-9ebd-50987f698ec7?rule=original",
+    "https://static.fotocasa.es/images/ads/1328ed58-8339-4ccd-b67b-e7fbc3a445f4?rule=original",
+    "https://static.fotocasa.es/images/ads/88f36cd0-003f-410f-b31e-8ead8e39aba7?rule=original",
+    "https://static.fotocasa.es/images/ads/de9b0f58-7913-417a-bd55-322b785188fd?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/f361f73c-f2ae-42b1-a598-d15cdc8d29fe"
+  ]
+}

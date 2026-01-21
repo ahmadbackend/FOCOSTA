@@ -1,0 +1,37 @@
+{
+  "property_id": "20625901",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20625901",
+  "scrape_date": "2026-01-21T02:58:47Z",
+  "title": "JUAN CASTELLO-MARIE CURIE",
+  "description": "Exclusivos áticos y lofts de obra nueva en Valencia, diseñados para quienes buscan una vivienda diferente: terrazas privadas, luz natural todo el día, doble altura y espacios abiertos que invitan a disfrutar del clima mediterráneo. Hogares singulares donde interior y exterior se fusionan para vivir, teletrabajar y relajarse con total comodidad.\t\t\t\t\n\nÁticos con dos terrazas privadas y buhardilla versátil, perfectos para crear tu propio refugio urbano, y espectaculares lofts de estilo americano con altillo, gran ventanal y acabados industriales elegantes. \n\nUn producto muy exclusivo en la ciudad, ideal para invertir o empezar una nueva vida. \n¡Resérvalo antes de que se agote!",
+  "contact_info": {
+    "phone_number": "+34681093136",
+    "advertiser_name": "ALIANZA VENFER, S.L.",
+    "client_id": 9202775877500
+  },
+  "location": {
+    "city": " Valencia Capital",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.490787506103516,
+    "longitude": -0.3766040503978729
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 1,
+    "min_surface": 59,
+    "max_surface": 76,
+    "min_price": 270000,
+    "max_price": 375000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d0c6f23e-785b-4dd2-a92f-c84b69877784?rule=original",
+    "https://static.fotocasa.es/images/ads/02173417-40fe-425c-bc81-87331290f6bf?rule=original",
+    "https://static.fotocasa.es/images/ads/5f636d18-cc39-4996-8378-02f77152e743?rule=original",
+    "https://static.fotocasa.es/images/ads/33e43cf6-5b87-4077-b6f1-63fc704ec7b5?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,225 @@
+{
+  "page": 264,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/264",
+  "scrape_date": "2026-01-21T04:23:33.057496",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/el-molinillo-capuchinos/182257549/d",
+      "id": 182257549,
+      "price": 169000,
+      "location": "Calle Duque de Rivas, El Molinillo - Capuchinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-no-amueblado/188258627/d",
+      "id": 188258627,
+      "price": 770000,
+      "location": "Els Avets - Can Serrafossà - Ximelis",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cornella-de-llobregat/terraza/188368975/d",
+      "id": 188368975,
+      "price": 199000,
+      "location": "La Gavarra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torello/calefaccion/188242492/d",
+      "id": 188242492,
+      "price": 173000,
+      "location": "Torelló",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torello/calefaccion-terraza/188242612/d",
+      "id": 188242612,
+      "price": 195000,
+      "location": "Torelló",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calafell/piscina-piscina-no-amueblado/188350905/d",
+      "id": 188350905,
+      "price": 153500,
+      "location": "Segur de Calafell",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tordera/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-piscina-no-amueblado/188295353/d",
+      "id": 188295353,
+      "price": 470000,
+      "location": "Niàgara Parc - Ágora Parc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/algeciras/san-garcia/185847462/d",
+      "id": 185847462,
+      "price": 219900,
+      "location": "San García",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-hospitalet-de-llobregat/pubilla-cases/188329856/d",
+      "id": 188329856,
+      "price": 410000,
+      "location": "Pubilla Cases",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salou/no-amueblado/188326221/d",
+      "id": 188326221,
+      "price": 575000,
+      "location": "Barenys",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/aire-acondicionado-calefaccion-terraza-patio-no-amueblado/187943395/d",
+      "id": 187943395,
+      "price": 110000,
+      "location": "Los Barreros - Cuatro Santos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/parking-ascensor-piscina-no-amueblado/188054288/d",
+      "id": 188054288,
+      "price": 680000,
+      "location": "Loiola",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/argentona/aire-acondicionado-no-amueblado/188298033/d",
+      "id": 188298033,
+      "price": 265000,
+      "location": "Nucli Urbà ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilassar-de-dalt/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina/188279593/d",
+      "id": 188279593,
+      "price": 930000,
+      "location": "Vilassar de Dalt",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/covelo/jardin-no-amueblado/188289828/d",
+      "id": 188289828,
+      "price": 30000,
+      "location": "Covelo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-portil/parking/188286082/d",
+      "id": 188286082,
+      "price": 229900,
+      "location": "El Portil",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/terraza-no-amueblado/187078307/d",
+      "id": 187078307,
+      "price": 145000,
+      "location": "Bajada de Rumayor, Los Castros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-manga-del-mar-menor/parking-ascensor-no-amueblado/187475635/d",
+      "id": 187475635,
+      "price": 125000,
+      "location": "Poligono Poligono K-1-B Pto Menor, Tomás Maestre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/piera/jardin-terraza-trastero-piscina/185517127/d",
+      "id": 185517127,
+      "price": 167000,
+      "location": "Piera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almeria-capital/aire-acondicionado/188168586/d",
+      "id": 188168586,
+      "price": 275000,
+      "location": "Los Molinos - Villa Blanca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-terraza/186109250/d",
+      "id": 186109250,
+      "price": 321000,
+      "location": "Casco Histórico  - Ribera - San Basilio ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ourense-capital/calefaccion-parking-trastero-ascensor-amueblado/187836523/d",
+      "id": 187836523,
+      "price": 335000,
+      "location": "Universidad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badia-del-valles/calefaccion-ascensor/188237721/d",
+      "id": 188237721,
+      "price": 188000,
+      "location": "Badia del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/carolinas-bajas/187663369/d",
+      "id": 187663369,
+      "price": 141900,
+      "location": "Carolinas Bajas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/huelva-capital/las-torres-guadalupe/188179054/d",
+      "id": 188179054,
+      "price": 325000,
+      "location": "Las Torres - Guadalupe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/el-raval/187030527/d",
+      "id": 187030527,
+      "price": 221000,
+      "location": "Paloma, El Raval",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ciempozuelos/terraza-ascensor-no-amueblado/187544006/d",
+      "id": 187544006,
+      "price": 179900,
+      "location": "Calle de Santa Clara, Casco Antiguo Norte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/inca/aire-acondicionado-terraza/187635604/d",
+      "id": 187635604,
+      "price": 309000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villalbilla/calefaccion-parking-jardin-trastero-piscina/187484210/d",
+      "id": 187484210,
+      "price": 655000,
+      "location": "Los Hueros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sanlucar-de-barrameda/parking-jardin-terraza-piscina/188109602/d",
+      "id": 188109602,
+      "price": 299900,
+      "location": "Martín Miguel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ourense-capital/parking-ascensor-no-amueblado/188023628/d",
+      "id": 188023628,
+      "price": 115000,
+      "location": "Ventiun",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "property_id": "20604933",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20604933",
+  "scrape_date": "2026-01-21T03:12:58Z",
+  "title": "Marine Hills by TM",
+  "description": "Marine Hills by TM es un proyecto residencial único en la Costa del Sol. Apartamentos, áticos, villas pareadas y dúplex de 2, 3 y 4 dormitorios en zona Selwo, Estepona\n\n\nUn lugar donde el mar y la naturaleza son solo uno. En un entorno privilegiado, rodeado de naturaleza, muy cerca del Parque Selwo, y con una vista privilegiada al Mediterráneo.\n\nMarine Hills by TM se encuentra perfectamente comunicado, a pocos minutos del mar, del núcleo urbano de Estepona y Cancelada, y a 18 km de Marbel. Este proyecto residencial de TM contará con apartamentos y áticos de 2, 3 y 4 dormitorios y 8 villas pareadas de 3 dormitorios. Además, incluye magníficas zonas comunes con piscina de adultos, piscina infantil y piscina climatizada, 2 jacuzzis, pista de pádel, gimnasio, sala coworking, spa, sala multiusos y unas amplias zonas verdes con caminos y fuentes",
+  "contact_info": {
+    "phone_number": "865561428",
+    "advertiser_name": "TM MARKETING & SALES, SLU",
+    "client_id": 9202753048245
+  },
+  "location": {
+    "city": "Estepona",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.46659851074219,
+    "longitude": -5.074399948120117
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 3,
+    "min_surface": 65,
+    "max_surface": 176,
+    "min_price": 464000,
+    "max_price": 1638000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/f31902b0-6f18-4cac-920c-bdddbbbb5a5d?rule=original",
+    "https://static.fotocasa.es/images/ads/57f04786-1e8f-44e4-8c38-6bb0deb1af79?rule=original",
+    "https://static.fotocasa.es/images/ads/844a54e8-17ed-4853-a722-9e444e546816?rule=original",
+    "https://static.fotocasa.es/images/ads/cc053265-1d6f-47f3-ac18-912efe62b6fe?rule=original",
+    "https://static.fotocasa.es/images/ads/4822833d-9fc5-42c8-9b90-d3e1f4148b65?rule=original",
+    "https://static.fotocasa.es/images/ads/92cbc5ee-d3b6-49b1-a5b4-effd5abb3c08?rule=original",
+    "https://static.fotocasa.es/images/ads/b0de1262-c51f-485e-8f76-7a9f294ffeb3?rule=original",
+    "https://static.fotocasa.es/images/ads/3fe74846-0719-4a11-9bce-61c0fdd5b6a5?rule=original",
+    "https://static.fotocasa.es/images/ads/b68505e0-7aa5-4208-954c-3757647f960e?rule=original",
+    "https://static.fotocasa.es/images/ads/926898ef-d14f-45c9-b3ff-7119df6b314d?rule=original",
+    "https://static.fotocasa.es/images/ads/d7c90b89-7cf8-4cb2-8c45-3a43e48d68f6?rule=original"
+  ],
+  "videos": []
+}

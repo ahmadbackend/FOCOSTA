@@ -1,0 +1,59 @@
+{
+  "property_id": "20516323",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/alovera/20516323",
+  "scrape_date": "2026-01-21T02:34:14Z",
+  "title": "Essence Alovera Homes",
+  "description": "Viviendas de obra nueva de precio tasado en Alovera, Guadalajara.\nEssence Alovera Homes se ubica en Alovera (Guadalajara), una zona residencial en plena expansión, a tan solo 10 minutos de Guadalajara y 35 minutos del corazón de Madrid.\nLa promoción se sitúa estratégicamente entre los núcleos urbanos de Alovera y Azuqueca de Henares, en un entorno consolidado con amplias avenidas, jardines y acceso inmediato a comercios, centros deportivos, de salud y de ocio.\nTu vivienda de obra nueva en Alovera, con todo lo que necesitas.\nEssence Alovera Homes, ofrece la oportunidad de vivir en un entorno privilegiado, donde la tranquilidad se combina con la comodidad de disponer de todos los servicios al alcance de la mano.\nEl complejo residencial de obra nueva alberga 131 viviendas protegidas de precio tasado (VPT) de 1, 2, 3 y 4 dormitorios, todas ellas con garaje y trastero.\nLa disposición del edificio y sus amplias terrazas garantizan viviendas luminosas y soleadas, diseñadas para proporcionar bienestar y calidad de vida.\nAdemás, Essence Alovera Homes contará con una piscina para adultos e infantil, junto con extensas zonas verdes, creando un espacio perfecto para disfrutar en familia y con amigos.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": "Alovera",
+    "province": "Guadalajara",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.592559814453125,
+    "longitude": -3.24308705329895
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 94,
+    "max_surface": 163,
+    "min_price": 192864,
+    "max_price": 301128
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/7dd708f2-3df9-415a-81cc-095e0891786b?rule=original",
+    "https://static.fotocasa.es/images/ads/f98c5edf-7724-4997-b017-4c6c3e291d72?rule=original",
+    "https://static.fotocasa.es/images/ads/23bca091-d99a-4d9c-b401-78d55616529e?rule=original",
+    "https://static.fotocasa.es/images/ads/1fd20a7b-1492-46dd-a836-06dc14f865e4?rule=original",
+    "https://static.fotocasa.es/images/ads/bb535e95-1ec5-4009-9050-d5ba80704471?rule=original",
+    "https://static.fotocasa.es/images/ads/5f276c5e-7c11-4a61-a704-a0c61a20e609?rule=original",
+    "https://static.fotocasa.es/images/ads/c4696f74-2880-48da-b89d-0a97eb89617e?rule=original",
+    "https://static.fotocasa.es/images/ads/96ae70ca-8a2c-4d24-936e-baf0ac818674?rule=original",
+    "https://static.fotocasa.es/images/ads/38a8770a-0578-40d7-9e41-7a441113fa97?rule=original",
+    "https://static.fotocasa.es/images/ads/c8b1d156-a349-4d4a-9da4-f378d2f306d7?rule=original",
+    "https://static.fotocasa.es/images/ads/e8d1e5cc-9db1-4d06-9f67-98748c5dc2e1?rule=original",
+    "https://static.fotocasa.es/images/ads/1b5b8c79-5b94-4d57-887c-68ea7707eaa0?rule=original",
+    "https://static.fotocasa.es/images/ads/8b8c6155-f63d-42be-96c4-4a51979b3a50?rule=original",
+    "https://static.fotocasa.es/images/ads/f2ffba33-f192-40cf-b556-515ca2db4eb8?rule=original",
+    "https://static.fotocasa.es/images/ads/59ef9cab-646a-464c-9e56-a2f8718298de?rule=original",
+    "https://static.fotocasa.es/images/ads/42cb362f-bee5-4706-8fef-f60c36181d76?rule=original",
+    "https://static.fotocasa.es/images/ads/0770bb4a-7b7d-4b64-a2cd-094b2489dbc2?rule=original",
+    "https://static.fotocasa.es/images/ads/19ea149b-dbeb-4b10-876b-549e8920f8ef?rule=original",
+    "https://static.fotocasa.es/images/ads/4dd93190-c4c0-48dd-8091-e6ce0ad9f2a9?rule=original",
+    "https://static.fotocasa.es/images/ads/a3d05a27-9893-453d-b165-baafe00221a3?rule=original",
+    "https://static.fotocasa.es/images/ads/b2b05e88-8098-457f-808a-54fde474e3cf?rule=original",
+    "https://static.fotocasa.es/images/ads/a52b2637-150d-43f8-a82d-70a1a50c1d19?rule=original",
+    "https://static.fotocasa.es/images/ads/64deacb4-a633-4434-9104-9afeb2b856bd?rule=original",
+    "https://static.fotocasa.es/images/ads/78288969-bda1-4476-8be0-81fb613c4f4c?rule=original",
+    "https://static.fotocasa.es/images/ads/7efb4727-12bc-4f99-ba00-9eb04f21a2e8?rule=original",
+    "https://static.fotocasa.es/images/ads/22d7f321-814f-45a2-b3cd-00710732e701?rule=original"
+  ],
+  "videos": []
+}

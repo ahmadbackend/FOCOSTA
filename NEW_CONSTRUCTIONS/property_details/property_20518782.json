@@ -1,0 +1,45 @@
+{
+  "property_id": "20518782",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20518782",
+  "scrape_date": "2026-01-21T03:57:42Z",
+  "title": "PORTA BARCELONA II",
+  "description": "Corp Promotores - Promoción de Obra Nueva en Barcelona con piscina, gym, coworking, sala multiusos, área de relax, recepción, parkings y trasteros.\n\nViviendas de 2 y 3 habitaciones con terrazas y piscina en Sant Martí, todas ellas son muy luminosas y disponen de múltiples servicios comunes:\n-Piscina\n-Área de relax\n-Gimnasio\n-Coworking\n-Sala multiusos\n-Recepción\n-Desfibrilador DAI\n-Conserje\n\nACTIVA TU CUERPO Y RELAJA TU MENTE EN LA PISCINA\n\nDespués de una intensa jornada, descansa en las tumbonas de la piscina, disfruta del sol con toda la familia y refréscate sin salir de casa. La piscina del residencial es ideal para alejarse del estrés y de las pantallas y disfrutar de un entretenimiento más saludable.\n\nEl residencial está ubicado en una zona totalmente rehabilitada. Rodéate de servicios y de una amplia variedad de propuestas de ocio. Proyecta tu vida en una zona tranquila pero muy bien comunicada con toda Barcelona y las afueras, tanto en transporte público como privado. Te encuentras justo al lado de la parada de metro “La Pau”, muy cerca de la Gran Vía y de la Ronda Litoral.\n\nUn barrio repleto de comercios, de servicios y de vida. Sal a pasear por los más de 2 km de longitud de la Rambla Guipúzcoa, siéntate en un banco sombrío a tomar el aire o disfruta de las terrazas de los bares próximos en buena compañía. Con solo un paso, llegarás a diversas zonas verdes donde relajarte o parques llenos de vida donde los más peques podrán jugar y hacer amigos. Si te apetece, incluso puedes ir paseando a la playa.\n\nPrecios sin parking incluido. Precios sin IVA 10% incluido.\nCorp.\nCorp",
+  "contact_info": {
+    "phone_number": "+34934100079",
+    "advertiser_name": "Corp / Becorp Rental House",
+    "client_id": 9202770067285
+  },
+  "location": {
+    "city": " Barcelona Capital",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.42110061645508,
+    "longitude": 2.2093605995178223
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 59,
+    "max_surface": 102,
+    "min_price": 389000,
+    "max_price": 731000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/690ba59d-a17e-4628-9348-794b59f28d23?rule=original",
+    "https://static.fotocasa.es/images/ads/df8400c9-ce9d-4be4-9bab-4e702f49f51b?rule=original",
+    "https://static.fotocasa.es/images/ads/3e1f889f-7f50-46dc-80e3-386207c88a40?rule=original",
+    "https://static.fotocasa.es/images/ads/27fa696e-e804-4de8-848e-4340ab9fe18f?rule=original",
+    "https://static.fotocasa.es/images/ads/27baf848-8246-478e-8878-d1acbdb4ee67?rule=original",
+    "https://static.fotocasa.es/images/ads/74ecc948-9132-4296-b14c-248c67bd279d?rule=original",
+    "https://static.fotocasa.es/images/ads/ff17568c-67b4-4d6f-9ee8-51943a91dc42?rule=original",
+    "https://static.fotocasa.es/images/ads/10ff3161-7e47-4435-a8a3-1a528b2ad69a?rule=original",
+    "https://static.fotocasa.es/images/ads/004875e8-f039-44c1-891c-b16d4c4dd505?rule=original",
+    "https://static.fotocasa.es/images/ads/ebfe3b4f-9835-4cd4-8d5e-8d51452fe604?rule=original",
+    "https://static.fotocasa.es/images/ads/58e7a054-6904-41a2-8d8a-2bf54c310cfb?rule=original",
+    "https://static.fotocasa.es/images/ads/ece4ec7b-cd93-4694-b7ed-c4c285b3d256?rule=original"
+  ],
+  "videos": []
+}

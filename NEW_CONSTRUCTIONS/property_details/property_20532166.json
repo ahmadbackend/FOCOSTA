@@ -1,0 +1,40 @@
+{
+  "property_id": "20532166",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cambrils/20532166",
+  "scrape_date": "2026-01-21T04:34:21Z",
+  "title": "Residencial Sisley Mar",
+  "description": "Residencial Sisley Mar – Villas de obra nueva a 2 min del mar\n\nViviendas unifamiliares en Cambrils, a solo 2 minutos andando de la playa. Ubicadas en una zona tranquila y consolidada, Residencial Sisley Mar ofrece casas de diseño moderno y eficiente, con 4 habitaciones, 3 baños, jardín y piscina privada sobre parcelas de aproximadamente 260 m².\n\nCada vivienda ha sido pensada para disfrutar de la luz del Mediterráneo y de un estilo de vida al aire libre. Incorporan sistemas de aerotermia y placas fotovoltaicas, lo que las convierte en una opción sostenible, eficiente y comprometida con el entorno.\n\nUna promoción ideal para quienes buscan confort, proximidad al mar y calidad de vida en la Costa Dorada.\n\nLe baron te acompaña durante todo el proceso.\nDonde todo empieza.",
+  "contact_info": {
+    "phone_number": "+34616669957",
+    "advertiser_name": "Le Baron House",
+    "client_id": 9202774850957
+  },
+  "location": {
+    "city": "Cambrils",
+    "province": "Tarragona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.065185546875,
+    "longitude": 1.0403153896331787
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 150,
+    "max_surface": 150,
+    "min_price": 550000,
+    "max_price": 550000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8ae90d9b-f3f1-4b9c-ba10-3955d0a1541e?rule=original",
+    "https://static.fotocasa.es/images/ads/3d7397a1-0d1a-4871-b745-7e71161fac60?rule=original",
+    "https://static.fotocasa.es/images/ads/e19015f9-e95e-489e-b644-e0ceb01917fd?rule=original",
+    "https://static.fotocasa.es/images/ads/3c6c00cf-2eaf-4131-86ef-803b6249e374?rule=original",
+    "https://static.fotocasa.es/images/ads/0df3686d-c8ab-4522-aac8-5583621d311a?rule=original",
+    "https://static.fotocasa.es/images/ads/a2659996-c757-4579-b470-6f67efc02317?rule=original",
+    "https://static.fotocasa.es/images/ads/28fe7893-4f35-49ed-9697-332e5fde8f95?rule=original"
+  ],
+  "videos": []
+}

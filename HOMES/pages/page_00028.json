@@ -1,0 +1,225 @@
+{
+  "page": 28,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/28",
+  "scrape_date": "2026-01-21T04:18:50.045916",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/trastero-ascensor/188482353/d",
+      "id": 188482353,
+      "price": 650000,
+      "location": "Sagrada Família",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/parking-jardin-terraza-piscina/185974299/d",
+      "id": 185974299,
+      "price": 1199000,
+      "location": "Vallvidrera - Tibidabo - Les Planes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-ascensor-no-amueblado/186937398/d",
+      "id": 186937398,
+      "price": 40000000,
+      "location": "Carrer de Sant Pere, 39, Barri del Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/caldes-de-montbui/parking-ascensor/188382721/d",
+      "id": 188382721,
+      "price": 245000,
+      "location": "Calle Major, 88, Caldes de Montbui",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/calefaccion-parking-ascensor-no-amueblado/188512916/d",
+      "id": 188512916,
+      "price": 330000,
+      "location": "Es Camp Redó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/jardin-terraza/185500093/d",
+      "id": 185500093,
+      "price": 120000,
+      "location": "Calle Rincón de los Cobos, El Raal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zafra/zafra/188562092/d",
+      "id": 188562092,
+      "price": 52000,
+      "location": "Zafra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/no-amueblado/187870137/d",
+      "id": 187870137,
+      "price": 235000,
+      "location": "COIMBRA, 28, Horta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-navas-del-marques/calefaccion-no-amueblado/187903415/d",
+      "id": 187903415,
+      "price": 95000,
+      "location": "Calle Segovia, Las Navas del Marqués ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/no-amueblado/186898097/d",
+      "id": 186898097,
+      "price": 90000,
+      "location": "SORS, Vila de Gràcia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/viladecans/centre/188344707/d",
+      "id": 188344707,
+      "price": 195000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/marbella/aire-acondicionado-parking-terraza-ascensor-piscina-amueblado-piscina/187414260/d",
+      "id": 187414260,
+      "price": 229000,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/galdar/terraza/184986731/d",
+      "id": 184986731,
+      "price": 59000,
+      "location": "Marmolejos, Barrial - San Isidro - Marmolejos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor/188490996/d",
+      "id": 188490996,
+      "price": 3150000,
+      "location": "Calle Manuel Garcia Lago, 5, El Sardinero",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/calefaccion-parking-jardin-trastero-ascensor-no-amueblado/188021856/d",
+      "id": 188021856,
+      "price": 430000,
+      "location": "Santander - CL ARSENIO ODRIOZOLA, 7, Valdenoja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-trastero-ascensor/188110445/d",
+      "id": 188110445,
+      "price": 199000,
+      "location": "Avinguda Novelda, 127, Los Ángeles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/a-coruna-capital/calefaccion-terraza-trastero-ascensor-internet-no-amueblado/188530574/d",
+      "id": 188530574,
+      "price": 660000,
+      "location": "Rúa Ramón de la Sagra, 12, Ensanche",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/calefaccion-parking-jardin-terraza-internet-no-amueblado/188593140/d",
+      "id": 188593140,
+      "price": 390000,
+      "location": "Carrer d'Aiguafreda, 1, Castellnou - Can Mir - Can Solà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-jardin-trastero-ascensor-piscina-amueblado/188370390/d",
+      "id": 188370390,
+      "price": 249000,
+      "location": "Avenida del Ensanche de Vallecas, 108, Ensanche de Vallecas - La Gavia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/calefaccion-parking-trastero-ascensor-no-amueblado/188082654/d",
+      "id": 188082654,
+      "price": 450000,
+      "location": "Terrassa - CL IGUALTAT,DE LA, 3, Barri del Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/aire-acondicionado-parking-jardin-terraza-ascensor/188595819/d",
+      "id": 188595819,
+      "price": 585000,
+      "location": "Calle CERRO DE LOS MACHOS, 34, Camino de los Neveros - Serrallo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-roca-del-valles/aire-acondicionado-calefaccion-terraza-ascensor-television/188554766/d",
+      "id": 188554766,
+      "price": 340000,
+      "location": "Camí del Pi Gros, 20, La Roca del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zaragoza-capital/terraza-ascensor-patio/188444774/d",
+      "id": 188444774,
+      "price": 169000,
+      "location": "Calle Padre Manjón, 38, Barrio de Delicias",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-parking-jardin-terraza-trastero-zona-comunitaria-ascensor-patio-no-amueblado/187414079/d",
+      "id": 187414079,
+      "price": 1170000,
+      "location": "Carrer de Vico, 23, Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-calefaccion-terraza-no-amueblado/188546660/d",
+      "id": 188546660,
+      "price": 98000,
+      "location": "Carrer Cadis, 10, Estadio Castalia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almeria-capital/ascensor-amueblado/188500579/d",
+      "id": 188500579,
+      "price": 157000,
+      "location": "Calle Pablo Ruiz Picasso, 63, Oliveros - Altamira",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roquetas-de-mar/aire-acondicionado-calefaccion-parking-jardin-terraza-zona-comunitaria-ascensor-patio-piscina-piscina-no-amueblado/188486108/d",
+      "id": 188486108,
+      "price": 151500,
+      "location": "Calle Antonio Pintor, 20, Roquetas Pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/aire-acondicionado-calefaccion-ascensor/188485916/d",
+      "id": 188485916,
+      "price": 145000,
+      "location": "Calle Tamboril, 80, Crta. De la Sierra  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/donostia-san-sebastian/calefaccion-parking-terraza-ascensor/186642220/d",
+      "id": 186642220,
+      "price": 3000000,
+      "location": "Mirakontxa Pasealekua Miraconcha, 6, Área Romántica",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mijas/aire-acondicionado-calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-piscina-amueblado-television-piscina/188097740/d",
+      "id": 188097740,
+      "price": 315000,
+      "location": "Torcal, 8, Calahonda ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torremolinos/aire-acondicionado-calefaccion-terraza-trastero-zona-comunitaria-ascensor-amueblado-piscina/184907283/d",
+      "id": 184907283,
+      "price": 1100000,
+      "location": "Calle Víctimas del Terrorismo, 12, Los Álamos",
+      "type": "realEstate"
+    }
+  ]
+}

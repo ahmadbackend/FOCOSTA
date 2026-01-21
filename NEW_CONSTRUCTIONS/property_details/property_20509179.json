@@ -1,0 +1,43 @@
+{
+  "property_id": "20509179",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/vilafranca-del-penedes/20509179",
+  "scrape_date": "2026-01-21T02:43:21Z",
+  "title": "Vilafranca Mare Rafols",
+  "description": "¡Últimas 3 viviendas disponibles!\n¿Buscas una vivienda lista para entrar a vivir? ¡Esta es tu oportunidad!\n\nTe presentamos las últimas unidades disponibles de nuestra promoción:\n Pisos de 3 dormitorios, amplios y luminosos\n Entrega inmediata – sin esperas, sin demoras\n Ubicados en una zona consolidada, con todos los servicios al alcance\n Plazas de aparcamiento y trasteros disponibles\n Construcción de alta calidad, eficiencia energética y excelente distribución\n\nDisfruta ya de tu nuevo hogar con todas las comodidades.\n Contacta con nosotros hoy mismo y agenda tu visita.\n¡No dejes escapar esta oportunidad única!",
+  "contact_info": {
+    "phone_number": "931321259",
+    "advertiser_name": "QOL22, S.L.",
+    "client_id": 9202774333914
+  },
+  "location": {
+    "city": "Vilafranca del Penedès",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.340721130371094,
+    "longitude": 1.7068489789962769
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 104,
+    "max_surface": 107,
+    "min_price": 269000,
+    "max_price": 296000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1f08f4ac-7838-45c3-9f4b-c124d4afe1b4?rule=original",
+    "https://static.fotocasa.es/images/ads/7e667f6c-7255-4151-9ebe-cf8e420693d2?rule=original",
+    "https://static.fotocasa.es/images/ads/61769ee0-7e22-497b-b07e-93d32a36520b?rule=original",
+    "https://static.fotocasa.es/images/ads/181ca552-b412-4fa8-8624-de7a42e6a6e0?rule=original",
+    "https://static.fotocasa.es/images/ads/ca9e97f6-f797-49b5-b00a-06b4c67e5e86?rule=original",
+    "https://static.fotocasa.es/images/ads/04183f8c-2542-4117-b2d8-936d3171420c?rule=original",
+    "https://static.fotocasa.es/images/ads/ac6ff6fa-e477-421c-a2a6-312a3a99366b?rule=original",
+    "https://static.fotocasa.es/images/ads/5739527f-807f-43cd-b5c4-e2ec313056a4?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/7a3f04b1-839b-4f18-a168-a785f7d170a4"
+  ]
+}

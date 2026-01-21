@@ -1,0 +1,225 @@
+{
+  "page": 76,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/76",
+  "scrape_date": "2026-01-21T04:19:37.220501",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-ascensor/185611636/d",
+      "id": 185611636,
+      "price": 280000,
+      "location": "Santa Catalina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-trastero-zona-comunitaria-ascensor-amueblado/186540123/d",
+      "id": 186540123,
+      "price": 406000,
+      "location": "Avenida Doctor Garcia Tapia, Media Legua",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sentmenat/aire-acondicionado-parking-jardin-terraza-trastero-patio-piscina/186223770/d",
+      "id": 186223770,
+      "price": 390000,
+      "location": "Sentmenat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado/187850824/d",
+      "id": 187850824,
+      "price": 92650,
+      "location": "Calle MATEMATICO ROMERO, Virgen del Remedio - Parque Lo Morant",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jerez-de-la-frontera/aire-acondicionado-parking-ascensor/188483065/d",
+      "id": 188483065,
+      "price": 205000,
+      "location": "Chapín - Campus Universitario - Navinco",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-hospitalet-de-llobregat/ascensor/188547947/d",
+      "id": 188547947,
+      "price": 280000,
+      "location": "Can Serra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/no-amueblado/188547877/d",
+      "id": 188547877,
+      "price": 365000,
+      "location": "Calle Bulnes, Es Vivero",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20516323/188267746",
+      "id": 188267746,
+      "price": 252342,
+      "location": "  Avenida Camino las Fuentes, Alovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20516323/188267741",
+      "id": 188267741,
+      "price": 301128,
+      "location": "  Avenida Camino las Fuentes, Alovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20516323/188267742",
+      "id": 188267742,
+      "price": 192864,
+      "location": "  Avenida Camino las Fuentes, Alovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20516323/188267739",
+      "id": 188267739,
+      "price": 284443,
+      "location": "  Avenida Camino las Fuentes, Alovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20516323/188267740",
+      "id": 188267740,
+      "price": 258408,
+      "location": "  Avenida Camino las Fuentes, Alovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/ascensor-patio/188538664/d",
+      "id": 188538664,
+      "price": 199000,
+      "location": "El Plantinar – Avda. La Paz - El Juncal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-rozas-de-madrid/calefaccion-parking-ascensor-piscina-no-amueblado/188537608/d",
+      "id": 188537608,
+      "price": 780000,
+      "location": "Marazuela - El Torreón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado/188211848/d",
+      "id": 188211848,
+      "price": 179000,
+      "location": "Barrio de San Blas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lorca/san-jose/188543351/d",
+      "id": 188543351,
+      "price": 138000,
+      "location": "San José",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/aire-acondicionado-amueblado/188499633/d",
+      "id": 188499633,
+      "price": 375000,
+      "location": "Marquès de Fontsanta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-vicenc-dels-horts/aire-acondicionado-calefaccion-parking-trastero-ascensor-amueblado-piscina/188537897/d",
+      "id": 188537897,
+      "price": 270720,
+      "location": "CL MOSSEN JACINT VERDAGUER, Sant Vicenç Dels Horts",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/calefaccion-parking-jardin-terraza-trastero-ascensor-piscina/186610300/d",
+      "id": 186610300,
+      "price": 258000,
+      "location": "San Ildefonso",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/terraza-no-amueblado/188536009/d",
+      "id": 188536009,
+      "price": 250000,
+      "location": "De Las Cuevas De Almanzora, Apóstol Santiago",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bunyola/parking/188526540/d",
+      "id": 188526540,
+      "price": 650000,
+      "location": " DISEMINADOS, Bunyola",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-amueblado/188482260/d",
+      "id": 188482260,
+      "price": 219000,
+      "location": "De Hellín, Hellín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/granada-capital/20525105/186181334",
+      "id": 186181334,
+      "price": 436000,
+      "location": "Ribera del Beiro. Parcela PR. Sector AR \"Cuartel de los Mondragones\", La Cruz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sagunto-sagunt/20525140/188005332",
+      "id": 188005332,
+      "price": 239000,
+      "location": "Alcalá Galiano, San José - Los Metales",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/arico/20525087/187776720",
+      "id": 187776720,
+      "price": 279420,
+      "location": "Ocira  Parcela M, Arico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/cordoba-capital/20518866/188527905",
+      "id": 188527905,
+      "price": 477000,
+      "location": "Calle Al-Birka, Tablero Bajo - Arruzafilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-pont-de-vilomara-i-rocafort/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-no-amueblado/188526990/d",
+      "id": 188526990,
+      "price": 320000,
+      "location": "El Pont de Vilomara i Rocafort",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20567478/187210383",
+      "id": 187210383,
+      "price": 329000,
+      "location": "  Calle Nelson Mandela, Alovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20567478/187845331",
+      "id": 187845331,
+      "price": 250000,
+      "location": "  Calle Nelson Mandela, Alovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20516328/186400773",
+      "id": 186400773,
+      "price": 248900,
+      "location": "   Calle Gabriel García Márquez, Alovera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/alovera/20516328/185918228",
+      "id": 185918228,
+      "price": 249300,
+      "location": "   Calle Gabriel García Márquez, Alovera",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "property_id": "20509534",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/santona/20509534",
+  "scrape_date": "2026-01-21T03:56:20Z",
+  "title": "SANTOÑA",
+  "description": "TRECEHOME INMOBILIARIA ofrece esta promoción de 90 viviendas, garajes y trasteros en el centro de Santoña, a pocos metros de todos los servicios y de las playas de Berria y Santoña.\n\nLa edificación cuenta con materiales de alta calidad y acabados modernos, asegurando un estilo de vida incomparable. Construimos para obtener la mayor calificación energética.\nRepresentando una oportunidad única para disfrutar de la tranquilidad y belleza natural de Santoña, una Villa Marinera con una actividad cultural y gastronómica para disfrutar durante todo el año.\nPosibilidad de adquirir garajes y trastero.\n\nLas superficies reflejadas en los planos de las viviendas son informativas pudiendo experimentar mínimas modificaciones durante el desarrollo de la ejecución de la obra.",
+  "contact_info": {
+    "phone_number": "942382687",
+    "advertiser_name": "Trece Home",
+    "client_id": 9202773265351
+  },
+  "location": {
+    "city": "Santoña",
+    "province": "Cantabria",
+    "region": "Cantabria",
+    "country": "España",
+    "latitude": 43.44449234008789,
+    "longitude": -3.4558258056640625
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 54,
+    "max_surface": 128,
+    "min_price": 160000,
+    "max_price": 234000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/7d94d3a2-be15-459d-bc2f-5b9bb00ac1a0?rule=original",
+    "https://static.fotocasa.es/images/ads/207d4c76-219d-466d-98de-4afe4d544d8a?rule=original",
+    "https://static.fotocasa.es/images/ads/1378e71a-526b-4a7e-9e4f-094a5e8b380c?rule=original",
+    "https://static.fotocasa.es/images/ads/65a288cb-b183-4ca1-859c-3d8af7bc548f?rule=original",
+    "https://static.fotocasa.es/images/ads/1b1ef468-5027-4737-8a58-986849a45b14?rule=original",
+    "https://static.fotocasa.es/images/ads/ae923738-2a11-4634-8d7e-5a0c0fd88646?rule=original",
+    "https://static.fotocasa.es/images/ads/3d6fd164-9ca3-4382-b1b8-82c82845520f?rule=original",
+    "https://static.fotocasa.es/images/ads/3b6791e4-5a2a-439b-a762-f8f0a88cd7f0?rule=original",
+    "https://static.fotocasa.es/images/ads/abbee012-bcd7-4533-a147-123da484fe07?rule=original",
+    "https://static.fotocasa.es/images/ads/b32ecdb9-41de-4925-85b9-f0dc757fdbab?rule=original",
+    "https://static.fotocasa.es/images/ads/2ff4266e-6a4e-44b6-bfa3-533fc1304d4a?rule=original",
+    "https://static.fotocasa.es/images/ads/88de653f-8a1e-45f7-b687-c3e03f2ac7b0?rule=original",
+    "https://static.fotocasa.es/images/ads/93973d87-02bb-4ef2-9e27-196360c96435?rule=original",
+    "https://static.fotocasa.es/images/ads/b1d2a007-ca4d-4aa7-b29f-f69d01a68cfb?rule=original",
+    "https://static.fotocasa.es/images/ads/6d06d43c-8e58-4c5c-bb0b-1688f67ea45f?rule=original",
+    "https://static.fotocasa.es/images/ads/c8ffc8c3-97f6-48ac-af54-aed52c1b987a?rule=original",
+    "https://static.fotocasa.es/images/ads/45d890b8-eaf9-42b4-a9d5-752c5fa1dcca?rule=original",
+    "https://static.fotocasa.es/images/ads/afe000b1-7c3b-4815-91d0-7d821edbe8a4?rule=original",
+    "https://static.fotocasa.es/images/ads/89d2e2b7-3d46-42c5-9a99-73d5c9ec5bc4?rule=original"
+  ],
+  "videos": []
+}

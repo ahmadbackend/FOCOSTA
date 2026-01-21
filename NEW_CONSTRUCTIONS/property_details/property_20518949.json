@@ -1,0 +1,49 @@
+{
+  "property_id": "20518949",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/mataro/20518949",
+  "scrape_date": "2026-01-21T03:22:18Z",
+  "title": "ALMA MATARÓ",
+  "description": "Alma De Mataró es un paraíso familiar que se encuentra en una ubicación extraordinaria, frente al mar y el paseo marítimo, concretamente en Paseo de la Marina 28.\n\nEste proyecto es exclusivo para familias que tienen claro que la seguridad, comodidad y diseño, son lo primero.\n\nVivir en Alma De Mataró, significa no solamente tener una vivienda en plena ciudad, sino vivir en un enclave urbano en el que la luz propia de la Costa del Maresme inundará hasta el último recoveco de tu vivienda.\n\nGrandes terrazas con enormes huecos acristalados, que conseguirán que este gran espacio se integre en la vivienda.\n\nÁticos con espectaculares y despejadas vistas y solariums privativos con posibilidad de zona de piscina y barbacoa privada.\n\nViviendas en planta baja, ideal para familias con niños y mascotas y, por supuesto, para los amantes del sol propio de esta zona tan emblemática, como es Mataró, con acceso directo a las zonas comunes.\n\n* Anejos obligatorios no incluidos en el precio.",
+  "contact_info": {
+    "phone_number": "931321475",
+    "advertiser_name": "LEVEL",
+    "client_id": 9202774567866
+  },
+  "location": {
+    "city": "Mataró",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.52633285522461,
+    "longitude": 2.434746265411377
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 66,
+    "max_surface": 150,
+    "min_price": 340000,
+    "max_price": 591000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1ccdce88-d6f4-422f-99d0-dec7cf06410e?rule=original",
+    "https://static.fotocasa.es/images/ads/2c3949da-4c8b-4c18-80da-50a3cfb84682?rule=original",
+    "https://static.fotocasa.es/images/ads/924432be-fa92-4e56-a40d-8e4cf27060d8?rule=original",
+    "https://static.fotocasa.es/images/ads/78679674-8f02-44bd-a093-eb159ca855ab?rule=original",
+    "https://static.fotocasa.es/images/ads/a4b56af2-e246-45d2-b7ed-86493d63ce68?rule=original",
+    "https://static.fotocasa.es/images/ads/27b6fe94-0b9b-4e1d-8778-54eebc84947f?rule=original",
+    "https://static.fotocasa.es/images/ads/489dc03b-47b7-465b-92cf-cff43513f6b9?rule=original",
+    "https://static.fotocasa.es/images/ads/370f66a7-d40f-471d-a1b0-9b7854fc6e18?rule=original",
+    "https://static.fotocasa.es/images/ads/955ad628-275a-4041-a3d6-ea02c940206b?rule=original",
+    "https://static.fotocasa.es/images/ads/b1d33623-7e49-43e1-b277-541ec54b477c?rule=original",
+    "https://static.fotocasa.es/images/ads/9775871f-acc4-4465-86f7-62b2bc6d7af9?rule=original",
+    "https://static.fotocasa.es/images/ads/4a240a6f-e2ad-432e-ba25-61683d6aefb6?rule=original",
+    "https://static.fotocasa.es/images/ads/a98c2dfb-d2c2-4712-97a1-c5ae0d795b6d?rule=original",
+    "https://static.fotocasa.es/images/ads/eb3e6bc2-85cf-4fee-a086-4dff01934a10?rule=original",
+    "https://static.fotocasa.es/images/ads/eb7b0b47-b5d0-4fed-a1d3-1147a6415926?rule=original",
+    "https://static.fotocasa.es/images/ads/5c29bb08-deac-4932-8b94-557426b0416b?rule=original"
+  ],
+  "videos": []
+}

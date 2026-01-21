@@ -1,0 +1,225 @@
+{
+  "page": 295,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/295",
+  "scrape_date": "2026-01-21T04:24:05.135774",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-television/181253748/d",
+      "id": 181253748,
+      "price": 1100000,
+      "location": "Calle del Duque de Sesto, Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/agramunt/agramunt/187806157/d",
+      "id": 187806157,
+      "price": 19000,
+      "location": "Agramunt",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-vendrell/parking-jardin/183677772/d",
+      "id": 183677772,
+      "price": 175000,
+      "location": "El Tancat - Mas d'en Gual",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/piscina-amueblado/188274432/d",
+      "id": 188274432,
+      "price": 375000,
+      "location": "Paraíso Arenal - La Colina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/haro/haro/182056229/d",
+      "id": 182056229,
+      "price": 14500,
+      "location": "Haro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-palacios-y-villafranca/los-palacios-y-villafranca/185803143/d",
+      "id": 185803143,
+      "price": 250000,
+      "location": "Los Palacios y Villafranca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vila-sana/vila-sana/165025577/d",
+      "id": 165025577,
+      "price": 79000,
+      "location": "Vila-sana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-roda/la-roda/182359792/d",
+      "id": 182359792,
+      "price": 29000,
+      "location": "La Roda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-quirze-del-valles/parking-no-amueblado/186832626/d",
+      "id": 186832626,
+      "price": 565000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-santos-de-la-humosa/patio/186743471/d",
+      "id": 186743471,
+      "price": 38000,
+      "location": "Los Santos de la Humosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/empuriabrava/patio/184216349/d",
+      "id": 184216349,
+      "price": 499000,
+      "location": "Requesens",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-rompido/no-amueblado/182284533/d",
+      "id": 182284533,
+      "price": 391000,
+      "location": "El Rompido",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llucmajor/aire-acondicionado-terraza/186945414/d",
+      "id": 186945414,
+      "price": 595000,
+      "location": "Llucmajor pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/calefaccion-parking-jardin-patio-piscina-no-amueblado/186120845/d",
+      "id": 186120845,
+      "price": 2325000,
+      "location": "Urbanización Este - Montepríncipe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/calefaccion-parking-jardin-patio-piscina-no-amueblado/182699599/d",
+      "id": 182699599,
+      "price": 2425000,
+      "location": "Urbanización Este - Montepríncipe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-palacios-y-villafranca/los-palacios-y-villafranca/187602777/d",
+      "id": 187602777,
+      "price": 125000,
+      "location": "Los Palacios y Villafranca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/creu-alta/187612593/d",
+      "id": 187612593,
+      "price": 395000,
+      "location": "Creu Alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/o-castro/185953951/d",
+      "id": 185953951,
+      "price": 360315,
+      "location": "O Castro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/terraza-no-amueblado/188000625/d",
+      "id": 188000625,
+      "price": 336000,
+      "location": "Son Ferriol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/calefaccion-jardin-terraza-no-amueblado/182807176/d",
+      "id": 182807176,
+      "price": 390000,
+      "location": "Valadares - Beade",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lliria/santa-barbara/182312673/d",
+      "id": 182312673,
+      "price": 46500,
+      "location": "Santa Bárbara  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelavega/cerezo-aspla-torres/183207471/d",
+      "id": 183207471,
+      "price": 26600,
+      "location": "Cerezo - Aspla - Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mota-del-cuervo/mota-del-cuervo/176641244/d",
+      "id": 176641244,
+      "price": 24000,
+      "location": "Mota del Cuervo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-astillero/el-astillero/176641621/d",
+      "id": 176641621,
+      "price": 44800,
+      "location": "El Astillero  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/andujar/andujar/181973840/d",
+      "id": 181973840,
+      "price": 74200,
+      "location": "Andújar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/priego/priego/179545924/d",
+      "id": 179545924,
+      "price": 37100,
+      "location": "Priego",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/montearagon/montearagon/163872800/d",
+      "id": 163872800,
+      "price": 42500,
+      "location": "Montearagón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-casar/no-amueblado/177693605/d",
+      "id": 177693605,
+      "price": 285000,
+      "location": "El Casar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santander/alisal-san-roman/184660554/d",
+      "id": 184660554,
+      "price": 84000,
+      "location": "Alisal - San Román",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/jardin-ascensor-piscina-amueblado/188371560/d",
+      "id": 188371560,
+      "price": 225000,
+      "location": "Carrer Metge Pedro Herrero, 8, Alipark",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salamanca-capital/calefaccion-parking-trastero-zona-comunitaria-ascensor-piscina-no-amueblado/188481966/d",
+      "id": 188481966,
+      "price": 180000,
+      "location": "Calle Alcalde Navarro González, 20, Tejares - Chamberí - Alcades",
+      "type": "realEstate"
+    }
+  ]
+}

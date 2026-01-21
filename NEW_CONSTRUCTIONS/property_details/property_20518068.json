@@ -1,0 +1,41 @@
+{
+  "property_id": "20518068",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cisterniga/20518068",
+  "scrape_date": "2026-01-21T04:03:32Z",
+  "title": "PUERTA DE LA CISTERNIGA",
+  "description": "¡ÚLTIMAS VIVIENDAS FASE 2!. Un NUEVO Proyecto residencial de 60 viviendas, de 2, 3 y 4 dormitorios , en el que seguimos ofreciendo viviendas muy equilibradas, ajustadas a las propuestas que los clientes nos han trasladado.\n Situada en La Cistérniga, un municipio consolidado, dotado de todos los servicios: Supermercados, tiendas, polideportivo, casa de la cultura, colegio público, piscina municipal, transporte urbano con parada junto a la urbanización y a tan solo 15 minutos del centro de Valladolid. \n Con una cuidada selección de materiales, ponemos a tu alcance unas viviendas confortables y luminosas, donde la zona de día y de noche están diferenciadas, con zonas de habitabilidad y amplias terrazas, en las que se ha cuidado cada detalle. \n Preocupados por mantener la identidad de la zona, hemos proyectado un edificio en la línea de nuestras anteriores promociones, pero con personalidad propia, pensado para disfrutar de la tranquilidad del entorno y las magníficas vistas que lo rodean.\n Te ofrecemos un amplio abanico de personalizaciones en los acabados, que cumplen en gran medida, las exigencias de nuestros clientes. \n Viviendas de calidad,  que te puedes permitir.",
+  "contact_info": {
+    "phone_number": "983980178",
+    "advertiser_name": "KER 2000, S.L.",
+    "client_id": 9202751184167
+  },
+  "location": {
+    "city": "Cistérniga",
+    "province": "Valladolid",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 41.60878372192383,
+    "longitude": -4.678434371948242
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 99,
+    "max_surface": 99,
+    "min_price": 225500,
+    "max_price": 235500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/67d09c97-c7b1-4532-b733-5dab67608e44?rule=original",
+    "https://static.fotocasa.es/images/ads/b0cad77b-4b6e-4e09-90a6-6a3398da77db?rule=original",
+    "https://static.fotocasa.es/images/ads/a988e2f3-8df7-4446-9e99-9ae40a16e7c6?rule=original",
+    "https://static.fotocasa.es/images/ads/a2b7ab96-fb53-4c05-b5d3-74aac166ed71?rule=original",
+    "https://static.fotocasa.es/images/ads/17923327-92f9-408d-b1ea-d2a267b0e6e8?rule=original",
+    "https://static.fotocasa.es/images/ads/4503f38a-fc8b-4b5e-98e6-9494ae3f7227?rule=original",
+    "https://static.fotocasa.es/images/ads/72a7e975-7a7b-4b44-adf1-58bb835622fd?rule=original",
+    "https://static.fotocasa.es/images/ads/4b87a083-4381-4cf5-b9d4-dc12f4afc522?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,225 @@
+{
+  "page": 246,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/246",
+  "scrape_date": "2026-01-21T04:23:08.315244",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188201776/d",
+      "id": 188201776,
+      "price": 370000,
+      "location": "Carrer NAPOLS, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-vicenc-de-montalt/aire-acondicionado-calefaccion-trastero-ascensor-piscina/188181694/d",
+      "id": 188181694,
+      "price": 715000,
+      "location": "El Balís - Can Calella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/trastero-ascensor-patio/188147374/d",
+      "id": 188147374,
+      "price": 250000,
+      "location": "Girón - Las Delicias",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calvia/terraza-trastero-no-amueblado/187856378/d",
+      "id": 187856378,
+      "price": 349000,
+      "location": "Santa Ponça",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mazarron/jardin-terraza-patio-amueblado/188260776/d",
+      "id": 188260776,
+      "price": 125900,
+      "location": "Mazarrón Casco Urbano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-no-amueblado/187216696/d",
+      "id": 187216696,
+      "price": 430000,
+      "location": "El Guinardó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pineda-de-mar/aire-acondicionado-ascensor-piscina-no-amueblado/188147681/d",
+      "id": 188147681,
+      "price": 197000,
+      "location": "Calle Calella, Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/peligros/aire-acondicionado-calefaccion-patio-no-amueblado/187879443/d",
+      "id": 187879443,
+      "price": 249990,
+      "location": "Calle Federica Montseny, Peligros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-ejido/ejido-centro/188288820/d",
+      "id": 188288820,
+      "price": 118000,
+      "location": "Ejido Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/aire-acondicionado-calefaccion-terraza/188183938/d",
+      "id": 188183938,
+      "price": 461450,
+      "location": "Creu de Barberà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castell-d-aro,-platja-d-aro-i-s-agaro/aire-acondicionado-ascensor-amueblado/188262867/d",
+      "id": 188262867,
+      "price": 600000,
+      "location": "Carrer Lleida, Centre - Platja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/aire-acondicionado-calefaccion-terraza-trastero/187799700/d",
+      "id": 187799700,
+      "price": 549000,
+      "location": "Carrer MIGDIA DE, Centre ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ribamontan-al-mar/calefaccion-amueblado/185677188/d",
+      "id": 185677188,
+      "price": 238000,
+      "location": "Calle Ría Cubas, Somo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/miengo/calefaccion-parking-trastero-no-amueblado/187354056/d",
+      "id": 187354056,
+      "price": 129000,
+      "location": "Cudón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuengirola/aire-acondicionado-calefaccion/188041524/d",
+      "id": 188041524,
+      "price": 339000,
+      "location": "Calle Gran Canaria, 26, Centro ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arroyomolinos-(madrid)/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-piscina/188200874/d",
+      "id": 188200874,
+      "price": 470000,
+      "location": "Urbanización el Mediterráneo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/talavera-de-la-reina/parking-terraza-ascensor-no-amueblado/188186258/d",
+      "id": 188186258,
+      "price": 84000,
+      "location": "San Joaquín, Patrocinio - Nueva Talavera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/no-amueblado/188182405/d",
+      "id": 188182405,
+      "price": 375000,
+      "location": "Carrer Doctor Antic Roca, Eixample Sud – Migdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/aire-acondicionado-parking-terraza-ascensor-no-amueblado/186596983/d",
+      "id": 186596983,
+      "price": 475000,
+      "location": "Es Portixol - Es Molinar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-no-amueblado/188177275/d",
+      "id": 188177275,
+      "price": 300000,
+      "location": "Pueblo Nuevo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellbell-i-el-vilar/calefaccion-parking/186108990/d",
+      "id": 186108990,
+      "price": 390000,
+      "location": "Castellbell i el Vilar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/calefaccion-parking-jardin-terraza-trastero-patio-no-amueblado/188152394/d",
+      "id": 188152394,
+      "price": 390000,
+      "location": "Castellnou - Can Mir - Can Solà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-fernando/parking-terraza-ascensor-piscina-no-amueblado/185594923/d",
+      "id": 185594923,
+      "price": 135000,
+      "location": "Calle Caño Herrera, León Herrero - Bahía sur",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/solsona/calefaccion-ascensor-no-amueblado/187606070/d",
+      "id": 187606070,
+      "price": 165000,
+      "location": "Carrer de Sant Pau, Solsona",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/valencia-capital/20540634/186678628",
+      "id": 186678628,
+      "price": 172050,
+      "location": "Faitanar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-trastero-ascensor-patio-no-amueblado/188106604/d",
+      "id": 188106604,
+      "price": 330000,
+      "location": "De La Dirección, Valdeacederas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salamanca-capital/calefaccion-no-amueblado/188086079/d",
+      "id": 188086079,
+      "price": 125000,
+      "location": "POLLO MARTIN, 34, Labradores",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gava/aire-acondicionado-terraza-ascensor-no-amueblado/186743151/d",
+      "id": 186743151,
+      "price": 295000,
+      "location": "De Joaquim Vayreda, Centre - Estació",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alhaurin-de-la-torre/aire-acondicionado-parking-jardin-terraza-trastero-patio-piscina-amueblado-internet/187895458/d",
+      "id": 187895458,
+      "price": 550000,
+      "location": "Pinos de Alhaurín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/hellin/no-amueblado/183616564/d",
+      "id": 183616564,
+      "price": 28000,
+      "location": "Calle Boquera de Garzón, 43, Hellín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gandia/calefaccion-parking-trastero-amueblado/188063962/d",
+      "id": 188063962,
+      "price": 590000,
+      "location": "Centro Histórico",
+      "type": "realEstate"
+    }
+  ]
+}

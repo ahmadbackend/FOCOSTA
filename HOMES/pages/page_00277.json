@@ -1,0 +1,225 @@
+{
+  "page": 277,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/277",
+  "scrape_date": "2026-01-21T04:23:32.530508",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/ascensor-amueblado/186875030/d",
+      "id": 186875030,
+      "price": 350000,
+      "location": "Calle Ferrándiz, Conde de Ureña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/teguise/parking-terraza-trastero-no-amueblado/187525135/d",
+      "id": 187525135,
+      "price": 525000,
+      "location": "Costa Teguise",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/figueres/calefaccion-terraza-ascensor/186592775/d",
+      "id": 186592775,
+      "price": 95000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/olot/aire-acondicionado-calefaccion-ascensor-no-amueblado/187132693/d",
+      "id": 187132693,
+      "price": 320000,
+      "location": "Olot",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-miguel-de-salinas/parking-terraza-piscina/187083049/d",
+      "id": 187083049,
+      "price": 235000,
+      "location": "San Miguel de Salinas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/anoeta/ascensor-no-amueblado/187404905/d",
+      "id": 187404905,
+      "price": 199900,
+      "location": "Anoeta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-bisbal-d-emporda/la-bisbal-d-emporda/188028853/d",
+      "id": 188028853,
+      "price": 98000,
+      "location": "La Bisbal d'Empordà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/leiro/jardin-no-amueblado/187984925/d",
+      "id": 187984925,
+      "price": 68000,
+      "location": "Leiro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gines/aire-acondicionado-terraza-patio/187602523/d",
+      "id": 187602523,
+      "price": 242000,
+      "location": "Gines",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burriana-borriana/camino-de-onda-salesianos/187946771/d",
+      "id": 187946771,
+      "price": 225000,
+      "location": "Camino de Onda - Salesianos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-masnou/terraza-no-amueblado/186907740/d",
+      "id": 186907740,
+      "price": 395000,
+      "location": "Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burriana-borriana/piscinas/187921546/d",
+      "id": 187921546,
+      "price": 230000,
+      "location": "Piscinas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-margalida/calefaccion-parking-jardin-terraza-trastero/186178196/d",
+      "id": 186178196,
+      "price": 725000,
+      "location": "Can Picafort",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aspe/parking-jardin-piscina/159336152/d",
+      "id": 159336152,
+      "price": 360000,
+      "location": "Pedanías Oeste",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/carcaixent/carcaixent/185637731/d",
+      "id": 185637731,
+      "price": 45000,
+      "location": "Carcaixent",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castelldefels/jardin-terraza-trastero-patio/187535742/d",
+      "id": 187535742,
+      "price": 996250,
+      "location": "Lluminetes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/churriana-de-la-vega/san-cayetano/186413553/d",
+      "id": 186413553,
+      "price": 225000,
+      "location": "San Cayetano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-boi-de-llobregat/centre/185637725/d",
+      "id": 185637725,
+      "price": 185000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-espinar/parking-terraza-no-amueblado/181882790/d",
+      "id": 181882790,
+      "price": 280000,
+      "location": "San Rafael",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chipiona/terraza/187288874/d",
+      "id": 187288874,
+      "price": 264000,
+      "location": "Playa de la Regla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benaguasil/aire-acondicionado-parking/187074545/d",
+      "id": 187074545,
+      "price": 260000,
+      "location": "Benaguasil",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/amueblado/185898979/d",
+      "id": 185898979,
+      "price": 116000,
+      "location": "El Carmen",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/puigfred/185637762/d",
+      "id": 185637762,
+      "price": 120000,
+      "location": "Puigfred",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/parking/186888874/d",
+      "id": 186888874,
+      "price": 160000,
+      "location": "San Ginés",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-rompido/calefaccion-parking-jardin-terraza-patio-piscina-no-amueblado/182252389/d",
+      "id": 182252389,
+      "price": 540000,
+      "location": "El Rompido",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/no-amueblado/186833861/d",
+      "id": 186833861,
+      "price": 100000,
+      "location": "Trinitat Vella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lepe/no-amueblado/183407399/d",
+      "id": 183407399,
+      "price": 380000,
+      "location": "Lepe",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villarcayo-de-merindad-de-castilla-la-vieja/villarcayo-de-merindad-de-castilla-la-vieja/176641047/d",
+      "id": 176641047,
+      "price": 30900,
+      "location": "Villarcayo de Merindad de Castilla la Vieja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-cristobal-de-la-laguna/trastero/183314005/d",
+      "id": 183314005,
+      "price": 511925,
+      "location": "La Laguna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-cristobal-de-la-laguna/trastero/183314057/d",
+      "id": 183314057,
+      "price": 510658,
+      "location": "La Laguna",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lorca/aire-acondicionado-amueblado/184878895/d",
+      "id": 184878895,
+      "price": 120000,
+      "location": "Ramonete",
+      "type": "realEstate"
+    }
+  ]
+}

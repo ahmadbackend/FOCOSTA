@@ -1,0 +1,45 @@
+{
+  "property_id": "20643452",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20643452",
+  "scrape_date": "2026-01-21T02:39:30Z",
+  "title": "VERA I",
+  "description": "Descubre Vera, una promoción de 157 viviendas en dos fases de 1, 2 y 3 dormitorios, todas ellas con garaje y trastero. Un proyecto pensado para disfrutar en familia, con zonas comunes que incluyen piscina, gimnasio y club social. Cada vivienda está pensada para ofrecer confort, luminosidad y diseño contemporáneo. Vera es vivir Valencia desde su lado más auténtico: natural, equilibrado y lleno de vida\n\nVera se ubica en el barrio de Nou Benicalap, muy cerca del nuevo Estadio de Mestalla y la entrada de Valencia por la Avenida de Cortes Valencianas. Gracias a su buena conexión con las grandes vías de comunicación de Valencia y con varias líneas de transporte público, desde tu nueva casa te resultará muy rápido y cómodo llegar a cualquier sitio de la ciudad de Valencia.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": " Valencia Capital",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.49760437011719,
+    "longitude": -0.39061790704727173
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 71,
+    "max_surface": 123,
+    "min_price": 257000,
+    "max_price": 419000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/91e83f2f-dac3-43c6-a142-10c2aca2932f?rule=original",
+    "https://static.fotocasa.es/images/ads/e3b25c34-fbec-454b-ac9c-9d17a8524936?rule=original",
+    "https://static.fotocasa.es/images/ads/8bea2683-d6e4-4fbd-a3b4-e7b7b3582f81?rule=original",
+    "https://static.fotocasa.es/images/ads/4999fcf8-64c2-4bd2-9159-8de3d52c52ef?rule=original",
+    "https://static.fotocasa.es/images/ads/0b0ecceb-ef9e-4df1-acc2-cb6da5e785e1?rule=original",
+    "https://static.fotocasa.es/images/ads/3561cacb-ffa1-4501-90e2-42c587f9d9df?rule=original",
+    "https://static.fotocasa.es/images/ads/77500ca0-2297-4704-b6f9-4fe03076b749?rule=original",
+    "https://static.fotocasa.es/images/ads/1e63b090-f589-40ea-89fc-c08b462a54f4?rule=original",
+    "https://static.fotocasa.es/images/ads/2d77a375-a22d-4438-b1c4-f523b221c7bc?rule=original",
+    "https://static.fotocasa.es/images/ads/c7b2c80e-4fd3-46c4-88e6-80e979151c27?rule=original",
+    "https://static.fotocasa.es/images/ads/57e6a22d-bc2f-41c6-b000-5e548ca70e82?rule=original",
+    "https://static.fotocasa.es/images/ads/e47af016-86a9-4c97-a4b6-79b515b049f9?rule=original"
+  ],
+  "videos": []
+}

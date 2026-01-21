@@ -1,0 +1,225 @@
+{
+  "page": 90,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/90",
+  "scrape_date": "2026-01-21T04:20:00.839163",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor-television/187256848/d",
+      "id": 187256848,
+      "price": 1010000,
+      "location": "Fuente del Berro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sitges/aire-acondicionado-calefaccion-jardin-terraza-ascensor-piscina/186760309/d",
+      "id": 186760309,
+      "price": 1300000,
+      "location": "Can Girona - Terramar - Vinyet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-sadurni-d-anoia/calefaccion-parking-jardin-terraza-trastero-patio/185019858/d",
+      "id": 185019858,
+      "price": 348900,
+      "location": "Sant Sadurní d'Anoia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-pol-de-mar/aire-acondicionado-calefaccion-parking-jardin-terraza-patio-piscina-internet/187621073/d",
+      "id": 187621073,
+      "price": 850000,
+      "location": "Urbanitzacions",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/beasain/calefaccion-ascensor/187749951/d",
+      "id": 187749951,
+      "price": 320000,
+      "location": "NAGUSIA, Beasain",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/malaga-capital/20525096/186181214",
+      "id": 186181214,
+      "price": 399000,
+      "location": "Parcela R. Sector Sanchez Blanca, Distrito Zeta - Recinto Ferial Cortijo de Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/malaga-capital/20525096/186181212",
+      "id": 186181212,
+      "price": 331000,
+      "location": "Parcela R. Sector Sanchez Blanca, Distrito Zeta - Recinto Ferial Cortijo de Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/malaga-capital/20525096/186181208",
+      "id": 186181208,
+      "price": 401000,
+      "location": "Parcela R. Sector Sanchez Blanca, Distrito Zeta - Recinto Ferial Cortijo de Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/malaga-capital/20525096/186181211",
+      "id": 186181211,
+      "price": 393000,
+      "location": "Parcela R. Sector Sanchez Blanca, Distrito Zeta - Recinto Ferial Cortijo de Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/merida/aire-acondicionado-calefaccion-trastero-amueblado/187590728/d",
+      "id": 187590728,
+      "price": 156000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roquetas-de-mar/parking-terraza-ascensor-no-amueblado/158578796/d",
+      "id": 158578796,
+      "price": 129000,
+      "location": "Al-9029, Roquetas Pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/nacimiento/no-amueblado/163954993/d",
+      "id": 163954993,
+      "price": 38000,
+      "location": "REAL, 19, Nacimiento",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mostoles/calefaccion-terraza-trastero-amueblado/187137929/d",
+      "id": 187137929,
+      "price": 215000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castro-caldelas/calefaccion-parking-terraza-trastero-ascensor-amueblado/182856012/d",
+      "id": 182856012,
+      "price": 107000,
+      "location": "Rúa Claudio Movilla, Castro Caldelas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pulpi/aire-acondicionado-terraza-piscina-amueblado-piscina/186978978/d",
+      "id": 186978978,
+      "price": 150000,
+      "location": "Desconocido, San Juan de los Terreros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/malaga-capital/20525107/186181347",
+      "id": 186181347,
+      "price": 338000,
+      "location": "José Ortega y Gasset, Cruz del Humilladero, , Málaga, Distrito Zeta - Recinto Ferial Cortijo de Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/malaga-capital/20525107/186181344",
+      "id": 186181344,
+      "price": 319000,
+      "location": "José Ortega y Gasset, Cruz del Humilladero, , Málaga, Distrito Zeta - Recinto Ferial Cortijo de Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gelida/calefaccion-parking-jardin-terraza-patio-piscina-no-amueblado/184461831/d",
+      "id": 184461831,
+      "price": 350000,
+      "location": "Gelida",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/majadahonda/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-piscina-piscina-no-amueblado/185568750/d",
+      "id": 185568750,
+      "price": 430736,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-martin-del-pimpollar/calefaccion-parking-jardin-terraza-patio/186111290/d",
+      "id": 186111290,
+      "price": 115000,
+      "location": "Diseminado Diseminados, San Martín del Pimpollar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-palma-de-cervello/calefaccion-parking-jardin-terraza-trastero-patio-piscina-piscina/186720182/d",
+      "id": 186720182,
+      "price": 850000,
+      "location": "La Palma de Cervelló",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salt/calefaccion-ascensor-no-amueblado/186088370/d",
+      "id": 186088370,
+      "price": 109000,
+      "location": "Veïnat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/aire-acondicionado-calefaccion-parking-terraza-ascensor-piscina-no-amueblado/182956115/d",
+      "id": 182956115,
+      "price": 320000,
+      "location": "Parque Sensal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/calefaccion-ascensor-no-amueblado/179535035/d",
+      "id": 179535035,
+      "price": 185000,
+      "location": "Carrer del Sol, Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/almorox/calefaccion-terraza-trastero/162679943/d",
+      "id": 162679943,
+      "price": 66050,
+      "location": "Almorox",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/ascensor/184684494/d",
+      "id": 184684494,
+      "price": 150000,
+      "location": "Sant Crist",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/elche-elx/calefaccion-parking-jardin-terraza-trastero-piscina/184411884/d",
+      "id": 184411884,
+      "price": 319000,
+      "location": "Peña de las Águilas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-cugat-del-valles/aire-acondicionado-calefaccion-parking-jardin-no-amueblado/185593143/d",
+      "id": 185593143,
+      "price": 1600000,
+      "location": "Valldoreix",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-parking-ascensor/181828282/d",
+      "id": 181828282,
+      "price": 485000,
+      "location": "La Victoria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-gregori/calefaccion-parking-terraza-trastero-ascensor-no-amueblado/187367362/d",
+      "id": 187367362,
+      "price": 325000,
+      "location": "DE BAIX, Sant Gregori",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ses-salines/aire-acondicionado-parking-terraza-ascensor/187938965/d",
+      "id": 187938965,
+      "price": 849000,
+      "location": "Colònia Sant Jordi",
+      "type": "realEstate"
+    }
+  ]
+}

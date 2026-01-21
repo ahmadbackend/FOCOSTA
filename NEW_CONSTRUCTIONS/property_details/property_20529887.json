@@ -1,0 +1,44 @@
+{
+  "property_id": "20529887",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/girona-capital/20529887",
+  "scrape_date": "2026-01-21T03:42:26Z",
+  "title": "Residencial Rials",
+  "description": "Residencial Rials es una promoción de obra nueva formada por 34 viviendas de 2 o 3 dormitorios, zona comunitaria con piscina, garaje y trasteros ubicada en la zona de Domeny de Girona.\n\nDestacan las viviendas en planta baja y los áticos con terrazas de hasta 112 m2.\n\n La promoción se ubica en Domeny, Girona, una zona en plena expansión urbanística: cerca del Parc Devesa y algunos de los mejores restaurantes de la ciudad, como el reconocido Celler de Can Roca.\n\nDomeny se encuentra rodeada de zonas verdes y junto al río Ter, la ubicación invita a disfrutar de actividades al aire libre, como paseos en bicicleta a lo largo del carril bici que recorre toda la ribera.\n\nSe trata de una ubicación con excelentes comunicaciones, a tan solo 10 minutos del centro y del Aeropuerto de Girona, a escasos 7 minutos de la estación de Renfe y a solo 2 minutos de las autopistas AP-7 y A-2.\n\nUna oportunidad única para vivir rodeado de naturaleza, cultura y alta gastronomía, en una ubicación con gran proyección de futuro.\n\nViviendas eficientes y sostenibles\n\nTodas las viviendas de la promoción contarán con un alto nivel de calificación energética lo que permitirá beneficiarse de:\n\nMayor ahorro en las facturas de suministros gracias a un menor consumo y mantenimiento.\nMayor confort térmico, acústico y luminoso gracias al buen aislamiento térmico que evita la entrada de calor en verano y de frío en invierno.\nGrandes ventanas herméticas que permiten el paso de luz natural.\nMenores emisiones de CO2 para proteger nuestro planeta.\n\n Personaliza tu vivienda\n\nEn Residencial Rials puedes escoger entre varias opciones de personalización, creando una vivienda personalizada según tus gustos y necesidades, eligiendo diferentes acabados, materiales y accesorios opcionales. Es el momento de tener una vivienda como siempre has soñado.",
+  "contact_info": {
+    "phone_number": "930440695",
+    "advertiser_name": "SALAS PLUSHABIT SL.",
+    "client_id": 9202755593723
+  },
+  "location": {
+    "city": "Girona Capital",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.9901123046875,
+    "longitude": 2.8047735691070557
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 67,
+    "max_surface": 110,
+    "min_price": 0,
+    "max_price": 0
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4a01201f-d64d-4924-b48f-b4b784f98d77?rule=original",
+    "https://static.fotocasa.es/images/ads/0ea4eafe-23d2-4284-9d4f-19b82ecccdc6?rule=original",
+    "https://static.fotocasa.es/images/ads/453449ee-2dbe-4ad6-ada8-7c955ab59cf4?rule=original",
+    "https://static.fotocasa.es/images/ads/14f35fac-31d5-474a-99ae-0a4ae770f109?rule=original",
+    "https://static.fotocasa.es/images/ads/a4c59483-0d63-4f6e-a1b6-252226a64d31?rule=original",
+    "https://static.fotocasa.es/images/ads/1e161abd-c1fd-4c1b-8cd5-8bdeb555fd26?rule=original",
+    "https://static.fotocasa.es/images/ads/780088ad-5e0e-4cd2-9c9b-cf74de78cf49?rule=original",
+    "https://static.fotocasa.es/images/ads/21dc5237-8150-4fa0-a5e4-3030bad3a024?rule=original",
+    "https://static.fotocasa.es/images/ads/e3d0c887-50b7-4cb4-a272-8fa0fc65d3d6?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/OQqS1elNJNM"
+  ]
+}

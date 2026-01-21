@@ -1,0 +1,225 @@
+{
+  "page": 61,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/61",
+  "scrape_date": "2026-01-21T04:19:36.986174",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-ascensor/185611636/d",
+      "id": 185611636,
+      "price": 280000,
+      "location": "Santa Catalina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/moncofa/calefaccion-terraza-ascensor-no-amueblado/187497668/d",
+      "id": 187497668,
+      "price": 190000,
+      "location": "Moncófar Playa ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-terraza/185984807/d",
+      "id": 185984807,
+      "price": 215000,
+      "location": "Calle general ibañez, Olletas - Sierra Blanquilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza/187190524/d",
+      "id": 187190524,
+      "price": 900000,
+      "location": "Carrer Alt de Gironella, Les Tres Torres",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrelavega/calefaccion-terraza-trastero-ascensor-no-amueblado/186691232/d",
+      "id": 186691232,
+      "price": 170000,
+      "location": "Calle Berta Perogordo, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-moraleja/aire-acondicionado-calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-piscina/184424123/d",
+      "id": 184424123,
+      "price": 1850000,
+      "location": "Calle de Luis Martinez Feduchi, Encinar de los Reyes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/terraza-no-amueblado/182316046/d",
+      "id": 182316046,
+      "price": 240000,
+      "location": "Sant Isidre, 26, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/aire-acondicionado/188448832/d",
+      "id": 188448832,
+      "price": 186000,
+      "location": "Calle Mozart, Puigfred",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/inca/parking-terraza-trastero-ascensor/188599898/d",
+      "id": 188599898,
+      "price": 389000,
+      "location": "Gran Via de Colom",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-ascensor-amueblado/188141695/d",
+      "id": 188141695,
+      "price": 750000,
+      "location": "Niño Jesús",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/navahondilla/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-no-amueblado/188396670/d",
+      "id": 188396670,
+      "price": 209900,
+      "location": "Florida, Navahondilla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/parking-ascensor-no-amueblado/188444193/d",
+      "id": 188444193,
+      "price": 530000,
+      "location": "Plaza Vicente Iborra, El Carme",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malgrat-de-mar/calefaccion-terraza/188268234/d",
+      "id": 188268234,
+      "price": 169000,
+      "location": "Calle PONENT, Malgrat de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mataro/aire-acondicionado-parking-jardin-terraza-trastero-patio-piscina/188533096/d",
+      "id": 188533096,
+      "price": 730000,
+      "location": "Vallveric",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lorca/aire-acondicionado-parking-trastero-ascensor/188162269/d",
+      "id": 188162269,
+      "price": 120000,
+      "location": "San Cristobal - San Diego",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/amposta/aire-acondicionado-parking-terraza-ascensor/188259308/d",
+      "id": 188259308,
+      "price": 99000,
+      "location": " CATALUNYA, Zona Hospital",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcala-del-rio/calefaccion-parking-jardin-terraza-patio-piscina-no-amueblado/161352593/d",
+      "id": 161352593,
+      "price": 398000,
+      "location": "Calle Villaverde del Rio, Alcalá del Río",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-ascensor-no-amueblado/188486323/d",
+      "id": 188486323,
+      "price": 255000,
+      "location": "PALAFRUGELL, Pont Major - Pedret - Campdorà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mostoles/calefaccion-terraza/188585567/d",
+      "id": 188585567,
+      "price": 200500,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-parking-terraza-trastero-zona-comunitaria-ascensor-piscina-no-amueblado/188425170/d",
+      "id": 188425170,
+      "price": 550560,
+      "location": "Calle de Isabel Clara Eugenia, 37, Sanchinarro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188523079/d",
+      "id": 188523079,
+      "price": 778500,
+      "location": " MARIA CUBI, Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malgrat-de-mar/calefaccion-trastero/188547975/d",
+      "id": 188547975,
+      "price": 192000,
+      "location": "Calle Llibertat, Malgrat de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-amueblado/188537910/d",
+      "id": 188537910,
+      "price": 250000,
+      "location": "Calle De Mercurio, Casco histórico de Vicálvaro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/terraza-ascensor-no-amueblado/188326456/d",
+      "id": 188326456,
+      "price": 298000,
+      "location": "Palma de Mallorca - Carrer Carrer del Polvorí, El Terreno",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/calefaccion-ascensor-no-amueblado/188550806/d",
+      "id": 188550806,
+      "price": 190000,
+      "location": "Ensanche - Franciscanos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-ascensor/188211648/d",
+      "id": 188211648,
+      "price": 549000,
+      "location": "Carrer SARDENYA, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/aire-acondicionado-terraza-trastero-patio/188554657/d",
+      "id": 188554657,
+      "price": 145000,
+      "location": "Sagunto - Edisol ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tossa-de-mar/aire-acondicionado-calefaccion-terraza-trastero-ascensor-amueblado/188515445/d",
+      "id": 188515445,
+      "price": 250000,
+      "location": "Tossa de Mar pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sagunto-sagunt/calefaccion-ascensor-no-amueblado/188528434/d",
+      "id": 188528434,
+      "price": 189900,
+      "location": "CL LUIS CENDOYA, Playa Puerto de Sagunto",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/terraza-ascensor/188524531/d",
+      "id": 188524531,
+      "price": 350000,
+      "location": "Calle CHANTADA, Pilar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/puertollano/aire-acondicionado-calefaccion-trastero-patio-no-amueblado/188552916/d",
+      "id": 188552916,
+      "price": 59000,
+      "location": "Calle Núñez de Arce, Las Mercedes - El Carmen",
+      "type": "realEstate"
+    }
+  ]
+}

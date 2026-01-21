@@ -1,0 +1,40 @@
+{
+  "property_id": "20523758",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20523758",
+  "scrape_date": "2026-01-21T04:35:50Z",
+  "title": "LandCo Trinitat Vella",
+  "description": "NUEVA PROMOCIÓN DE OBRA NUEVA | LandCo Trinitat Vella, Barcelona |\nDescubre landCo Trinitat Vella, una exclusiva promoción de viviendas de obra nueva que ofrece luminosas casas de 2  dormitorios. Cada hogar está diseñado con un enfoque contemporáneo, donde la luz y el espacio se combinan para crear estancias ideales para el descanso y el disfrute.\n\n \n\nLas viviendas están distribuidas de manera funcional, con amplias terrazas que se convierten en perfectos salones de verano o espacios de relax. Todas las casas cuentan con cocinas amuebladas y equipadas con los principales electrodomésticos, y un sistema de aerotermia que garantiza calefacción eficiente y agua caliente sanitaria.\n\n \n\nSituadas frente al Parque de La Trinitat, estas viviendas ofrecen un entorno privilegiado en San Andreu, rodeadas de servicios e infraestructuras que facilitan la vida diaria. Disfruta de zonas comunes equipadas con luminarias tipo LED, promoviendo una iluminación sostenible y un ahorro energético significativo.\n\n \n\nLa ubicación estratégica de Trinitat Vella permite excelentes comunicaciones con el centro de Barcelona, gracias a su cercanía a la parada del metro de la Línea 1 y accesos directos por la Avenida Meridiana y Ronda de Dalt.\n\n \n\nVivir en Trinitat Vella by landCo es disfrutar de un estilo de vida excepcional en un entorno consolidado, lleno de historia y cultura. ¡Haz de este residencial tu nuevo hogar!\n\nPlaza de aparcamiento y trastero",
+  "contact_info": {
+    "phone_number": "931321635",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": " Barcelona Capital",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.449378967285156,
+    "longitude": 2.192646026611328
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 133,
+    "max_surface": 133,
+    "min_price": 399000,
+    "max_price": 399000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4f367c3c-828e-49aa-9b2a-7933228138b7?rule=original",
+    "https://static.fotocasa.es/images/ads/0c9dce1a-b7d7-4003-819c-d95e46821740?rule=original",
+    "https://static.fotocasa.es/images/ads/71cbd197-d905-41b5-8e86-9f67db4a8356?rule=original",
+    "https://static.fotocasa.es/images/ads/f0d20109-d6a7-4b60-93d2-1b30fba47bcc?rule=original",
+    "https://static.fotocasa.es/images/ads/c27b9920-4c52-425b-9a89-87cfa0f9ed24?rule=original",
+    "https://static.fotocasa.es/images/ads/9fb4c24c-71d7-44f2-8bf6-902d0a6d40bf?rule=original",
+    "https://static.fotocasa.es/images/ads/abb07b8a-8454-452e-bef4-0550f4264f5a?rule=original"
+  ],
+  "videos": []
+}

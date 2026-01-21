@@ -1,0 +1,44 @@
+{
+  "property_id": "20559161",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/valencia-capital/20559161",
+  "scrape_date": "2026-01-21T03:02:34Z",
+  "title": "BLASCO IBAÑEZ GARDEN",
+  "description": "Último ático de 3 dormitorios disponible a la venta, en el exclusivo edificio Blasco Ibañez Garden I, con Impresionantes vistas a la ciudad de Valencia y al mar. Destaca por sus amplias terrazas, ideales para disfrutar del clima mediterráneo durante todo el año.\n\t\t\t\t\t\nEdificio de alta eficiencia energética. Cuenta con zonas comunes:  piscina y sala gastroteca, pensadas para el relax y la convivencia",
+  "contact_info": {
+    "phone_number": "962471394",
+    "advertiser_name": "MOMENTUM REAL ESTATE",
+    "client_id": 9202775086227
+  },
+  "location": {
+    "city": " Valencia Capital",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.472713470458984,
+    "longitude": -0.34152889251708984
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 255,
+    "max_surface": 255,
+    "min_price": 771000,
+    "max_price": 771000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/9802b571-ce63-47c5-9fde-36b80d957ff4?rule=original",
+    "https://static.fotocasa.es/images/ads/1cbfe992-5b4f-4987-a24d-159c1d46d597?rule=original",
+    "https://static.fotocasa.es/images/ads/06690325-2dc3-4951-8fdc-d6cb55cde8d4?rule=original",
+    "https://static.fotocasa.es/images/ads/6e3d15b2-3a8d-4b97-8f8d-2a868c3735e2?rule=original",
+    "https://static.fotocasa.es/images/ads/3460fe28-e320-4cfd-a488-9952a61902df?rule=original",
+    "https://static.fotocasa.es/images/ads/558bf609-4f3e-4c62-9140-80d21e5a917a?rule=original",
+    "https://static.fotocasa.es/images/ads/043b8211-a045-4f0d-a769-3054fcf1b90b?rule=original",
+    "https://static.fotocasa.es/images/ads/11cfbfbe-7e22-4627-85a5-c83344439bfa?rule=original",
+    "https://static.fotocasa.es/images/ads/a3aa6004-fbe7-41b6-bc69-98d9f5c53334?rule=original",
+    "https://static.fotocasa.es/images/ads/a4dcc18b-4711-45fb-af39-e1edab3b4778?rule=original",
+    "https://static.fotocasa.es/images/ads/a0149d79-53c8-4fdb-b890-f0c3c06c7b1b?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,50 @@
+{
+  "property_id": "20530649",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/argentona/20530649",
+  "scrape_date": "2026-01-21T03:41:17Z",
+  "title": "D-000LL3 Magnifica promoción Casas Unifamiliares",
+  "description": "Esta magnífica casa unifamiliar a cuatro vientos, ubicada en una parcela de 750 m², ofrece un diseño moderno, espacios amplios y una distribución funcional que combina confort y privacidad. Con una superficie construida de 260 m² distribuida en dos plantas, la vivienda destaca por su luminosidad, sus acabados de calidad y sus privilegiadas vistas.\nEn la planta baja encontramos un garaje con capacidad para dos vehículos, junto al cual se ubica la entrada principal. Un amplio núcleo de acceso vertical comunica con la planta superior, y ha sido diseñado para permitir la instalación de un ascensor si se desea.\n\nEl espacio interior se divide en dos zonas diferenciadas:\nZona de día:  tres ambientes diáfanos y bien diferenciados: una cocina moderna y funcional, un salón comedor y una sala de estar con grandes ventanales que permiten disfrutar de la luz natural y de las vistas al jardín. Desde esta planta se puede acceder directamente a un entorno pavimentado rodeado de jardín, ideal para momentos de relax al aire libre.\nZona de noche: Incluye una suite con baño privado, una práctica zona de lavandería y un aseo de cortesía.\nEn la segunda planta, se ubica la zona de descanso con tres dormitorios dobles, todos ellos con grandes ventanales que garantizan luminosidad y conexión directa con el entorno natural. La distribución es la siguiente:\nUna suite principal con vestidor, baño privado y acceso a una espectacular terraza de 40 m2.\nDos dormitorios dobles que comparten un baño completo y una segunda terraza de 20 m², ofreciendo un espacio exterior adicional para gozar de las vistas y la tranquilidad de la zona.\n\nLa vivienda se encuentra rodeada de 500 m² de jardín.\n\nDiseñada para ofrecer el máximo confort, esta casa cuenta con cuatro baños completos, cuatro dormitorios dobles y la posibilidad de incorporar un ascensor para mejorar la accesibilidad y comodidad.",
+  "contact_info": {
+    "phone_number": "930441963",
+    "advertiser_name": "EV MMC SPAIN ,S.L.U",
+    "client_id": 9202758116439
+  },
+  "location": {
+    "city": "Argentona",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.56096267700195,
+    "longitude": 2.3776657581329346
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 4,
+    "max_bathrooms": 4,
+    "min_surface": 253,
+    "max_surface": 253,
+    "min_price": 775000,
+    "max_price": 775000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/3975a9e1-0fd8-41d4-ac36-d5c93f92d47c?rule=original",
+    "https://static.fotocasa.es/images/ads/13cfd759-ecf9-4362-b685-6acd31d80768?rule=original",
+    "https://static.fotocasa.es/images/ads/47e7a7c3-663c-4af9-8ec8-f685916f302d?rule=original",
+    "https://static.fotocasa.es/images/ads/4c4ce583-a2bc-4e7a-bd50-33539bea1b37?rule=original",
+    "https://static.fotocasa.es/images/ads/f8284e14-d36a-4260-b11d-9fcc94f6e4ef?rule=original",
+    "https://static.fotocasa.es/images/ads/6de2e838-0438-4147-9bf0-54e0629a22a2?rule=original",
+    "https://static.fotocasa.es/images/ads/c6cca29f-12d1-4002-a842-eba463e8044b?rule=original",
+    "https://static.fotocasa.es/images/ads/a41d0944-0dda-4f75-8e95-2c4512ededd2?rule=original",
+    "https://static.fotocasa.es/images/ads/b238731d-f7c2-41c1-bd2f-72add0c36ad2?rule=original",
+    "https://static.fotocasa.es/images/ads/5ecf0d6f-47da-448f-90fc-53d50d4e3d02?rule=original",
+    "https://static.fotocasa.es/images/ads/1971e95b-0518-43e0-afcf-6760a74f6310?rule=original",
+    "https://static.fotocasa.es/images/ads/50b89575-e37c-47e8-8419-606e5d5d7915?rule=original",
+    "https://static.fotocasa.es/images/ads/0f6c513b-9291-4652-a1c2-da6f01a16c4c?rule=original",
+    "https://static.fotocasa.es/images/ads/84ce7992-5bef-47da-b0a9-94ec50763d90?rule=original",
+    "https://static.fotocasa.es/images/ads/462731c4-ad6a-4a9a-b402-1b4d6db0f775?rule=original",
+    "https://static.fotocasa.es/images/ads/ee03a918-66c2-446a-97f4-f122f99ee09c?rule=original",
+    "https://static.fotocasa.es/images/ads/edc314b7-6a2f-40ca-a370-27e74c74f87b?rule=original"
+  ],
+  "videos": []
+}

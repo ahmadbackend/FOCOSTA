@@ -1,0 +1,47 @@
+{
+  "property_id": "20530726",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/cunit/20530726",
+  "scrape_date": "2026-01-21T03:40:31Z",
+  "title": "D-000LSI Obra nueva espectacular en Cunit",
+  "description": "Engel and Völkers les presenta esta exclusiva promoción de obra nueva Residencial Alliat Cunit de viviendas para amantes de la ciudad, la vida tranquila y la comodidad. \nHan sido diseñadas para disfrutar de las ventajas del entorno, con la mejor ubicación y orientación, y pensadas para cubrir ampliamente las necesidades de un estilo de vida moderno.\n\nTodas las viviendas cuentan con estupendas calidades, cocinas equipadas con los siguientes electrodomésticos; placa de inducción con 3 zonas de cocción, horno eléctrico de acero inoxidable y campana extractora con filtros fácilmente desmontables. \nEl sistema de climatización y agua caliente sanitaria es con aerotermia y ventilación por conductos.\nParking y trasteros individuales no están incluidos en el precio.\n\nEsta magnífica promoción, de seis pisos por planta, se encuentra a cuatro vientos, asegurando así las vistas despejadas a cada uno de los pisos.\n\nGrandes terrazas en la primera planta, serán el deleite de quienes desean terraza y en las siguientes plantas se proveen balcones de gran tamaño que podrán gozar aquellos que prefieran los balcones.\nCada una de las viviendas consta de tres habitaciones y dos baños completos, así como de una cocina americana lateral a la zona de comedor/sala y orientada hacia las terrazas o balcones.\nLa elección de alguno de los pisos será por orientación.\n\nEn planta baja se ubican las plazas de Parking, además de contar con un local comercial de 900 m².\n\nUbicada en la parte baja de Cunit, provincia de Tarragona, en una zona residencial de casas unifamiliares. A 10 minutos de la playa y con todos los servicios en el vecindario. Centros comerciales cerca, cines, supermercados, farmacias, restaurantes, gimnasios, colegios, biblioteca, entre otros.\n\nFácil comunicación por la costa o por el interior. Situada a 25 min de Tarragona y 40 min de Barcelona por AP-7, C-32 o por N-340. Al aeropuerto de Barcelona en menos de 30 minutos. Estación de tren y bus cerca, comunicada con",
+  "contact_info": {
+    "phone_number": "930441963",
+    "advertiser_name": "EV MMC SPAIN ,S.L.U",
+    "client_id": 9202758116439
+  },
+  "location": {
+    "city": "Cunit",
+    "province": "Tarragona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.20833969116211,
+    "longitude": 1.641552209854126
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 115,
+    "max_surface": 192,
+    "min_price": 285000,
+    "max_price": 431880
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1a32a8fc-64d2-4b3d-96ef-3d8c8dd1089f?rule=original",
+    "https://static.fotocasa.es/images/ads/ad8a8589-167c-440b-a68e-4a6b6d301056?rule=original",
+    "https://static.fotocasa.es/images/ads/d351ecbc-61da-4baf-806c-db9d999bb205?rule=original",
+    "https://static.fotocasa.es/images/ads/990a1a43-9ed4-42d0-92da-27d369de8881?rule=original",
+    "https://static.fotocasa.es/images/ads/001f0f24-4a6c-4ff7-8e54-b38a8fd9d54d?rule=original",
+    "https://static.fotocasa.es/images/ads/a9478187-71b3-4b72-be09-436a0d8bdd52?rule=original",
+    "https://static.fotocasa.es/images/ads/63ad0b24-31a4-4ea0-9201-a3f9b4290400?rule=original",
+    "https://static.fotocasa.es/images/ads/647aa376-7271-48cd-a060-00cbf88d33ae?rule=original",
+    "https://static.fotocasa.es/images/ads/90166984-c579-4a93-b559-e2a6893b821b?rule=original",
+    "https://static.fotocasa.es/images/ads/bf516684-25a6-47cf-9ebe-f741680109d7?rule=original",
+    "https://static.fotocasa.es/images/ads/0d83a539-c777-4116-aacc-c0e83e0ccc00?rule=original",
+    "https://static.fotocasa.es/images/ads/963bd063-5e2b-487e-b8a0-e9b2cc41aab0?rule=original",
+    "https://static.fotocasa.es/images/ads/c5886850-f5d7-4571-a08c-bd81390eaa18?rule=original",
+    "https://static.fotocasa.es/images/ads/7e16215f-db00-4d69-be54-906ef3d717aa?rule=original"
+  ],
+  "videos": []
+}

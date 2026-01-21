@@ -1,0 +1,225 @@
+{
+  "page": 294,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/294",
+  "scrape_date": "2026-01-21T04:24:05.849812",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/gibralfaro/185592001/d",
+      "id": 185592001,
+      "price": 170000,
+      "location": "Calle Pinosol, Gibralfaro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vigo/parking-jardin-terraza-piscina-no-amueblado/185164642/d",
+      "id": 185164642,
+      "price": 585000,
+      "location": "Estrada Marco, Sardoma - Castrelos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/massalfassar/massalfassar/188040981/d",
+      "id": 188040981,
+      "price": 165000,
+      "location": "pintor gabriel esteve, Massalfassar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/les-franqueses-del-valles/parking-terraza-ascensor-no-amueblado/188326926/d",
+      "id": 188326926,
+      "price": 280000,
+      "location": "Les Franqueses del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-roca-del-valles/parking/188327386/d",
+      "id": 188327386,
+      "price": 460000,
+      "location": "La Roca del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santiago-de-compostela/no-amueblado/187524231/d",
+      "id": 187524231,
+      "price": 330000,
+      "location": "Rúa Do Avío, Campus Norte - San Caetano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor/185590384/d",
+      "id": 185590384,
+      "price": 310000,
+      "location": "Calle Eduardo Domínguez Ávila, El Molinillo - Capuchinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/son-fortesa/184819522/d",
+      "id": 184819522,
+      "price": 360000,
+      "location": "Son Fortesa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pielagos/parking-jardin-piscina/185680063/d",
+      "id": 185680063,
+      "price": 995000,
+      "location": "Arce",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcala-de-guadaira/la-paz/188211862/d",
+      "id": 188211862,
+      "price": 133900,
+      "location": "La Paz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/premia-de-mar/aire-acondicionado-calefaccion-jardin-terraza-piscina/187909292/d",
+      "id": 187909292,
+      "price": 875000,
+      "location": "Centre - Nucli Antic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/aire-acondicionado-calefaccion-parking-terraza-trastero-piscina/188045966/d",
+      "id": 188045966,
+      "price": 795000,
+      "location": "Castillo Campodón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palamos/parking-terraza-ascensor/187819138/d",
+      "id": 187819138,
+      "price": 369000,
+      "location": "Platja Gran",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-palacios-y-villafranca/aire-acondicionado-terraza/188317573/d",
+      "id": 188317573,
+      "price": 253000,
+      "location": "Los Palacios y Villafranca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/aire-acondicionado-ascensor/184687877/d",
+      "id": 184687877,
+      "price": 187000,
+      "location": "Can Rull ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calpe-calp/aire-acondicionado-zona-comunitaria-ascensor-piscina-no-amueblado/188018421/d",
+      "id": 188018421,
+      "price": 624000,
+      "location": "Marisol Park - Ortembach - Los Almendros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/boadilla-del-monte/calefaccion-jardin-trastero-piscina/186236243/d",
+      "id": 186236243,
+      "price": 2250000,
+      "location": "Valdecabañas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alange/jardin-piscina/184162842/d",
+      "id": 184162842,
+      "price": 189000,
+      "location": "Alange",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castrillon/calefaccion-parking-terraza-trastero-ascensor-no-amueblado/182255841/d",
+      "id": 182255841,
+      "price": null,
+      "location": "Raíces - CALLE ANTONIO MACHADO, Raíces",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/aire-acondicionado-calefaccion-zona-comunitaria-patio-internet-piscina-no-amueblado/185752049/d",
+      "id": 185752049,
+      "price": 625000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lorca/trastero-amueblado/187833098/d",
+      "id": 187833098,
+      "price": 150000,
+      "location": "San José",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alzira/parking-trastero/183983661/d",
+      "id": 183983661,
+      "price": 95000,
+      "location": "Sants Patrons",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/ascensor-no-amueblado/188041699/d",
+      "id": 188041699,
+      "price": 239000,
+      "location": "Mare de Deu dels Àngels, Barri del Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/calefaccion-parking-terraza-ascensor-piscina/187855006/d",
+      "id": 187855006,
+      "price": 310000,
+      "location": "Ca n'Oriol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sagunto-sagunt/trastero-patio/187991121/d",
+      "id": 187991121,
+      "price": 52000,
+      "location": "Centro - El Castillo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-palacios-y-villafranca/parking-patio/187790104/d",
+      "id": 187790104,
+      "price": 400000,
+      "location": "Los Palacios y Villafranca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aspe/las-fuentes-los-cipreses/187122435/d",
+      "id": 187122435,
+      "price": 51000,
+      "location": "Las Fuentes - Los Cipreses",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/ascensor-amueblado/186043981/d",
+      "id": 186043981,
+      "price": 142000,
+      "location": "El Carmen",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valverde-de-la-virgen/aire-acondicionado-parking-jardin-terraza-no-amueblado/186231638/d",
+      "id": 186231638,
+      "price": 290000,
+      "location": "MASTINES LEONESES, Valverde de la Virgen",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-ascensor/188063401/d",
+      "id": 188063401,
+      "price": 395000,
+      "location": "Triana Este",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ortigueira/ortigueira/144173813/d",
+      "id": 144173813,
+      "price": 22500,
+      "location": "Ortigueira",
+      "type": "realEstate"
+    }
+  ]
+}

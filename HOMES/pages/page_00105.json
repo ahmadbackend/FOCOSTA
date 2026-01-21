@@ -1,0 +1,225 @@
+{
+  "page": 105,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/105",
+  "scrape_date": "2026-01-21T04:20:29.080888",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/terraza-ascensor-amueblado/187740204/d",
+      "id": 187740204,
+      "price": 260000,
+      "location": "Calle Pinosol, 28, Gibralfaro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/reus/llevant/187683766/d",
+      "id": 187683766,
+      "price": 64000,
+      "location": "ALCALDE SEGIMON, Llevant",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-eulalia-de-roncana/aire-acondicionado-calefaccion-parking-terraza-television-no-amueblado/188141875/d",
+      "id": 188141875,
+      "price": 427200,
+      "location": "Santa Eulàlia de Ronçana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/riells-i-viabrea/calefaccion-jardin-trastero-piscina/188493024/d",
+      "id": 188493024,
+      "price": 219900,
+      "location": "Riells i Viabrea",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ciempozuelos/trastero-no-amueblado/188056178/d",
+      "id": 188056178,
+      "price": 194900,
+      "location": "Plaza de las Fuerzas Armadas, Casco Antiguo Norte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calpe-calp/aire-acondicionado-parking-terraza-zona-comunitaria-amueblado-piscina/188013234/d",
+      "id": 188013234,
+      "price": 185000,
+      "location": "Calle Tosal de la Cometa, Cometa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-bartolome/no-amueblado/188489119/d",
+      "id": 188489119,
+      "price": 319000,
+      "location": "Playa Honda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-adria-de-besos/aire-acondicionado-terraza/188483776/d",
+      "id": 188483776,
+      "price": 225800,
+      "location": "Sant Joan Baptista",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-pobla-de-vallbona/aire-acondicionado-parking-jardin-terraza-trastero-piscina/187749718/d",
+      "id": 187749718,
+      "price": 450000,
+      "location": "Calle JAEN, La Conarda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/185495469/d",
+      "id": 185495469,
+      "price": 279000,
+      "location": "Pierre Vilar, Eixample Nord",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/badalona/gorg/188470006/d",
+      "id": 188470006,
+      "price": 150000,
+      "location": "Gorg",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/calefaccion-trastero/183938009/d",
+      "id": 183938009,
+      "price": 350000,
+      "location": "Roc Blanc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alhaurin-de-la-torre/aire-acondicionado-jardin-terraza-piscina-no-amueblado/188454431/d",
+      "id": 188454431,
+      "price": 590000,
+      "location": "Capellanía - Retamar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-palacios-y-villafranca/los-palacios-y-villafranca/188449916/d",
+      "id": 188449916,
+      "price": 45000,
+      "location": "Los Palacios y Villafranca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-ascensor/187123757/d",
+      "id": 187123757,
+      "price": 279000,
+      "location": "La Buhaira",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/manresa/aire-acondicionado/188383128/d",
+      "id": 188383128,
+      "price": 139000,
+      "location": "Valldaura - Carretera de Cardona",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-piscina-no-amueblado/187871124/d",
+      "id": 187871124,
+      "price": 970000,
+      "location": "Sant Pau",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-manga-del-mar-menor/ascensor-amueblado/188412688/d",
+      "id": 188412688,
+      "price": 199000,
+      "location": "Gran vía de la Manga Km., Entremares",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granollers/sota-el-cami-ral/187670484/d",
+      "id": 187670484,
+      "price": 130000,
+      "location": "Calle gabriel ferreter, Sota el Cami Ral",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-jardin-ascensor-piscina-no-amueblado/187225141/d",
+      "id": 187225141,
+      "price": 400000,
+      "location": "Nueva España",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gelsa/calefaccion-terraza-trastero/188260462/d",
+      "id": 188260462,
+      "price": 75000,
+      "location": "mayor, Gelsa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/terraza-ascensor-no-amueblado/188395475/d",
+      "id": 188395475,
+      "price": 1600000,
+      "location": "Sant Gervasi- Galvany",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/barcelona-capital/20532312/186475952",
+      "id": 186475952,
+      "price": 449000,
+      "location": "La Marina del Port",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mallen/mallen/184277482/d",
+      "id": 184277482,
+      "price": 75000,
+      "location": "Tudela, Mallén",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-santos-de-la-humosa/no-amueblado/188112176/d",
+      "id": 188112176,
+      "price": 95000,
+      "location": "Calle de la Iglesia, Los Santos de la Humosa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aranjuez/aire-acondicionado-terraza-no-amueblado/188111584/d",
+      "id": 188111584,
+      "price": 156000,
+      "location": "Calle de las Moreras, Foso - Moreras",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188380379/d",
+      "id": 188380379,
+      "price": 235000,
+      "location": "La Verneda i la Pau",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jerez-de-la-frontera/no-amueblado/188378073/d",
+      "id": 188378073,
+      "price": 75000,
+      "location": "Santiago - Coronación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiva/centro/187940016/d",
+      "id": 187940016,
+      "price": 82000,
+      "location": "ESTACION, Centro  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/premia-de-mar/zona-alta/188373165/d",
+      "id": 188373165,
+      "price": 132000,
+      "location": "Zona Alta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/torrevieja/aire-acondicionado-calefaccion-parking-terraza-patio-piscina-amueblado-internet-piscina/188051564/d",
+      "id": 188051564,
+      "price": 224000,
+      "location": "Parque Acuático - Sector 25",
+      "type": "realEstate"
+    }
+  ]
+}

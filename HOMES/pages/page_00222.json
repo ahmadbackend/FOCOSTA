@@ -1,0 +1,225 @@
+{
+  "page": 222,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/222",
+  "scrape_date": "2026-01-21T04:22:42.211392",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188353540/d",
+      "id": 188353540,
+      "price": 875000,
+      "location": "Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granollers/aire-acondicionado-calefaccion-ascensor/185589405/d",
+      "id": 185589405,
+      "price": 340000,
+      "location": "Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/calefaccion-ascensor/186966034/d",
+      "id": 186966034,
+      "price": 330000,
+      "location": "Fígares",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malgrat-de-mar/calefaccion-parking-terraza-ascensor/188056814/d",
+      "id": 188056814,
+      "price": 215000,
+      "location": "Malgrat de Mar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castro-urdiales/calefaccion-parking-terraza-ascensor-piscina/186215687/d",
+      "id": 186215687,
+      "price": 315000,
+      "location": "Playa Ostende",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-calefaccion-terraza-ascensor/188029061/d",
+      "id": 188029061,
+      "price": 349900,
+      "location": "El Ejido",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/toledo-capital/aire-acondicionado-ascensor/187095851/d",
+      "id": 187095851,
+      "price": 259000,
+      "location": "Nueva, Casco Histórico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salceda-de-caselas/calefaccion-parking-trastero-ascensor-no-amueblado/187777421/d",
+      "id": 187777421,
+      "price": 150000,
+      "location": "Salceda de Caselas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/calefaccion-trastero-ascensor-patio/187920885/d",
+      "id": 187920885,
+      "price": 220000,
+      "location": "Carretas - Pajarita",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/calefaccion-trastero-ascensor/187920860/d",
+      "id": 187920860,
+      "price": 245000,
+      "location": "Imaginalia - Llanos del Águila",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/terraza-ascensor/187600626/d",
+      "id": 187600626,
+      "price": 460000,
+      "location": "El Putget i el Farró",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/calefaccion-parking-terraza-ascensor/187040913/d",
+      "id": 187040913,
+      "price": 205000,
+      "location": "Estación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/marbella/jardin-terraza-zona-comunitaria-piscina-amueblado-piscina/187965618/d",
+      "id": 187965618,
+      "price": 520000,
+      "location": "Acebos (Los) (Samisol), Cabopino - Artola",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado/187908288/d",
+      "id": 187908288,
+      "price": 210000,
+      "location": "El Raval",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-terraza-trastero-ascensor-no-amueblado/187589533/d",
+      "id": 187589533,
+      "price": 1400000,
+      "location": "Abandoibarra - Guggenheim",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alpedrete/calefaccion-parking-jardin-terraza-zona-comunitaria-patio-piscina-piscina/187425957/d",
+      "id": 187425957,
+      "price": 840000,
+      "location": "Calle de los Enebros, Alpedrete",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/calefaccion-jardin-terraza-no-amueblado/187933397/d",
+      "id": 187933397,
+      "price": 283000,
+      "location": "Calle Javier Tortosa, Lancha del Genil",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-hospitalet-de-llobregat/no-amueblado/186663021/d",
+      "id": 186663021,
+      "price": 157000,
+      "location": "Carrer de l'Alegria, 34, Les Planes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/albacete-capital/calefaccion-trastero-ascensor-amueblado/187189737/d",
+      "id": 187189737,
+      "price": 190000,
+      "location": "Hospital",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-prat-de-llobregat/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/186052712/d",
+      "id": 186052712,
+      "price": 350000,
+      "location": "Sagnier - Plaça de Catalunya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-masnou/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-no-amueblado/187736213/d",
+      "id": 187736213,
+      "price": 630000,
+      "location": "Ocata  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor/186827512/d",
+      "id": 186827512,
+      "price": 950000,
+      "location": "La Malagueta - Monte Sancha",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calella/calefaccion-trastero-ascensor-no-amueblado/187687537/d",
+      "id": 187687537,
+      "price": 399000,
+      "location": "Calella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-palmas-de-gran-canaria/parking-trastero-ascensor-no-amueblado/187675798/d",
+      "id": 187675798,
+      "price": 468120,
+      "location": "Calle Párroco Francisco Rodríguez Rodríguez, 64, Guanarteme",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gelves/parking-terraza-trastero-piscina/187654719/d",
+      "id": 187654719,
+      "price": 165000,
+      "location": "Calle El Gramola, Gelves",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jerez-de-la-frontera/parking-ascensor/186898244/d",
+      "id": 186898244,
+      "price": 244900,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcala-de-xivert/aire-acondicionado-calefaccion-parking-terraza-ascensor-patio-piscina-amueblado/186841459/d",
+      "id": 186841459,
+      "price": 225000,
+      "location": "Alcossebre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallromanes/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina/187397243/d",
+      "id": 187397243,
+      "price": 705000,
+      "location": "Vallromanes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/durango/calefaccion-ascensor-amueblado/187437793/d",
+      "id": 187437793,
+      "price": 182000,
+      "location": "Durango",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calella/calefaccion-terraza-ascensor-amueblado/187366300/d",
+      "id": 187366300,
+      "price": 255000,
+      "location": "Calella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/aire-acondicionado-calefaccion-parking-jardin-terraza-no-amueblado/187369889/d",
+      "id": 187369889,
+      "price": 460000,
+      "location": "Carrer de Pecher, Mas Trempat - Sant Amanç - Casa Nova",
+      "type": "realEstate"
+    }
+  ]
+}

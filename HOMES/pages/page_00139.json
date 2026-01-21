@@ -1,0 +1,225 @@
+{
+  "page": 139,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/139",
+  "scrape_date": "2026-01-21T04:20:49.418239",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/fort-pienc/188253547/d",
+      "id": 188253547,
+      "price": 695000,
+      "location": "Pasaje MATILDE DE GAIOLÀ, Fort Pienc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/oviedo/20555987/187001174",
+      "id": 187001174,
+      "price": 286300,
+      "location": "Parcela Rbb Vaqueros la Estrecha, HUCA - La Cadellada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/oviedo/20555987/187001173",
+      "id": 187001173,
+      "price": 283800,
+      "location": "Parcela Rbb Vaqueros la Estrecha, HUCA - La Cadellada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/oviedo/20555987/187001169",
+      "id": 187001169,
+      "price": 226000,
+      "location": "Parcela Rbb Vaqueros la Estrecha, HUCA - La Cadellada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tres-cantos/aire-acondicionado-calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-piscina/188436032/d",
+      "id": 188436032,
+      "price": 680000,
+      "location": "Primera Fase - Nuevo Tres Cantos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/las-rozas-de-madrid/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-no-amueblado/187207754/d",
+      "id": 187207754,
+      "price": 1195000,
+      "location": "Calle Acebo, Marazuela - El Torreón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bellvis/no-amueblado/165417565/d",
+      "id": 165417565,
+      "price": 61000,
+      "location": "RAMON FELIP, 67, Bellvís",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor/186422592/d",
+      "id": 186422592,
+      "price": 380000,
+      "location": "Eixample Sud – Migdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-escorial/aire-acondicionado-calefaccion-parking-terraza-trastero/181966905/d",
+      "id": 181966905,
+      "price": 2950000,
+      "location": "Diecinueve, Navalquejigo - Los Arroyos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/turegano/terraza-no-amueblado/187096900/d",
+      "id": 187096900,
+      "price": 61800,
+      "location": "OCHO OCTUBRE, 6, Turégano",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alba-de-tormes/no-amueblado/178344952/d",
+      "id": 178344952,
+      "price": 155000,
+      "location": "PLAZA GRANO, 3, Alba de Tormes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/llagostera/aire-acondicionado-terraza-amueblado/186174900/d",
+      "id": 186174900,
+      "price": 580000,
+      "location": "REM ESQ.C/SENECA, 12, Llagostera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bellvis/no-amueblado/165417536/d",
+      "id": 165417536,
+      "price": 47000,
+      "location": "GENERAL PRIM, 32, Bellvís",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/martos/trastero-no-amueblado/165470436/d",
+      "id": 165470436,
+      "price": 36000,
+      "location": "BAENA - ANEJO MONTE LOPE ALVAREZ, 121, Martos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/castellon-de-la-plana-castello-de-la-plana/terraza-amueblado/187726322/d",
+      "id": 187726322,
+      "price": 185000,
+      "location": "PROYECTO, 230, Estadio Castalia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-coronil/no-amueblado/186733848/d",
+      "id": 186733848,
+      "price": 200000,
+      "location": "EL BOSQUE, 14, El Coronil",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-amueblado/187603184/d",
+      "id": 187603184,
+      "price": 3800000,
+      "location": "Miraflores del Palo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/182578822/d",
+      "id": 182578822,
+      "price": 4200000,
+      "location": "Sol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/aranjuez/aire-acondicionado-calefaccion-parking-jardin-terraza-amueblado/187424763/d",
+      "id": 187424763,
+      "price": 1350000,
+      "location": "Avenida de las Artes, Nuevo Aranjuez - Ciudad de las Artes",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-amueblado-internet/187073725/d",
+      "id": 187073725,
+      "price": 2000000,
+      "location": "Carrer Mestre d'Aixa, Sant Pol",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-cugat-del-valles/aire-acondicionado-calefaccion-parking-jardin-trastero-piscina-no-amueblado/186598037/d",
+      "id": 186598037,
+      "price": 1690000,
+      "location": "Golf - Can Trabal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/montgat/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina/183623854/d",
+      "id": 183623854,
+      "price": 935000,
+      "location": "Montgat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/parking-jardin-patio-piscina/188267703/d",
+      "id": 188267703,
+      "price": 890000,
+      "location": "Rebolledo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alella/aire-acondicionado-parking-jardin-terraza-trastero-patio-piscina/187617954/d",
+      "id": 187617954,
+      "price": 2670000,
+      "location": "Alella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pozuelo-de-alarcon/aire-acondicionado-calefaccion-parking-terraza-trastero-no-amueblado/188478802/d",
+      "id": 188478802,
+      "price": 1990000,
+      "location": "La Finca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zizurkil/calefaccion-parking-jardin-terraza-trastero/163973887/d",
+      "id": 163973887,
+      "price": 275000,
+      "location": "Camino Caserio de Olentzo, Zizurkil",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/monistrol-de-montserrat/no-amueblado/188172561/d",
+      "id": 188172561,
+      "price": 158000,
+      "location": "Carrer de Juliȧ Fuchs, Monistrol de Montserrat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-jardin-terraza-trastero-piscina-amueblado/188156302/d",
+      "id": 188156302,
+      "price": 4500000,
+      "location": "Ciudad Universitaria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/sant-julia-de-vilatorta/20606888/187850879",
+      "id": 187850879,
+      "price": 295000,
+      "location": "Carrer dels Marquesos de Vilallonga, 11, Sant Julià de Vilatorta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benicasim-benicassim/calefaccion-parking-jardin-terraza-trastero-patio-piscina-no-amueblado/183979825/d",
+      "id": 183979825,
+      "price": 593000,
+      "location": "Heliópolis",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/badalona/20509428/185698564",
+      "id": 185698564,
+      "price": 585000,
+      "location": "Carrer de la Indústria, 248, Progrés - Pep Ventura",
+      "type": "realEstate"
+    }
+  ]
+}

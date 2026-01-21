@@ -1,0 +1,47 @@
+{
+  "property_id": "20526858",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/pucol/20526858",
+  "scrape_date": "2026-01-21T04:03:02Z",
+  "title": "Landco Playa Puzol",
+  "description": "EN CONSTRUCCIÓN\n\nVIVIENDAS OBRA NUEVA EN PLAYA DE PUZOL| A 100 METROS DEL MAR |\n\nLandco Playa Puzol es una exclusiva promoción de 44 viviendas de 1, 2 y 3 dormitorios situada a escasos metros del mar, en una de las zonas más tranquilas y agradables de la costa valenciana. Todas las viviendas cuentan con amplias terrazas privadas que invitan a disfrutar del clima mediterráneo durante todo el año, además de incluir plaza de garaje y trastero, para ofrecerte la máxima comodidad desde el primer día.\n\nEl residencial dispone de excelentes zonas comunes, entre las que destacan la piscina comunitaria y una espectacular zona chill out ubicada en la cubierta del edificio, ideal para relajarse con vistas despejadas y un ambiente inmejorable.\n\nSituado en la playa de Puzol, Landco Playa Puzol te ofrece la combinación perfecta entre tranquilidad y cercanía a la ciudad, ya que se encuentra a solo 20 minutos de Valencia.\n\nMagnifica zona tranquila, incluso en los meses de verano, garantizando así un entorno residencial familiar durante todo el año.\n\nLandco Playa Puzol es mucho más que una vivienda, es calidad de vida en un entorno privilegiado.",
+  "contact_info": {
+    "phone_number": "961287019",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "Puçol",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.602142333984375,
+    "longitude": -0.26612240076065063
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 48,
+    "max_surface": 85,
+    "min_price": 190000,
+    "max_price": 310000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/94310358-f235-48a6-8bbd-30b785080e12?rule=original",
+    "https://static.fotocasa.es/images/ads/da00ebbb-adc0-4f24-9e12-89aa08a9f273?rule=original",
+    "https://static.fotocasa.es/images/ads/f16f823d-6b0e-45bc-8bf7-6a60404ec2d4?rule=original",
+    "https://static.fotocasa.es/images/ads/813cb710-38be-46c6-95a6-db1f0e2f1989?rule=original",
+    "https://static.fotocasa.es/images/ads/683d6ed5-6d26-43e8-b6c2-e14eab442cac?rule=original",
+    "https://static.fotocasa.es/images/ads/bb77b85b-faf8-4eb9-9d63-ee6728c33913?rule=original",
+    "https://static.fotocasa.es/images/ads/26db0757-6c89-4dfc-aca9-ee38f8f005e8?rule=original",
+    "https://static.fotocasa.es/images/ads/434c3153-e00a-4f00-a900-59a68452e104?rule=original",
+    "https://static.fotocasa.es/images/ads/d726db45-170f-41ff-8346-908e8e6cd1fa?rule=original",
+    "https://static.fotocasa.es/images/ads/342577e4-2691-444e-b66a-824c5d8886d4?rule=original",
+    "https://static.fotocasa.es/images/ads/25c628b6-110b-4a7d-b0b3-6b995dac1657?rule=original",
+    "https://static.fotocasa.es/images/ads/27903a1a-a711-43a5-8f43-31423c2cc1d1?rule=original",
+    "https://static.fotocasa.es/images/ads/6daa2e6c-8bb2-405d-8f6c-1e81afcd56cb?rule=original",
+    "https://static.fotocasa.es/images/ads/beab9677-6256-4b3c-93e1-75f71c66d2e5?rule=original"
+  ],
+  "videos": []
+}

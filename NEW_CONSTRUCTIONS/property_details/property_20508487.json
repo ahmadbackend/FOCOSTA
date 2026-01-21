@@ -1,0 +1,51 @@
+{
+  "property_id": "20508487",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/dos-hermanas/20508487",
+  "scrape_date": "2026-01-21T03:52:30Z",
+  "title": "Entrenucleos Living",
+  "description": "¡Bienvenido a Entrenúcleos Living, la joya residencial de Exxacon Smart Living!\nDescubre la esencia de la innovación arquitectónica y el disfrute al aire libre con nuestras 325 impresionantes viviendas de 2, 3 y 4 dormitorios. En Entrenúcleos Living, hemos creado un espacio donde la elegancia y el bienestar convergen.\nNuestras zonas comunes son un oasis de lujo y diversión sin igual, con tres refrescantes piscinas, gimnasio, pista de pádel, divertidos espacios infantiles, una acogedora living área, zona de barbacoa y mucho más. Cada detalle ha sido meticulosamente diseñado para ofrecerte una calidad de vida excepcional. Todas las viviendas cuentan con plaza de aparcamiento y trastero incluidos en el precio, amplias terrazas, prácticos lavaderos, cocinas amuebladas, armarios empotrados y aire acondicionado centralizado. Nos enorgullece afirmar que nuestra promoción ha sido concebida bajo estrictos estándares de sostenibilidad, respetando al máximo los recursos.\nLa ubicación estratégica de Entrenúcleos Living en el corazón de Entrenúcleos, en Dos Hermanas, la zona más impresionante en expansión al sureste de la capital sevillana, rodeada de prestigiosas universidades, ciudades deportivas, amplios bulevares y estupendas infraestructuras. A tan sólo 15 minutos de Sevilla, tendrás lo mejor de ambas ciudades al alcance de tu mano.\nSi buscas una calidad de vida excepcional, excelentes conexiones de transporte (SE30, SE40, autobuses, metrobús, metro y tren) y espacios para disfrutar del tiempo libre, has encontrado tu hogar ideal. ¿Quieres descubrir más sobre Entrenúcleos Living? Te invitamos a visitar nuestra oficina en Av. Felipe González Márquez, Entrenúcleos, donde encontrarás precios de lanzamiento irresistibles.\n¡No pierdas la oportunidad de vivir en Entrenúcleos Living, donde te esperan 365 emociones por vivir! \nCertificado Energético: B. ¡Licencia de obras Fase I concedida! Las imágenes, infografías y planos tienen carácter orientativo, basadas en un proyectoinicial",
+  "contact_info": {
+    "phone_number": "954201546",
+    "advertiser_name": "EXXACON SMART LIVING",
+    "client_id": 9202774365479
+  },
+  "location": {
+    "city": "Dos Hermanas",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.310264587402344,
+    "longitude": -5.934587001800537
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 115,
+    "max_surface": 140,
+    "min_price": 269000,
+    "max_price": 393000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/44b21f00-16f0-4055-9690-f24716046029?rule=original",
+    "https://static.fotocasa.es/images/ads/374294f2-9eb9-46f7-bbb3-a5b46e7b8ada?rule=original",
+    "https://static.fotocasa.es/images/ads/89727f01-4dbc-4b51-81cb-851d340d45e7?rule=original",
+    "https://static.fotocasa.es/images/ads/04fe7a5b-dcac-4580-9023-7f81d78fb00a?rule=original",
+    "https://static.fotocasa.es/images/ads/0a1350b2-eea6-429e-b0e6-ee21d88fcbfe?rule=original",
+    "https://static.fotocasa.es/images/ads/b993b1bc-63ae-479b-a0b1-e782075b4085?rule=original",
+    "https://static.fotocasa.es/images/ads/135480a4-ee35-4198-9674-0532fae1462a?rule=original",
+    "https://static.fotocasa.es/images/ads/79b49e76-f20e-4a65-a18b-7af77075c7b1?rule=original",
+    "https://static.fotocasa.es/images/ads/1d68ae5a-1fe6-405e-9c3c-efb7605723ba?rule=original",
+    "https://static.fotocasa.es/images/ads/07d349df-d4eb-4b30-b385-9fb57f5fcc0d?rule=original",
+    "https://static.fotocasa.es/images/ads/e0361362-fa7a-4ed0-9790-990340283fe2?rule=original",
+    "https://static.fotocasa.es/images/ads/fab3ca89-11f5-4204-b26a-7c3f47b80565?rule=original",
+    "https://static.fotocasa.es/images/ads/2d061e3e-5c9c-496f-a6fc-fdfddad1e85a?rule=original",
+    "https://static.fotocasa.es/images/ads/9fa09319-7d6e-45e6-b2d6-c7e5b0c90418?rule=original",
+    "https://static.fotocasa.es/images/ads/d7ae6080-0a30-4ce5-a0c0-bf6417af70f0?rule=original",
+    "https://static.fotocasa.es/images/ads/25d1a025-48af-4625-9880-995d64928ea6?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/dc3d7518-b038-4f19-9f46-5ce15493a022"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "property_id": "20525086",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20525086",
+  "scrape_date": "2026-01-21T03:17:25Z",
+  "title": "Serenity Gardens Estepona, Málaga",
+  "description": "¡En construcción!\nSerenity Gardens es el nuevo complejo residencial de obra nueva situado en Estepona donde encontrarás mucho más que una vivienda:  hallarás un hermoso jardín donde prolongar tu hogar. Por si fuera poco, podrás disfrutar de un residencial con usos comunes propios de un resort a escasos minutos de la playa, la Senda Litoral, numerosos campos de golf, el Puerto de Estepona y la Duquesa, restaurantes, supermercados, Hospital de Alta Resolución de Estepona y conexión a la A-7 y AP-7 a través de las cuales conectar en menos de una hora con Málaga o Gibraltar. \nEl conjunto está formado por 106 viviendas plurifamiliares de 2 y 3 dormitorios con plaza de aparcamiento subterráneo y trastero, diseñadas bajo los criterios de sostenibilidad y concepto open-space, ofreciendo viviendas optimizadas y contemporáneas, adaptadas para todos los perfiles de cliente y pensadas para el nuevo modo de vida donde compatibilizar salud, placer y trabajo en tu propio hogar.\nDentro de las amplias zonas comunes encontramos gran cantidad de especies vegetales que envuelven la piscina, además de gimnasio, zona de meditación al aire libre, spa, sala comunitaria con co-working, pista de voley-playa, zona infantil y putting green. Todos estos usos comunes unidos al protagonismo de los jardines con palmeras, zona de cítricos y plantas aromáticas, así como caminos para atravesar estas zonas verdes, hacen de esta promoción, el lugar perfecto para disfrutar del clima, la naturaleza y la tranquilidad.\nEl conjunto se divide en dos fases:\nFase 1 compuesta por los bloques 1 y 2 (44 viviendas), piscina, Putting Green, Spa y Coworking\nFase 2 compuesta por los bloques 3, 4 y 5 (62 viviendas), gimnasio, zona infantil, pista deportiva y zona de meditación",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": "Estepona",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.39826965332031,
+    "longitude": -5.205619812011719
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 108,
+    "max_surface": 135,
+    "min_price": 390000,
+    "max_price": 430000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/22a76014-c6fd-4225-965e-cd1962578ab2?rule=original",
+    "https://static.fotocasa.es/images/ads/2d09d23d-49f5-4735-afa1-7b904f770631?rule=original",
+    "https://static.fotocasa.es/images/ads/8a376be0-6f84-4dca-9b58-814d56b17b59?rule=original",
+    "https://static.fotocasa.es/images/ads/e36a3e95-4980-4f80-b10c-28d2196dd96e?rule=original",
+    "https://static.fotocasa.es/images/ads/837c0b69-499b-4fc9-97ca-c008b62ee791?rule=original",
+    "https://static.fotocasa.es/images/ads/8bfab7a5-ef9f-4806-ac9a-df82eebad573?rule=original",
+    "https://static.fotocasa.es/images/ads/85341e8f-ca63-420a-b5f6-a2ff7d4ee7cf?rule=original",
+    "https://static.fotocasa.es/images/ads/11ee6989-a59d-46bf-90ce-8173f2731020?rule=original",
+    "https://static.fotocasa.es/images/ads/34987026-5fa8-4d4f-887a-f09ccaface0e?rule=original",
+    "https://static.fotocasa.es/images/ads/7b49d74b-6dc1-445b-a9db-84a7e2f5f5d2?rule=original",
+    "https://static.fotocasa.es/images/ads/6912bee2-f584-43e8-8236-f80c2b1afe37?rule=original",
+    "https://static.fotocasa.es/images/ads/e784e180-218b-4711-b487-1d10997ceb85?rule=original",
+    "https://static.fotocasa.es/images/ads/115162d0-b3d0-4eca-94c7-8b6a61a39fe7?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/8a2dbe7a-a5ec-4162-8ab3-87216a6018af?rule=original"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "property_id": "20623429",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/azuqueca-de-henares/20623429",
+  "scrape_date": "2026-01-21T02:57:01Z",
+  "title": "Residencial Azuqueca de Henares Fase 2",
+  "description": "\"Descubre Residencial Albaluz Henares Fase II, un exclusivo conjunto de viviendas de 2 y 3 dormitorios con balcón en todas las orientaciones y una amplia variedad de distribuciones adaptadas a cada estilo de vida.\nEl residencial de obra nueva dispone de piscina, zonas comunes ajardinadas, 2 plazas de garaje y trastero incluidas, ofreciendo el máximo confort y bienestar.\nEn Albaluz te damos la posibilidad de personalizar tu vivienda a medida, eligiendo acabados, materiales y detalles para crear el hogar que siempre has soñado en Azuqueca de Henares.\"",
+  "contact_info": {
+    "phone_number": "949940238",
+    "advertiser_name": "ALBALUZ DESARROLLOS URBANOS",
+    "client_id": 9202774350585
+  },
+  "location": {
+    "city": "Azuqueca de Henares",
+    "province": "Guadalajara",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.567169189453125,
+    "longitude": -3.2745399475097656
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 62,
+    "max_surface": 92,
+    "min_price": 183995,
+    "max_price": 278895
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1774f500-4688-4eae-a346-0b45859c5f38?rule=original",
+    "https://static.fotocasa.es/images/ads/17880a5f-6ac4-4514-8741-d7458d87799b?rule=original",
+    "https://static.fotocasa.es/images/ads/30d8e799-1bf9-4d5b-b091-31bd60803c13?rule=original",
+    "https://static.fotocasa.es/images/ads/63c8e50b-f945-4050-9a7a-98ceee266981?rule=original"
+  ],
+  "videos": []
+}

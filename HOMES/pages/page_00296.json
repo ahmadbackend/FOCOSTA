@@ -1,0 +1,225 @@
+{
+  "page": 296,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/296",
+  "scrape_date": "2026-01-21T04:24:06.122395",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/trastero-ascensor-amueblado/186232506/d",
+      "id": 186232506,
+      "price": 210000,
+      "location": "El Molinillo - Capuchinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/188107223/d",
+      "id": 188107223,
+      "price": 200000,
+      "location": "Calle de los Doscientos, 39, Benalúa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zarraton/calefaccion-parking-jardin-terraza-trastero-amueblado/188483757/d",
+      "id": 188483757,
+      "price": 210000,
+      "location": "Calle S, 76, Zarratón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-parking-trastero-ascensor/187986768/d",
+      "id": 187986768,
+      "price": 389000,
+      "location": "Avinguda General Marvá, 35, Ensanche - Diputación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ezcaray/calefaccion-parking-jardin-terraza-amueblado/188395025/d",
+      "id": 188395025,
+      "price": 225000,
+      "location": "Calle San Lázaro, 8, Ezcaray",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-terraza-amueblado/186604597/d",
+      "id": 186604597,
+      "price": 490000,
+      "location": "Calle Belando, 15, Mercado",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-campello/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina/187064409/d",
+      "id": 187064409,
+      "price": 490000,
+      "location": "Campo Apacible, 15, Campello pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ezcaray/calefaccion-terraza-ascensor-amueblado/188187778/d",
+      "id": 188187778,
+      "price": 95000,
+      "location": "Calle Pintor Andrés de la Calleja, 6, Ezcaray",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salamanca-capital/calefaccion-ascensor-patio-amueblado/187861141/d",
+      "id": 187861141,
+      "price": 490000,
+      "location": "Calle San Pablo, 5, Barrio del Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cihuri/calefaccion-parking-trastero-ascensor-amueblado/187823213/d",
+      "id": 187823213,
+      "price": 110000,
+      "location": "Plaza Doctor Asuero, 3, Cihuri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/eibar/calefaccion-ascensor-amueblado/188539198/d",
+      "id": 188539198,
+      "price": 217000,
+      "location": "Bista-Eder Kalea, Eibar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ciruena/calefaccion-parking-terraza-trastero-zona-comunitaria-ascensor-piscina-amueblado-piscina/187885007/d",
+      "id": 187885007,
+      "price": 109000,
+      "location": "Avenida La Rioja, 5, Cirueña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salamanca-capital/calefaccion-parking-ascensor-no-amueblado/188297244/d",
+      "id": 188297244,
+      "price": 330000,
+      "location": "Calle Don Bosco, Garrido Sur",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ojacastro/calefaccion-amueblado/185906130/d",
+      "id": 185906130,
+      "price": 105000,
+      "location": "Calle Obispo Fray Martín de Sarmiento, 28, Ojacastro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ezcaray/calefaccion-amueblado/187224744/d",
+      "id": 187224744,
+      "price": 69000,
+      "location": "Calle las Fábricas, Ezcaray",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/ascensor/187132782/d",
+      "id": 187132782,
+      "price": 338000,
+      "location": "Carrer Portugal, 24, Ensanche - Diputación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/haro/calefaccion-parking-terraza-trastero-ascensor/188045578/d",
+      "id": 188045578,
+      "price": 215000,
+      "location": "Avenida Bretón de los Herreros, Haro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/zorraquin/calefaccion-parking-jardin-terraza-trastero-zona-comunitaria-patio-amueblado-internet-piscina/187377945/d",
+      "id": 187377945,
+      "price": 299000,
+      "location": "Urbanización Usarena, 8, Zorraquín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-trastero-ascensor/185994276/d",
+      "id": 185994276,
+      "price": 695000,
+      "location": "Rambla de Méndez Núñez, Barrio del Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/188329994/d",
+      "id": 188329994,
+      "price": 210000,
+      "location": "Calle Poeta Vila y Blanco, Ensanche - Diputación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-amueblado/187299725/d",
+      "id": 187299725,
+      "price": 245000,
+      "location": "Carrer Pintor Velazquez, Mercado",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-parking-terraza-ascensor/186702850/d",
+      "id": 186702850,
+      "price": 290000,
+      "location": "Carrer Pintor Aparicio, Ensanche - Diputación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/eibar/calefaccion-ascensor-amueblado/188181482/d",
+      "id": 188181482,
+      "price": 148000,
+      "location": "Barrena Kalea, Eibar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/calefaccion-parking-jardin-terraza-piscina/182373207/d",
+      "id": 182373207,
+      "price": 590000,
+      "location": "Calle Cura Planelles, 4, Ciudad Jardín",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina/186197151/d",
+      "id": 186197151,
+      "price": 950000,
+      "location": "Avinguda de la Costa Blanca, 42, Cabo de las Huertas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/logrono/calefaccion-parking-terraza-trastero-ascensor-piscina-no-amueblado/184962332/d",
+      "id": 184962332,
+      "price": 253000,
+      "location": "Logroño - CL ESTAMBRERA, Cascajos - Piqueras",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/haro/calefaccion-parking-jardin-terraza-trastero-ascensor-piscina/188314079/d",
+      "id": 188314079,
+      "price": 195000,
+      "location": "Avenida Ingenieros del Ministerio Obras Públicas, Haro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-calefaccion-parking-jardin-piscina/187602155/d",
+      "id": 187602155,
+      "price": 450000,
+      "location": "Calle Farmacéutico Ángel Establier, Babel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mutxamel/aire-acondicionado-calefaccion-parking/188125414/d",
+      "id": 188125414,
+      "price": 750000,
+      "location": "Calle Pío XII, 19, Centro  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/eibar/calefaccion-terraza-amueblado/186784352/d",
+      "id": 186784352,
+      "price": 140000,
+      "location": "Tiburzio Anitua Kalea, Eibar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mutxamel/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina/187484115/d",
+      "id": 187484115,
+      "price": 425000,
+      "location": "Carrer del Braçal de Murteretes, Centro  ",
+      "type": "realEstate"
+    }
+  ]
+}

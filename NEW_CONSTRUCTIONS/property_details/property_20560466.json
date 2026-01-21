@@ -1,0 +1,45 @@
+{
+  "property_id": "20560466",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/zaragoza-capital/20560466",
+  "scrape_date": "2026-01-21T04:21:19Z",
+  "title": "Luzán del Canal",
+  "description": "Descubre Luzán del Canal, nuestra nueva promoción en Zaragoza en una zona residencial privilegiada, donde podrás disfrutar de tu nueva vida.\n\nPromoción de obra nueva de 112 viviendas con preciosa zona comunitaria, pisos de 2, 3 y 4 dormitorios. Maravillosa zona comunitaria con piscina de adulto y niños y pista de pádel para que puedas hacer deporte sin salir de casa.\n\nCalificación energética A.\n\n* Los precios no incluyen trastero ni garaje.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": " Zaragoza Capital",
+    "province": "Zaragoza",
+    "region": "Aragón",
+    "country": "España",
+    "latitude": 41.639286041259766,
+    "longitude": -0.9525781273841858
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 92,
+    "max_surface": 155,
+    "min_price": 268000,
+    "max_price": 440000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/39cc4a50-ccf8-489d-8891-7b15305c6085?rule=original",
+    "https://static.fotocasa.es/images/ads/51087065-47ea-4c4c-a4d2-7bbe83892442?rule=original",
+    "https://static.fotocasa.es/images/ads/607271c6-b6ea-46ea-991d-4435013b5af3?rule=original",
+    "https://static.fotocasa.es/images/ads/bbbb60ca-24d9-4b67-83a4-f44b9b57ff3c?rule=original",
+    "https://static.fotocasa.es/images/ads/c3b381f1-8edf-4920-a776-77417adff49b?rule=original",
+    "https://static.fotocasa.es/images/ads/16ff6b42-77c0-4d85-be55-a704557fa1b1?rule=original",
+    "https://static.fotocasa.es/images/ads/4288acc6-b79e-4eaf-a267-53ae8a2cc186?rule=original",
+    "https://static.fotocasa.es/images/ads/492f99d1-e824-42d4-be87-94cb97656bb5?rule=original",
+    "https://static.fotocasa.es/images/ads/e67f27c9-bc67-4039-963e-77ed0f3caa88?rule=original",
+    "https://static.fotocasa.es/images/ads/e0ca8cf5-9903-4da7-895f-2d0b9d79e6cf?rule=original",
+    "https://static.fotocasa.es/images/ads/c4681f1b-938c-4db6-b5f7-0e7ac8a99b24?rule=original",
+    "https://static.fotocasa.es/images/ads/46b1124e-16f8-48ae-9f86-2deac5c6b871?rule=original"
+  ],
+  "videos": []
+}

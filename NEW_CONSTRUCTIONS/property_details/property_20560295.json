@@ -1,0 +1,39 @@
+{
+  "property_id": "20560295",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/madrid-capital/20560295",
+  "scrape_date": "2026-01-21T04:30:19Z",
+  "title": "LAS ROSAS PLAZA",
+  "description": "¡LICENCIA DE OBRA CONCEDIDA!\nLAS ROSAS PLAZA (PERALEDA URBAN, S.COOP. -Fase Villaescusa).\n\nFututo residencial formado por 24 viviendas de 1 y 2 dormitorios en régimen de cooperativa (promueve Peraleda Urban, S.COOP) gestionada por Prygesa, (Grupo Pryconsa).\n\nDispondrá de piscina, jardines y conserjería. Además, cuentan con 1 o 2 plazas de garaje según vivienda, y trastero incluido en el coste.\nLa urbanización privada estará situada en C/ VILLAESCUSA, 62 Las Rosas, Pueblo Nuevo (Madrid) Suelo en propiedad.\n\n•Financiación prevista: hasta el 80%\n•Entrega estimada: 2027\n•Personalización de Espacios con Elección de Acabados",
+  "contact_info": {
+    "phone_number": "910752594",
+    "advertiser_name": "PRYGESA",
+    "client_id": 9202774904186
+  },
+  "location": {
+    "city": " Madrid Capital",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.41971969604492,
+    "longitude": -3.628962278366089
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 71,
+    "max_surface": 176,
+    "min_price": 284500,
+    "max_price": 831500
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/3a9aa02a-ad5b-483c-bc4c-623c161984dd?rule=original",
+    "https://static.fotocasa.es/images/ads/ecded55c-5636-43a8-93e6-a8cbcbd50eaf?rule=original",
+    "https://static.fotocasa.es/images/ads/e5e3ebaf-ba18-4588-91de-eb3e9300ecb5?rule=original",
+    "https://static.fotocasa.es/images/ads/fb3fead8-99e1-49a4-88c2-26434f5def28?rule=original",
+    "https://static.fotocasa.es/images/ads/3b9456c8-b800-46f0-92b2-764647727b54?rule=original",
+    "https://static.fotocasa.es/images/ads/6a683754-1290-41da-b220-41c977802e97?rule=original"
+  ],
+  "videos": []
+}

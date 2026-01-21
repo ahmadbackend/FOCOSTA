@@ -1,0 +1,45 @@
+{
+  "property_id": "20523397",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sagunto-sagunt/20523397",
+  "scrape_date": "2026-01-21T04:01:02Z",
+  "title": "MORVEDRE VILLAS",
+  "description": "¡INICIO OBRAS DE CONSTRUCCIÓN ENERO 2025!\n\nMorvedre Villas es un proyecto de obra nueva, formado por 28 unifamiliares adosadas, en el municipio de Sagunto.\t\t\t\t\t\n\t\t\t\t\t\nEl aspecto diferencial de este proyecto radica en la posibilidad de diseñar tu nuevo hogar, ya que damos la opción de escoger entre diferentes orientaciones, distribuciones y tamaños, lo cual hace que sea mucho más fácil cumplir las exigencias y necesidades de nuestros clientes.\n\nSe trata de viviendas de 3 y 4 dormitorios, con posibilidad de disponer de una buhardilla en la última planta, para poder disfrutar de cada uno de los rincones de la casa.\n\nLas distribuciones han sido cuidadosamente estudiadas por nuestro equipo, para que cada estancia otorgue la sensación de amplitud y luminosidad que esperamos a la hora de adquirir una vivienda unifamiliar.\n\nMorvedre Villas ofrece una estupenda ubicación en una de las zonas de expansión de Sagunto. La zona otorga tranquilidad, vistas al entorno natural de la promoción y todos los servicios en su entorno inmediato.\n\nVive en una vivienda unifamiliar en un entorno privilegiado con todos los servicios de una gran ciudad. Se encuentra a escasos minutos del Mirador de Sagunto, la Ermita de Sant Cristòfol y el cauce del Río Palancia. Para los amantes del medio ambiente, la conexión con la Vía Xurra-Vía Ojos Negros, el Garbí o la Ruta Fluvial del Río Palancia, son una oportunidad estupenda para poder disfrutar de la naturaleza y los parajes que nos ofrece el municipio. \n\nCocinas totalmente integradas y equipadas, que invitan a la creatividad culinaria, acompañadas de generosas terrazas en la parte frontal y trasera de tu vivienda.\n\nInstalación completa de aire acondicionado que abarca cada rincón, iluminación estratégicamente integrada en todas las estancias, armarios vestidos y baños con un toque diferente y de diseño.",
+  "contact_info": {
+    "phone_number": "961285842",
+    "advertiser_name": "AVANZA URBANA",
+    "client_id": 9202774621269
+  },
+  "location": {
+    "city": "Sagunto / Sagunt",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.68484878540039,
+    "longitude": -0.2848399877548218
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 110,
+    "max_surface": 269,
+    "min_price": 345000,
+    "max_price": 455000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8e819b2e-a365-444e-b62e-fa1d6fab0b7e?rule=original",
+    "https://static.fotocasa.es/images/ads/dc790c1b-1a16-40d1-ba40-a28aab444360?rule=original",
+    "https://static.fotocasa.es/images/ads/24945f81-fc28-4d99-9eb8-62248a0dd0a9?rule=original",
+    "https://static.fotocasa.es/images/ads/d86afc09-e84e-4461-b0eb-887f44d71bb8?rule=original",
+    "https://static.fotocasa.es/images/ads/68c2094f-456b-4cba-8d4c-5de4ff3cd297?rule=original",
+    "https://static.fotocasa.es/images/ads/269046f2-5fbf-4ee8-a74e-f74a1b87d837?rule=original",
+    "https://static.fotocasa.es/images/ads/4de3f6f3-cb98-4395-8559-524ce6f44382?rule=original",
+    "https://static.fotocasa.es/images/ads/99299566-fbb6-4635-9598-b8a59f274581?rule=original",
+    "https://static.fotocasa.es/images/ads/784781c9-9888-40f7-afbb-3d9b686922fc?rule=original",
+    "https://static.fotocasa.es/images/ads/f190b6f9-3e27-4f8d-b8b4-17ea6ebffd93?rule=original",
+    "https://static.fotocasa.es/images/ads/b188bcfe-b4b1-4e8c-84fc-28a220bf61d5?rule=original",
+    "https://static.fotocasa.es/images/ads/259c22bf-c262-49e4-9141-a81036f3248d?rule=original"
+  ],
+  "videos": []
+}

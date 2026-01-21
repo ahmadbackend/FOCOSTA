@@ -1,0 +1,43 @@
+{
+  "property_id": "20580368",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/malaga-capital/20580368",
+  "scrape_date": "2026-01-21T04:15:10Z",
+  "title": "ZETA PLACE",
+  "description": "\"Zeta Place consta de 74 viviendas de 1, 2 y 3 dormitorios, dotadas con una calificación energética A, lo que las hacen únicas en el mercado.\nTodo ello, acompañado de unas extraordinarias zonas comunes que incluyen gimnasio totalmente equipado y coworking así como piscinas de cloración salina, extensos jardines, zona de juegos para niños y parking para bicicletas.\"\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\"Su ubicación estratégica ofrece además inmejorables comunicaciones con el Campus Universitario, Hospital Clínico, Parque Tecnológico de Andalucía, a tan sólo 10 minutos de Málaga Capital y del aeropuerto internacional. \"\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Málaga Capital",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.70595169067383,
+    "longitude": -4.512818813323975
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 58,
+    "max_surface": 117,
+    "min_price": 236000,
+    "max_price": 476000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/510100be-1857-4ba5-9449-c91676c0b381?rule=original",
+    "https://static.fotocasa.es/images/ads/f36f3041-f046-48ea-84ae-fffaae607eb2?rule=original",
+    "https://static.fotocasa.es/images/ads/16ddcd1b-7d6c-4234-8d2e-841b60b70656?rule=original",
+    "https://static.fotocasa.es/images/ads/fedbd213-2c4a-46e9-a6f9-8f9e7f8f011c?rule=original",
+    "https://static.fotocasa.es/images/ads/93449d52-141a-46ed-8f66-04c3f18f9d08?rule=original",
+    "https://static.fotocasa.es/images/ads/c7a893f0-a1f6-4521-89cd-0327528d59e3?rule=original",
+    "https://static.fotocasa.es/images/ads/98671368-7529-4bfc-9f8a-1ff98a4178d2?rule=original",
+    "https://static.fotocasa.es/images/ads/5f01265f-add5-4247-b069-df309710cfca?rule=original",
+    "https://static.fotocasa.es/images/ads/99da7f61-8451-492f-9fb9-3f4ddc34b8c0?rule=original",
+    "https://static.fotocasa.es/images/ads/4e9b039e-0e17-4722-a511-560f28aa1e00?rule=original"
+  ],
+  "videos": []
+}

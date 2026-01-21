@@ -1,0 +1,37 @@
+{
+  "property_id": "20559157",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/la-pobla-de-vallbona/20559157",
+  "scrape_date": "2026-01-21T03:09:02Z",
+  "title": "POBLA GARDEN",
+  "description": "\"Desde Momentum, presentamos Pobla Garden, un moderno y exclusivo residencial compuesto por 85 viviendas tipo estudio, 1 y 2 dormitorios, además de elegantes áticos dúplex, distribuidos en dos modernos bloques.\nEste residencial ha sido diseñado pensando en quienes valoran la calidad de vida, el confort y una excelente ubicación. Pobla Garden ofrece un completo equipamiento comunitario que incluye una piscina cubierta, sauna, sala fitness y vestuarios, para que puedas cuidarte, relajarte y desconectar sin salir de casa\"\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nSituado en una zona privilegiada entre La Pobla de Vallbona y L’Eliana, junto al Centro Comercial El Osito, el proyecto disfruta de una ubicación estratégica: a tan solo 15 minutos en coche del centro de Valencia por la CV-35 y a pocos minutos a pie de ambos núcleos urbanos, combinando la tranquilidad del entorno con una excelente conexión metropolitana.",
+  "contact_info": {
+    "phone_number": "962471394",
+    "advertiser_name": "MOMENTUM REAL ESTATE",
+    "client_id": 9202775086227
+  },
+  "location": {
+    "city": "La Pobla de Vallbona",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.577266693115234,
+    "longitude": -0.5373837947845459
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 2,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 87,
+    "max_surface": 101,
+    "min_price": 223000,
+    "max_price": 229000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/c4f47a7c-e52a-4f61-8f10-2737e35555f5?rule=original",
+    "https://static.fotocasa.es/images/ads/85768e25-b792-4448-9daa-82a19a2b93c3?rule=original",
+    "https://static.fotocasa.es/images/ads/6be77ba1-416c-47be-b797-83db86ce1e99?rule=original",
+    "https://static.fotocasa.es/images/ads/5199c444-5ee4-42d8-9445-62b8d1900f85?rule=original"
+  ],
+  "videos": []
+}

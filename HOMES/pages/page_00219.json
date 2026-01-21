@@ -1,0 +1,225 @@
+{
+  "page": 219,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/219",
+  "scrape_date": "2026-01-21T04:22:19.981024",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-terraza-trastero-ascensor/188369001/d",
+      "id": 188369001,
+      "price": 720000,
+      "location": "Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mostoles/calefaccion-ascensor/187836661/d",
+      "id": 187836661,
+      "price": 150000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuenlabrada/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-amueblado/188143958/d",
+      "id": 188143958,
+      "price": 339000,
+      "location": "De Nuevo Versalles, Loranca",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-alfas-del-pi/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-amueblado/188512959/d",
+      "id": 188512959,
+      "price": 355000,
+      "location": "L'Albir",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gijon/calefaccion-terraza-ascensor-piscina/188502931/d",
+      "id": 188502931,
+      "price": 122000,
+      "location": "N/A, La Calzada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/calefaccion/188509655/d",
+      "id": 188509655,
+      "price": 285000,
+      "location": "Sant Joan, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-guixols/calefaccion/188509729/d",
+      "id": 188509729,
+      "price": 305000,
+      "location": "Sant Joan, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilanova-i-la-geltru/aire-acondicionado-calefaccion-patio/188320283/d",
+      "id": 188320283,
+      "price": 190000,
+      "location": "Carrer calle san onofre, Sant Joan",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-feliu-de-llobregat/aire-acondicionado-calefaccion-parking-trastero-ascensor-television-internet-piscina-no-amueblado/187969074/d",
+      "id": 187969074,
+      "price": 380000,
+      "location": "Centre - Can Nadal",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-calefaccion-terraza/187583743/d",
+      "id": 187583743,
+      "price": 250000,
+      "location": "Can Palet  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/ascensor/188499331/d",
+      "id": 188499331,
+      "price": 259000,
+      "location": "Santa Cristina - San Rafael",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-terraza-ascensor/188444311/d",
+      "id": 188444311,
+      "price": 1195000,
+      "location": "Recoletos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vallirana/aire-acondicionado-calefaccion-parking-jardin-terraza-no-amueblado/188277809/d",
+      "id": 188277809,
+      "price": 435000,
+      "location": "Vallirana",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salamanca-capital/calefaccion/188495666/d",
+      "id": 188495666,
+      "price": 130000,
+      "location": "CALLE ALAMEDA, Pizarrales",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/187615707/d",
+      "id": 187615707,
+      "price": 746500,
+      "location": "Diagonal, El Poblenou",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/hondarribia/parking-no-amueblado/188489347/d",
+      "id": 188489347,
+      "price": 3100000,
+      "location": "Calle Domingotxoenea, Hondarribia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/arganda-del-rey/calefaccion-terraza-trastero-zona-comunitaria-ascensor-piscina-no-amueblado/188267517/d",
+      "id": 188267517,
+      "price": 399000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/aire-acondicionado-parking-ascensor/188373229/d",
+      "id": 188373229,
+      "price": 318000,
+      "location": "Calle de San Antón, Alameda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188472003/d",
+      "id": 188472003,
+      "price": 170000,
+      "location": "Carrer dels Arítjols, La Prosperitat",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-alcaidesa/aire-acondicionado-calefaccion-parking-terraza-piscina-amueblado/188461061/d",
+      "id": 188461061,
+      "price": 1510000,
+      "location": "COLINAS DEL MAR, La Alcaidesa",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadiz-capital/alameda-mentidero-teatro-falla/188329093/d",
+      "id": 188329093,
+      "price": 175000,
+      "location": "Calle Enrique de las Marinas, Alameda - Mentidero - Teatro Falla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/macanet-de-la-selva/calefaccion-jardin-terraza-piscina-amueblado/188363725/d",
+      "id": 188363725,
+      "price": 325000,
+      "location": "Carrer del Llop, Residencial Park",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-hospitalet-de-llobregat/ascensor/188267898/d",
+      "id": 188267898,
+      "price": 190000,
+      "location": "Granvia de l’Hospitalet, Granvia LH",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188034958/d",
+      "id": 188034958,
+      "price": 265000,
+      "location": "Eixample Sud – Migdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/girona-capital/calefaccion-parking-terraza-zona-comunitaria-ascensor-no-amueblado/187862783/d",
+      "id": 187862783,
+      "price": 334489,
+      "location": "Eixample Sud – Migdia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cunit/aire-acondicionado-calefaccion-parking-terraza-trastero/183303376/d",
+      "id": 183303376,
+      "price": 339000,
+      "location": "Pal, Cunit Residencial",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ciruena/calefaccion-parking-jardin-terraza-zona-comunitaria-ascensor-patio-piscina-amueblado-piscina/188397099/d",
+      "id": 188397099,
+      "price": 149000,
+      "location": "Cirueña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/laredo/calefaccion/188442444/d",
+      "id": 188442444,
+      "price": 275000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/limpias/calefaccion-parking-trastero-ascensor-piscina/188414394/d",
+      "id": 188414394,
+      "price": 190000,
+      "location": "Limpias",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pozuelo-de-alarcon/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-piscina-no-amueblado/187679481/d",
+      "id": 187679481,
+      "price": 925000,
+      "location": "Norte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-escorial/aire-acondicionado-calefaccion-terraza-zona-comunitaria-piscina-internet-no-amueblado/188325558/d",
+      "id": 188325558,
+      "price": 499900,
+      "location": "Las Zorreras - Monte Encinar",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "property_id": "20525099",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sevilla-capital/20525099",
+  "scrape_date": "2026-01-21T03:09:30Z",
+  "title": "Torremagna",
+  "description": "¡En construcción!\nTORREMAGNA.\n\nObra nueva plurifamiliar de 91 viviendas con plazas de garajes y trasteros. Viviendas de 2, 3 y 4 dormitorios, con tipologías con estancias plus, pensada para atender todas tus necesidades (despacho, zona de teletrabajo, vestidor, zona de juegos).\n\nNuevo lanzamiento comercial en La Cruz del Campo junto a Nervión, en nuevo sector en desarrollo, en pleno centro geográfico de Sevilla, con todas las comodidades y servicios. Disfrute de una nueva forma de vivir, en un entorno tranquilo, y con rápidas comunicaciones.\n\nEl edificio está desarrollado en planta baja más doce alturas, disponiéndose en forma de L abierto al suroeste, para favorecer el soleamiento y la orientación de las viviendas, cuenta con amplios espacios y dotaciones comunitarias de piscina, local comunitario, área de juegos infantiles y una plaza elevada de disfrute exclusivo. \n\nLas viviendas están configuradas con doble fachada en la mayoría de las tipologías, favoreciendo la ventilación cruzada y el soleamiento por sus orientaciones. Cuenta con grandes terrazas, y jardines de uso privativo en planta baja, para permitirle vivir como siempre ha soñado. Cocinas amuebladas incluidas, y posibilidad de personalización de su vivienda.\n\nDiseñado con los estándares de calidad y sostenibilidad propios de Metrovacesa, con el valor añadido de certificación sostenible Domum de Metrovacesa.\n\nBajo rasante se sitúan dos sótanos donde se ubican las plazas de aparcamiento y los trasteros, con acceso directo desde los portales. También cuenta con aparcamiento para bicicletas en urbanización. Las viviendas se venden de manera conjunta con una plaza de garaje y un trastero con precios desde 28.000€ y 4.000€ respectivamente.\n\nEs tu vida, elige dónde vivirla.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": " Sevilla Capital",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.388919830322266,
+    "longitude": -5.96415901184082
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 5,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 140,
+    "max_surface": 178,
+    "min_price": 437500,
+    "max_price": 560000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/1bc533a4-54e4-49e4-9297-32e65b9b9b63?rule=original",
+    "https://static.fotocasa.es/images/ads/c62dd0a6-273c-4cb0-aba2-82b493b12d64?rule=original",
+    "https://static.fotocasa.es/images/ads/1e3762c5-22d2-4e6a-8e51-b3842edd0a95?rule=original",
+    "https://static.fotocasa.es/images/ads/3c82751c-1489-4566-8bd5-f9e81c44fbd0?rule=original",
+    "https://static.fotocasa.es/images/ads/45cabbc3-e0bc-4ea0-90f6-d0876345da18?rule=original",
+    "https://static.fotocasa.es/images/ads/0647fbd3-5520-429e-8bef-badfe58c986d?rule=original",
+    "https://static.fotocasa.es/images/ads/5a606dd9-f734-4304-b088-9bd52098a516?rule=original",
+    "https://static.fotocasa.es/images/ads/605ff1cd-a821-49b4-bfea-750ee9a2afbd?rule=original",
+    "https://static.fotocasa.es/images/ads/67fd9da9-d2f6-4ded-8e5d-789e7e0544d5?rule=original",
+    "https://static.fotocasa.es/images/ads/57c1ef93-0efe-4bd0-9190-01e8d5fb2651?rule=original",
+    "https://static.fotocasa.es/images/ads/c3375db2-3312-48fe-93a4-e6105671c800?rule=original",
+    "https://static.fotocasa.es/images/ads/ae38e5dd-f004-411f-b505-a5f9ba785a25?rule=original",
+    "https://static.fotocasa.es/images/ads/742f939b-a615-4fd5-b19b-6049eb785b2e?rule=original",
+    "https://static.fotocasa.es/images/ads/2022f961-3ebb-4f6b-9735-ff04768f12a2?rule=original",
+    "https://static.fotocasa.es/images/ads/a2a149c0-5409-44fe-9f24-d87479679356?rule=original",
+    "https://static.fotocasa.es/images/ads/22c34c40-9b14-4ea3-b971-e7267220dfc8?rule=original",
+    "https://static.fotocasa.es/images/ads/bb4811e1-bb09-4e3f-8206-8b610715e48c?rule=original",
+    "https://static.fotocasa.es/images/ads/adda31f1-e774-424c-b353-f28d5294d0e2?rule=original",
+    "https://static.fotocasa.es/images/ads/c9e41736-d405-4204-89a2-3d4c27bc0b9a?rule=original",
+    "https://static.fotocasa.es/images/ads/b9bf5909-626d-4c7b-952a-709e05901740?rule=original",
+    "https://static.fotocasa.es/images/ads/e50f2cd8-3fb5-4f0f-9ee1-67f626776b81?rule=original",
+    "https://static.fotocasa.es/images/ads/40426230-b365-4124-afde-dac83fe850b0?rule=original",
+    "https://static.fotocasa.es/images/ads/3868d20e-e0ad-4369-a09a-339a438977bc?rule=original"
+  ],
+  "videos": []
+}

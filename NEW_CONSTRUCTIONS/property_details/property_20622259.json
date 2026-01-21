@@ -1,0 +1,38 @@
+{
+  "property_id": "20622259",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/leon-capital/20622259",
+  "scrape_date": "2026-01-21T04:06:31Z",
+  "title": "LandCo La Lastra",
+  "description": "LandCo La Lastra está ubicado en uno de los barrios con mayor proyección de la ciudad, rodeado de nuevos servicios y un entorno dinámico en plena expansión. A menos de 10 minutos a pie de El Corte Inglés y a solo 3 minutos del Parque Comercial Oalma Center, tendrás a tu alcance una amplia oferta de tiendas, restauración y ocio. \n\nLandCo La Lastra, promoción inmobiliaria de obra nueva en León. Difícilmente puede imaginarse un lugar mejor para vivir. Así es landCo La Lastra. De diseño moderno y contemporáneo, las viviendas se relacionan directamente con la luz y el espacio, definiendo estancias creadas para el descanso y el disfrute, y en donde la discreción y la comodidad son las pautas que seguir.\n\n44 viviendas muy luminosas de 2 - 3 - 4 dormitorios distribuidas en dos edificios de seis plantas. Casas bien distribuidas, amplias, prácticas y funcionales, con espacios estudiados y acabados muy cuidados. Todo ello en una fantástica urbanización con área de juegos infantiles.\n\nViviendas en magníficos áticos, y resto de viviendas con terrazas amplias y muy luminosas que aspiran a convertirse en un agradable salón de verano, en un fresco comedor o en el espacio perfecto para el relax.\n\nCocinas amuebladas y equipadas con los principales electrodomésticos. Alta eficiencia energética, suelo radiante y refrescante, y sistema de aerotermia para la generación de agua caliente sanitaria y calefacción.",
+  "contact_info": {
+    "phone_number": "987321825",
+    "advertiser_name": "Landco",
+    "client_id": 9202774633376
+  },
+  "location": {
+    "city": "León Capital ",
+    "province": "León",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 42.58169937133789,
+    "longitude": -5.565545082092285
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 93,
+    "max_surface": 145,
+    "min_price": 198000,
+    "max_price": 326000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/78381411-3125-4eae-ac49-583c9722e96c?rule=original",
+    "https://static.fotocasa.es/images/ads/d93afb40-5042-4e2b-b0e4-78155a5f7d5d?rule=original",
+    "https://static.fotocasa.es/images/ads/70d08216-fa57-443f-91f3-8e6320a6b000?rule=original",
+    "https://static.fotocasa.es/images/ads/476a3e82-2502-4f6a-a0e2-e6aa5e8fe7b5?rule=original",
+    "https://static.fotocasa.es/images/ads/9915a271-5418-4954-868d-9abb0a2b3bf1?rule=original"
+  ],
+  "videos": []
+}

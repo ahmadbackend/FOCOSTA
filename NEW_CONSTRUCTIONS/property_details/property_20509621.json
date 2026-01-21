@@ -1,0 +1,41 @@
+{
+  "property_id": "20509621",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/getafe/20509621",
+  "scrape_date": "2026-01-21T03:51:15Z",
+  "title": "84 Viviendas. Getafe. Jardines de Toledo",
+  "description": "OBRA FINALIZADA\nPROMOGONSA\nGrupo González Gervaso\nTel: 91 697 80 13\nCalle Terradas 20\nGetafe (Zona Kelvinator)\n28904 Madrid\nLunes-Viernes: de 10,00 a 13,00 h y de 15,30 a 19,00 h             \n\nUn auténtico lujo en pleno centro de la ciudad. Se ha realizado una plaza ajardinada delantera para dar espacio y visibilidad a la edificación.\nSe trata de un edificio de Viviendas libres, de nueva construcción, en el mismo centro de Getafe, a un paso del Ayuntamiento, en la zona más comercial de la ciudad, con 86 viviendas de 2 y 3 y 4 dormitorios y piscina, una dotación inigualable en el casco antiguo de Getafe, que se adaptarán perfectamente a sus necesidades.\nEl edificio tiene un diseño moderno y atractivo y las viviendas cuentan con acabados de calidad. Es un edificio con tres plantas de sótano, y seis plantas sobre rasante (Baja más cinco) \n\n*Consultar disponibilidad de trasteros y plazas de garaje*",
+  "contact_info": {
+    "phone_number": "910751453",
+    "advertiser_name": "PROMOCIONES INMOBILIARIAS GONZALEZ GERVASO SA",
+    "client_id": 9202765822388
+  },
+  "location": {
+    "city": "Getafe",
+    "province": "Madrid",
+    "region": "Madrid",
+    "country": "España",
+    "latitude": 40.302120208740234,
+    "longitude": -3.733193874359131
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 5,
+    "min_bathrooms": 1,
+    "max_bathrooms": 3,
+    "min_surface": 87,
+    "max_surface": 187,
+    "min_price": 1295,
+    "max_price": 724392
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8065f9eb-cc46-4aa4-8f0a-b706ffd384a9?rule=original",
+    "https://static.fotocasa.es/images/ads/3169f07a-3c26-42ba-98b5-29c343179e13?rule=original",
+    "https://static.fotocasa.es/images/ads/8bc166c9-2743-4719-88c6-88ffb36b68cc?rule=original",
+    "https://static.fotocasa.es/images/ads/b7d5c72c-5d46-4a11-bd1e-a06ed17d3635?rule=original",
+    "https://static.fotocasa.es/images/ads/73d1d5db-261a-4b8f-a556-b37ae4477443?rule=original",
+    "https://static.fotocasa.es/images/ads/11f6b000-e132-4aa6-835f-2473e2212b85?rule=original",
+    "https://static.fotocasa.es/images/ads/152c5c31-84a6-49b4-a8ec-8d4cbcca226c?rule=original",
+    "https://static.fotocasa.es/images/ads/dfbbc2bb-e16f-4a9a-9009-ca42042237cb?rule=original"
+  ],
+  "videos": []
+}

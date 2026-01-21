@@ -1,0 +1,65 @@
+{
+  "property_id": "20561428",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/denia/20561428",
+  "scrape_date": "2026-01-21T04:18:22Z",
+  "title": "Marina Real III",
+  "description": "ÚLTIMAS UNIDADES A LA VENTA\n\nDescubre Marina Real III, la tercera promoción que pone AEDAS Homes a tu disposición en Denia. \n\nEsta promoción con vistas al Montgó está compuesta por 120 viviendas de diferentes tipologias, 1, 2, 3 y 4 dormitorios con garaje, trastero. \n\nAdemás, cuenta con excelentes zonas comunes como piscina, local social y gimnasio.\n\nMarina Real III cuenta con diferentes fases de entrega. Fase 1 y 2 con entrega en primavera y otoño de 2023. Fase 3 y 4 entrega en 2025.\n\nCerca de la playa, el puerto y el centro:\nEn tu nueva casa en Marina Real III encuentra todo lo que necesitas a tu alcance. Desde colegios o comercios hasta mercados, centros sanitarios, restaurantes, etc.\n\nPróximo a tu nueva casa se ubican varias paradas de autobuses y tranvías y accesos desde vías tan importantes como la AP7 o la N332.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Dénia",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.83466720581055,
+    "longitude": 0.11342725902795792
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 67,
+    "max_surface": 103,
+    "min_price": 360000,
+    "max_price": 420320
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/bc24f8a2-eda4-41df-9515-0eeeefb27f14?rule=original",
+    "https://static.fotocasa.es/images/ads/3c9349dc-9bbe-4c46-82fb-b80699d5cdec?rule=original",
+    "https://static.fotocasa.es/images/ads/f0f4c9d9-6ce4-4e16-92df-31f9f2f57297?rule=original",
+    "https://static.fotocasa.es/images/ads/eb047855-65e8-41da-a59b-b6d9341d4e33?rule=original",
+    "https://static.fotocasa.es/images/ads/ad392de9-07eb-4bf7-a599-b842882ce24d?rule=original",
+    "https://static.fotocasa.es/images/ads/5ca39041-01fb-453b-a751-c1f807e09c3c?rule=original",
+    "https://static.fotocasa.es/images/ads/33e7bae2-5327-4fdd-838d-90b8a91e90d9?rule=original",
+    "https://static.fotocasa.es/images/ads/eaec82d4-df6d-4daa-9924-c6af6abf102f?rule=original",
+    "https://static.fotocasa.es/images/ads/a187ec06-30af-4acb-97c4-b2214975b2d5?rule=original",
+    "https://static.fotocasa.es/images/ads/a1c0c5e0-6dc7-40a3-9304-1bde3b493275?rule=original",
+    "https://static.fotocasa.es/images/ads/559d4a6b-b46f-4718-8f5c-dda94f68b3d6?rule=original",
+    "https://static.fotocasa.es/images/ads/3685da2b-61fc-4bae-a0e4-ed4c16e99d6b?rule=original",
+    "https://static.fotocasa.es/images/ads/88941d04-070d-410c-b278-4b6ac29db3b0?rule=original",
+    "https://static.fotocasa.es/images/ads/236e38a2-6f14-4d16-bc77-efbf0e828ccb?rule=original",
+    "https://static.fotocasa.es/images/ads/e92a2037-eeaa-4fd2-97f9-ec82d93de086?rule=original",
+    "https://static.fotocasa.es/images/ads/a829db1d-8c58-481a-a35a-20240379b25c?rule=original",
+    "https://static.fotocasa.es/images/ads/3bdc758f-9d9f-488e-85a3-6ccb0907d044?rule=original",
+    "https://static.fotocasa.es/images/ads/9c080ba6-70f9-4910-8975-7883e03a16c7?rule=original",
+    "https://static.fotocasa.es/images/ads/ee7b48b8-c0c9-4807-8125-b07638496b25?rule=original",
+    "https://static.fotocasa.es/images/ads/9eefb10d-5fd2-45d5-8a3a-a45af81a7faa?rule=original",
+    "https://static.fotocasa.es/images/ads/620ca571-5618-42b2-a81c-dced22a1074b?rule=original",
+    "https://static.fotocasa.es/images/ads/11e7ee22-4cce-4bd7-8324-376946fdd82a?rule=original",
+    "https://static.fotocasa.es/images/ads/3531c167-acd6-49b6-99a8-a2913857e709?rule=original",
+    "https://static.fotocasa.es/images/ads/2a8859f4-0ea3-463d-88e2-f8c7dd45371b?rule=original",
+    "https://static.fotocasa.es/images/ads/361fe106-dabd-4263-a4e2-8e2f013cd31d?rule=original",
+    "https://static.fotocasa.es/images/ads/43d651d0-3dff-470f-9dc9-f71cddfe1edb?rule=original",
+    "https://static.fotocasa.es/images/ads/8914651c-4eba-4e9a-adc6-bfb92d661a3c?rule=original",
+    "https://static.fotocasa.es/images/ads/71a359e6-26b7-4938-a875-1528d37d212e?rule=original",
+    "https://static.fotocasa.es/images/ads/b8e7d9bd-920a-4303-a3d4-c7fca16aec88?rule=original",
+    "https://static.fotocasa.es/images/ads/cbb5ef56-c816-45f4-a6e2-ceb6ffed4b6f?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/oYuEV-uCxig"
+  ]
+}

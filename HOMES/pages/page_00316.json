@@ -1,0 +1,225 @@
+{
+  "page": 316,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/316",
+  "scrape_date": "2026-01-21T04:24:29.914828",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/encarnacion-regina/187815783/d",
+      "id": 187815783,
+      "price": 335000,
+      "location": "Encarnación - Regina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/espartinas/aire-acondicionado-parking-jardin-terraza-trastero/188593769/d",
+      "id": 188593769,
+      "price": 296000,
+      "location": "Calle Camino de la Pañoleta, 17, Espartinas Pueblo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lloret-de-mar/aire-acondicionado-terraza-ascensor-piscina/188564496/d",
+      "id": 188564496,
+      "price": 165000,
+      "location": "america, Fenals",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/gandia/aire-acondicionado-ascensor/188521902/d",
+      "id": 188521902,
+      "price": 260000,
+      "location": "Calle República Argentina, Plaza Elíptica - República Argentina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/terraza/188539644/d",
+      "id": 188539644,
+      "price": 169900,
+      "location": "Calle San Ignacio de Loyola, Pla de Bon Repós",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/salamanca-capital/calefaccion-ascensor-no-amueblado/188543905/d",
+      "id": 188543905,
+      "price": 195000,
+      "location": "Paseo de la Estación, Estación",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-parking-terraza-trastero-ascensor-no-amueblado/188417308/d",
+      "id": 188417308,
+      "price": 278000,
+      "location": "Carrera Albacete, 15, Barrio de San Blas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/aire-acondicionado-parking-terraza-trastero-ascensor-no-amueblado/188119390/d",
+      "id": 188119390,
+      "price": 278000,
+      "location": "Carrera Albacete, 15, Barrio de San Blas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vitoria-gasteiz/calefaccion-trastero-ascensor/188557187/d",
+      "id": 188557187,
+      "price": 224000,
+      "location": "Calle OLAGUIBEL, Judimendi  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/reus/patio/188539918/d",
+      "id": 188539918,
+      "price": 190000,
+      "location": "Carrer de Joaquim Santasusagna, 1, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roda-de-bera/aire-acondicionado-calefaccion-parking-ascensor-no-amueblado/187958925/d",
+      "id": 187958925,
+      "price": 89000,
+      "location": "Carrer d'Urgell, 10, Roda de Berà",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/calefaccion-terraza-ascensor-no-amueblado/188589812/d",
+      "id": 188589812,
+      "price": 275000,
+      "location": "Calle de Pobladura del Valle, Arcos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-ascensor-piscina/188534210/d",
+      "id": 188534210,
+      "price": 925000,
+      "location": "Calle PRINCESA DE EBOLI, Sanchinarro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mostoles/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/188588363/d",
+      "id": 188588363,
+      "price": 284900,
+      "location": "Avenida del dos de Mayo, Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/burgos-capital/calefaccion-parking-terraza-ascensor-no-amueblado/188587127/d",
+      "id": 188587127,
+      "price": 299000,
+      "location": "del Vena, Reyes Católicos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/altea/aire-acondicionado-calefaccion-parking-terraza-zona-comunitaria-ascensor-piscina-no-amueblado/188586462/d",
+      "id": 188586462,
+      "price": 690000,
+      "location": "Cap-negret, L'Olla",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/ascensor-no-amueblado/188584217/d",
+      "id": 188584217,
+      "price": 130000,
+      "location": "Virgen de la Paloma, 4, Angustias - Chana - Encina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santona/calefaccion-terraza-ascensor-amueblado/187848354/d",
+      "id": 187848354,
+      "price": 185000,
+      "location": "Las huertas, 10, Santoña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mutxamel/aire-acondicionado-parking-terraza-piscina/188307726/d",
+      "id": 188307726,
+      "price": 199000,
+      "location": "Calle sofre, 12, Valle del Sol  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/piera/aire-acondicionado-calefaccion-parking-terraza-no-amueblado/188559231/d",
+      "id": 188559231,
+      "price": 295000,
+      "location": "Carrer Estatut, Piera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/rubi/aire-acondicionado-calefaccion-parking-ascensor-no-amueblado/188558730/d",
+      "id": 188558730,
+      "price": 425000,
+      "location": "Carrer de les Basses, Centre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pamplona-iruna/calefaccion-jardin-terraza-ascensor-no-amueblado/187835048/d",
+      "id": 187835048,
+      "price": 449000,
+      "location": "Pamplona-Iruña - VUELTA DEL CASTILLO, 3, Iturrama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/anso/calefaccion-parking-terraza-trastero-ascensor-amueblado/187641306/d",
+      "id": 187641306,
+      "price": 199500,
+      "location": "Aisa - EDIFICIO PICO ASPE, 7, Ansó",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/benetusser/terraza-ascensor-no-amueblado/187970576/d",
+      "id": 187970576,
+      "price": 250000,
+      "location": "Plaça del Forn, 1, Benetússer",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/carcaixent/terraza/187521019/d",
+      "id": 187521019,
+      "price": 129000,
+      "location": "Calle SANT ISIDRE, 46, Carcaixent",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cartagena/aire-acondicionado-calefaccion-parking-ascensor/188359950/d",
+      "id": 188359950,
+      "price": 179000,
+      "location": "Calle de Salvador Escudero, 8, San Antón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granollers/terraza-ascensor-no-amueblado/188372846/d",
+      "id": 188372846,
+      "price": 301500,
+      "location": "Carrer de Girona, Joan Prim",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/ascensor/188471783/d",
+      "id": 188471783,
+      "price": 395000,
+      "location": "Carrer d'Olzinelles, Sants ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-terraza-ascensor-patio/186515134/d",
+      "id": 186515134,
+      "price": 283000,
+      "location": "Carrer de las Navas de Tolosa, Segle XX",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/terrassa/aire-acondicionado-terraza-ascensor-patio/186515154/d",
+      "id": 186515154,
+      "price": 280000,
+      "location": "Carrer de las Navas de Tolosa, Segle XX",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calafell/aire-acondicionado-parking-terraza-trastero-ascensor-piscina/187795378/d",
+      "id": 187795378,
+      "price": 295000,
+      "location": "Calle PASSEIG MARÍTIM DE SANT JOAN DE DÉU, 240, Segur Platja",
+      "type": "realEstate"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "property_id": "20540874",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/pulpi/20540874",
+  "scrape_date": "2026-01-21T04:31:36Z",
+  "title": "Mar de Pulpí",
+  "description": "Un paraíso de descanso y relax ideal para tu estilo de vida mediterráneo.\n\nMar de Pulpí Pueblo Mediterráneo es un residencial de obra nueva ubicado en la Costa de Almería, en primera línea de mar y con excelentes zonas comunes. A tan solo 5 minutos de San Juan de los Terreros y con una variedad de servicios dentro del residencial Mar de Pulpí (restaurantes, supermercado, centro deportivo) que te permitirán disfrutar durante todo el año.\n\nAdemás, cada fase del residencial cuenta con excelentes amenities que incluyen piscinas climatizadas, piscinas infantiles, jacuzzis y zonas de juegos infantiles que harán que cada día en Mar de Pulpí sea único.\n\n \n\n¡No esperes más y pide información por este residencial único en el Mediterráneo!\n\n \n\nMar de Pulpí Fase 6: Precio desde 350.000€.\nMar de Pulpí Fase 7: Precio desde 145.000€.\nMar de Pulpí Fase 8: Precio desde 212.000€.\nVillas Mar de Pulpí: Precio desde 383.000€",
+  "contact_info": {
+    "phone_number": "965093474",
+    "advertiser_name": "TM MARKETING & SALES, SLU",
+    "client_id": 9202753048245
+  },
+  "location": {
+    "city": "Pulpí",
+    "province": "Almería",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.34638595581055,
+    "longitude": -1.6879087686538696
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 0,
+    "max_surface": 0,
+    "min_price": 157000,
+    "max_price": 557000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/e8c2f3ac-a38c-4e5e-887a-689c23e03d7d?rule=original",
+    "https://static.fotocasa.es/images/ads/720bfba4-d4e6-486e-a60c-99a488be634d?rule=original",
+    "https://static.fotocasa.es/images/ads/9cbc43ed-1452-443b-b65d-ac155a094c40?rule=original",
+    "https://static.fotocasa.es/images/ads/adf0a37e-7063-4c1c-aaed-ee172f0ce8d6?rule=original",
+    "https://static.fotocasa.es/images/ads/0ba6445e-715e-4e04-a562-823341124429?rule=original",
+    "https://static.fotocasa.es/images/ads/3f0878e4-9f3c-4934-bc48-86b6f2fba90c?rule=original",
+    "https://static.fotocasa.es/images/ads/2f4771e4-b255-4ce2-a594-da9c6b5a3927?rule=original",
+    "https://static.fotocasa.es/images/ads/2da03cad-653b-41fc-b77c-3c07e61e3a51?rule=original",
+    "https://static.fotocasa.es/images/ads/af30261c-0203-43f8-a75c-353ab9aa59e3?rule=original",
+    "https://static.fotocasa.es/images/ads/2832a01f-de50-42b0-b2f3-3e39925a21d1?rule=original",
+    "https://static.fotocasa.es/images/ads/35695521-6fda-46f5-a434-ac56bb67152d?rule=original",
+    "https://static.fotocasa.es/images/ads/9d38c715-ef39-4dd2-9eb9-b21a37024e19?rule=original",
+    "https://static.fotocasa.es/images/ads/88ad4df2-bd7e-4f14-978f-1a145a26964a?rule=original",
+    "https://static.fotocasa.es/images/ads/1f4b6772-6d34-4b98-ac35-d26fd3128680?rule=original",
+    "https://static.fotocasa.es/images/ads/5a2d69f3-40c1-47bf-a580-53444f26fa2c?rule=original",
+    "https://static.fotocasa.es/images/ads/2524a64c-7959-4328-bb27-7750eb4dd8cb?rule=original",
+    "https://static.fotocasa.es/images/ads/39a59249-6745-437d-9b67-be2ec74c7328?rule=original",
+    "https://static.fotocasa.es/images/ads/fce15230-04d2-4bef-9995-9ed4f8ec3f17?rule=original",
+    "https://static.fotocasa.es/images/ads/4a437670-c432-4d8c-a3f3-6a6f0b872726?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/PJ5qWBHmRNk",
+    "https://youtu.be/sSZwnQO9nvc"
+  ]
+}

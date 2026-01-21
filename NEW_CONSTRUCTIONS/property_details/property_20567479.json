@@ -1,0 +1,45 @@
+{
+  "property_id": "20567479",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/azuqueca-de-henares/20567479",
+  "scrape_date": "2026-01-21T02:33:03Z",
+  "title": "Unique Homes II",
+  "description": "Chalets con Club Privado en Alovera, Guadalajara.\n\nDescubre UNIQUE HOMES II una promoción exclusiva de chalets unifamiliares de 4 dormitorios con buhardilla jardín privado y cerramiento delantero diseñados para disfrutar en familia con un estilo moderno funcional y lleno de luz.\n\nLas viviendas cuentan con cocina amueblada que puedes elegir abierta al salón o independiente. Dormitorios con armarios empotrados y amplias parcelas con excelente orientación para aprovechar la luz natural. Un diseño contemporáneo pensado para tu día a día en Alovera Guadalajara.\n\n\nUNIQUE LIVING CLUB – Mucho más que una urbanización\n\nConjunto residencial de obra nueva moderno y eficiente en Alovera.\nSer propietario en UNIQUE HOMES te da acceso exclusivo a UNIQUE LIVING CLUB; un espacio privado diseñado para tu bienestar, entretenimiento y vida en comunidad. Es un lugar único en Alovera para compartir momentos, relajarte y disfrutar sin salir de casa. El club ofrece áreas para socializar; salones para eventos; zonas deportivas y de ocio; además de actividades para todas las edades. Vivir aquí es pertenecer a algo especial.\n\nTodo lo que necesitas, en una vivienda única\nTu nuevo hogar en Guadalajara no es solo una casa, es un espacio pensado para que vivas tranquilo, cómodo y con todo lo que necesitas cerca. Y con el acceso al UNIQUE LIVING CLUB, tendrás más opciones para disfrutar cada día al máximo.\n\nUNIQUE LIVING CLUB – Tu club privado exclusivo\nSolo por ser propietario en UNIQUE HOMES, tendrás acceso privilegiado al UNIQUE LIVING CLUB, un espacio exclusivo diseñado para el bienestar, el ocio y la conexión entre vecinos.\nUn club privado único en la zona, creado para que tú y tu familia podáis disfrutar al máximo de vuestro tiempo libre sin salir de casa.\n\nDisfruta de instalaciones exclusivas pensadas para todas las edades:\n\nZonas de relax y socialización.\nEspacios para eventos y celebraciones privadas.\nInstalaciones deportivas y de ocio.\nActividades pensadas para toda la familia.\nPorque vivir en UNIQUE HOMES es mucho más que tener una vivienda: es pertenecer a una comunidad única.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": "Azuqueca de Henares",
+    "province": "Guadalajara",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.57829284667969,
+    "longitude": -3.25185489654541
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 178,
+    "max_surface": 199,
+    "min_price": 335000,
+    "max_price": 399000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/f8233226-c416-450e-8258-a143aa6f792f?rule=original",
+    "https://static.fotocasa.es/images/ads/f206886d-2c1e-4713-afc8-908785d70ec8?rule=original",
+    "https://static.fotocasa.es/images/ads/921e0e06-dd23-4987-ae15-f6304ddd49ba?rule=original",
+    "https://static.fotocasa.es/images/ads/d0eb8ecf-adfe-440b-8d8a-acadf8881030?rule=original",
+    "https://static.fotocasa.es/images/ads/058dce99-b973-4151-a387-eac44c2049be?rule=original",
+    "https://static.fotocasa.es/images/ads/131ddf91-99d1-42b4-a664-b82224397a01?rule=original",
+    "https://static.fotocasa.es/images/ads/a85abb1c-d643-42de-acbe-194d662bc2ba?rule=original",
+    "https://static.fotocasa.es/images/ads/8830ed11-80e5-4e04-a459-d55eb3984e07?rule=original",
+    "https://static.fotocasa.es/images/ads/df2197fd-38cc-4929-9614-d60b6c32d1e7?rule=original",
+    "https://static.fotocasa.es/images/ads/c61af623-aa23-454b-9653-16d2b585ba4e?rule=original",
+    "https://static.fotocasa.es/images/ads/80a94e45-df8d-4c8b-aede-0a11b7a50591?rule=original",
+    "https://static.fotocasa.es/images/ads/1b4163f6-dc75-4f38-b4b9-5c8342a4584d?rule=original"
+  ],
+  "videos": []
+}

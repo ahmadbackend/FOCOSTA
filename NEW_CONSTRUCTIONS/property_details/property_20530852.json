@@ -1,0 +1,50 @@
+{
+  "property_id": "20530852",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sabadell/20530852",
+  "scrape_date": "2026-01-21T03:08:09Z",
+  "title": "Prats",
+  "description": "Reserva tu nueva vivienda y aprovecha un descuento exclusivo de 10.000 €. ¡Solo hasta el 31/01/2026! Precio con el descuento de 10.000€ ya aplicado. Consulta condiciones en la web.\n\n\nENTREGA INMEDIATA\n\nPrats es una promoción de obra nueva formada por 23 viviendas de 1, 2, 3 o 4 dormitorios con grandes terrazas, interiorismo de diseño y acabados y materiales de gran calidad.\n\nLa promoción se ubica en el barrio de la Creu Alta, una zona caracterizada por la multitud de servicios de ocio y restauración que se encuentran a su alrededor: a 5 minutos a pie del Mercat Municipal, del Corte Inglés, del Multicines Eix Macià y del Parque Catalunya, entre otros.\n\nTambién se trata de una ubicación con excelentes comunicaciones con el resto de la ciudad, con las poblaciones colindantes y con Barcelona, ya sea en transporte público (a pocos minutos a pie de la estación de Ferrocarriles de la Generalitat de la Creu Alta y de la estación de Renfe Sabadell Nord) como privado, a través de las autopistas C-33 y C-58.\n\n \nLas viviendas contarán con espacios amplios, abundante luz natural, distribución funcional y un alto nivel de calificación energética, lo que permitirá beneficiarse de:\n- Mayor ahorro en las facturas de suministros gracias a un menor consumo y mantenimiento.\n- Mayor confort térmico, acústico y luminoso gracias al buen aislamiento térmico que evita la entrada de calor en verano y de frío en invierno.\n- Grandes ventanas herméticas que permiten el paso de luz natural.\n- Menores emisiones de CO2 para proteger nuestro planeta.\n\nPrats se completa con garaje comunitario y trasteros en la planta sótano del edificio.\n\n \nCARACTERÍSTICAS PRINCIPALES\n- Viviendas de 1, 2, 3 y 4 dormitorios.\n- Amplias terrazas.\n- Áticos tipo dúplex y viviendas en planta baja con grandes terrazas a pie de salón de hasta 50 m2.\n- Cocinas abiertas totalmente equipadas con electrodomésticos de acero inoxidable: Placa de inducción, horno, microondas, lavavajillas, frigorífico y campana extractora.\n- Persianas enrollables motorizadas.\n- Cerramientos de aluminio con rotura de puente térmico y doble acristalamiento tipo Climalit.\n- Garaje comunitario con tomas de carga para coche eléctrico para cada propietario.\n- Trasteros.\n- Ascensor.\n- Videoportero.",
+  "contact_info": {
+    "phone_number": "930440695",
+    "advertiser_name": "SALAS PLUSHABIT SL.",
+    "client_id": 9202755593723
+  },
+  "location": {
+    "city": "Sabadell",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.55857467651367,
+    "longitude": 2.101921796798706
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 116,
+    "max_surface": 136,
+    "min_price": 436000,
+    "max_price": 564000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/47c00ddb-6ba8-43cd-a8cc-b026b89da845?rule=original",
+    "https://static.fotocasa.es/images/ads/df6ea88a-5ab1-4444-9a94-8422e91ec1fc?rule=original",
+    "https://static.fotocasa.es/images/ads/864eadfe-4696-4bf1-8611-7e24ee269edb?rule=original",
+    "https://static.fotocasa.es/images/ads/a818a53b-4271-4047-985c-876640aa5e66?rule=original",
+    "https://static.fotocasa.es/images/ads/850b32fb-d1ee-4db6-b1c2-42b0c3f610de?rule=original",
+    "https://static.fotocasa.es/images/ads/6ab077e8-ff14-48c4-aeb8-69a3daaaffc6?rule=original",
+    "https://static.fotocasa.es/images/ads/5328a468-69bd-4b56-b6ea-3dbaf17580bf?rule=original",
+    "https://static.fotocasa.es/images/ads/bddd6b4c-d33d-4b0e-bfe7-d17414ad2ae3?rule=original",
+    "https://static.fotocasa.es/images/ads/734837d5-a4bd-4e2e-b42b-20f40f834f1c?rule=original",
+    "https://static.fotocasa.es/images/ads/3011dcd2-acab-40e0-9fd1-a068e266f69d?rule=original",
+    "https://static.fotocasa.es/images/ads/06b008cd-2cbe-462c-82e5-e6e150eceb69?rule=original",
+    "https://static.fotocasa.es/images/ads/480416c3-b259-465f-ae87-f11b951a3bf0?rule=original",
+    "https://static.fotocasa.es/images/ads/f04bbc9c-b5ed-4aa2-9f73-e3c6f09a71f2?rule=original",
+    "https://static.fotocasa.es/images/ads/7feed058-f807-493c-8dda-c86ac75fde71?rule=original",
+    "https://static.fotocasa.es/images/ads/f7ea4ff6-f1cc-4c57-9d55-60f031de4d96?rule=original",
+    "https://static.fotocasa.es/images/ads/27f5ee87-f9e7-447f-a244-48d61b75ea84?rule=original",
+    "https://static.fotocasa.es/images/ads/f141f300-ba50-4ffb-89d5-1b26d3fbf5f5?rule=original"
+  ],
+  "videos": []
+}

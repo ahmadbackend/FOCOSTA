@@ -1,0 +1,46 @@
+{
+  "property_id": "20538825",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/murcia-capital/20538825",
+  "scrape_date": "2026-01-21T02:39:02Z",
+  "title": "Residencial Porta Castellar",
+  "description": "Profusa sigue apostando por la zona norte y presenta su nuevo residencial: Porta Castellar, entre las avenidas Juan Carlos I y Juan de Borbón.\n\nEn este nuevo entorno cuidadosamente urbanizado, rodeado de zonas ajardinadas, encontramos diferentes tipologías de viviendas de 2 a 4 dormitorios, amplias, luminosas y con cuidados acabados.\n\nUn espectacular edificio de doble orientación, con una cuidada memoria de calidades que incluye pintura lisa, vidrios de gran formato, suelos laminados, cocinas amuebladas, climatización completa y calificación energética A.\n\nLas zonas comunes, que cuenta con piscina tanto para adultos como para niños, dan acceso a dos grandes vestíbulos que con la ausencia de bajos comerciales generan una gran continuidad visual, lo que incrementa la singularidad de este edificio, destinado a convertirse en un nuevo icono arquitectónico de la zona. \n\nEl estar rodeado de zonas verdes no impide que esté perfectamente comunicado con las principales vías y a un paso de multitud de servicios (centro de salud, comercio, colegios y centros de ocio y cultura).\n\nNota: Las imágenes de los interiores de las viviendas corresponden al piso piloto (modelo D)\nEl mobiliario no está incluido en el precio.",
+  "contact_info": {
+    "phone_number": "968911907",
+    "advertiser_name": "PROFU, S.A.",
+    "client_id": 9202752200168
+  },
+  "location": {
+    "city": " Murcia Capital",
+    "province": "Murcia",
+    "region": "Región de Murcia",
+    "country": "España",
+    "latitude": 38.00821304321289,
+    "longitude": -1.1330081224441528
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 127,
+    "max_surface": 162,
+    "min_price": 401000,
+    "max_price": 941000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/34ca38d2-52ac-41a5-bd9a-1281931fef7b?rule=original",
+    "https://static.fotocasa.es/images/ads/af063af8-5a6d-4a0f-859d-3f7076d8b7f2?rule=original",
+    "https://static.fotocasa.es/images/ads/134848ed-38d7-45ca-86b8-9e5103de4319?rule=original",
+    "https://static.fotocasa.es/images/ads/61fa5d8a-b179-4a08-909f-aeb62142fa6a?rule=original",
+    "https://static.fotocasa.es/images/ads/afd0f8e8-f42d-4598-b4ff-73cf2fa0bae9?rule=original",
+    "https://static.fotocasa.es/images/ads/e4a4b14b-5ee4-4cec-b5d5-56b23ae6e932?rule=original",
+    "https://static.fotocasa.es/images/ads/ca1e4a2b-05dd-4103-93fc-37d60adbd7b2?rule=original",
+    "https://static.fotocasa.es/images/ads/8b99c6f4-0b38-437e-853d-0fab0a94e76c?rule=original",
+    "https://static.fotocasa.es/images/ads/0d09db6a-df2c-4baa-9bc4-a34ec8711d9c?rule=original",
+    "https://static.fotocasa.es/images/ads/cf05a2f8-d1a6-4de0-8663-cbe54a763c7d?rule=original",
+    "https://static.fotocasa.es/images/ads/e7f9bb9d-83ea-4af8-982e-0c612a12bb6f?rule=original",
+    "https://static.fotocasa.es/images/ads/38003cc5-d7fe-4fe8-b263-323f23cc3c5e?rule=original",
+    "https://static.fotocasa.es/images/ads/f7f928e0-feaf-47c5-b6d1-3e32f8b8ce5f?rule=original"
+  ],
+  "videos": []
+}

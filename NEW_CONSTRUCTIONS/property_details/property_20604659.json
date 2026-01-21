@@ -1,0 +1,55 @@
+{
+  "property_id": "20604659",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/santiago-de-compostela/20604659",
+  "scrape_date": "2026-01-21T03:13:17Z",
+  "title": "Lagoas de Roxos",
+  "description": "VIVIENDAS PAREADAS DE DISEÑO EN ROXOS, SANTIAGO DE COMPOSTELA.\n\nTe ofrecemos una exclusiva promoción de 20 viviendas pareadas, concebidas para ofrecerte el máximo confort y calidad de vida. Ubicadas en Roxos, una de las zonas residenciales más valoradas del sur de Santiago de Compostela, estas viviendas destacan por su diseño innovador, eficiencia energética y compromiso con la sostenibilidad.\n\nCada vivienda, perfectamente distribuida en dos plantas, cuenta con 4 amplias habitaciones y 3 modernos baños, pensados para adaptarse a las necesidades de toda la familia. Las estancias interiores, luminosas y espaciosas, han sido diseñadas con acabados neutros que proporcionan una sensación de amplitud y armonía en todos los ambientes. Además, disfrutan de un soleado jardín y estacionamiento exterior con espacio para dos vehículos.\n\nLa ubicación, en plena naturaleza y con un entorno relajado, permite disfrutar de la tranquilidad sin renunciar a la proximidad a todos los servicios y a la ciudad de Santiago de Compostela, a tan solo 6,7 km. La urbanización se encuentra dentro de una zona verde de más de 60.000 metros cuadrados, ideal para el disfrute al aire libre. Los vecinos tienen acceso a un parque infantil, líneas de autobuses urbanos e interurbanos, y cuentan con la cercanía de un colegio de infantil y primaria, farmacia y supermercado.\n\nA tan solo 30 km de las mejores playas de la zona, vivir en esta promoción significa tener la posibilidad de disfrutar de una vida tranquila, pero con una excelente comunicación y accesibilidad. ¡Tu nuevo hogar te espera en una de las mejores ubicaciones de Santiago!\n\nTu nueva vida empieza con nosotros!",
+  "contact_info": {
+    "phone_number": "981960948",
+    "advertiser_name": "DECASA SANTIAGO SERVICIOS INMOBILIARIOS, S.L.",
+    "client_id": 9202760221542
+  },
+  "location": {
+    "city": "Santiago de Compostela ",
+    "province": "A Coruña",
+    "region": "Galicia",
+    "country": "España",
+    "latitude": 42.87765121459961,
+    "longitude": -8.606419563293457
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 165,
+    "max_surface": 165,
+    "min_price": 390000,
+    "max_price": 395000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/4b9ef3e5-57f9-4f34-b338-eb0de5903579?rule=original",
+    "https://static.fotocasa.es/images/ads/4aebdca4-7556-421f-ad4d-74e4a64078a6?rule=original",
+    "https://static.fotocasa.es/images/ads/7269f0a2-52f4-44dc-9fe8-c3445e375433?rule=original",
+    "https://static.fotocasa.es/images/ads/2b7f36e7-5a6b-434c-be11-02ab42bab5b5?rule=original",
+    "https://static.fotocasa.es/images/ads/2bcbd841-8713-4b95-a334-d92192c804f5?rule=original",
+    "https://static.fotocasa.es/images/ads/9eff2a9a-3e18-4d21-a269-fe5edffcf549?rule=original",
+    "https://static.fotocasa.es/images/ads/e0a8c4eb-4259-494a-8f65-1a08bc1e3026?rule=original",
+    "https://static.fotocasa.es/images/ads/84711390-8ebd-440d-9aeb-79a0030290f3?rule=original",
+    "https://static.fotocasa.es/images/ads/f0e92b3c-e9d6-4bbf-a260-75d3b12d9c14?rule=original",
+    "https://static.fotocasa.es/images/ads/8c06e0da-4217-45ff-b4d1-a3f92d089ae3?rule=original",
+    "https://static.fotocasa.es/images/ads/1d4140b0-35ff-4d2a-b128-2889de08bb93?rule=original",
+    "https://static.fotocasa.es/images/ads/6e2f42ca-dd2a-42a3-b302-78e4fca2eeab?rule=original",
+    "https://static.fotocasa.es/images/ads/bf6c9800-6ea0-4921-bad8-cb9f2e2d2725?rule=original",
+    "https://static.fotocasa.es/images/ads/d9753527-7121-414b-8878-688004793040?rule=original",
+    "https://static.fotocasa.es/images/ads/479cff9f-cda7-4201-b73f-f82d30e8a27b?rule=original",
+    "https://static.fotocasa.es/images/ads/8bd7230d-46bf-43e7-a2fd-74d37def6d93?rule=original",
+    "https://static.fotocasa.es/images/ads/cd604da0-7802-4ef2-9332-ad1cc1af05dc?rule=original",
+    "https://static.fotocasa.es/images/ads/57badcfe-4af9-41a3-bef3-8a6608a6368f?rule=original",
+    "https://static.fotocasa.es/images/ads/eb7ff77b-45f5-4f72-a3dc-e1c170127aab?rule=original",
+    "https://static.fotocasa.es/images/ads/17c525d4-eaee-460f-8ac0-abb05a338c64?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/SERiltI5oQw"
+  ]
+}

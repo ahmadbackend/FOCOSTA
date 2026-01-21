@@ -1,0 +1,46 @@
+{
+  "property_id": "20513537",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/burgos-capital/20513537",
+  "scrape_date": "2026-01-21T03:47:44Z",
+  "title": "MAGRITTE",
+  "description": "2ª FASE A LA VENTA\n\nNUEVA PROMOCIÓN DE OBRA NUEVA\t\t\t\t\t\nEDIFICIO MAGRITTE\t\t\t\t\t\nForma parte de este exclusivo proyecto.\t\nVISITA NUEVO TOUR VIRTUAL\t\t\t\t\nNueva promoción de viviendas de Obra Nueva junto a la zona COPRASA, Avenida Castilla y León.\t\t\t\t\t\nBienvenidos al EDIFICIO MAGRITTE donde el confort y la tranquilidad se viven en cada rincón.\t\t\t\t\t\nEn esta promoción cada detalle ha sido pensado para hacer de tu vivienda un espacio exclusivo y lleno de personalidad.\t\t\t\t\t\nViviendas de 2, 3 y 4 dormitorios. Terrazas. Garaje y trastero.\t\t\t\t\t\n¡Olvídate de las preocupaciones por el frío o el calor! Sistema de calefacción exclusivo por aerotermia. Suelo radiante en invierno y refrescante para el verano. Tu consumo de calefacción será casi nulo. La fachada no solo será un referente en diseño sino que te protegerá del ruido exterior y te permitirá disfrutar de una comodidad inigualable sin preocuparte por el clima. La temperatura será perfecta durante todo el año.\t\t\t\t\t\nEstas viviendas están construidas con materiales de alta calidad, con la garantía de Tetra 5 y Five Homes, empresas líderes en construcción y promoción en Burgos.\t\t\t\t\t\nEl confort se siente desde el primer momento.\t\t\t\t\t\n¡Ven a descubrirlo y haz de este lugar tu nuevo hogar!\t\t\t\t\t\nUbicada en una de las zonas mejor comunicadas de Burgos, a un paso de todo lo que necesitas; supermercados, hospital, centro de salud, farmacias, si necesitas desplazarte hay varias paradas de autobús cercanas. Si quieres disfrutar de tus momentos de ocio también hay en la zona gran oferta de bares y restaurantes. También colegios, institutos, polideportivos, centro cívico, zonas verdes y parques infantiles.\t\t\t\t\t\nInfórmate en cualquier de nuestras oficinas en C/ Guardia Civil 2 o Francisco Grandmontagne 7",
+  "contact_info": {
+    "phone_number": "947940369",
+    "advertiser_name": "GESCASA SERVICON INMOBILIARIOS SL",
+    "client_id": 9202751705112
+  },
+  "location": {
+    "city": "Burgos Capital",
+    "province": "Burgos",
+    "region": "Castilla y León",
+    "country": "España",
+    "latitude": 42.36193084716797,
+    "longitude": -3.663754463195801
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 93,
+    "max_surface": 106,
+    "min_price": 255900,
+    "max_price": 329900
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/800c4e8a-5867-46e5-b826-a4fc4c8dfff8?rule=original",
+    "https://static.fotocasa.es/images/ads/13cb7f3b-fb8d-4791-9574-9b6b80172747?rule=original",
+    "https://static.fotocasa.es/images/ads/a21446d4-105e-4af8-8055-464b7cdd758c?rule=original",
+    "https://static.fotocasa.es/images/ads/be2ed8f9-24fa-4436-9f12-696139db654c?rule=original",
+    "https://static.fotocasa.es/images/ads/44903fa5-09ca-41c9-89a8-a8fd645a3873?rule=original",
+    "https://static.fotocasa.es/images/ads/c550eca8-cdea-408d-8a6c-cc9e4d36fb12?rule=original",
+    "https://static.fotocasa.es/images/ads/cd20cb68-af7f-4996-aa13-06fd14558635?rule=original",
+    "https://static.fotocasa.es/images/ads/7a463f51-b89a-4a33-a519-3856dad40d90?rule=original",
+    "https://static.fotocasa.es/images/ads/1fc82544-7625-4c6a-b09f-eafb5b9244fb?rule=original",
+    "https://static.fotocasa.es/images/ads/e7ffd890-62eb-431c-9c6b-0a9f212e567a?rule=original",
+    "https://static.fotocasa.es/images/ads/08fe3265-5023-4749-a495-16f02b0b3034?rule=original",
+    "https://static.fotocasa.es/images/ads/917dea63-5565-4123-8b90-6a2447a3ded8?rule=original",
+    "https://static.fotocasa.es/images/ads/b6340e51-6012-47dc-9109-3b9baad4c6f0?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,48 @@
+{
+  "property_id": "20530643",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/tordera/20530643",
+  "scrape_date": "2026-01-21T03:34:32Z",
+  "title": "D-000MP9 Bonitas casas de excelente eficiencia energética en zona céntrica de Tordera (Maresme)",
+  "description": "Engel and Völkers les presenta este conjunto residencial de tres casas de 136 m2 construidos, con terraza/jardín, porche y zona de parking. Está ubicado en una zona céntrica de Tordera, población del Maresme próxima a Barcelona y la Costa Brava. Las viviendas destacan por la gran calidad de sus acabados y una construcción con certificación PASSIVHAUS que les confiere una excelente eficiencia energética.\n\nLas casas se ubican en una zona espaciosa cercana al centro de Tordera, ofreciendo así un entorno de tranquilidad, a la vez que gran proximidad a colegios, servicios públicos del pueblo y comercios. Su ubicación también permite fácil acceso a la autopista que conecta con Barcelona y Girona, ciudades a las que se llega en 40 y 35 minutos respectivamente y a las que también se puede acceder en tren.\n\nLas tres casas de la promoción tienen tres dormitorios, tres baños completos totalmente equipados, y un espacio adicional que puede usarse como oficina. Disponen de un patio frontal con espacio para aparcar hasta dos coches, zona de porche a la entrada de la vivienda, amplia terraza/jardín posterior, bonita cocina totalmente equipada, cerramientos y aislamientos de alta eficiencia energética, y sistemas de aire acondicionado frío/calor por conductos y de agua caliente por aerotermia. Se entregan en junio de 2025.\n\nLas tres casas de la promoción son de igual tamaño y tienen la misma distribución interna de espacios. La entrada a la vivienda desde el porche da acceso a un amplio salón-comedor con una bonita cocina integrada en el mismo. Esta planta principal tiene un baño completo y salida a la terraza/jardín ubicada en la parte posterior de la casa. Los amplios ventanales en ambos extremos de esta planta le confieren gran luminosidad. Una cómoda escalera da acceso a la planta superior, que dispone de dormitorio principal con baño completo en suite, dos dormitorios individuales, un tercer baño completo, un espacio para uso como oficina, y un cuarto de lavandería",
+  "contact_info": {
+    "phone_number": "930441963",
+    "advertiser_name": "EV MMC SPAIN ,S.L.U",
+    "client_id": 9202758116439
+  },
+  "location": {
+    "city": "Tordera",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.698116302490234,
+    "longitude": 2.717282772064209
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 136,
+    "max_surface": 136,
+    "min_price": 395000,
+    "max_price": 395000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/f846ea23-1a10-4d85-9aed-594009772eec?rule=original",
+    "https://static.fotocasa.es/images/ads/db94ad2b-98a8-4e92-a5da-a93b203b8ed0?rule=original",
+    "https://static.fotocasa.es/images/ads/94d21696-9a22-452d-ab61-ca9eb11b71dd?rule=original",
+    "https://static.fotocasa.es/images/ads/aa8f0e17-2438-4ded-bab8-afa6fcdf58dd?rule=original",
+    "https://static.fotocasa.es/images/ads/055c0a2d-f229-4f6b-8ce1-2fbbd9ef78a0?rule=original",
+    "https://static.fotocasa.es/images/ads/ab52fe3a-cc5a-474a-8ccd-53ee41cd5e98?rule=original",
+    "https://static.fotocasa.es/images/ads/f47ff71a-097e-452b-9cc8-497f47bacdd8?rule=original",
+    "https://static.fotocasa.es/images/ads/0a6abe2b-7675-40bc-ac70-e479e2479207?rule=original",
+    "https://static.fotocasa.es/images/ads/dc375736-d2ee-4ddd-b389-7e72dc94358b?rule=original",
+    "https://static.fotocasa.es/images/ads/649d8e23-5624-4a2f-940c-dddd7e26ceb4?rule=original",
+    "https://static.fotocasa.es/images/ads/13c02484-2878-4cb2-824f-b3ce73237580?rule=original",
+    "https://static.fotocasa.es/images/ads/89df3618-0da3-4456-be3d-9b5d49e1414b?rule=original",
+    "https://static.fotocasa.es/images/ads/756ab355-755d-452c-8639-44a7c3e15176?rule=original",
+    "https://static.fotocasa.es/images/ads/caa9e0c1-c071-4c31-9f0b-468e9b806c64?rule=original",
+    "https://static.fotocasa.es/images/ads/06b2d1b0-7ae7-4309-a5c0-1e14b755908f?rule=original"
+  ],
+  "videos": []
+}

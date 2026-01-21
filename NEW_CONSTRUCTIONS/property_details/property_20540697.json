@@ -1,0 +1,60 @@
+{
+  "property_id": "20540697",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20540697",
+  "scrape_date": "2026-01-21T03:36:00Z",
+  "title": "ATALAYA EMOTION BY TM",
+  "description": "Apartamentos de 2 y 3 dormitorios en Costa del Sol.\t\t\t\t\n\t\t\t\t\t\nEn la privilegiada zona de Atalaya, próximo a todos los servicios y rodeado de campos de golf, junto a Guadalmina, y a 5 minutos de la playa, Puerto Banús y la milla de oro de Marbella. En Atalaya Emotion by TM podrás disfrutar de unas magníficas zonas comunes con piscina de adulto, piscina infantil, jacuzzis, gimnasio, zona de yoga, pista de petanca y área de juegos infantiles. Un lugar perfecto para una nueva vida llena de emociones.\t\t\t\t\t\n\t\t\t\t\t\nApartamentos de 2 y 3 dormitorios con amplias terrazas que gracias a sus ventanales las sensaciones de amplitud y luminosidad se multiplicarán. Podrás elegir entre viviendas en planta baja con jardín privado, viviendas en primera planta con grandes terrazas o áticos dúplex con solárium. Todas las viviendas llevarán los electrodomésticos incluidos: campana, horno, frigorífico, vitrocerámica, lavavajillas, microondas y lavadora. Atalaya Emotion by TM ofrece unas excelentes calidades, además, tú podrás elegir la personalización de tu vivienda con diferentes opciones de acabados según el estilo que desees.",
+  "contact_info": {
+    "phone_number": "965093474",
+    "advertiser_name": "TM MARKETING & SALES, SLU",
+    "client_id": 9202753048245
+  },
+  "location": {
+    "city": "Estepona",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.49077606201172,
+    "longitude": -5.018673896789551
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 92,
+    "max_surface": 121,
+    "min_price": 720000,
+    "max_price": 732000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/bd70a9ed-11a3-4064-bc17-1cc2fcce6419?rule=original",
+    "https://static.fotocasa.es/images/ads/3c53b751-889a-41ec-962d-5b65c616bc82?rule=original",
+    "https://static.fotocasa.es/images/ads/e2693685-e8a8-4e5b-a0dc-9cbf74a5176a?rule=original",
+    "https://static.fotocasa.es/images/ads/2de66fe3-2ebd-43dd-9c45-d1df5464ca9c?rule=original",
+    "https://static.fotocasa.es/images/ads/e172646e-5597-4f8f-8227-163271ac9ae9?rule=original",
+    "https://static.fotocasa.es/images/ads/d4cc0242-fb56-4f1b-9715-031bf8009793?rule=original",
+    "https://static.fotocasa.es/images/ads/879c5cd3-8346-4b09-bca9-6c0e10c53137?rule=original",
+    "https://static.fotocasa.es/images/ads/a4757077-2e55-4265-b4c1-0711ad605936?rule=original",
+    "https://static.fotocasa.es/images/ads/e8cd603c-accd-445d-81b7-5aa91622d349?rule=original",
+    "https://static.fotocasa.es/images/ads/be89480e-71a2-4963-a656-01ff7052e58f?rule=original",
+    "https://static.fotocasa.es/images/ads/11cb8bec-85e4-476c-a171-0c839a38fc70?rule=original",
+    "https://static.fotocasa.es/images/ads/9564be51-3bb4-436c-9105-a4781f7b2124?rule=original",
+    "https://static.fotocasa.es/images/ads/ece9a5a4-1821-41a6-b849-156285ae11de?rule=original",
+    "https://static.fotocasa.es/images/ads/ea3074f5-1e40-422a-a413-03d56a82a46e?rule=original",
+    "https://static.fotocasa.es/images/ads/1f11eb1c-28ca-4e60-86af-5084b6baf4cf?rule=original",
+    "https://static.fotocasa.es/images/ads/d75c3b74-6f19-462f-a6bc-c42be773e261?rule=original",
+    "https://static.fotocasa.es/images/ads/3d5656d1-1aeb-4076-b3a2-83f1e6c28274?rule=original",
+    "https://static.fotocasa.es/images/ads/ca9c1be1-091d-4433-a5d3-c16ae08bc0d4?rule=original",
+    "https://static.fotocasa.es/images/ads/288c3e22-8cf7-478a-969a-12c794ef1150?rule=original",
+    "https://static.fotocasa.es/images/ads/ad9b21d5-3d3c-4821-9b8f-a5595c0030a7?rule=original",
+    "https://static.fotocasa.es/images/ads/cb0425fa-0b45-4068-816d-8fa5f0f830ba?rule=original",
+    "https://static.fotocasa.es/images/ads/88248c61-de21-4066-8558-50460ad21cba?rule=original",
+    "https://static.fotocasa.es/images/ads/f38ffe95-d5db-4100-a9e4-ff424d7bcaf3?rule=original",
+    "https://static.fotocasa.es/images/ads/c912e74a-e05d-4cae-833e-b0caceb3b389?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/-EeMoX4WHYg",
+    "https://youtu.be/AGAaa2m4gQA"
+  ]
+}

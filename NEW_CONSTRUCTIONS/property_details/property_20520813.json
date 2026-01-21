@@ -1,0 +1,40 @@
+{
+  "property_id": "20520813",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/lepe/20520813",
+  "scrape_date": "2026-01-21T04:37:35Z",
+  "title": "JARDINES DE VALDEPEGAS",
+  "description": "Jardines de Valdepegas – 2ª Fase a la venta\n\nTras el éxito de la primera fase, lanzamos la segunda fase con 15 nuevas viviendas en un entorno exclusivo.\n\n30 chalets adosados de lujo diseñados para ofrecer el máximo confort, ubicados en parcelas desde 130,25 m², rodeados de amplias avenidas, zonas verdes y una espectacular piscina comunitaria. Un concepto único en Lepe, pensado para disfrutar de la tranquilidad y el bienestar en familia.\n\nDiseño y calidad que marcan la diferencia\nCada vivienda ha sido diseñada con una estética moderna y atemporal, con materiales de alta calidad que garantizan un mantenimiento práctico y duradero.\n\n*Cuatro amplios dormitorios, incluyendo uno en planta baja.\n*Armarios empotrados revestidos en madera.\n*Tres baños completos, dos con ducha y uno con bañera en la suite principal.\n*Espacioso salón-comedor y cocina funcional.\n*Zona de aparcamiento en la parte delantera y un amplio porche.\n*Gran parcela para el disfrute de toda la familia.\n\nDisfruta de un hogar pensado para ofrecerte lo mejor: comodidad, exclusividad y un estilo de vida inigualable.\n\nJardines de Valdepegas – Tu futuro hogar te espera.",
+  "contact_info": {
+    "phone_number": "955394692",
+    "advertiser_name": "LAGUNAS DEL PORTIL SA",
+    "client_id": 9202758832211
+  },
+  "location": {
+    "city": "Lepe",
+    "province": "Huelva",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.264923095703125,
+    "longitude": -7.19909143447876
+  },
+  "details": {
+    "min_rooms": 4,
+    "max_rooms": 4,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 113,
+    "max_surface": 113,
+    "min_price": 197000,
+    "max_price": 201000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/076f4c3f-c8dd-43a9-b0bf-158242e43387?rule=original",
+    "https://static.fotocasa.es/images/ads/a3fdfe7e-43a5-4173-90c5-7ee7e52ee1f3?rule=original",
+    "https://static.fotocasa.es/images/ads/f6cb2347-07e1-4294-b470-9d0bccd3051c?rule=original",
+    "https://static.fotocasa.es/images/ads/49dea7b2-0859-4a0d-b07f-87028e9eed89?rule=original",
+    "https://static.fotocasa.es/images/ads/46808f48-3390-4ce6-bf23-8f2cce07b4f4?rule=original",
+    "https://static.fotocasa.es/images/ads/9a38b323-2bed-459b-91f4-348ae2862479?rule=original",
+    "https://static.fotocasa.es/images/ads/6bf4ca7d-c889-4b6a-9c26-620f30de9a7f?rule=original"
+  ],
+  "videos": []
+}

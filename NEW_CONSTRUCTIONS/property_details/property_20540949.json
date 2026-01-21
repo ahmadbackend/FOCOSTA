@@ -1,0 +1,52 @@
+{
+  "property_id": "20540949",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/benidorm/20540949",
+  "scrape_date": "2026-01-21T03:35:29Z",
+  "title": "SUNSET SAILORS BY TM",
+  "description": "Navegar desde tu nueva casa, un sueño hecho realidad. Apartamentos de 1, 2, 3 y 4 dormitorios con excelentes zonas comunes.\n\nSunset Sailors by TM se encuentra en una zona privilegiada de la playa de Poniente, a tan solo 50 metros. Las viviendas cuentan con impresionantes vistas al mar, y con unas amplias terrazas que te permitirán tener la sensación única de estar navegando desde tu casa.\t\t\t\t\n\t\t\t\t\nEl residencial cuenta con unas espectaculares zonas comunes que incluyen: Piscinas, una de ellas climatizable, jacuzzis, zona chill out, sala coworking, gimnasio panorámico, una gran zona deportiva con pista de padel, pista de tenis y pista multideporte, o incluso una sala de cine.\n\nl residencial está formado por una torre de 30 plantas y otra torre de 40 plantas, ambas con orientación Sur. Las tipologías de viviendas son muy variadas, podrás elegir entre apartamentos Excellence de 1, 2 y 3 dormitorios con 1 o 2 baños y apartamentos Premium de 2, 3 y 4 dormitorios con 2 o 3 baños. Un diseño que busca el máximo confort, y que te permitirá disfrutar del Mediterráneo como nunca antes. Las terrazas (cubiertas y descubiertas) tendrán barandillas de vidrio que permiten dar continuidad a las vistas y disfrutar de ellas desde el interior. Sunset Sailors by TM está llamado a convertirse en un icono del skyline de Benidorm, un referente en la playa de Poniente.",
+  "contact_info": {
+    "phone_number": "965093474",
+    "advertiser_name": "TM MARKETING & SALES, SLU",
+    "client_id": 9202753048245
+  },
+  "location": {
+    "city": "Benidorm",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.53694152832031,
+    "longitude": -0.15166780352592468
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 109,
+    "max_surface": 423,
+    "min_price": 640000,
+    "max_price": 2038000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/5375c014-8313-44fd-87b9-5e269fc8cf12?rule=original",
+    "https://static.fotocasa.es/images/ads/b0ff4029-6ac1-4a58-ae5e-0ccca3e86bcf?rule=original",
+    "https://static.fotocasa.es/images/ads/00004d1e-2118-4e03-82f7-0602bd72f22e?rule=original",
+    "https://static.fotocasa.es/images/ads/841a40cc-ef68-443a-b72a-7803b10af444?rule=original",
+    "https://static.fotocasa.es/images/ads/453d2027-e4a2-455e-af2e-aec1b7c065ae?rule=original",
+    "https://static.fotocasa.es/images/ads/21f010aa-5faa-4d6c-9ed4-321c0afc7b0e?rule=original",
+    "https://static.fotocasa.es/images/ads/64fc71ad-99f3-4f9e-be58-bd56507502f9?rule=original",
+    "https://static.fotocasa.es/images/ads/6d47917b-cf22-4e62-969e-2ece3cf60f59?rule=original",
+    "https://static.fotocasa.es/images/ads/81f6ec69-1c4b-458b-a4d1-b213807d995a?rule=original",
+    "https://static.fotocasa.es/images/ads/b888dd55-9688-42a0-93b7-47b829a9aaff?rule=original",
+    "https://static.fotocasa.es/images/ads/f1a74fa2-3330-4d0d-9941-6abe17ed88c8?rule=original",
+    "https://static.fotocasa.es/images/ads/9e2276f6-2467-4a99-a093-21bfad0009d7?rule=original",
+    "https://static.fotocasa.es/images/ads/77f6c034-cafb-4d5e-bcae-ddd4efad3ba1?rule=original",
+    "https://static.fotocasa.es/images/ads/5d6b032f-d6f8-4879-a30f-afae31221673?rule=original",
+    "https://static.fotocasa.es/images/ads/c33dbc0c-8100-4f83-b803-8d848cd062b1?rule=original",
+    "https://static.fotocasa.es/images/ads/fabf93da-50c0-4f05-8c21-95c2711556cc?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/A4_FuaO9EBc",
+    "https://youtu.be/aHxAv1N6Xms"
+  ]
+}

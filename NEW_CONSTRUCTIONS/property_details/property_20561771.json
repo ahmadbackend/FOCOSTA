@@ -1,0 +1,43 @@
+{
+  "property_id": "20561771",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/abrera/20561771",
+  "scrape_date": "2026-01-21T03:57:29Z",
+  "title": "ABRERA PARK B1 - BARCELONA",
+  "description": "Imagina despertar cada mañana rodeado de la tranquilidad de la naturaleza, sin renunciar a las comodidades de la vida urbana. En Abrera Park, te ofrecemos una promoción de pisos de obra nueva, diseñados con el máximo confort y estilo. Hemos pensado en cada detalle para proporcionarte una experiencia única, desde plazas de parking para tu tranquilidad hasta una refrescante piscina para disfrutar en los días soleados. Además, nuestras instalaciones deportivas, que incluyen pistas de pádel y un gimnasio al aire libre, te permiten mantenerte activo y saludable sin salir de casa. Para esos momentos de desconexión, nuestras amplias áreas verdes y zonas de descanso te invitan a relajarte y recargar energías.\nAbrera Park es parte de la iniciativa \"Comunidad Saludable\", un proyecto pionero que promueve hábitos de vida saludables y bienestar directamente en tu hogar. Nos centramos en los cuatro pilares básicos de la salud: actividad física, gestión emocional, descanso y nutrición. Todo ello, con el objetivo de proporcionarte todas las herramientas necesarias para cuidar de ti y del medio ambiente, evitando desplazamientos innecesarios y haciendo tu vida más cómoda y sostenible.\nNuestra ubicación privilegiada te ofrece conexiones rápidas y cómodas con Barcelona y sus alrededores, a través de diversas opciones de transporte como los autobuses D40, e8, L69 y L68, así como las líneas de ferrocarril S4 y R5, y los tranvías T1 y T2. Además, cuentas con un fácil acceso a importantes vías como la A2, B23, AP7 y C16, así como al aeropuerto de Barcelona, para que siempre estés conectado con el mundo.\nDa el primer paso hacia tu nuevo hogar. Agenda una visita y conoce todas las comodidades y beneficios que te esperan.\nCorp",
+  "contact_info": {
+    "phone_number": "+34934100079",
+    "advertiser_name": "Corp / Becorp Rental House",
+    "client_id": 9202770067285
+  },
+  "location": {
+    "city": "Abrera",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.51739501953125,
+    "longitude": 1.9016437530517578
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 56,
+    "max_surface": 86,
+    "min_price": 211000,
+    "max_price": 361000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/5abc2f39-c90b-4964-861e-a5be6206bb74?rule=original",
+    "https://static.fotocasa.es/images/ads/59aaddad-ebe0-4176-978e-cacaee6708db?rule=original",
+    "https://static.fotocasa.es/images/ads/3db1ef9d-bd4b-4cad-9870-fe7ea791ff8d?rule=original",
+    "https://static.fotocasa.es/images/ads/bb5e0b87-0c9c-4c87-a99e-fc8506166b98?rule=original",
+    "https://static.fotocasa.es/images/ads/7bd6c5f3-b81d-4d19-a678-3dd371495e26?rule=original",
+    "https://static.fotocasa.es/images/ads/bd7569f8-a035-46f5-bbfe-ccca319ca53a?rule=original",
+    "https://static.fotocasa.es/images/ads/ae512398-f3f0-45f8-a110-9ac00bfe2102?rule=original",
+    "https://static.fotocasa.es/images/ads/0ce88ea1-032f-4231-bda6-201a26621133?rule=original",
+    "https://static.fotocasa.es/images/ads/c895ff1f-7a78-49b5-99a1-aa8f3e9d6859?rule=original",
+    "https://static.fotocasa.es/images/ads/7893ca87-8753-49c6-b061-7a800cf9573d?rule=original"
+  ],
+  "videos": []
+}

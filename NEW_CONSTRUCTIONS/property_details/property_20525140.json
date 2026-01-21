@@ -1,0 +1,49 @@
+{
+  "property_id": "20525140",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sagunto-sagunt/20525140",
+  "scrape_date": "2026-01-21T02:32:36Z",
+  "title": "Residencial Allegro",
+  "description": "¡Inicio de construcción! \nResidencial Allegro es  un complejo de 110 viviendas de 2, 3 y 4 dormitorios con amplias terrazas dónde disfrutar del gran clima mediterráneo  y excelentes vistas, pensados para compartir. Cuenta con  amplias zonas ajardinadas, piscina infantil y de adultos, un área de juegos para los más pequeños y espacios para aparca-bicicletas.\n\nA tan solo 15 minutos del centro de Sagunto, muy cerca de la playa y a 25 kilómetros de la ciudad de Valencia, este residencial dispone de todos los servicios necesarios a su alrededor, como centros de salud, comercios, bancos y paradas de transporte público. Máxima comodidad para crear un hogar acogedor.\n\nProyecto diseñado por ART arquitectos, con criterios de sostenibilidad, certificado energético A-A, equipado con aerotermia, climatización frío-calor, placas solares fotovoltáicas comunitarias, con posiblidad de personalización de acabados de solados, alicatados de baños y mobiliario y encimera de cocinas y mejoras de distribuciones según tipología de viviendas, equipación de electrodomésticos y baños según opciones de personalización y mejoras incluidas en memoria de calidades.\n\nGaraje y trastero incluido en el precio.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": "Sagunto / Sagunt",
+    "province": "Valencia",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 39.66611099243164,
+    "longitude": -0.22394800186157227
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 95,
+    "max_surface": 128,
+    "min_price": 239000,
+    "max_price": 350000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8e605518-7237-498d-867c-e5d672486276?rule=original",
+    "https://static.fotocasa.es/images/ads/4a2fc762-bf9c-48ae-9c35-38c62f3b12e0?rule=original",
+    "https://static.fotocasa.es/images/ads/0415b0b6-293e-4068-ac6b-99b68f4e3a4e?rule=original",
+    "https://static.fotocasa.es/images/ads/a18b533e-407a-488a-8b35-b717ee66f75b?rule=original",
+    "https://static.fotocasa.es/images/ads/7d21293a-22fb-470b-b38b-e265b73e4257?rule=original",
+    "https://static.fotocasa.es/images/ads/354f85a2-f365-406c-af92-ca3733290f90?rule=original",
+    "https://static.fotocasa.es/images/ads/c57a82b9-4924-4e12-ba13-a0cbc066f02e?rule=original",
+    "https://static.fotocasa.es/images/ads/3b4d88cb-c462-487f-8eef-e4fcf07d1ac3?rule=original",
+    "https://static.fotocasa.es/images/ads/31710fa1-fad7-46dc-ad6b-7b76b44a9fb6?rule=original",
+    "https://static.fotocasa.es/images/ads/95f07f4c-8ea8-473f-a72a-7d82aa22ec32?rule=original",
+    "https://static.fotocasa.es/images/ads/c45f8460-f3eb-4c80-957d-7ada01796dbb?rule=original",
+    "https://static.fotocasa.es/images/ads/0926c9c0-3bf4-4cb2-b187-55bc9bd5d9e0?rule=original",
+    "https://static.fotocasa.es/images/ads/7a0e91b7-1c45-4f8e-8c75-41a3a0ff7e91?rule=original",
+    "https://static.fotocasa.es/images/ads/5381cdcf-c67f-4a68-bbd0-1478978adfcd?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/390fdd34-4da8-4f3a-8149-ba523b841100?rule=original"
+  ]
+}

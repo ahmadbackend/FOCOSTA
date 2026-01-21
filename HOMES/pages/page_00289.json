@@ -1,0 +1,225 @@
+{
+  "page": 289,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/289",
+  "scrape_date": "2026-01-21T04:24:06.253009",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/malaga-capital/gibralfaro/185592001/d",
+      "id": 185592001,
+      "price": 170000,
+      "location": "Calle Pinosol, Gibralfaro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valdemorillo/calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/184481870/d",
+      "id": 184481870,
+      "price": 750000,
+      "location": "Calle Castillo de Torrelobatón, Cerro Alarcón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/albacete-capital/20559081/186900086",
+      "id": 186900086,
+      "price": 255000,
+      "location": "Calle Poeta Antonio Matea Calderón, 3, Imaginalia - Llanos del Águila",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/garrigas/calefaccion-parking-jardin-terraza-piscina/187533808/d",
+      "id": 187533808,
+      "price": 475000,
+      "location": "Garrigàs",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/hoyos/no-amueblado/188119913/d",
+      "id": 188119913,
+      "price": 65000,
+      "location": "derecha baja, Hoyos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-lorenzo-de-el-escorial/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/183875160/d",
+      "id": 183875160,
+      "price": null,
+      "location": "Abantos - Carmelitas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/lugo-capital/ascensor-no-amueblado/188090908/d",
+      "id": 188090908,
+      "price": 325000,
+      "location": "Centro - Recinto Amurallado",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/aire-acondicionado-parking-jardin-terraza-patio-piscina-amueblado/187530262/d",
+      "id": 187530262,
+      "price": 929900,
+      "location": "Calle de Asturias, Castillo Campodón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bellver-de-cerdanya/parking-jardin-trastero-patio-no-amueblado/185943197/d",
+      "id": 185943197,
+      "price": 520000,
+      "location": "Bellver de Cerdanya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/pontevedra-capital/zona-fernandez-ladreda/182419592/d",
+      "id": 182419592,
+      "price": 200000,
+      "location": "Vigo, Zona Fernández Ladreda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/santa-cruz-del-retamar/calefaccion-jardin-trastero-piscina/184465355/d",
+      "id": 184465355,
+      "price": 350000,
+      "location": "Calalberche",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/huelva-capital/piscina/188560362/d",
+      "id": 188560362,
+      "price": 297500,
+      "location": "La Florida - Vistalegre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alcala-de-guadaira/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-patio-piscina/187254345/d",
+      "id": 187254345,
+      "price": 210000,
+      "location": "La Paz",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/becerril-de-la-sierra/calefaccion-jardin-terraza-trastero/188540912/d",
+      "id": 188540912,
+      "price": 545000,
+      "location": "Becerril de la Sierra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/aire-acondicionado-calefaccion-parking-trastero-ascensor-piscina-no-amueblado/188162181/d",
+      "id": 188162181,
+      "price": 490000,
+      "location": "Juan Carlos I",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/robledo-de-chavela/calefaccion-jardin-terraza-trastero/188494829/d",
+      "id": 188494829,
+      "price": 235000,
+      "location": "Robledo de Chavela",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-fernando/terraza-amueblado/188289956/d",
+      "id": 188289956,
+      "price": 310000,
+      "location": "Camposoto - Gallineras",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ribadavia/calefaccion-parking-jardin-terraza-no-amueblado/188317520/d",
+      "id": 188317520,
+      "price": 199000,
+      "location": "Ribadavia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tona/calefaccion-parking-jardin-terraza/188372880/d",
+      "id": 188372880,
+      "price": 350000,
+      "location": "Tona",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ourense-capital/calefaccion-ascensor-no-amueblado/187676526/d",
+      "id": 187676526,
+      "price": 195000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-cibrao-das-vinas/jardin/188327131/d",
+      "id": 188327131,
+      "price": 285000,
+      "location": "San Cibrao das Viñas",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-boi-de-llobregat/parking-jardin-terraza-trastero-patio/188358594/d",
+      "id": 188358594,
+      "price": 840000,
+      "location": "Vinyets - Molí Vell",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/huelva-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-ascensor-piscina/188001132/d",
+      "id": 188001132,
+      "price": 191270,
+      "location": "Calle Antonio Machado, Fuentepiña",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/calefaccion-no-amueblado/188240327/d",
+      "id": 188240327,
+      "price": 280000,
+      "location": "Carrer del Pare Laínez, El Camp d'en Grassot i Gràcia Nova",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mino/calefaccion-parking-trastero-patio/186927459/d",
+      "id": 186927459,
+      "price": 249000,
+      "location": " de Carantoña, Miño",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/oleiros/calefaccion-parking-jardin-trastero-piscina-no-amueblado/183809546/d",
+      "id": 183809546,
+      "price": 612000,
+      "location": "Juana Vega, Nós",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fogars-de-montclus/jardin-trastero-patio/188136819/d",
+      "id": 188136819,
+      "price": 850000,
+      "location": "Fogars de Montclús",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/villaviciosa-de-odon/calefaccion-parking-jardin-piscina-no-amueblado/187646964/d",
+      "id": 187646964,
+      "price": 1350000,
+      "location": "Castillo Campodón",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vilanova-i-la-geltru/aire-acondicionado-parking-jardin-terraza/187582599/d",
+      "id": 187582599,
+      "price": 390000,
+      "location": "Fondo Somella",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/algaida/jardin-patio/181322907/d",
+      "id": 181322907,
+      "price": 450000,
+      "location": "Algaida",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/illas/calefaccion-parking-trastero-no-amueblado/182324608/d",
+      "id": 182324608,
+      "price": 190000,
+      "location": "Illas",
+      "type": "realEstate"
+    }
+  ]
+}

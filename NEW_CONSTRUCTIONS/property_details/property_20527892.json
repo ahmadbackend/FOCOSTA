@@ -1,0 +1,52 @@
+{
+  "property_id": "20527892",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/girona-capital/20527892",
+  "scrape_date": "2026-01-21T03:42:53Z",
+  "title": "Mas Quintana",
+  "description": "Obra nueva en dos fases con un total de 60 viviendas de 2, 3 y 4 dormitorios, plantas bajas con amplias terrazas y jardines privados, zona comunitaria con piscina, jardín y amplias plazas de parking con trastero.\n\nFase 1 en venta con 30 viviendas de 2, 3 y 4 dormitorios repartido en dos porterías, A y B,  plantas bajas con amplias terrazas y jardines privados, zona comunitaria con piscina, jardín y amplias plazas de parking con trastero.\n \n\nMas Quintana se ubicada entre la Avinguda de Lluís Pericot, la calle Riu Cardoner y la calle Joaquim Riera Bertran, una zona muy tranquila de la ciudad con vistas al barrio de la Creu de Palau.\n\nA escasos minutos, los residentes encontrarán una amplia variedad de servicios como centros comerciales, gimnasios y supermercados con todo lo necesario para su día a día. Para quienes tienen hijos, destaca la cercanía de colegios y guarderías.\n\nTambién se puede disfrutar de restaurantes cercanos que ofrecen experiencias gastronómicas para todos los gustos. Todo ello, perfectamente conectado por su cercanía a cinturones y autopistas que hace de esta ubicación un lugar sencillo y eficiente para moverse a otros puntos de la ciudad u otros destinos costeros.\n\n\nNuestra promoción contará con dos bloques de 4 alturas cada uno de ellos con un total de 30 viviendas cada uno. Los acabados serán de primera calidad, con alta eficiencia energética. Contarán con pavimento de madera laminada, revestimientos de gres porcelánico, cocinas equipadas con electrodomésticos Siemens, armarios empotrados (según tipologías) y puertas de madera lacadas en blanco, carpintería exterior de aluminio, persianas motorizadas, aerotermia, iluminación led, entre otros.\n\nLa piscina comunitaria esta´ es el lugar ideal para refrescarse durante los cálidos meses de verano, o simplemente para relajarse y disfrutar de un ambiente tranquilo y sereno. Junto a la piscina, hemos dispuesto un área especialmente dedicada al descanso.",
+  "contact_info": {
+    "phone_number": "973811527",
+    "advertiser_name": "SR Inmuebles",
+    "client_id": 9202774418012
+  },
+  "location": {
+    "city": "Girona Capital",
+    "province": "Girona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.96473693847656,
+    "longitude": 2.8151233196258545
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 65,
+    "max_surface": 116,
+    "min_price": 292000,
+    "max_price": 415000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/697d9e3d-de04-42f7-8e65-5751bd7a397e?rule=original",
+    "https://static.fotocasa.es/images/ads/0bb2dd56-7fc9-4296-9d31-5008ecbc8ef7?rule=original",
+    "https://static.fotocasa.es/images/ads/8dbfce72-6db2-4a7e-993c-31657c3e4e34?rule=original",
+    "https://static.fotocasa.es/images/ads/a3de72ea-b636-4ef6-92c4-98ac53149a51?rule=original",
+    "https://static.fotocasa.es/images/ads/ab851903-23d6-4ade-acfa-cae9aee5bb72?rule=original",
+    "https://static.fotocasa.es/images/ads/b9427839-6b89-42b2-9060-df1917d11217?rule=original",
+    "https://static.fotocasa.es/images/ads/d566e2a0-618c-4651-b37a-57ef2e2e028b?rule=original",
+    "https://static.fotocasa.es/images/ads/76821ad9-f009-4531-b23c-0cdc2324a02e?rule=original",
+    "https://static.fotocasa.es/images/ads/6248107f-60f1-4f5d-bc03-5e4b96c1ab68?rule=original",
+    "https://static.fotocasa.es/images/ads/5637df53-4198-4617-9fb7-380d6f6ccbdc?rule=original",
+    "https://static.fotocasa.es/images/ads/404f4716-9a2d-4722-9376-c4dddb172309?rule=original",
+    "https://static.fotocasa.es/images/ads/8c2156c6-39b7-47d2-8d00-4ac61d047e72?rule=original",
+    "https://static.fotocasa.es/images/ads/2a1e4d35-fdf8-400d-9249-02e0fc4fae61?rule=original",
+    "https://static.fotocasa.es/images/ads/791bb705-228e-4adf-91cb-4ba72310caf4?rule=original",
+    "https://static.fotocasa.es/images/ads/0ad62461-923a-47b9-977f-f6da597a8f07?rule=original",
+    "https://static.fotocasa.es/images/ads/0aeee31f-971e-43f7-9e30-18ffb34ce6a6?rule=original",
+    "https://static.fotocasa.es/images/ads/10f46994-57a6-4323-a9b6-5e39529ae36f?rule=original",
+    "https://static.fotocasa.es/images/ads/2c42705c-67d7-415b-9531-168428618288?rule=original",
+    "https://static.fotocasa.es/images/ads/474e4731-d0ef-4c0e-99f9-4991882369f6?rule=original"
+  ],
+  "videos": []
+}

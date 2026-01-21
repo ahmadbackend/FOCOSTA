@@ -1,0 +1,49 @@
+{
+  "property_id": "20525105",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20525105",
+  "scrape_date": "2026-01-21T02:32:25Z",
+  "title": "Alma F1",
+  "description": "¡En construcción!\nALMA, en su fase 1, presenta 59 viviendas en tipologías de 2, 3 y 4 dormitorios, todas equipadas con aparcamiento y trastero en el sótano. Espacios diseñados con un toque moderno, bajos con jardines y áticos donde disfrutar de vistas despejadas.\nEncontrarás zonas comunes donde disfrutar en familia, espacios ajardinados en los que relajarse y una sala gourmet para los más sibaritas. Por supuesto, no puede faltar la piscina, donde olvidarse de las altas temperaturas de la capital.\nSituada en el nuevo eje central de Granada, ALMA está cerca de los puntos más estratégicos de la ciudad. Vivirás totalmente conectado gracias a la cercanía con la estación de tren. Tendrás a la mano diversos colegios, centros educativos y, por supuesto, supermercados y grandes superficies, así como hospitales.\nPara disfrutar de un rato de ocio, tendrás a unos minutos el centro de la ciudad de Granada donde podrás encontrar una amplia oferta de restauración y cultural en esta ciudad vibrante y animada.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": " Granada Capital",
+    "province": "Granada",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.19188690185547,
+    "longitude": -3.6089820861816406
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 117,
+    "max_surface": 144,
+    "min_price": 378000,
+    "max_price": 436000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/d2128857-db61-4b6a-bf4d-6686c2f94182?rule=original",
+    "https://static.fotocasa.es/images/ads/15aeb426-911f-4bcf-969c-083625f1b8bb?rule=original",
+    "https://static.fotocasa.es/images/ads/5809513d-9b41-42f2-bed6-5a3ffe4f0221?rule=original",
+    "https://static.fotocasa.es/images/ads/b664f6dc-19c0-4c08-b126-1b63790943e8?rule=original",
+    "https://static.fotocasa.es/images/ads/90384bce-51dc-4cf1-9cdc-70176a7fc845?rule=original",
+    "https://static.fotocasa.es/images/ads/cefae549-b8e6-4e30-8d19-fd4cc3c53424?rule=original",
+    "https://static.fotocasa.es/images/ads/1bdd80ea-78d1-4519-95bb-b683d3fe1be4?rule=original",
+    "https://static.fotocasa.es/images/ads/858621e8-0d9c-4cca-aeab-ed42eef37841?rule=original",
+    "https://static.fotocasa.es/images/ads/a9ed8d23-ada6-47aa-9fec-d8f2b6478548?rule=original",
+    "https://static.fotocasa.es/images/ads/579afebc-7936-4927-9961-7572167a96e9?rule=original",
+    "https://static.fotocasa.es/images/ads/d8a9b2a5-2cc7-49c0-9bd0-4b36410fe577?rule=original",
+    "https://static.fotocasa.es/images/ads/07ce8e11-b71d-4160-912b-ef60278207b3?rule=original",
+    "https://static.fotocasa.es/images/ads/ad06345b-f60f-4ee0-898c-7aa35fd12767?rule=original",
+    "https://static.fotocasa.es/images/ads/df44587a-a683-4b67-bf0a-2cd77924fc16?rule=original"
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/Pjo1Us0Rg3I"
+  ]
+}

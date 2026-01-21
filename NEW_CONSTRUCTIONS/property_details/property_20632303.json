@@ -1,0 +1,59 @@
+{
+  "property_id": "20632303",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/granada-capital/20632303",
+  "scrape_date": "2026-01-21T03:03:29Z",
+  "title": "PROMOCION ANGEL GANIVET",
+  "description": "\"¡Comenzamos la comercialización de Residencial Ángel Ganivet!\nUna exclusiva promoción ubicada junto al Hospital San Juan de Dios, promovida por Barsant Promociones.\n\nEste moderno complejo residencial está formado por 33 viviendas de 1, 2 y 3 dormitorios, distribuidas en 5 elegantes edificios de 3 y 4 plantas. Un proyecto único diseñado por los arquitectos Javier \"\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\"Barranco Vela y Federico del Río Molina, que destaca por su arquitectura contemporánea, cuidada estética y excelentes calidades en cada detalle. Las viviendas cuentan con:\n\nAmplias terrazas o patios en muchas de las unidades\n\nPosibilidad de garaje y trastero\n\nUn diseño accesible, cómodo y funcional\n\nUbicación inmejorable: En pleno centro, con todos los servicios a mano, perfectamente conectado y en una de las zonas más demandadas de la ciudad.\n\nUna oportunidad única para vivir o invertir en un entorno privilegiado que combina confort, diseño y ubicación.\"",
+  "contact_info": {
+    "phone_number": "958911407",
+    "advertiser_name": "NUEVO GRUPOTORRES, S.L",
+    "client_id": 9202752768684
+  },
+  "location": {
+    "city": " Granada Capital",
+    "province": "Granada",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.18178939819336,
+    "longitude": -3.6037795543670654
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 50,
+    "max_surface": 121,
+    "min_price": 202500,
+    "max_price": 459000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/63c8f178-27ab-49af-9997-9ad97d39fa67?rule=original",
+    "https://static.fotocasa.es/images/ads/821a3bfa-2076-40f1-8e95-9987a2a75371?rule=original",
+    "https://static.fotocasa.es/images/ads/371a39ca-4e75-466c-83f3-270500dc4427?rule=original",
+    "https://static.fotocasa.es/images/ads/e0ba0012-6a0d-4200-a948-9c4977f986b4?rule=original",
+    "https://static.fotocasa.es/images/ads/390591f1-21ff-4866-8eb2-02c0262db588?rule=original",
+    "https://static.fotocasa.es/images/ads/960a1406-74a2-4908-b2c2-34596f91e24f?rule=original",
+    "https://static.fotocasa.es/images/ads/cdf9941e-4573-4f5c-a0b8-88ae5714c3e4?rule=original",
+    "https://static.fotocasa.es/images/ads/d0166635-f8d7-4646-9a07-f412a2d16eb6?rule=original",
+    "https://static.fotocasa.es/images/ads/d580a72b-887b-4852-8a81-6c856b995b0a?rule=original",
+    "https://static.fotocasa.es/images/ads/80b2e9fe-ed6d-472c-94fb-450e0f536deb?rule=original",
+    "https://static.fotocasa.es/images/ads/240b71e0-033f-4055-ac31-523cba7e6d24?rule=original",
+    "https://static.fotocasa.es/images/ads/e2fb07be-84bc-47c0-8d56-f61190767b39?rule=original",
+    "https://static.fotocasa.es/images/ads/45574662-535a-45d0-97e4-2bb604ad759b?rule=original",
+    "https://static.fotocasa.es/images/ads/78dd7822-8901-449e-9777-6356667669b2?rule=original",
+    "https://static.fotocasa.es/images/ads/f04bb328-296c-45d5-9426-4671b1c98fa8?rule=original",
+    "https://static.fotocasa.es/images/ads/5663cd40-0568-4a11-8994-7781c9570296?rule=original",
+    "https://static.fotocasa.es/images/ads/fd3d33f1-aea2-41a6-bebf-f09a151a146a?rule=original",
+    "https://static.fotocasa.es/images/ads/f83c856f-1852-4383-9f43-b4675637b234?rule=original",
+    "https://static.fotocasa.es/images/ads/570a6f95-e1e5-4cc3-916a-0f176ff28050?rule=original",
+    "https://static.fotocasa.es/images/ads/3f2f6df8-0e09-45e0-82ec-8be76b1190a0?rule=original",
+    "https://static.fotocasa.es/images/ads/f25bb03f-f745-49d1-8ad8-4a7e19ba9879?rule=original",
+    "https://static.fotocasa.es/images/ads/a6cb756a-a1fd-4a2c-9862-d4e399eb2c7c?rule=original",
+    "https://static.fotocasa.es/images/ads/7e55fca6-876b-4768-a6f2-2ad82d445927?rule=original",
+    "https://static.fotocasa.es/images/ads/ef9e1d1b-f169-4b07-b6df-574f9639b001?rule=original",
+    "https://static.fotocasa.es/images/ads/f4558fb7-6a68-4ac9-8a2e-b816e9d90f91?rule=original",
+    "https://static.fotocasa.es/images/ads/bc8b70cf-297e-4c51-b56c-2434b771b105?rule=original"
+  ],
+  "videos": []
+}

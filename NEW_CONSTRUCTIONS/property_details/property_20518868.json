@@ -1,0 +1,50 @@
+{
+  "property_id": "20518868",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/terrassa/20518868",
+  "scrape_date": "2026-01-21T03:22:32Z",
+  "title": "EDIFICI JACQUARD",
+  "description": "EDIFICI JACQUARD és una promoció d’habitatges projectada pensant en la teva comoditat, amb una estètica d\"avantguarda, integrada a l\"entorn i amb espais pensats per què gaudeixis plenament de la teva llar.\n\n \n\nLa promoció consta de 2 escales que comparteixen zona comunitària amb un total de 44 habitatges d\"1, 2, 3 i 4 distribuïts en:\n\n \n\n28 habitatges per l\"edifici de 4 plantes d\"Avda. Jacquard\n\n16 habitatges per l\"edifici de 3 plantes de C/Prat de la Riba\n\nCada habitatge gaudirà d\"un balcó o terrassa i també tenen la possibilitat de tenir plaça d\"aparcament i traster.\n\n \n\nLa seva ubicació, la qualitat de materials i acabats, les cuidades zones comunes amb piscina per gaudir en família així com la possibilitat de personalització dels mateixos fan d\"EDIFICI JACQUARD una promoció exclusiva a la seva zona.\n\n \n\nGARAJE Y TRASTERO NO INCLUIDOS EN EL PRECIO.",
+  "contact_info": {
+    "phone_number": "931321473",
+    "advertiser_name": "LEVEL",
+    "client_id": 9202774567866
+  },
+  "location": {
+    "city": "Terrassa",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.564048767089844,
+    "longitude": 2.021131753921509
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 4,
+    "min_bathrooms": 2,
+    "max_bathrooms": 3,
+    "min_surface": 112,
+    "max_surface": 173,
+    "min_price": 320000,
+    "max_price": 538000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/5309117e-ad6c-4a5b-9514-d8a6aeb00102?rule=original",
+    "https://static.fotocasa.es/images/ads/46721bdc-6106-4bfd-8294-d7ece95653f0?rule=original",
+    "https://static.fotocasa.es/images/ads/3caab39b-c19c-4d06-a6d5-f4e53f87e08f?rule=original",
+    "https://static.fotocasa.es/images/ads/7ab378c9-0cf5-4fbb-bc85-ec20f7340617?rule=original",
+    "https://static.fotocasa.es/images/ads/2db20692-8237-497a-a47e-1d6edb7a820e?rule=original",
+    "https://static.fotocasa.es/images/ads/3c1839c1-6b83-4847-a60d-bc4092b2877d?rule=original",
+    "https://static.fotocasa.es/images/ads/f16f9595-065e-4b70-a2a0-78ada7e9d130?rule=original",
+    "https://static.fotocasa.es/images/ads/53b7cdaa-e547-41e5-a26b-18ef57e304af?rule=original",
+    "https://static.fotocasa.es/images/ads/897edc38-3928-4319-bda5-c9b4a8a0a99a?rule=original",
+    "https://static.fotocasa.es/images/ads/1471d0a1-b1b2-45b3-8869-d48dab5fa1b6?rule=original",
+    "https://static.fotocasa.es/images/ads/648a947c-d1ab-4523-aa20-d39904bca5d7?rule=original",
+    "https://static.fotocasa.es/images/ads/725f12ac-cd90-4637-961a-1f77ffc8fef3?rule=original",
+    "https://static.fotocasa.es/images/ads/ae107e47-e29d-4891-ae53-f64a172f2e20?rule=original",
+    "https://static.fotocasa.es/images/ads/5f294a15-562e-4551-8530-061979b6ef41?rule=original",
+    "https://static.fotocasa.es/images/ads/09f32719-d4b6-494a-b697-029b737f7332?rule=original",
+    "https://static.fotocasa.es/images/ads/8929b9a6-bff8-4a7c-9838-4e7c8114c80c?rule=original",
+    "https://static.fotocasa.es/images/ads/e651b89c-a0e5-4a1b-8d92-65ec6aba9d3f?rule=original"
+  ],
+  "videos": []
+}

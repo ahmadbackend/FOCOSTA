@@ -1,0 +1,225 @@
+{
+  "page": 279,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/279",
+  "scrape_date": "2026-01-21T04:23:34.645280",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-calefaccion-terraza-ascensor/187102921/d",
+      "id": 187102921,
+      "price": 475000,
+      "location": "Encarnación - Regina",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/aire-acondicionado-calefaccion-zona-comunitaria-ascensor-patio-amueblado-internet/188599269/d",
+      "id": 188599269,
+      "price": 2500000,
+      "location": "Passatge Sert, 10, Sant Pere, Sta. Caterina i la Ribera",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sabadell/ascensor/188504253/d",
+      "id": 188504253,
+      "price": 133000,
+      "location": "Campoamor",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/calafell/segur-platja/183962721/d",
+      "id": 183962721,
+      "price": 150000,
+      "location": "Segur Platja",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/alicante-alacant/parking-jardin-terraza-trastero/178030085/d",
+      "id": 178030085,
+      "price": 270000,
+      "location": "Virgen del Remedio - Parque Lo Morant",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/ayamonte/parking/187777397/d",
+      "id": 187777397,
+      "price": 207000,
+      "location": "Costa Esuri",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-salvador-de-guardiola/parking-jardin-terraza-trastero-patio-piscina/188273833/d",
+      "id": 188273833,
+      "price": 347000,
+      "location": "Sant Salvador de Guardiola",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-garriga/aire-acondicionado-calefaccion-terraza-trastero/185899331/d",
+      "id": 185899331,
+      "price": 790000,
+      "location": "Can Violí  - Can Poi del Bosc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vic/calefaccion-terraza-ascensor/186855790/d",
+      "id": 186855790,
+      "price": 345000,
+      "location": "Rambla Passeig, 39, Centre  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vera/parking-ascensor-no-amueblado/187698111/d",
+      "id": 187698111,
+      "price": 155000,
+      "location": "Vera Ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canovelles/aire-acondicionado-calefaccion-parking-jardin-no-amueblado/185676349/d",
+      "id": 185676349,
+      "price": 1150000,
+      "location": "Carrer del Vallès, 3, Canovelles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/riba-roja-de-turia/parking-ascensor/187895529/d",
+      "id": 187895529,
+      "price": 183000,
+      "location": "Riba-roja de Túria",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palma-de-mallorca/aire-acondicionado-parking-ascensor-no-amueblado/187920921/d",
+      "id": 187920921,
+      "price": 360000,
+      "location": "El Terreno",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/granada-capital/figares/187976633/d",
+      "id": 187976633,
+      "price": 189000,
+      "location": "Fígares",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/olot/parking/188274199/d",
+      "id": 188274199,
+      "price": 259000,
+      "location": "Roure, Olot",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jerez-de-la-frontera/no-amueblado/188060271/d",
+      "id": 188060271,
+      "price": 110000,
+      "location": "Centro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/manacor/terraza-ascensor/188302189/d",
+      "id": 188302189,
+      "price": 296700,
+      "location": "Porto Cristo  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tordera/jardin-terraza-patio/188046299/d",
+      "id": 188046299,
+      "price": 120000,
+      "location": "Niàgara Parc - Ágora Parc",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/los-molares/parking/187136194/d",
+      "id": 187136194,
+      "price": 119500,
+      "location": "Los Molares",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-parking-terraza/188384646/d",
+      "id": 188384646,
+      "price": 285000,
+      "location": "El Cerro",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/murcia-capital/parking-terraza/184660538/d",
+      "id": 184660538,
+      "price": 139000,
+      "location": "Puente Tocinos",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-vicenc-de-castellet/sant-vicenc-de-castellet/186803421/d",
+      "id": 186803421,
+      "price": 85000,
+      "location": "Sant Vicenç de Castellet",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-lorenzo-de-el-escorial/calefaccion-parking-no-amueblado/187509137/d",
+      "id": 187509137,
+      "price": 675000,
+      "location": "La Pizarra",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sant-iscle-de-vallalta/calefaccion-jardin-terraza-trastero/187681263/d",
+      "id": 187681263,
+      "price": 425000,
+      "location": "Sant Iscle de Vallalta",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valdemorillo/calefaccion-jardin-terraza-piscina-no-amueblado/186931189/d",
+      "id": 186931189,
+      "price": 525000,
+      "location": "Pino Alto - Navarredonda",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/el-ejido/almerimar/186580574/d",
+      "id": 186580574,
+      "price": 140000,
+      "location": "Bajamar, Almerimar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/san-vicente-del-raspeig-sant-vicent-del-raspeig/jardin-patio-no-amueblado/188062272/d",
+      "id": 188062272,
+      "price": 250000,
+      "location": "Calle Pérez Galdós, Norte",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/mollet-del-valles/estacio-de-franca/182895355/d",
+      "id": 182895355,
+      "price": 124000,
+      "location": "Estació de França",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/roses/parking-terraza-trastero-piscina-amueblado/187998809/d",
+      "id": 187998809,
+      "price": 280000,
+      "location": "Almadrava - Canyelles - Puig-Rom",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-alfas-del-pi/parking-jardin-terraza-trastero-amueblado/187795320/d",
+      "id": 187795320,
+      "price": 344900,
+      "location": "L'Albir",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tomino/jardin/187247477/d",
+      "id": 187247477,
+      "price": 270000,
+      "location": "Tomiño",
+      "type": "realEstate"
+    }
+  ]
+}

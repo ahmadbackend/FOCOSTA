@@ -1,0 +1,46 @@
+{
+  "property_id": "20561366",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/alicante-alacant/20561366",
+  "scrape_date": "2026-01-21T04:12:30Z",
+  "title": "VOLANTA",
+  "description": "La felicidad viene de serie en tu nueva casa en Volanta. Ubicada junto al Pau II encontrarás Volanta, un proyecto  84 viviendas de 2 y 3 dormitorios.\n\nVolanta cuenta con un diseño vanguardista y actual. Las viviendas disponen de distribuciones que te permitirán el máximo confort. \n\nLa sostenibilidad es una de nuestra mayores premisas y en Volanta seguimos cumpliendo con nuestro compromiso, construyendo viviendas eficientes y generosas con el medio ambiente. \n\nLa urbanización cuenta con piscina, parque infantil y zona verde. Los precios incluyen plaza de garaje y trastero. Ven a conocer tu nueva casa en Volanta.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Alicante / Alacant",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.35904312133789,
+    "longitude": -0.5010895729064941
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 69,
+    "max_surface": 93,
+    "min_price": 243000,
+    "max_price": 340000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/3c76b54a-a77a-43cb-9613-cf3f3296f095?rule=original",
+    "https://static.fotocasa.es/images/ads/b79f30c0-0cad-4921-b352-9448b5ccb1b0?rule=original",
+    "https://static.fotocasa.es/images/ads/d7d6b765-c7cb-4fe3-ae59-aa7d1a39a2b9?rule=original",
+    "https://static.fotocasa.es/images/ads/96a99fca-d0c5-4520-a7c7-5d889da90220?rule=original",
+    "https://static.fotocasa.es/images/ads/b9b8dfba-e71b-41c7-af8e-e504d4ecb11a?rule=original",
+    "https://static.fotocasa.es/images/ads/cff72b6e-2499-4221-ac25-916d1e58458b?rule=original",
+    "https://static.fotocasa.es/images/ads/c30cf972-706f-4259-b8be-060e5ee674d2?rule=original",
+    "https://static.fotocasa.es/images/ads/7bdf1d57-343c-461f-b7b3-f8ae6b55d5f8?rule=original",
+    "https://static.fotocasa.es/images/ads/dd95acb8-d4db-4979-aead-aeb338a4bb37?rule=original",
+    "https://static.fotocasa.es/images/ads/943e3290-d1e5-4159-8979-d6fe958b8ba9?rule=original",
+    "https://static.fotocasa.es/images/ads/09d04fc9-b83c-4d6c-9de9-f6d327e48e03?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/cd774feb-ef07-4d21-a3b2-8d557cc48422"
+  ]
+}

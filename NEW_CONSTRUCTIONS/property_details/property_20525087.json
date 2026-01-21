@@ -1,0 +1,49 @@
+{
+  "property_id": "20525087",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/arico/20525087",
+  "scrape_date": "2026-01-21T02:32:48Z",
+  "title": "Residencial Ancor F2",
+  "description": "ABADES, AHORA SÍ. RESIDENCIAL ANCOR. \nViviendas de 1, 2 y 3 dormitorios con plazas de garaje y trasteros.\nMetrovacesa te da la bienvenida a Residencial Ancor II, un nuevo espacio residencial en Abades, municipio de Arico, Tenerife. Un lugar paradisíaco con magníficas playas de arena y protegido por la Punta de Abona, al resguardo del oleaje.\nLa promoción consta de 66 viviendas que conforman un residencial que cuenta con piscina, solárium, sala multiusos y jardines comunitarios, diseñados por arquitectos paisajistas, donde la sostenibilidad y la jardinería están pensados para hacer de estas viviendas un referente.\nHa sido diseñada con materiales constructivos para disfrutar de las estancias más confortables y cálidas y para lograr la mejor eficiencia energética y el mayor aislamiento térmico y acústico.",
+  "contact_info": {
+    "phone_number": "954201732",
+    "advertiser_name": "Metrovacesa Central.",
+    "client_id": 9202774582600
+  },
+  "location": {
+    "city": "Arico",
+    "province": "Santa Cruz de Tenerife",
+    "region": "Canarias",
+    "country": "España",
+    "latitude": 28.145017623901367,
+    "longitude": -16.448413848876953
+  },
+  "details": {
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "min_bathrooms": 1,
+    "max_bathrooms": 2,
+    "min_surface": 62,
+    "max_surface": 155,
+    "min_price": 243385,
+    "max_price": 459900
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/da7a8de8-40f7-4678-a058-7869a39d6a9b?rule=original",
+    "https://static.fotocasa.es/images/ads/16eca12b-a6b7-4b89-8fa0-00e4c306d78f?rule=original",
+    "https://static.fotocasa.es/images/ads/709e9c19-fadd-4618-9ec9-d093c9486e73?rule=original",
+    "https://static.fotocasa.es/images/ads/d9f16d5b-bfad-466c-80d3-490c1ef1c5de?rule=original",
+    "https://static.fotocasa.es/images/ads/07fd0882-06c9-4690-98dc-483146ac08db?rule=original",
+    "https://static.fotocasa.es/images/ads/aa9e686b-ba77-4c18-bff4-0206e45877de?rule=original",
+    "https://static.fotocasa.es/images/ads/793cd708-1d21-49bf-9ce5-c3e23312d8d5?rule=original",
+    "https://static.fotocasa.es/images/ads/d10379e9-7bc9-4839-bd02-f0c14aa0df2a?rule=original",
+    "https://static.fotocasa.es/images/ads/cf950967-e3c5-48e0-aa87-b639b5f5f474?rule=original",
+    "https://static.fotocasa.es/images/ads/814bcfa4-9192-4d3f-9600-7b5ddaa551ee?rule=original",
+    "https://static.fotocasa.es/images/ads/8ef421a3-ac3c-4699-9fe3-18b09e365e0c?rule=original",
+    "https://static.fotocasa.es/images/ads/4d738aa7-285e-4aa8-957c-b652d669b8d9?rule=original",
+    "https://static.fotocasa.es/images/ads/59bc692d-3301-469d-a6aa-3cfeebb936b4?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/5ab4fc5e-55e9-4d95-8f66-d94081367ce5?rule=original",
+    "https://www.youtube.com/embed/ALMQKAU2jCI"
+  ]
+}

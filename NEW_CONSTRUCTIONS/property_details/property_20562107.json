@@ -1,0 +1,47 @@
+{
+  "property_id": "20562107",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/calvia/20562107",
+  "scrape_date": "2026-01-21T04:19:01Z",
+  "title": "NESEA",
+  "description": "NESEA es un bonito residencial de 36 viviendas ubicado a 500 m de la playa de Son Mathias , una zona llena de restaurantes, tiendas y ofertas deportivas para los mas grandes como los mas pequeños. A tu alcance, estará todo lo necesario para tu vida cotidiana: supermercados, centros médicos, y colegios, además de una excelente conexión de transporte público a palma, Andratx, puerto Portals, santa Ponsa, aeropuerto y más…  \n\nEl residencial cuenta con viviendas de 1, 2 y 3 dormitorios . Con una piscina para adultos, piscina para niños, sala de gimnasio, sala social, parquin subterráneo, todo ello envuelto en un entorno natural con árboles y plantas mediterráneas para tu bienestar. Las viviendas dispondrán de tecnologías innovadoras como la Aerotermia, y el edificio estará aislado con SATE.\n\nUn diseño de Francisco Mangado.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Calvià",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 39.5133056640625,
+    "longitude": 2.5330471992492676
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 79,
+    "max_surface": 224,
+    "min_price": 606000,
+    "max_price": 836000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/f8b082af-6cb1-44fc-b592-ba3f684f5730?rule=original",
+    "https://static.fotocasa.es/images/ads/ed781846-9342-4040-8f17-157b3c02cc30?rule=original",
+    "https://static.fotocasa.es/images/ads/10f0f517-371d-480d-980b-0ce3ccfa0684?rule=original",
+    "https://static.fotocasa.es/images/ads/956cb992-6207-46dc-b7e5-dfdca790c198?rule=original",
+    "https://static.fotocasa.es/images/ads/aeea8bc8-05a9-49ee-b193-d00990121254?rule=original",
+    "https://static.fotocasa.es/images/ads/f3d0804f-56ff-4f75-ac63-632d272ca206?rule=original",
+    "https://static.fotocasa.es/images/ads/5775ddeb-61dc-4b03-9110-9a9793fa5d38?rule=original",
+    "https://static.fotocasa.es/images/ads/3e621bbc-c41a-4e81-b82e-996c7d528236?rule=original",
+    "https://static.fotocasa.es/images/ads/9d5b3ada-f1b6-4202-966d-93ea5e8f8ec0?rule=original",
+    "https://static.fotocasa.es/images/ads/f4062c53-3dca-4f4e-8dbd-7c67d11c8968?rule=original",
+    "https://static.fotocasa.es/images/ads/da792b11-4a3e-41a1-a63c-85a3cebbbc03?rule=original",
+    "https://static.fotocasa.es/images/ads/e278fdf2-a3b7-4857-8b14-1ad339eb85db?rule=original",
+    "https://static.fotocasa.es/images/ads/274486a7-b57f-4b8f-8f52-9fdcda1bc023?rule=original",
+    "https://static.fotocasa.es/images/ads/85fcd4e0-451c-40fa-b2ec-36dad11d93bc?rule=original"
+  ],
+  "videos": []
+}

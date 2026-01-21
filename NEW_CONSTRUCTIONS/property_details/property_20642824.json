@@ -1,0 +1,47 @@
+{
+  "property_id": "20642824",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sesena/20642824",
+  "scrape_date": "2026-01-21T02:44:57Z",
+  "title": "NOVASEÑA FAMILY",
+  "description": "NovaSeña presenta   línea Family pensada para aquellos que buscan un hogar equilibrado y diseñado para el día a día combinan un diseño actual con la funcionalidad que exige la vida moderna. Hogares modernos y versátiles, con una distribución en dos plantas y 5 dormitorios, espacios amplios y luminosos, distribuciones pensadas para el confort diario y materiales de última generación se unen para ofrecer un hogar donde la comodidad es la prioridad, certificación energética A .  Nuestros diferentes paquetes de opcionales ofrecen la posibilidad de personalizar la vivienda según tus preferencias y estilo de vida.  Las viviendas se encuentran junto a un gran parque público con amplias zonas verdes, fuentes y áreas infantiles. El parque, recientemente reacondicionado y con más de 4 hectáreas de superficie, supone un valor añadido para la zona y la calidad de vida de los vecinos.",
+  "contact_info": {
+    "phone_number": "910751498",
+    "advertiser_name": "Egido Modern Home, S.L.",
+    "client_id": 9202752400329
+  },
+  "location": {
+    "city": "Seseña",
+    "province": "Toledo",
+    "region": "Castilla-La Mancha",
+    "country": "España",
+    "latitude": 40.10977554321289,
+    "longitude": -3.6589229106903076
+  },
+  "details": {
+    "min_rooms": 5,
+    "max_rooms": 5,
+    "min_bathrooms": 3,
+    "max_bathrooms": 3,
+    "min_surface": 151,
+    "max_surface": 151,
+    "min_price": 293000,
+    "max_price": 305000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/81c8f7bb-b4be-4c19-9237-e190827b1e1c?rule=original",
+    "https://static.fotocasa.es/images/ads/b70e10a0-edb2-45c0-b40b-9e7e221b1a8e?rule=original",
+    "https://static.fotocasa.es/images/ads/f59d1507-fe44-4c51-ab4e-ce433b77348c?rule=original",
+    "https://static.fotocasa.es/images/ads/815fa2e2-d7d9-40b8-8c9c-0b5910cd1d7f?rule=original",
+    "https://static.fotocasa.es/images/ads/ec549b38-4f4b-4203-a941-51c4b8e71830?rule=original",
+    "https://static.fotocasa.es/images/ads/5f14ea2a-fd1a-4d8e-9cbe-129d77c78d4f?rule=original",
+    "https://static.fotocasa.es/images/ads/3bcd461f-6807-4ec8-86e4-1d26c3a4be54?rule=original",
+    "https://static.fotocasa.es/images/ads/ee7ad18f-879a-4a83-bc3a-c462de673f17?rule=original",
+    "https://static.fotocasa.es/images/ads/ac5b7905-3459-4f86-9f74-935c7d0b4ab0?rule=original",
+    "https://static.fotocasa.es/images/ads/ec0abed1-2232-44ba-b7b7-eb114a30e360?rule=original",
+    "https://static.fotocasa.es/images/ads/d51d425e-48e9-4201-8424-7152a29bf997?rule=original",
+    "https://static.fotocasa.es/images/ads/cd4bc713-51c9-48dd-8d40-df70e5fc324f?rule=original",
+    "https://static.fotocasa.es/images/ads/ea841ee5-db13-4ae0-8f7c-13ce254db572?rule=original",
+    "https://static.fotocasa.es/images/ads/73d070bd-e45f-4c8e-84b7-f4df078cb6f6?rule=original"
+  ],
+  "videos": []
+}

@@ -1,0 +1,40 @@
+{
+  "property_id": "20532310",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/zaragoza-capital/20532310",
+  "scrape_date": "2026-01-21T03:38:53Z",
+  "title": "CULMIA MyLoft Zaragoza",
+  "description": "Culmia MyLoft es un conjunto de 4 lofts, con disponibilidad de plaza de garaje, ubicados en la planta baja del edificio residencial ejecutado recientemente María de Aragón II.\n\nNuestros lofts, entre 78 y 98m2, se encuentran ya terminados y amueblados al detalle.\n\nEstán pensados para trabajar con calidad de vida. Gozan de una optimizada funcionalidad y gran luminosidad. Destacan los acabados modernos de alta calidad y marcas de primer nivel.\n\nNuestros lofts se encuentran en una zona consolidada en continuo crecimiento (Las Fuentes) con muy buena comunicación y una gran variedad de servicios al alcance como: supermercados, centros comerciales, restaurantes, colegios, centro sanitario, centro deportivo, Universidad y campus, parques y zonas verdes, centro médico Miguel Servet, etc.\n\nSituados en una de las partes más atractivas del casco urbano de la población de Zaragoza, en el barrio de San José, en las calles de Padre Chaminade y María de Aragón, a 2 minutos andando de las paradas de autobús, a 10 minutos de la Universidad y Campus, a 5 minutos de la zona comercial Alcampo y a 10 minutos en transporte del centro ciudad.\n\nPerfectamente comunicado tanto en transporte público como privado:\n\nEn transporte público: red de autobuses urbanos de Zaragoza con la línea 24, 38 y 51 que comunican la promoción con todos los puntos de referencia de la ciudad y centro urbano y estación de AVE Delicias en escasos 15 minutos.\n\nEn coche: acceso directo desde la ronda de circunvalación de Zaragoza Z30 hacia cualquier dirección, Madrid, Barcelona o Valencia o desde el centro por Av. de Cesáreo Alierta a 10 minutos.",
+  "contact_info": {
+    "phone_number": "910752063",
+    "advertiser_name": "Culmia",
+    "client_id": 9202774844777
+  },
+  "location": {
+    "city": " Zaragoza Capital",
+    "province": "Zaragoza",
+    "region": "Aragón",
+    "country": "España",
+    "latitude": 41.63943862915039,
+    "longitude": -0.8627532720565796
+  },
+  "details": {
+    "min_rooms": 0,
+    "max_rooms": 0,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 82,
+    "max_surface": 103,
+    "min_price": 122000,
+    "max_price": 148000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/0f2e3688-ca50-4605-a86c-5e6a6a15c3a2?rule=original",
+    "https://static.fotocasa.es/images/ads/55cc0576-ad3b-4fe9-8dbd-2e0ebf022e41?rule=original",
+    "https://static.fotocasa.es/images/ads/2b8255f3-823a-481e-be97-7447bb4fc1d6?rule=original",
+    "https://static.fotocasa.es/images/ads/519b3853-a12f-4cb6-aa31-c72a7e7bb0a2?rule=original",
+    "https://static.fotocasa.es/images/ads/601c12a2-6f76-469a-ab73-9e1c5b9ab3f0?rule=original",
+    "https://static.fotocasa.es/images/ads/9acd4845-37e0-4f5b-87a5-0fe1567f037d?rule=original",
+    "https://static.fotocasa.es/images/ads/cc9f056c-fb7d-4050-a966-d8ec3c3a77a7?rule=original"
+  ],
+  "videos": []
+}

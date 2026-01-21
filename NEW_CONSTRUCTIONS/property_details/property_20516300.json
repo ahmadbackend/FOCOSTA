@@ -1,0 +1,46 @@
+{
+  "property_id": "20516300",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/estepona/20516300",
+  "scrape_date": "2026-01-21T02:35:22Z",
+  "title": "Bayside Homes",
+  "description": "Bayside Homes es un conjunto residencial cerrado, moderno, funcional ideal para vivir. La promoción consta de 41 viviendas de 1, 2 y 3 dormitorios, distribuidas en dos edificios de baja altura: planta baja, planta primera y planta segunda. Asimismo, presenta una planta ático en uno de sus portales. Todas las viviendas están orientadas al sureste. \n Bayside dispone de espacios ajardinados, piscina exterior comunitaria y gimnasio dentro de la misma urbanización, a parte de una sala multiusos a la que sus futuros residentes decidirán qué uso darle. \nLa orientación sureste de las viviendas permite aprovechar la luz natural y disfrutar del impresionante entorno marino de la costa mediterránea. Concebidas y diseñadas con un compromiso de sostenibilidad en mente, las áreas comunes de Bayside Homes cuentan con una amplia variedad de atractivos y ofrecen servicios de primera clase. \nViviendas con garaje y trastero incluido en el precio.",
+  "contact_info": {
+    "phone_number": "+34902110022",
+    "advertiser_name": "NEINOR HOMES",
+    "client_id": 9202767461949
+  },
+  "location": {
+    "city": "Estepona",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.408077239990234,
+    "longitude": -5.194246768951416
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 127,
+    "max_surface": 136,
+    "min_price": 564000,
+    "max_price": 694000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/a0d8d472-077c-4861-8741-a07d26ba2df0?rule=original",
+    "https://static.fotocasa.es/images/ads/50457df4-46c3-4b30-af2b-2752527d6931?rule=original",
+    "https://static.fotocasa.es/images/ads/a1761872-9e66-4f2a-88ec-024dbd4bc61a?rule=original",
+    "https://static.fotocasa.es/images/ads/9b198b05-9ca1-432e-9feb-7f2512b90211?rule=original",
+    "https://static.fotocasa.es/images/ads/f9757440-fbd9-40e7-be72-d738db8d7b0c?rule=original",
+    "https://static.fotocasa.es/images/ads/46579584-3a96-4124-b200-dd73d5904891?rule=original",
+    "https://static.fotocasa.es/images/ads/bb4ab7dc-5f2e-4e06-9499-08b68e689e0c?rule=original",
+    "https://static.fotocasa.es/images/ads/045deaf7-f4ed-44c5-a5f1-275f1f5c3d67?rule=original",
+    "https://static.fotocasa.es/images/ads/a3f8053e-f9df-4bec-babe-9ca4451b4a26?rule=original",
+    "https://static.fotocasa.es/images/ads/84e7a698-5211-43ef-ae60-2f2a4cfdfc8f?rule=original",
+    "https://static.fotocasa.es/images/ads/6e57b180-f366-4669-aa16-6694738428ab?rule=original",
+    "https://static.fotocasa.es/images/ads/cbbdf295-3def-463b-ad1b-d76e7c1a223f?rule=original",
+    "https://static.fotocasa.es/images/ads/b6a427bf-3aa0-4e70-9206-7c0271be503f?rule=original"
+  ],
+  "videos": []
+}

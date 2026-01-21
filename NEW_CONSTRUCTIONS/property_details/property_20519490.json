@@ -1,0 +1,53 @@
+{
+  "property_id": "20519490",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/durango/20519490",
+  "scrape_date": "2026-01-21T04:00:35Z",
+  "title": "SAN ROKE BARRIA - Durango",
+  "description": "ÚLTIMA VIVIENDA DISPONIBLE: UN ÁTICO CON LUZ, ESPACIO Y VISTAS QUE MARCAN LA DIFERENCIA\n\nMás de 100 familias han elegido su vivienda en San Roke Barria\n\nOBRAS AVANZADAS\n\nEsta promoción en durango entra en su fase final y ofrece la última vivienda disponible.\n\nÁtico especial, de 3 habitaciones con amplias terrazas, diseñado para quienes buscan confort, amplitud y calidad en un entorno privilegiado. Destaca por sus grandes terrazas, buena orientación y distribuciones funcionales. Además, incluye cocina completamente equipada, armarios en todas las habitaciones y trastero.\n\nUbicado en una zona consolidada de Durango, el edificio ofrece espacios comunes de alto valor añadido: gimnasio y zona de pilates, espacio de coworking, ludoteca y cuarto de bicicletas.\n\nUna oportunidad única para disfrutar de un ático nuevo, bien comunicado y con todos los servicios a tu alcance.",
+  "contact_info": {
+    "phone_number": "944680289",
+    "advertiser_name": "Construcciones Sukia Eraikuntzak, S.L",
+    "client_id": 9202752880916
+  },
+  "location": {
+    "city": "Durango",
+    "province": "Bizkaia",
+    "region": "País Vasco",
+    "country": "España",
+    "latitude": 43.16719055175781,
+    "longitude": -2.636392593383789
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 97,
+    "max_surface": 97,
+    "min_price": 436000,
+    "max_price": 436000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/7b3237de-a1db-474c-a8dd-34daa5b83071?rule=original",
+    "https://static.fotocasa.es/images/ads/632b8b5a-07d1-46e1-983c-c57d2cf95f1d?rule=original",
+    "https://static.fotocasa.es/images/ads/631e67b4-8c9a-4096-9d87-4881a9ffae11?rule=original",
+    "https://static.fotocasa.es/images/ads/856321c9-4099-4536-b270-c1726645fcd5?rule=original",
+    "https://static.fotocasa.es/images/ads/67d33d67-756f-484c-aa7c-034d9ea43f85?rule=original",
+    "https://static.fotocasa.es/images/ads/cca5489b-b761-4a74-bf9a-4ac92052c655?rule=original",
+    "https://static.fotocasa.es/images/ads/0c942987-3dc9-455c-8dde-f1fee5614930?rule=original",
+    "https://static.fotocasa.es/images/ads/5eb1a700-3357-4c00-a263-9b95e6bb890f?rule=original",
+    "https://static.fotocasa.es/images/ads/50b30c23-7ee3-4ee1-9c17-0b86a899ed71?rule=original",
+    "https://static.fotocasa.es/images/ads/8b4b2420-5e1f-4a08-b470-ab5ba1a73f79?rule=original",
+    "https://static.fotocasa.es/images/ads/62b41700-0fb8-4eb7-af49-f134f957d66a?rule=original",
+    "https://static.fotocasa.es/images/ads/79c373dc-ab2c-47bf-b805-0757791ca330?rule=original",
+    "https://static.fotocasa.es/images/ads/b6286668-cf0e-4a30-adc5-e6604227f5c9?rule=original",
+    "https://static.fotocasa.es/images/ads/7efa2060-20e4-46e3-a923-87271404df50?rule=original",
+    "https://static.fotocasa.es/images/ads/de6b0ec8-6798-4565-878e-e0b5f5d493f2?rule=original",
+    "https://static.fotocasa.es/images/ads/10da1eb8-3f4c-46bb-aeae-24420058cab2?rule=original",
+    "https://static.fotocasa.es/images/ads/95167f8b-9394-42bc-b9fa-a94a223d326a?rule=original",
+    "https://static.fotocasa.es/images/ads/7e8429d4-649a-47ec-a094-0e7ffb07e817?rule=original",
+    "https://static.fotocasa.es/images/ads/9c0105d9-c419-483c-b310-4da33d9e1cde?rule=original",
+    "https://static.fotocasa.es/images/ads/81c17617-7622-4c3a-bd98-d8cb50bdd0e2?rule=original"
+  ],
+  "videos": []
+}

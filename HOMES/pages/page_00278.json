@@ -1,0 +1,225 @@
+{
+  "page": 278,
+  "url": "https://www.fotocasa.es/es/comprar/viviendas/espana/todas-las-zonas/l/278",
+  "scrape_date": "2026-01-21T04:23:31.948220",
+  "property_count": 31,
+  "properties": [
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-amueblado/188353540/d",
+      "id": 188353540,
+      "price": 875000,
+      "location": "Goya",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cadalso-de-los-vidrios/cadalso-de-los-vidrios/181696110/d",
+      "id": 181696110,
+      "price": 150000,
+      "location": "Cadalso de los Vidrios",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/fuente-el-saz-de-jarama/fuente-el-saz-de-jarama/182711799/d",
+      "id": 182711799,
+      "price": 380000,
+      "location": "Fuente El Saz de Jarama",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/tarragona-capital/ascensor/188077430/d",
+      "id": 188077430,
+      "price": 230000,
+      "location": "Eixample",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/jerez-de-la-frontera/plaza-de-toros/188497323/d",
+      "id": 188497323,
+      "price": 126000,
+      "location": "Plaza de Toros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/la-nucia/zona-comunitaria-ascensor-piscina/185657382/d",
+      "id": 185657382,
+      "price": 306711,
+      "location": "La Nucia Pueblo  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/motril/calefaccion-trastero/188077309/d",
+      "id": 188077309,
+      "price": 126000,
+      "location": "Playa de Granada",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/l-hort-de-senabre/188562041/d",
+      "id": 188562041,
+      "price": 59019,
+      "location": "L'Hort de Senabre",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/museros/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-piscina-no-amueblado/188315612/d",
+      "id": 188315612,
+      "price": 270000,
+      "location": "Museros",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/navalcarnero/calefaccion-parking-terraza-trastero-ascensor-piscina-no-amueblado/188245438/d",
+      "id": 188245438,
+      "price": 315000,
+      "location": "De San Andres, La Dehesa - El Pinar",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barbera-del-valles/ascensor/188039582/d",
+      "id": 188039582,
+      "price": 260000,
+      "location": "Barri Antic",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vera/ascensor-no-amueblado/188279017/d",
+      "id": 188279017,
+      "price": 47000,
+      "location": "Calle José Gómez, Vera Ciudad",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/l-hospitalet-de-llobregat/calefaccion/188065627/d",
+      "id": 188065627,
+      "price": 164000,
+      "location": "Pubilla Cases",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/vega-de-san-mateo/parking-jardin-amueblado/188378379/d",
+      "id": 188378379,
+      "price": 164500,
+      "location": "Calle José Gil Rivero, Vega de San Mateo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/barcelona-capital/terraza/188372160/d",
+      "id": 188372160,
+      "price": 172500,
+      "location": "Torre Baró",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/valencia-capital/calefaccion-no-amueblado/185559395/d",
+      "id": 185559395,
+      "price": 185000,
+      "location": "Torrefiel",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/canovelles/calefaccion/188220858/d",
+      "id": 188220858,
+      "price": 159990,
+      "location": "Canovelles",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/caceres-capital/no-amueblado/188334098/d",
+      "id": 188334098,
+      "price": 100000,
+      "location": "Casco Antiguo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/huelva-capital/ascensor/187665384/d",
+      "id": 187665384,
+      "price": 139900,
+      "location": "Nuevo Parque - Los Rosales - Tráfico Pesado",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/madrid-capital/parking/188261904/d",
+      "id": 188261904,
+      "price": 277000,
+      "location": " FRANCISCO MADARIAGA, Pueblo Nuevo",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/chiloeches/calefaccion/186859068/d",
+      "id": 186859068,
+      "price": 350000,
+      "location": "Chiloeches",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/les-franqueses-del-valles/aire-acondicionado-parking-ascensor-no-amueblado/183450209/d",
+      "id": 183450209,
+      "price": null,
+      "location": "Les Franqueses del Vallès",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/velez-malaga/terraza-trastero-ascensor-amueblado-piscina/186742523/d",
+      "id": 186742523,
+      "price": 315000,
+      "location": "Viña Málaga",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/puerto-de-la-cruz/terraza-ascensor-amueblado/187336654/d",
+      "id": 187336654,
+      "price": 170000,
+      "location": "Zona Botánico",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/palau-solita-i-plegamans/calefaccion-no-amueblado/185872939/d",
+      "id": 185872939,
+      "price": 235000,
+      "location": "Palau-solità i Plegamans",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/cordoba-capital/calefaccion-terraza-zona-comunitaria-ascensor-piscina-no-amueblado/188003487/d",
+      "id": 188003487,
+      "price": 225000,
+      "location": "Tablero Bajo - Arruzafilla  ",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bedia/calefaccion-jardin/187872572/d",
+      "id": 187872572,
+      "price": 625000,
+      "location": "Bedia",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-no-amueblado/186775063/d",
+      "id": 186775063,
+      "price": 430000,
+      "location": "Abandoibarra - Guggenheim",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/huelva-capital/ascensor/187665366/d",
+      "id": 187665366,
+      "price": 139000,
+      "location": "Las Colonias",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/andoain/calefaccion-terraza-trastero/183793251/d",
+      "id": 183793251,
+      "price": 184000,
+      "location": "Nagusia, Andoain",
+      "type": "realEstate"
+    },
+    {
+      "url": "https://www.fotocasa.es/es/comprar/vivienda/sevilla-capital/aire-acondicionado-calefaccion-parking-terraza-trastero-patio-no-amueblado/185548030/d",
+      "id": 185548030,
+      "price": 690000,
+      "location": "Barrio León",
+      "type": "realEstate"
+    }
+  ]
+}

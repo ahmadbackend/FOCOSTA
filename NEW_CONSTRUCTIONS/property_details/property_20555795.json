@@ -1,0 +1,41 @@
+{
+  "property_id": "20555795",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/salou/20555795",
+  "scrape_date": "2026-01-21T03:22:44Z",
+  "title": "INFINITUM RESORT",
+  "description": "En el corazón de la Costa Dorada, entre pinedas y olivos mediterráneos, se esconde su nuevo hogar. Descubra el Mejor Resort Residencial de Golf de Europa, donde la naturaleza, la exclusividad y el confort se funden en un entorno privilegiado a las orillas del mar. Les presentamos: INFINITUM; un lugar en el que disfrutar de un estilo de vida basado en la tranquilidad y la sostenibilidad, con un proyecto paisajístico que consta de una variada oferta de viviendas de alto standing.\n\nINFINITUM dispone de una oferta residencial de apartamentos exclusivos de 2 a 4 habitaciones. Amplias, luminosas y con acabados de alta calidad, las viviendas han sido diseñado por el reconocido despacho de arquitectura Batlle & Roig, dando como resultado un conjunto espectacular y moderno, donde el estilo natural es protagonista. Creemos en la eficiencia energética, en el ahorro de agua y en el uso responsable de los recursos. Esto se ve reflejado en nuestro residencial y muestra de ello es que hemos obtenido el certificado BREEAM de construcción sostenible. Además de las pinedas y los recorridos ajardinados que entrelazan en estos hogares, las viviendas cuentan con piscinas, zonas verdes y unas generosas terrazas.\n\nNuestro resort privado presenta también una inmejorable localización junto al mar, a 10 minutos de Tarragona y a 1 hora y 20 minutos de Barcelona. Descubra los tres campos de golf de primerísimo nivel diseñados por el legendario golfista Greg Norman. Tanto si quiere iniciarse en este deporte como si busca mejorar su swing, aquí encontrará todo lo que necesita. INFINITUM cuenta además con el galardonado como Mejor Beach Club de Europa. Relájese en nuestra piscina con jacuzzi, saboree un delicioso cóctel recostado en una cama balinesa, o comparta un aperitivo junto a las piscinas infinity. Al mismo tiempo, el resort dispone de varios restaurantes con una oferta gastronómica de primer nivel.\n\nLas viviendas Infinitum incluyen servicios como el mantenimiento integral de las zonas comunes, vigilancia y seguridad las 24h, servicio de atención al residente, gimnasio, Kids Club, 11 kilómetros de viales secundarios integrados en la naturaleza para caminar, correr o ir en bici y beneficios exclusivos como un programa de actividades mensuales para adultos y niños enfocadas en la naturaleza, el bienestar o la gastronomía.\n\nSolicite una visita y empieza a disfrutar la experiencia INFINITUM.\n\nLas imágenes son representativas de diferentes tipologías de inmuebles.",
+  "contact_info": {
+    "phone_number": "977937238",
+    "advertiser_name": "INFINITUM RESORT",
+    "client_id": 9202775050971
+  },
+  "location": {
+    "city": "Salou",
+    "province": "Tarragona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.07032775878906,
+    "longitude": 1.1586143970489502
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 78,
+    "max_surface": 129,
+    "min_price": 456000,
+    "max_price": 668000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/dee8b5e6-9d97-4cb7-8da2-a88407f7609e?rule=original",
+    "https://static.fotocasa.es/images/ads/faeab711-727c-4129-ae94-6d7b7200c292?rule=original",
+    "https://static.fotocasa.es/images/ads/02e6fd75-34dd-46c8-a9ae-b84c12501542?rule=original",
+    "https://static.fotocasa.es/images/ads/4bbe77a5-4429-4749-b2dc-ef2c8c17dec0?rule=original",
+    "https://static.fotocasa.es/images/ads/c60536a3-8d4f-4fe7-9df8-c6b7bd3a6397?rule=original",
+    "https://static.fotocasa.es/images/ads/f2b775a1-eb98-4238-ab29-17dc6a0df0fd?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/e9cb6783-d335-443d-a49c-9dc50504ff63"
+  ]
+}

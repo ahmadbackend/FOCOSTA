@@ -1,0 +1,45 @@
+{
+  "property_id": "20520991",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/huelva-capital/20520991",
+  "scrape_date": "2026-01-21T04:22:24Z",
+  "title": "Edificio Tharsis IV",
+  "description": "**¡Oportunidad única en Huelva Capital!**\nDescubre esta nueva promoción de pisos en una de las urbanizaciones más exclusivas y recientes de Huelva, frente a la Avenida del Nuevo Colombino. Esta cuarta y última fase, denominada THARSIS, ofrece viviendas plurifamiliares de 3 y 4 dormitorios con superficies de 108 m² y 121 m² respectivamente, todas ellas con terrazas de más de 10 m². \nLas viviendas destacan por su luminosidad y amplitud, además de contar con magníficas calidades. Incluyen garaje y trastero en el precio, lo que añade un valor extra a tu inversión. Disfruta de amplias zonas comunes que incluyen piscinas, pista multideportiva, pistas de pádel, zona de juegos infantiles y un club social con cafetería. Todo esto, a partir de solo 200.600 € más IVA.\nLa ubicación es inmejorable, con cercanía al centro de Huelva y excelentes comunicaciones. Tendrás a tu alcance todos los servicios necesarios: supermercados, centros comerciales, colegios, entidades financieras, hostelería y comercios. Es un lugar ideal para vivir con todas las comodidades a tu alcance.\nLas viviendas están diseñadas pensando en la accesibilidad, siendo aptas para personas con movilidad reducida. Además, cuentan con armarios empotrados, aire acondicionado y calefacción. La eficiencia energética es un plus, con una clase A tanto en consumo de energía como en emisiones de CO2.\nNo pierdas esta oportunidad de vivir en un entorno privilegiado y con todas las comodidades. ¡Contacta ahora para más información!",
+  "contact_info": {
+    "phone_number": "955394692",
+    "advertiser_name": "LAGUNAS DEL PORTIL SA",
+    "client_id": 9202758832211
+  },
+  "location": {
+    "city": " Huelva Capital",
+    "province": "Huelva",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 37.25393295288086,
+    "longitude": -6.933437347412109
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 108,
+    "max_surface": 118,
+    "min_price": 200600,
+    "max_price": 228300
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/f105241a-38d8-456f-9c6a-e8a93f42537d?rule=original",
+    "https://static.fotocasa.es/images/ads/e4deff08-c152-4d47-b279-68abbaf81b67?rule=original",
+    "https://static.fotocasa.es/images/ads/745dcddb-9a5f-4143-90c9-180105c19715?rule=original",
+    "https://static.fotocasa.es/images/ads/1fe7ee8b-1392-444d-bb77-816b8ab6b59d?rule=original",
+    "https://static.fotocasa.es/images/ads/2c1038d0-3d7a-412e-899d-5c7c7cdc383c?rule=original",
+    "https://static.fotocasa.es/images/ads/4cb689fe-381e-4b9f-9f5f-d0bad1f2deec?rule=original",
+    "https://static.fotocasa.es/images/ads/c83461aa-8ce1-4c7c-bc21-3cfdb1db51e1?rule=original",
+    "https://static.fotocasa.es/images/ads/98f795fd-16fe-4421-815f-6ee0abeb5b7d?rule=original",
+    "https://static.fotocasa.es/images/ads/243f7ab7-3473-420f-9d7b-b6edae1c3d58?rule=original",
+    "https://static.fotocasa.es/images/ads/f10a8f22-3302-4787-b582-156f476e010d?rule=original",
+    "https://static.fotocasa.es/images/ads/dc061970-4a66-4226-ba31-2d7626f3b579?rule=original",
+    "https://static.fotocasa.es/images/ads/87b97aa8-6226-427c-9210-72a2d6d6b2b0?rule=original"
+  ],
+  "videos": []
+}

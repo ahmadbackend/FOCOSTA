@@ -1,0 +1,42 @@
+{
+  "property_id": "20529247",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/eivissa/20529247",
+  "scrape_date": "2026-01-21T02:32:11Z",
+  "title": "BREEZE",
+  "description": "\"Descubre Breeze, exclusiva promoción de viviendas en Ibiza, a un paso de la Playa de Talamanca y de Marina Botafoc, excepcional proyecto que contempla la construcción de 84 magníficas viviendas de 2 y 3 dormitorios con terraza.\n\n\nAdemás, el casco antiguo de la ciudad, declarado Patrimonio de la Humanidad por la UNESCO, se encuentra a solo unos minutos.\"\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\nEn una de las zonas más demandadas de Ibiza, que atrae tanto a inversores como a residentes que buscan un estilo de vida que combina comodidad y sofisticación. Ubicado junto a Marina Botafoc y a pocos metros de la Playa de Talamanca, goza de unas espectaculares vistas panorámicas del mar Mediterráneo.",
+  "contact_info": {
+    "phone_number": "910751209",
+    "advertiser_name": "The Avenue",
+    "client_id": 9202770643124
+  },
+  "location": {
+    "city": "Eivissa",
+    "province": "Illes Balears",
+    "region": "Baleares",
+    "country": "España",
+    "latitude": 38.91441345214844,
+    "longitude": 1.4458653926849365
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 102,
+    "max_surface": 183,
+    "min_price": 794430,
+    "max_price": 1320300
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/8e443cea-7c0f-491f-a19f-cd3e3b14ef1d?rule=original",
+    "https://static.fotocasa.es/images/ads/bda510ae-3de7-44fa-983d-bfe5a772c6e2?rule=original",
+    "https://static.fotocasa.es/images/ads/ef3573e4-bafa-47ad-8ab9-ec81247cc4c3?rule=original",
+    "https://static.fotocasa.es/images/ads/3ab0b387-a261-45a9-8b5a-5bd506f0882c?rule=original",
+    "https://static.fotocasa.es/images/ads/66204355-9c0d-4832-ac3f-381bd8974765?rule=original",
+    "https://static.fotocasa.es/images/ads/bc65dd0a-c448-4a76-bd3b-af278a385062?rule=original",
+    "https://static.fotocasa.es/images/ads/04460fff-321e-490a-99f7-17dc7f0f546d?rule=original",
+    "https://static.fotocasa.es/images/ads/0bb59a9d-cd31-4c25-a912-34fc98c2aaf8?rule=original",
+    "https://static.fotocasa.es/images/ads/00520282-f8ac-45f2-8e6d-5b63bffcaf9d?rule=original"
+  ],
+  "videos": []
+}

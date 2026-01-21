@@ -1,0 +1,48 @@
+{
+  "property_id": "20640020",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/denia/20640020",
+  "scrape_date": "2026-01-21T02:52:31Z",
+  "title": "Residencial Denia Nature",
+  "description": "NUEVA PROMOCIÓN a las faldas del Montgó, situados a escasos 200m del casco urbano de Dénia. Selecta Homes les presenta el Residencial DENIA NATURE como una de las mejores opciones para vivir. Un exclusivo residencial concebido para disfrutar de un entorno tranquilo. En él, encontramos un total de 16 viviendas unifamiliares de 3 ó 4 dormitorios con parcela y piscina privadas, vistas al Montgó y a un paso de todos los servicios esenciales. Las viviendas se caracterizan por sus líneas rectas y sobrias, combinando el blanco, la piedra y el cristal. Amplios ventanales y techos de altura, les confieren una gran luminosidad. Existen 5 tipologías con alrededor de 150m2 construidos sobre parcelas de unos 300m2. No lo dudes e infórmate sobre esta exclusiva promoción. Encuentra en el RESIDENCIAL DENIA NATURE tu vivienda y estilo de vida ideal para ti y los tuyos.",
+  "contact_info": {
+    "phone_number": "965091568",
+    "advertiser_name": "SELECTA HOMES",
+    "client_id": 9202762447842
+  },
+  "location": {
+    "city": "Dénia",
+    "province": "Alicante",
+    "region": "Comunitat Valenciana",
+    "country": "España",
+    "latitude": 38.82978820800781,
+    "longitude": 0.10275650024414062
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 152,
+    "max_surface": 152,
+    "min_price": 660000,
+    "max_price": 720000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/43b4c978-4120-4b7d-8265-501bb066fe68?rule=original",
+    "https://static.fotocasa.es/images/ads/7e1a003b-0278-4672-8404-2f28a0b5d3b0?rule=original",
+    "https://static.fotocasa.es/images/ads/7e2d60d0-cff5-46d0-bced-91e18fc04157?rule=original",
+    "https://static.fotocasa.es/images/ads/3ae5a9f0-2294-456f-b17b-9e3dc5f8dff7?rule=original",
+    "https://static.fotocasa.es/images/ads/1b522a18-c42d-4d35-8f47-416d401a31b7?rule=original",
+    "https://static.fotocasa.es/images/ads/d17f8155-87cb-4504-8fff-efa7e67674dc?rule=original",
+    "https://static.fotocasa.es/images/ads/14962404-941b-4986-a6c0-4c719c28bcb0?rule=original",
+    "https://static.fotocasa.es/images/ads/f331f1cc-70b7-4e99-a0dd-12b2276814c6?rule=original",
+    "https://static.fotocasa.es/images/ads/69a60f20-b0e6-4f0a-a487-d7e47336f5f7?rule=original",
+    "https://static.fotocasa.es/images/ads/f25ef189-d984-4b6a-85c5-07f9e68b31c9?rule=original",
+    "https://static.fotocasa.es/images/ads/4c29a205-4328-4d39-95a8-64e6ab49d49d?rule=original",
+    "https://static.fotocasa.es/images/ads/624f8400-8d12-4719-b506-079fbe068000?rule=original",
+    "https://static.fotocasa.es/images/ads/58dc4e4a-6a5b-469e-8386-790806a0d47b?rule=original",
+    "https://static.fotocasa.es/images/ads/96177ddb-8a7e-4366-ad81-861043158df9?rule=original",
+    "https://static.fotocasa.es/images/ads/8078ffad-09a7-422b-ad02-f2c5dcf17b2e?rule=original"
+  ],
+  "videos": []
+}

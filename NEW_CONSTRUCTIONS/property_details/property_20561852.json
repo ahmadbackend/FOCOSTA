@@ -1,0 +1,46 @@
+{
+  "property_id": "20561852",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/rincon-de-la-victoria/20561852",
+  "scrape_date": "2026-01-21T04:17:19Z",
+  "title": "Idilia Terram",
+  "description": "Idilia Terram es una promoción que consta de 22 viviendas de 2 y 3 dormitorios con garaje, trastero e impresionantes vistas al mar, distribuidas en planta baja   2   Ático.\n\nLa promoción dispone de rápidos accesos a la A-7 y la AP-7  y se encuentra a escasos kilómetros de Málaga capital, de la estación de AVE y del aeropuerto. \n\nEl equipamiento dispone de piscina para adultos, piscina infantil, zonas comunes ajardinadas, aparcamiento para bicicletas y solarium.\n\nAñadir 10% Iva.\n\n“Las imágenes mostradas son una aproximación lo más fiel posible del resultado final del inmueble proyectado, pudiendo darse modificaciones derivadas de exigencias técnicas o jurídicas, siempre que estén justificadas y no supongan una alteración sustancial del objeto, calidad de los materiales y/o precio. El mobiliario mostrado no está incluido, siendo el equipamiento del inmueble el indicado en la memoria de calidades”.",
+  "contact_info": {
+    "phone_number": "954201803",
+    "advertiser_name": "AEDAS HOMES",
+    "client_id": 9202774949085
+  },
+  "location": {
+    "city": "Rincón de la Victoria",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "country": "España",
+    "latitude": 36.71503448486328,
+    "longitude": -4.2619194984436035
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 3,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 90,
+    "max_surface": 122,
+    "min_price": 420000,
+    "max_price": 610000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/7fc8ff2c-adf4-4319-b39a-9976344a74cd?rule=original",
+    "https://static.fotocasa.es/images/ads/0d75deda-3220-4fac-b057-c4b5239956e2?rule=original",
+    "https://static.fotocasa.es/images/ads/1cf820f5-f75d-4658-9355-20b5a1e3da8b?rule=original",
+    "https://static.fotocasa.es/images/ads/289ccd95-6cb6-4b9e-a310-9da54cd2b924?rule=original",
+    "https://static.fotocasa.es/images/ads/8234a541-9cda-4ad1-8caa-11587f71747c?rule=original",
+    "https://static.fotocasa.es/images/ads/1a09632f-0142-4409-9e0a-b4025c93af45?rule=original",
+    "https://static.fotocasa.es/images/ads/63f46587-4d5c-4b18-b6c5-11ac10b36c7b?rule=original",
+    "https://static.fotocasa.es/images/ads/07c09253-745c-4050-9128-2a947970e68c?rule=original",
+    "https://static.fotocasa.es/images/ads/4e1aa613-11dd-41dc-a346-8afb8bb946c4?rule=original",
+    "https://static.fotocasa.es/images/ads/f06f11ad-a969-40bb-9e1d-7f1b26ae3fb9?rule=original",
+    "https://static.fotocasa.es/images/ads/d7af9029-e8d0-4c1b-94d5-2fb1c1f5f7ec?rule=original"
+  ],
+  "videos": [
+    "https://youtu.be/pvZfS2VMCUY"
+  ]
+}

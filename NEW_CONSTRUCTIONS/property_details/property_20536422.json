@@ -1,0 +1,43 @@
+{
+  "property_id": "20536422",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-joan-despi/20536422",
+  "scrape_date": "2026-01-21T02:51:22Z",
+  "title": "PASSEIG CANAL 15",
+  "description": "Obra nueva en Passeig Canal nº 15 con viviendas modernas, eficientes y con acabados de alta calidad. Disfruta de piscina, solárium, parking, trastero y excelente conexión con Barcelona (Renfe, tranvía, bus). \nVive en un entorno tranquilo con todos los servicios a tu alcance. \n\nÚLTIMA VIVIENDA EN VENTA\nPLAZAS DE APARCAMIENTO COCHE Y MOTO DISPONIBLES\n\nLa promoción se compone de un local comercial, 14 viviendas de 2 y 3 dormitorios con plazas de aparcamiento para coche, motos, bicicletas y trasteros opcionales.\n\nOtros datos: \n-Calefacción individual por aerotermia mediante radiadores y climatización por conductos\n-Zonas comunes con piscina, solárium, zona tendederos\n-Ascensor, puerta blindada, cerraduras de alta seguridad\n- Plaza aparcamiento bicicleta incluida en precio. \n-Plazas de garaje desde 20.000€\n-Plazas de garaje para motocicletas a 3.500€\n-Trasteros desde 15.000€.",
+  "contact_info": {
+    "phone_number": "930442793",
+    "advertiser_name": "CAPITAL AGRUPADO SL",
+    "client_id": 9202751984096
+  },
+  "location": {
+    "city": "Sant Joan Despí",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.3680305480957,
+    "longitude": 2.0587117671966553
+  },
+  "details": {
+    "min_rooms": 3,
+    "max_rooms": 3,
+    "min_bathrooms": 0,
+    "max_bathrooms": 2,
+    "min_surface": 13,
+    "max_surface": 84,
+    "min_price": 20000,
+    "max_price": 476400
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/cba62ef0-7024-43cd-abac-1d71bb94c19e?rule=original",
+    "https://static.fotocasa.es/images/ads/5a141693-74cd-4ab3-83b2-8c29fd66a5fd?rule=original",
+    "https://static.fotocasa.es/images/ads/96f04ae5-a866-468c-a899-1c7e1389e6c8?rule=original",
+    "https://static.fotocasa.es/images/ads/d5d0dd64-99e6-4cb8-8405-a64bf5690233?rule=original",
+    "https://static.fotocasa.es/images/ads/7e618141-642c-41b9-a3aa-1e615d459108?rule=original",
+    "https://static.fotocasa.es/images/ads/2ffe3e6a-9157-4d8d-8a3e-99fe96e7f9de?rule=original",
+    "https://static.fotocasa.es/images/ads/53fe1213-4628-4b1a-a59a-2f904165fcd2?rule=original",
+    "https://static.fotocasa.es/images/ads/a3a785cd-5659-417a-afbb-556c1b95d3fc?rule=original"
+  ],
+  "videos": [
+    "https://static.fotocasa.es/statics/ads/9f8558b0-31c0-4888-b730-6d7c35340b08"
+  ]
+}

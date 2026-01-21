@@ -1,0 +1,46 @@
+{
+  "property_id": "20515250",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/barcelona-capital/20515250",
+  "scrape_date": "2026-01-21T04:21:44Z",
+  "title": "PROMOCIÓN BERNAT BRANSI 48 - 58",
+  "description": "OBRAS 98%. ¡ÚLTIMAS VIVIENDAS DISPONIBLES!\n\nDesde acogedores pisos de una habitación totalmente exteriores, áticos con vistas increíbles de toda la ciudad, hasta cálidas residencias familiares, con todas las prestaciones para disfrutar de tu nuevo hogar: cocinas equipadas, climatización frío-calor y acabados de alta calidad. \n\nEl diseño interior de esta promoción crea un ambiente cálido y funcional. Cada espacio ha sido diseñado para ofrecerte el máximo confort y bienestar. Los pisos ofrecen comedores-salón abiertos que conectan con la cocina junto con baños modernos elevando el criterio de sostenibilidad y ecoeficiencia a los estándares más altos.\n\nEn estas viviendas podrás disfrutar de la cercanía de una plaza ajardinada de nueva construcción junto a la promoción, proporcionándote un espacio al aire libre y tranquilidad en medio de la vida urbana.\n\nPara una mayor comodidad, se han construido dos plantas sótano destinadas a aparcamiento, donde podrás escoger entre plazas de parking para coche, motos y trasteros. La promoción cuenta con ascensor y está habilitada para personas con movilidad reducida.\n\nSituada en una ubicación privilegiada, cerca de servicios, comercios y transporte público, nuestra promoción ofrece todo lo que necesitas para disfrutar de la vida urbana sin renunciar a la tranquilidad y la calidad de vida. La parada de metro más próxima se encuentra a sólo dos minutos (L5).",
+  "contact_info": {
+    "phone_number": "930441306",
+    "advertiser_name": "GERBER STUDIO, S.L.",
+    "client_id": 9202752035953
+  },
+  "location": {
+    "city": " Barcelona Capital",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.42427062988281,
+    "longitude": 2.1531763076782227
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 0,
+    "max_bathrooms": 1,
+    "min_surface": 10,
+    "max_surface": 80,
+    "min_price": 22200,
+    "max_price": 348600
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/81464bd5-59fb-448b-8783-02f2a5b8197d?rule=original",
+    "https://static.fotocasa.es/images/ads/d2ae3167-37a7-40f2-b259-bdea9ef68708?rule=original",
+    "https://static.fotocasa.es/images/ads/91635397-8bd6-4d36-b59b-5ded008a4407?rule=original",
+    "https://static.fotocasa.es/images/ads/b51900ff-d9b1-4929-9f45-84593083fc0f?rule=original",
+    "https://static.fotocasa.es/images/ads/d3425ddb-2d31-4366-a396-df0f38ca9a6c?rule=original",
+    "https://static.fotocasa.es/images/ads/c709b85b-a006-4af7-b18d-0fd4f8ec0994?rule=original",
+    "https://static.fotocasa.es/images/ads/fe15a6cd-391a-44f6-8395-2654663d6819?rule=original",
+    "https://static.fotocasa.es/images/ads/181faed9-59fa-4b84-9038-5edf2bd8a68b?rule=original",
+    "https://static.fotocasa.es/images/ads/3ebe4d86-5779-4bfb-83f9-4b781117a8ec?rule=original",
+    "https://static.fotocasa.es/images/ads/58a86535-2fa6-4b5f-94d7-28702cbf5d43?rule=original",
+    "https://static.fotocasa.es/images/ads/617ae9f5-8e6f-4a35-9c52-2f8561007c76?rule=original",
+    "https://static.fotocasa.es/images/ads/07c832f3-47f2-4649-8c59-91136462b489?rule=original",
+    "https://static.fotocasa.es/images/ads/b5f2ec0c-1d9b-453e-a86c-d61c137b4914?rule=original"
+  ],
+  "videos": []
+}

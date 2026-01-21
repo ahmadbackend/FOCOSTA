@@ -1,0 +1,46 @@
+{
+  "property_id": "20642069",
+  "property_url": "https://www.fotocasa.es/es/comprar/obra-nueva/sant-feliu-de-llobregat/20642069",
+  "scrape_date": "2026-01-21T02:44:17Z",
+  "title": "CENTRAL RESIDENCIAL Sant Feliu de Llobregat",
+  "description": "Nuevo edificio de once viviendas en el centro del casco antiguo de Sant Feliu de Llobregat (Calle Pi i Margall, 22-26), municipio cercano a la ciudad de Barcelona y al Parque de Collserola.\n\nEdificio que ofrece una ubicación privilegiada y un estilo arquitectónico que ha querido poner en valor el estilo clásico, en consonancia con el paisaje urbano de su entorno, sin renunciar a las últimas novedades de calidad residencial.\n\nSe trata de un edificio de planta baja mas dos plantas piso, donde tenemos un abanico diverso de viviendas, dos y tres habitaciones, con jardín, con terrazas-balcones, con solárium, con una plaza de garaje y un trastero anexos en la planta sótano.",
+  "contact_info": {
+    "phone_number": "+34936669011",
+    "advertiser_name": "Fincas Llobregat",
+    "client_id": 9202776021384
+  },
+  "location": {
+    "city": "Sant Feliu de Llobregat",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "country": "España",
+    "latitude": 41.38132858276367,
+    "longitude": 2.048032283782959
+  },
+  "details": {
+    "min_rooms": 2,
+    "max_rooms": 2,
+    "min_bathrooms": 2,
+    "max_bathrooms": 2,
+    "min_surface": 71,
+    "max_surface": 85,
+    "min_price": 500000,
+    "max_price": 565000
+  },
+  "images": [
+    "https://static.fotocasa.es/images/ads/44c0b3c1-2143-4015-aa05-59ea7f15baed?rule=original",
+    "https://static.fotocasa.es/images/ads/42c06c1c-a82d-4657-a486-03e50538938c?rule=original",
+    "https://static.fotocasa.es/images/ads/cb1aaea3-a665-4acd-9626-404084091d97?rule=original",
+    "https://static.fotocasa.es/images/ads/86bb4507-270c-4782-9f47-f1d5c349c847?rule=original",
+    "https://static.fotocasa.es/images/ads/8a67a726-d4d5-4e49-bbee-b36603c2bc72?rule=original",
+    "https://static.fotocasa.es/images/ads/319f8710-1191-4574-a8e3-b3697b0a1ec8?rule=original",
+    "https://static.fotocasa.es/images/ads/c702f1f6-319f-44e6-9301-7aa691b6106c?rule=original",
+    "https://static.fotocasa.es/images/ads/7dd4a3fb-2022-498a-ab0c-627f191df750?rule=original",
+    "https://static.fotocasa.es/images/ads/438c5300-cc13-4f12-b28c-33ea423a80b3?rule=original",
+    "https://static.fotocasa.es/images/ads/6a6e6a37-01ed-401d-83b7-2d5c03ad2550?rule=original",
+    "https://static.fotocasa.es/images/ads/03d5a611-77ff-4eb4-a51d-c2e2649166dc?rule=original",
+    "https://static.fotocasa.es/images/ads/ea66cbc5-5281-4f0e-bc5b-667159b75974?rule=original",
+    "https://static.fotocasa.es/images/ads/aa77559c-c6d1-408d-8de6-85c44d49c729?rule=original"
+  ],
+  "videos": []
+}
