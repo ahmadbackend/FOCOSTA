@@ -1,0 +1,176 @@
+[
+  {
+    "category": "Property Types",
+    "mappings": {
+      "propertyTypes": {
+        "HOMES": "Homes/Residential",
+        "PREMISES": "Commercial Premises",
+        "GARAGE": "Garage/Parking",
+        "ALL": "All Types"
+      }
+    }
+  },
+  {
+    "category": "Transaction Types",
+    "mappings": {
+      "transactionTypes": {
+        "BUY": "Buy/Sale",
+        "RENT": "Rent/Rental"
+      }
+    }
+  },
+  {
+    "category": "Client Types",
+    "mappings": {
+      "clientTypes": {
+        "PROFESSIONAL": "Professional/Agency",
+        "PARTICULAR": "Private Seller"
+      }
+    }
+  },
+  {
+    "category": "Contact Reasons",
+    "mappings": {
+      "contactReasons": {
+        "INFO": "Request Information",
+        "PHOTOS": "Request Photos",
+        "VISIT": "Request Visit",
+        "VGO": "Virtual Guided Visit",
+        "CALLME": "Request Call Back",
+        "CHOOSE": "Choose Reason",
+        "ADDRESS": "Request Exact Address",
+        "SUGGEST_PRICE": "Suggest Price"
+      }
+    }
+  },
+  {
+    "category": "Position Tracking Constants",
+    "mappings": {
+      "positions": {
+        "ask_more_photos": "Ask More Photos Button",
+        "down_form": "Bottom Contact Form",
+        "fixed_button": "Fixed Action Button",
+        "more_info": "More Information Button",
+        "request_exact_address": "Request Address Button",
+        "up_form": "Top Contact Form",
+        "vgo_online_guide_visit": "Virtual Guide Visit",
+        "zoom_gallery": "Zoom Gallery Form"
+      }
+    }
+  },
+  {
+    "category": "Feature IDs",
+    "mappings": {
+      "features": {
+        "ANTIQUITY": "antiquity",
+        "BATHROOMS": "bathrooms",
+        "COMMERCIAL_PREMISES": "commercialPremises",
+        "CONSERVATION_STATE": "conservationState",
+        "EMISSIONS": "emissions",
+        "ENERGY": "energy",
+        "GARAGES": "garages",
+        "FLOOR": "floor",
+        "ORIENTATION": "orientation",
+        "PROPERTY_TYPE": "propertyType",
+        "ROOMS": "rooms",
+        "SURFACE": "surface",
+        "TYPOLOGIES": "typologies"
+      }
+    }
+  },
+  {
+    "category": "Extras/Amenities",
+    "mappings": {
+      "extras": {
+        "ACCESS_24_7": "24/7 Access",
+        "AIR_CONDITIONING": "Air Conditioning",
+        "ALARM": "Alarm System",
+        "ALARM_STORAGE_ROOM": "Storage Room with Alarm",
+        "BALCONY": "Balcony",
+        "CENTRAL_HEATING": "Central Heating",
+        "CERAMIC": "Ceramic Flooring",
+        "CERAMIC_STONEWARE": "Ceramic Stoneware",
+        "CHILDRENS_ZONE": "Children's Play Area",
+        "COMMUNITY_PARKING": "Community Parking",
+        "COMMUNITY_POOL": "Community Pool",
+        "COMMUNITY_ZONE": "Community Area",
+        "COVERED_PORCH": "Covered Porch",
+        "ENSUITE_BATHROOM": "En-suite Bathroom",
+        "FITNESS_CENTER": "Fitness Center/Gym",
+        "FREE_PARKING": "Free Parking",
+        "FURNISHED": "Furnished",
+        "GOLF": "Golf Course",
+        "HEATPUMP": "Heat Pump",
+        "HOUSEHOLD_APPLIANCES": "Household Appliances",
+        "HOT_WATER": "Hot Water",
+        "INTERNET": "Internet",
+        "KITCHEN_OFFICE": "Kitchen Office",
+        "LIFT": "Elevator/Lift",
+        "MOUNTAIN_VIEWS": "Mountain Views",
+        "NOT_FURNISHED": "Not Furnished",
+        "PARQUET": "Parquet Flooring",
+        "PERSONAL_CODE_STORAGE_ROOM": "Storage Room with Personal Code",
+        "PORTER_SERVICE": "Porter/Concierge Service",
+        "PRIVATE_GARAGE": "Private Garage",
+        "PRIVATE_GARDEN": "Private Garden",
+        "PRIVATE_POOL": "Private Pool",
+        "PRIVATE_SURVEILLANCE": "Private Security",
+        "SAUNA": "Sauna",
+        "SEAFRONT": "Seafront",
+        "SEA_VIEWS": "Sea Views",
+        "SOLAR_ENERGY": "Solar Energy",
+        "SPORT_AREA": "Sports Area",
+        "STORAGE_ROOM": "Storage Room",
+        "TENNIS_COURT": "Tennis Court",
+        "TERRACE": "Terrace",
+        "VIDEO_SURVEILLANCE_SYSTEM": "Video Surveillance (CCTV)",
+        "YARD": "Yard/Patio"
+      }
+    }
+  },
+  {
+    "category": "Multimedia Types",
+    "mappings": {
+      "multimediaTypes": {
+        "IMAGE": "Photo/Image",
+        "VIDEO": "Video",
+        "YOUTUBE": "YouTube Video",
+        "VIMEO": "Vimeo Video",
+        "TOUR_VIRTUAL": "Virtual Tour (3D)",
+        "FLOOR_PLAN": "Floor Plan",
+        "MAP": "Map"
+      }
+    }
+  },
+  {
+    "category": "Energy Certificate",
+    "mappings": {
+      "energyRatings": {
+        "A": "A - Most Efficient",
+        "B": "B - Very Efficient",
+        "C": "C - Efficient",
+        "D": "D - Moderate",
+        "E": "E - Below Average",
+        "F": "F - Low Efficiency",
+        "G": "G - Least Efficient"
+      },
+      "certificateStatus": {
+        "PROPERTY_CERTIFICATE_UNKNOWN": "Unknown",
+        "PROPERTY_CERTIFICATE_IN_PROGRESS": "In Progress",
+        "PROPERTY_CERTIFICATE_EXEMPT": "Exempt"
+      }
+    }
+  },
+  {
+    "category": "Modal States",
+    "mappings": {
+      "modalStates": {
+        "INITIAL": 0,
+        "LOGIN": 2,
+        "CONTACT_SUCCESS": 3,
+        "CONTACT_FORM": 1,
+        "CONTACT_ERROR": 2
+      }
+    }
+  }
+]

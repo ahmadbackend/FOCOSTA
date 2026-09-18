@@ -1,0 +1,33 @@
+combined_loc_harvest.py
+        ↓ fotocasa_locations_urgent.json
+multi_thread_corrected.py
+        ↓ fotocasa_clean_properties_global_deduped/
+features_mapper.py
+        ↓ mapped_final_urgent/
+feature_enrichment.py
+        ↓ enriched_final_urgent/
+extract_unique_agencies.py  →  enrich_phone_agencies.py  +  enrich_email.py
+        ↓                          ↓                           ↓
+unique_agencies_urgent.json    agencies_with_phone_urgent.json  agencies_with_phone_email_urgent.json
+        ↓
+all_mergers.py  →  agencies_full_urgent.json
+        ↓
+all_enricher.py  →  full_enriched_mapped_urgent/
+
+cd /g/FOTOCASA/HOMES && echo "Location directories per thread:" && for d in fotocasa_clean_properties_urgent/thread_*; do echo "$(basename "$d"): $(find "$d" -mindepth 1 -maxdepth 1 -type d | wc -l)"; done && echo "---" && echo "Total: $(find fotocasa_clean_properties_urgent/thread_* -mindepth 1 -maxdepth 1 -type d | wc -l)"
+
+Skipped 1 location(s)
+  Spain (país): 473,481 ads
+
+Thread 1:    139,680 ads  ( 288 locations) done
+Thread 2:    139,680 ads  ( 293 locations) done
+Thread 3:    139,680 ads  ( 295 locations)done 
+Thread 4:    139,680 ads  ( 296 locations)done 
+Thread 5:    139,680 ads  ( 297 locations)done 
+Thread 6:    139,680 ads  ( 297 locations)done 
+Thread 7:    139,680 ads  ( 297 locations)done 
+Thread 8:    139,679 ads  (1126 locations)
+Thread 9:    139,679 ads  ( 296 locations)done
+Thread 10:   139,679 ads  ( 296 locations)
+
+Max: 139,680, Min: 139,679, Ratio: 1.00

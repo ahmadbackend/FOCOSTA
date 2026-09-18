@@ -11,8 +11,7 @@ ALL_PROPERTIES_PATH = "G:/FOTOCASA/HOMES/all_properties.json"
 PROGRESS_PATH = "G:/FOTOCASA/HOMES/playwright_progress.json"
 OUTPUT_DIR = Path("G:/FOTOCASA/HOMES/playwright_results")
 OUTPUT_DIR.mkdir(exist_ok=True)
-BATCH_SIZE = 10
-
+BATCH_SIZE = int(os.environ.get("FC_BATCH_SIZE", 10))
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',

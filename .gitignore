@@ -1,0 +1,45 @@
+# Scraped data — never commit. Multi-GB and contains third-party contact details.
+HOMES/*.json
+HOMES/*.csv
+HOMES/*.log
+HOMES/*.zip
+HOMES/*.html
+HOMES/fotocasa_clean_properties*/
+HOMES/mapped_final*/
+HOMES/particular_properties*/
+HOMES/enriched_final*/
+HOMES/full_enriched*/
+HOMES/missed_properties*/
+HOMES/deduplicated_properties/
+HOMES/private_*/
+HOMES/pretty_final/
+HOMES/private_pretty_final/
+HOMES/pages/
+HOMES/logs/
+NEW_CONSTRUCTIONS/*.json
+NEW_CONSTRUCTIONS/*.csv
+NEW_CONSTRUCTIONS/*.log
+
+# Keep the field map — it is configuration, not output
+!HOMES/manual_map.json
+!HOMES/feature_mapper.json
+
+# Proxy endpoints and credentials
+HOMES/decodo_scraper_ips.txt
+HOMES/proxies.txt
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archived scrape output
+HOMES/*.rar
